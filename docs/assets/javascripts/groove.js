@@ -3,7 +3,7 @@ window.groove.widget = window.groove.createWidget();
 window.groove.widget.init('4ac3a72b-1852-4939-a8bf-7c3abd82d633', {});
 
 var grooveOverlay = document.createElement('div');
-grooveOverlay.style.cssText = 'display:none;position:fixed;inset:0;background:rgba(0,0,0,0.25);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);z-index:2147483646;transition:opacity 0.2s ease;';
+grooveOverlay.style.cssText = 'opacity:0;pointer-events:none;position:fixed;inset:0;background:rgba(0,0,0,0.25);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);z-index:2147483646;transition:opacity 0.3s ease;';
 grooveOverlay.addEventListener('click', function () {
   window.groove.widget.close();
 });
@@ -18,6 +18,14 @@ new MutationObserver(function(mutations, outerObs) {
   if (!container) return;
   outerObs.disconnect();
   container.style.setProperty('background', 'transparent', 'important');
+
+  var savedPosition = {
+    left:      container.style.left,
+    top:       container.style.top,
+    right:     container.style.right,
+    bottom:    container.style.bottom,
+    transform: container.style.transform
+  };
 
   function attachToIframe(iframe) {
     iframe.style.setProperty('background', 'transparent', 'important');
@@ -35,7 +43,19 @@ new MutationObserver(function(mutations, outerObs) {
         return;
       }
       var isOpen = rect.width > closedWidth + 50 || rect.height > closedHeight + 50;
-      grooveOverlay.style.display = isOpen ? 'block' : 'none';
+      grooveOverlay.style.opacity = isOpen ? '1' : '0';
+      grooveOverlay.style.pointerEvents = isOpen ? 'auto' : 'none';
+      if (isOpen) {
+        container.style.setProperty('left',      '50%',                   'important');
+        container.style.setProperty('top',       '50%',                   'important');
+        container.style.setProperty('right',     'auto',                  'important');
+        container.style.setProperty('bottom',    'auto',                  'important');
+        container.style.setProperty('transform', 'translate(-50%, -50%)', 'important');
+      } else {
+        ['left', 'top', 'right', 'bottom', 'transform'].forEach(function(prop) {
+          container.style.setProperty(prop, savedPosition[prop]);
+        });
+      }
     }).observe(iframe);
   }
 
