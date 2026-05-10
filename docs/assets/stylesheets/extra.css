@@ -352,6 +352,18 @@ body.neural-active .md-footer {
   height: 1.2rem;
 }
 
+/* Auto-numbered step titles: writing `!!! step` (no title) renders "Step",
+   and this appends the counter to produce "Step 1", "Step 2", …
+   Counter resets at each H2 so each section starts from 1. */
+.md-typeset,
+.md-typeset h2 { counter-reset: step-counter; }
+.md-typeset .admonition.step,
+.md-typeset details.step { counter-increment: step-counter; }
+.md-typeset .step > .admonition-title::after,
+.md-typeset .step > summary::after {
+  content: " " counter(step-counter);
+}
+
 /* ============================================================================
    Groove widget — transparent background
    ============================================================================ */
