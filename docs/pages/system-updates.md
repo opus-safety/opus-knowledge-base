@@ -21,14 +21,6 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="69550729-ded3-420b-af14-7de89725f847" style="display:none"></span>
     test 2
 
-??? feature-release "Feature release: test draft update<br><small style="opacity: 0.6">7th May 2026</small>"
-
-    <span data-uuid="3f785fab-81d7-4b0f-bed1-ec03b12b56bd" style="display:none"></span>
-    test draft
-
-    ![](../assets/occ-captures/sites/search-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/sites/search-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
 ### March 2026
 
 ??? improvement "Improvement: Incident Report - Days Lost Table<br><small style="opacity: 0.6">17th March 2026</small>"
