@@ -46,17 +46,6 @@ icon: lucide/chart-no-axes-column-increasing
 
 ??? outline "View past incidents"
 
-    !!! status-outage "Account Login"
-
-        <span data-uuid="6d6f581a-496e-407c-bc6e-b0982d6ec96a" style="display:none"></span>
-
-        - **Service Impact:** OUTAGE
-        - **Current Status:** `Resolved`
-        - **Description:** TEST
-        - **Reported:** 2026-05-10 16:40
-        - **Resolved:** 2026-05-10 16:40
-        - **Causation:** 
-
     !!! status-outage "Server"
 
         <span data-uuid="7cc25a0a-b8a9-4671-8f90-b2cb57413fa6" style="display:none"></span>
