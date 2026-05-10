@@ -14,12 +14,16 @@ List of features/goals needed to be achieved for full launch
 - [x] Custom Navigation Management
 - [ ] Add and use autorefs plugin
 - [ ] Fix method of overriding to follow zensical documentation guidance.
-- [ ] WYSIWYG Editor
+- [ ] More Buttons Integration
     - [x] Proof of Concept
-    - [ ] Reliability
-    - [ ] Good UX
-    - [ ] Page to Editor flow
-    - [ ] Full Feature
+    - [x] Github integration
+    - [ ] Element capture
+        - [x] POC
+        - [ ] Iron out remaining bugs with certain elements
+    - [ ] Draft support
+    - [ ] System status full flow
+    - [ ] System updates full flow
+    - [ ] Guides full flow
 - [x] Github
 - [x] Hosting
 - [ ] Custom domain (not required for POC - could use opus-safety subdomain? `docs.opus-safety.co.uk` ?)
