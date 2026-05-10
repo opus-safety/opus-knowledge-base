@@ -2,6 +2,7 @@
 tags:
     - System
 icon: lucide/clock-arrow-up
+groove: true
 ---
 
 # System Updates
@@ -9,7 +10,7 @@ icon: lucide/clock-arrow-up
 This page highlights the main user-facing improvements, additions and feature releases to the system.
 
 !!! question "Have an idea, suggestion or question?"
-    We'd love to hear from you! Please [get in touch](https://sites.google.com/opus-safety.co.uk/opus-help/hidden-pages/groove-get-in-touch).
+    We'd love to hear from you! Please <a href="#" onclick="event.preventDefault(); window.groove.widget.open();">get in touch</a>.
 ## 2026
 
 ---
