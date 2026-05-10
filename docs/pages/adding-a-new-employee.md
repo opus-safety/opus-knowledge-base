@@ -22,13 +22,13 @@ status: new
 !!! step "Step 2"
     From the site inbox, click the **Switch to Manage Mode** button.
 
-    ![](../assets/occ-captures/sites/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" }
+    ![](../assets/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" }
     ![](../assets/occ-captures/sites/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" }
 
 !!! step "Step 3"
     Click **Employee records** on the manage sidebar.
 
-    ![](../assets/occ-captures/admin/sites/employee-records-dark-mode.png#only-dark){ style="height: 50px" }
+    ![](../assets/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" }
     ![](../assets/occ-captures/admin/sites/employee-records-light-mode.png#only-light){ style="height: 50px" }
 
 !!! step "Step 4"
