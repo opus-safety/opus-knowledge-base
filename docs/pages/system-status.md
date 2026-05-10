@@ -15,16 +15,16 @@ icon: lucide/chart-no-axes-column-increasing
     <span data-uuid="3e7c2ce8-ef4d-495a-a1b8-b9917838617c" style="display:none"></span>
 
     **Status:** AVAILABLE
-!!! status-available "Account Login"
+!!! status-outage "Account Login"
 
     <span data-uuid="86d36e3b-2dab-44cc-b863-2cf64213b28a" style="display:none"></span>
 
-    **Status:** AVAILABLE
-!!! status-available "Files"
+    **Status:** OUTAGE
+!!! status-outage "Files"
 
     <span data-uuid="698e7760-160a-4edd-b535-9bbeb16af1f8" style="display:none"></span>
 
-    **Status:** AVAILABLE
+    **Status:** OUTAGE
 !!! status-available "Tasks"
 
     <span data-uuid="a5a84566-b9e1-48ab-8aa1-e547edbbddd4" style="display:none"></span>
@@ -39,6 +39,17 @@ icon: lucide/chart-no-axes-column-increasing
 
 ---
 ## Open Incidents
+
+!!! status-outage "Account Login, Files"
+
+    <span data-uuid="e69bf955-a2b3-4363-85ce-5f44414b0d76" style="display:none"></span>
+
+    - **Service Impact:** OUTAGE
+    - **Current Status:** `Ongoing`
+    - **Description:** test
+    - **Reported:** 
+    - **Resolved:** 
+    - **Causation:** 
 
 ---
 
