@@ -105,7 +105,7 @@ status: new
 
     After saving, you will be redirected to the employee's access page.
 
-### Fine-Tune Site Access
+## Fine-Tune Site Access
 
 !!! info "Optional"
     This section only applies if you selected the fine-tune option in Step 9.
