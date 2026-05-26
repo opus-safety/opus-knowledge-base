@@ -105,7 +105,7 @@ status: new
 
     After saving, you will be redirected to the employee's access page.
 
-## Fine-Tune Site Access
+### Fine-Tune Site Access
 
 !!! info "Optional"
     This section only applies if you selected the fine-tune option in Step 9.
@@ -164,6 +164,7 @@ status: new
     ![](../assets/screenshots/APaQ0SSoNrdYt3xIq8xU4HVlNdma4AJok-fsBX7__e3727d83.png)
 
 ---
+## Next Steps
 
 !!! tip "Next Step: Register the Employee"
     Now that you've added an employee, you may want to register them so they can log in to access the system. [Follow the guide on how to register an employee.](/opus-safety.co.uk/opus-help/employees/employee-management/registering-an-employee)
