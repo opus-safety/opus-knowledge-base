@@ -89,9 +89,7 @@ status: new
     ![](../assets/occ-captures/admin/sites/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
     ![](../assets/occ-captures/admin/sites/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
 
-!!! step 
-
-    <small style="opacity: 0.6">*optional*</small>
+!!! step "<small>(optional)</small>"
 
     Enable **Site access fine-tune** if you need to customise the employee's access settings further — for example, if they require access to multiple sites or need additional authorisations.
 

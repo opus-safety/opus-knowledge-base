@@ -354,14 +354,43 @@ body.neural-active .md-footer {
 
 /* Auto-numbered step titles: writing `!!! step` (no title) renders "Step",
    and this appends the counter to produce "Step 1", "Step 2", …
-   Counter resets at each H2 so each section starts from 1. */
+   Counter resets at each H2 so each section starts from 1.
+   Steps carrying a subtitle (below) are excluded — they generate their own
+   "Step N" label so it can sit above the subtitle. */
 .md-typeset,
 .md-typeset h2 { counter-reset: step-counter; }
 .md-typeset .admonition.step,
 .md-typeset details.step { counter-increment: step-counter; }
-.md-typeset .step > .admonition-title::after,
-.md-typeset .step > summary::after {
+.md-typeset .step > .admonition-title:not(:has(> small))::after,
+.md-typeset .step > summary:not(:has(> small))::after {
   content: " " counter(step-counter);
+}
+
+/* Step subtitle — same convention as the System Updates page: the subtitle
+   lives inside the title/summary as a lone <small>, so it stays visible when
+   a step is collapsed (`??? step`). Because the title slot is otherwise used
+   to auto-generate "Step N", a subtitled step writes only the <small> and we
+   regenerate the "Step N" label here, stacked above it:
+
+       !!! step "<small>optional</small>"
+
+   The icon is absolutely positioned, so flex-column only stacks the text. */
+.md-typeset .step > .admonition-title:has(> small),
+.md-typeset .step > summary:has(> small) {
+  display: flex;
+  flex-direction: column;
+}
+.md-typeset .step > .admonition-title:has(> small)::after,
+.md-typeset .step > summary:has(> small)::after {
+  content: "Step " counter(step-counter);
+  order: 1;
+}
+.md-typeset .step > .admonition-title > small,
+.md-typeset .step > summary > small {
+  order: 2;
+  font-weight: 400;
+  font-style: italic;
+  opacity: 0.6;
 }
 
 /* ============================================================================
