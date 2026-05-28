@@ -119,7 +119,7 @@ status: new
     ![](../assets/occ-captures/admin/sites/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
     ![](../assets/occ-captures/admin/sites/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
 
-!!! step "<br><small style="opacity: 0.6">*optional*</small>"
+!!! step "<span class="meta">*optional*</span>"
 
     <span data-uuid="404159d8-928b-41b9-92cd-09cd2212f801" style="display:none"></span>
 

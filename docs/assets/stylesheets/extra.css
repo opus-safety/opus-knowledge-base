@@ -294,6 +294,23 @@ body.neural-active .md-footer {
 }
 
 /* --------------------------------------------------------------------------
+   Admonition meta subtitle
+   -------------------------------------------------------------------------- */
+
+/* The "meta" field of an admonition title/summary — secondary info shown on
+   its own line, faded and smaller (a date, "optional", …). Authoring is just
+   `<span class="meta">…</span>` in the title; `display: block` puts it on its
+   own line, so no manual <br> is needed. Weight and colour inherit from the
+   title, so it matches whatever admonition it sits in.
+   (0.6rem = 80% of the .75rem typeset base; pinned so steps, whose title is
+   bumped to 0.8rem, match the size elsewhere.) */
+.md-typeset :is(.admonition-title, summary) .meta {
+  display: block;
+  opacity: 0.6;
+  font-size: 0.6rem;
+}
+
+/* --------------------------------------------------------------------------
    step — sky blue (light/dark aware)
    -------------------------------------------------------------------------- */
 
@@ -361,36 +378,37 @@ body.neural-active .md-footer {
 .md-typeset h2 { counter-reset: step-counter; }
 .md-typeset .admonition.step,
 .md-typeset details.step { counter-increment: step-counter; }
-.md-typeset .step > .admonition-title:not(:has(> small))::after,
-.md-typeset .step > summary:not(:has(> small))::after {
+.md-typeset .step > .admonition-title:not(:has(> .meta))::after,
+.md-typeset .step > summary:not(:has(> .meta))::after {
   content: " " counter(step-counter);
 }
 
 /* Step subtitle — same convention as the System Updates page: the subtitle
-   lives inside the title/summary as a lone <small>, so it stays visible when
-   a step is collapsed (`??? step`). Because the title slot is otherwise used
-   to auto-generate "Step N", a subtitled step writes only the <small> and we
+   lives inside the title/summary as a `.meta`, so it stays visible when a
+   step is collapsed (`??? step`). Because the title slot is otherwise used
+   to auto-generate "Step N", a subtitled step writes only the meta and we
    regenerate the "Step N" label here, stacked above it:
 
-       !!! step "<small>optional</small>"
+       !!! step "<span class=\"meta\">optional</span>"
 
-   The icon is absolutely positioned, so flex-column only stacks the text. */
-.md-typeset .step > .admonition-title:has(> small),
-.md-typeset .step > summary:has(> small) {
+   The label can only be generated at the end of the title (::after), so we
+   flex-column and use `order` to lift it above the meta. The icon is
+   absolutely positioned, so the column only stacks the text. */
+.md-typeset .step > .admonition-title:has(> .meta),
+.md-typeset .step > summary:has(> .meta) {
   display: flex;
   flex-direction: column;
 }
-.md-typeset .step > .admonition-title:has(> small)::after,
-.md-typeset .step > summary:has(> small)::after {
+.md-typeset .step > .admonition-title:has(> .meta)::after,
+.md-typeset .step > summary:has(> .meta)::after {
   content: "Step " counter(step-counter);
   order: 1;
 }
-.md-typeset .step > .admonition-title > small,
-.md-typeset .step > summary > small {
+/* Lift the generated "Step N" label above the meta subtitle; the faded/sized
+   styling is shared with all admonitions (see "Admonition meta subtitle"). */
+.md-typeset .step > .admonition-title > .meta,
+.md-typeset .step > summary > .meta {
   order: 2;
-  font-weight: 400;
-  font-style: italic;
-  opacity: 0.6;
 }
 
 /* ============================================================================
