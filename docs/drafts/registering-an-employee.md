@@ -57,8 +57,8 @@ Please follow the steps below to register employees as users on the system.
     <span data-uuid="b2d7d272-376b-4a81-8764-97f19ee71420" style="display:none"></span>
     In the employee list, click the blue **Link to Opus Account** button next to the employee record.
 
-    ![](../assets/occ-captures/admin/sites/uuid/employees/link-to-opus-account-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/admin/sites/uuid/employees/link-to-opus-account-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/admin/sites/uuid/employees/link-to-opus-account-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/link-to-opus-account-dark-mode.png#only-dark)
 
 !!! step
 
