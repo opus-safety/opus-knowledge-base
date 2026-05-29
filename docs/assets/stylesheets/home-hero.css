@@ -1,0 +1,93 @@
+/* ============================================================================
+   Homepage hero content
+   ============================================================================ */
+
+/* Position the hero at the bottom of the viewport */
+.home-hero {
+  position: absolute;
+  bottom: 96px;
+  z-index: 3;
+  visibility: visible;
+}
+
+.home-hero h1 {
+  font-size: 48px;
+  margin-bottom: 0.25rem;
+}
+
+/* Positioned ancestor for .home-hero; sized to fill viewport below header */
+body.neural-active .md-content__inner {
+  position: relative;
+  height: calc(100vh - 2.4rem);
+  padding: 0;
+  overflow: hidden;
+}
+
+body.neural-active,
+html:has(body.neural-active) {
+  overflow: hidden;
+}
+
+/* Hide the surrounding md-content but let .home-hero punch through */
+body.neural-active .md-content {
+  visibility: hidden;
+}
+
+body.neural-active .home-hero {
+  visibility: visible;
+}
+
+body.neural-active .md-main__inner {
+  margin-top: 0;
+}
+
+body.neural-active .md-sidebar--primary {
+  display: none;
+}
+
+.home-hero .md-button {
+  backdrop-filter: blur(4px);
+  background-color: hsla(var(--md-hue), 15%, 90%, 0.12);
+  border-radius: 1.2rem;
+  color: #fff;
+  font-weight: 700;
+  transition: all 0.25s;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.home-hero .md-button:focus,
+.home-hero .md-button:hover {
+  color: #fff;
+  opacity: 0.8;
+}
+
+/* Light-mode override for primary hero button */
+[data-md-color-scheme="default"] .home-hero .md-button--primary {
+  background: linear-gradient(35deg, #6C63FF, #00BCD4);
+}
+
+/* Light-mode override for secondary hero buttons */
+[data-md-color-scheme="default"] .home-hero .md-button:not(.md-button--primary) {
+  background-color: rgba(30, 42, 94, 0.18);
+  border-color: rgba(30, 42, 94, 0.3);
+  color: inherit;
+}
+
+[data-md-color-scheme="default"] .home-hero .md-button:not(.md-button--primary):hover,
+[data-md-color-scheme="default"] .home-hero .md-button:not(.md-button--primary):focus {
+  color: inherit;
+  opacity: 0.85;
+}
+
+.home-hero .md-button--primary {
+  backdrop-filter: blur(4px);
+  background: linear-gradient(35deg, rgba(142, 138, 255, 0.933), rgba(32, 240, 255, 0.8));
+  border-color: transparent;
+  color: #fff;
+}
+
+/* Hide entire footer on homepage */
+body.neural-active .md-footer {
+  display: none;
+}

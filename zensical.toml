@@ -14,7 +14,10 @@ copyright        = "Copyright &copy; 2026 Opus Safety Ltd"
 
 # Paths relative to docs_dir
 extra_css = [
-  "assets/stylesheets/extra.css",
+  "assets/stylesheets/neural-hero.css",
+  "assets/stylesheets/home-hero.css",
+  "assets/stylesheets/admonitions.css",
+  "assets/stylesheets/groove.css",
 ]
 extra_javascript = []
 
