@@ -217,7 +217,8 @@ status: new
     <span data-uuid="6a2ac366-1367-4124-a71f-49b289189fc4" style="display:none"></span>
     Once you have made the changes, click **Apply changes**.
 
-    ![](../assets/screenshots/APaQ0SSoNrdYt3xIq8xU4HVlNdma4AJok-fsBX7__e3727d83.png)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 ---
 ## Next Steps
