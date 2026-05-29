@@ -38,8 +38,8 @@ status: new
     <span data-uuid="ed3f95b7-0e39-4f5c-8bb1-fdc520f3e1ee" style="display:none"></span>
     Click **Employee records** on the manage sidebar.
 
-    ![](../assets/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" }
-    ![](../assets/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" }
+    ![](../assets/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
