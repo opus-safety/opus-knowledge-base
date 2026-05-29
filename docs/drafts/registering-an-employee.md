@@ -41,7 +41,8 @@ Please follow the steps below to register employees as users on the system.
     <span data-uuid="a7729bf7-f503-4805-8586-b2ae5221b1fc" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
-    ![](../assets/screenshots/APaQ0SRyXKkZQh271inA7FuesIkBv7xxsx6E6zuU_dfa3afcf.png)
+    ![](../assets/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
