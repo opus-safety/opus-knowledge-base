@@ -151,7 +151,8 @@ status: new
     <span data-uuid="3da3ed47-1413-4854-9e15-f73c4ccaeefc" style="display:none"></span>
     After creating the employee record with the fine-tune option selected, you will be redirected to the employee site access page.
 
-    ![](../assets/screenshots/APaQ0SQO8NjVOTfsdXmzig_VgL0Rs-AK8HgUMrX3_3fbca2b7.png)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
@@ -160,9 +161,11 @@ status: new
 
     `authorised/health` — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
 
-    ![](../assets/screenshots/APaQ0SQHyzRGmDZmMPw8dZrpE4mxRMviECCc82oa_a6388f75.png)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-dark-mode.png#only-dark)
 
     !!! note
+
 
         <span data-uuid="6e023bcf-5157-4da1-9fca-3a9dca7a52d7" style="display:none"></span>
         By default, all sites will have the `authorised/health` tag available, but depending on your site configuration you may have more.
@@ -181,7 +184,8 @@ status: new
     `administrator`
     :   Can make administrative-level changes to the employee record, such as adding requirements to their roles.
 
-    ![](../assets/screenshots/APaQ0SQZwEvL137hVTrA8B7u6DSTm4e74vJ5BTLt_72f421e7.png)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/user-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/user-dark-mode.png#only-dark)
 
 !!! step
 
@@ -213,7 +217,8 @@ status: new
     <span data-uuid="6a2ac366-1367-4124-a71f-49b289189fc4" style="display:none"></span>
     Once you have made the changes, click **Apply changes**.
 
-    ![](../assets/screenshots/APaQ0SSoNrdYt3xIq8xU4HVlNdma4AJok-fsBX7__e3727d83.png)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 ---
 ## Next Steps
