@@ -161,9 +161,11 @@ status: new
 
     `authorised/health` — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
 
-    ![](../assets/screenshots/APaQ0SQHyzRGmDZmMPw8dZrpE4mxRMviECCc82oa_a6388f75.png)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-dark-mode.png#only-dark)
 
     !!! note
+
 
         <span data-uuid="6e023bcf-5157-4da1-9fca-3a9dca7a52d7" style="display:none"></span>
         By default, all sites will have the `authorised/health` tag available, but depending on your site configuration you may have more.
