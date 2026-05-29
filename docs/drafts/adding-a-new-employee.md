@@ -146,12 +146,10 @@ status: new
     <span data-uuid="cbe00db2-a49d-4b89-8735-05642bcc0864" style="display:none"></span>
     This section only applies if you selected the fine-tune option in Step 9.
 
-!!! step
+!!! info
 
     <span data-uuid="3da3ed47-1413-4854-9e15-f73c4ccaeefc" style="display:none"></span>
     After creating the employee record with the fine-tune option selected, you will be redirected to the employee site access page.
-
-    ![](../assets/screenshots/APaQ0SQO8NjVOTfsdXmzig_VgL0Rs-AK8HgUMrX3_3fbca2b7.png)
 
 !!! step
 
