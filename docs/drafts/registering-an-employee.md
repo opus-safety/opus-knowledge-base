@@ -131,9 +131,11 @@ After following the link or scanning the QR code, users will see a screen with t
     <span data-uuid="08fae16b-7fb7-4a08-a475-020af19efb37" style="display:none"></span>
     Click **Sign up** (use **Sign in** only if the employee already has an Opus account).
 
-    Follow the instructions to create a new Opus account.
+    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/sign-up-light-mode.png#only-light)
+    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/sign-up-dark-mode.png#only-dark)
 
-    ![](../assets/screenshots/APaQ0STnrHg9JYo6sw1qPD9sMLXzqXoO36Gq_6-L_fe4d66b8.png)
+    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/sign-in-light-mode.png#only-light)
+    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/sign-in-dark-mode.png#only-dark)
 
 !!! step
 
