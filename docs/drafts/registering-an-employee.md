@@ -128,6 +128,14 @@ After following the link or scanning the QR code, users will see a screen with t
 
 !!! step
 
+    <span data-uuid="f1481c8e-6a9d-46a7-9d6c-27d7c946ed2d" style="display:none"></span>
+    After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
+
+    **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
+
+!!! step
+
+
 
     <span data-uuid="08fae16b-7fb7-4a08-a475-020af19efb37" style="display:none"></span>
     Click **Sign up** (use **Sign in** only if the employee already has an Opus account).
@@ -140,6 +148,7 @@ After following the link or scanning the QR code, users will see a screen with t
 
 !!! step
 
+
     <span data-uuid="d35ef028-b377-4116-936e-5fc91d3ffa63" style="display:none"></span>
     Create your Opus account using an email and password.
 
@@ -147,6 +156,7 @@ After following the link or scanning the QR code, users will see a screen with t
     ![](../assets/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ width="300" loading=lazy }
 
 !!! step
+
 
     <span data-uuid="73780846-68e1-492b-875d-229acc97ac96" style="display:none"></span>
     You will now see a Link Confirmation page displaying your name.
@@ -172,6 +182,7 @@ After following the link or scanning the QR code, users will see a screen with t
         Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
 
 !!! step
+
 
 
     <span data-uuid="b05d4b11-d3cb-43fe-acb9-fd176e73ac28" style="display:none"></span>
