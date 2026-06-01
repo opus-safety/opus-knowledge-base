@@ -70,8 +70,8 @@ Please follow the steps below to register employees as users on the system.
     1. Ask the employee to scan the QR code with their phone (remind them to log out if they're using someone else's phone).
     2. Copy the link using the button at the bottom and send it via email or an internal messaging system (like Teams or Slack).
 
-    ![](../assets/occ-captures/employees/uuid/link/z1jvxig4svrfcodhpttcyfll/or-alternatively-light-mode.png#only-light){ width="400" loading=lazy }
-    ![](../assets/occ-captures/employees/uuid/link/z1jvxig4svrfcodhpttcyfll/or-alternatively-dark-mode.png#only-dark){ width="400" loading=lazy }
+    ![](../assets/occ-captures/employees/uuid/link/id/or-alternatively-light-mode.png#only-light){ width="400" loading=lazy }
+    ![](../assets/occ-captures/employees/uuid/link/id/or-alternatively-dark-mode.png#only-dark){ width="400" loading=lazy }
 
     ??? info "Optional Registration Email Template"
 
@@ -138,11 +138,11 @@ This section is intended to be followed by the user being registered.
     <span data-uuid="08fae16b-7fb7-4a08-a475-020af19efb37" style="display:none"></span>
     Click **Sign up** (use **Sign in** only if the employee already has an Opus account).
 
-    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/sign-up-light-mode.png#only-light)
-    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/sign-up-dark-mode.png#only-dark)
+    ![](../assets/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light)
+    ![](../assets/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark)
 
-    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/sign-in-light-mode.png#only-light)
-    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/sign-in-dark-mode.png#only-dark)
+    ![](../assets/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light)
+    ![](../assets/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark)
 
 !!! step
 
@@ -165,11 +165,11 @@ This section is intended to be followed by the user being registered.
 
     After reviewing the confirmation and verifying that you are linking to the correct employee record, click **Link My Account** to continue.
 
-    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/hb-light-mode.png#only-light)
-    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/hb-dark-mode.png#only-dark)
+    ![](../assets/occ-captures/employees/uuid/link/id/hb-light-mode.png#only-light)
+    ![](../assets/occ-captures/employees/uuid/link/id/hb-dark-mode.png#only-dark)
 
-    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/link-my-opus-account-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/employees/uuid/link/plfhqgoc8nxyiyirdglshemf/link-my-opus-account-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
     !!! warning "Don't skip this step"
 
