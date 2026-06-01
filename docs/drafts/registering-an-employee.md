@@ -157,9 +157,6 @@ This section is intended to be followed by the user being registered.
 
 !!! step
 
-
-
-
     <span data-uuid="73780846-68e1-492b-875d-229acc97ac96" style="display:none"></span>
     You will now see a Link Confirmation page displaying your name.
 
@@ -168,16 +165,18 @@ This section is intended to be followed by the user being registered.
     ![](../assets/occ-captures/employees/uuid/link/id/hb-light-mode.png#only-light)
     ![](../assets/occ-captures/employees/uuid/link/id/hb-dark-mode.png#only-dark)
 
-    ![](../assets/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
+    ![](../assets/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
 
     !!! warning "Don't skip this step"
+
 
 
         <span data-uuid="c5b33341-555f-4ac9-a50f-5ebdabe2f951" style="display:none"></span>
         If the employee skips this step, they'll have an Opus account without an associated employee record. See [Incomplete Registration](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/troubleshooting-log-in-registration-problems#:~:text=Locked%20Account-,Incomplete%20Registration%20%2D%20when%20an%20employee%20lands%20on%20a%20page%20that%20says%20%27Cannot%20find%20what%20you%20are%20looking%20for%27,-If%20a%20user) in the Troubleshooting Login / Registration Problems guide.
 
     !!! note "Registration links are one-time use"
+
 
 
         <span data-uuid="63f4144e-b115-4ab6-8312-2e424a765efe" style="display:none"></span>
