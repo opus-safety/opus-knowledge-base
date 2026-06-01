@@ -123,12 +123,14 @@ This section is intended to be followed by the user being registered.
 !!! step
 
 
+
     <span data-uuid="f1481c8e-6a9d-46a7-9d6c-27d7c946ed2d" style="display:none"></span>
     After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
 
     **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
 !!! step
+
 
 
 
@@ -146,6 +148,7 @@ This section is intended to be followed by the user being registered.
 
 
 
+
     <span data-uuid="d35ef028-b377-4116-936e-5fc91d3ffa63" style="display:none"></span>
     Create your Opus account using an email and password.
 
@@ -153,6 +156,7 @@ This section is intended to be followed by the user being registered.
     ![](../assets/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ width="300" loading=lazy }
 
 !!! step
+
 
 
 
@@ -180,6 +184,7 @@ This section is intended to be followed by the user being registered.
         Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
 
 !!! step
+
 
 
 
