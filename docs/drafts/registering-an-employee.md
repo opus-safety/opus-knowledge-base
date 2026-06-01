@@ -3,20 +3,22 @@ icon: lucide/user-check
 status: new
 ---
 
-# Registering an Employee as a User
+# Registering an Employee with an Opus Account
 <span data-uuid="c777efce-ef08-442c-8a90-ebc859bdd9f2" style="display:none"></span>
 
+Follow this guide to register an employee in Opus Compliance Cloud using their own Opus account. **This guide assumes that the employee record already exists.**
+
 !!! note "SSO Users"
+
 
     <span data-uuid="5d1e09b3-cdee-46f7-84de-dd5c6d47e17f" style="display:none"></span>
     If you are using Single Sign On (SSO), the process is slightly different as users will be using their company credentials to log in. Please refer to the documents > help folder in Site Documents for client specific instructions.
 
 !!! tip "No Account? Try Temporary Access"
 
+
     <span data-uuid="40c62bde-7d69-4319-bbfd-63eaa9742f65" style="display:none"></span>
     Interested in a quick and easy way for employees to complete their personal requirements without creating an account? [Explore our Temporary Access feature](/opus-safety.co.uk/opus-help/employees/employee-management/granting-an-employee-temporary-access) and give them secure, time-limited access to the system.
-
----
 
 ## Manager Steps
 <span data-uuid="cc7b8fc7-a224-4187-9f4f-d952a5917fc1" style="display:none"></span>
