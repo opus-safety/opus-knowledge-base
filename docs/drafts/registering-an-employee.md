@@ -116,17 +116,10 @@ Please follow the steps below to register employees as users on the system.
 ## User Steps
 <span data-uuid="9d00042c-1efd-44ee-a6ce-63deb74c5657" style="display:none"></span>
 
-After following the link or scanning the QR code, users will see a screen with two options — **Sign up** or **Sign in**:
-
-=== "Desktop / Laptop"
-
-    ![](../assets/screenshots/APaQ0SSO8hSZCzFdYz8KaLo4AdU2zl02bsbcpdKQ_36188a57.png)
-
-=== "Mobile"
-
-    ![](../assets/screenshots/APaQ0SRaMooT7M4r8oXcgJ7cde3aPftqh5fyokS3_4175c2c3.png)
+This section is intended to be followed by the user being registered.
 
 !!! step
+
 
     <span data-uuid="f1481c8e-6a9d-46a7-9d6c-27d7c946ed2d" style="display:none"></span>
     After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
@@ -134,6 +127,7 @@ After following the link or scanning the QR code, users will see a screen with t
     **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
 !!! step
+
 
 
 
@@ -149,6 +143,7 @@ After following the link or scanning the QR code, users will see a screen with t
 !!! step
 
 
+
     <span data-uuid="d35ef028-b377-4116-936e-5fc91d3ffa63" style="display:none"></span>
     Create your Opus account using an email and password.
 
@@ -156,6 +151,7 @@ After following the link or scanning the QR code, users will see a screen with t
     ![](../assets/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ width="300" loading=lazy }
 
 !!! step
+
 
 
     <span data-uuid="73780846-68e1-492b-875d-229acc97ac96" style="display:none"></span>
@@ -182,6 +178,7 @@ After following the link or scanning the QR code, users will see a screen with t
         Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
 
 !!! step
+
 
 
 
