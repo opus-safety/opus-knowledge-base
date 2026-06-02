@@ -18,4 +18,4 @@ test
 ## test section 2
 <span data-uuid="5b4396f8-fe0e-47f3-81d8-85016ec424ed" style="display:none"></span>
 
-==test==
+==~~^^***test***^^~~==
