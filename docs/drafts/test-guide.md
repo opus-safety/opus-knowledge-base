@@ -7,3 +7,9 @@
 
     <span data-uuid="dd8f238e-ebf0-47b3-8e19-270c2d21a723" style="display:none"></span>
     **test**
+    ****
+    ***test***
+    **^^test^^**
+    **test
+    ==test==**
+    ****
