@@ -15,11 +15,11 @@ icon: lucide/chart-no-axes-column-increasing
     <span data-uuid="3e7c2ce8-ef4d-495a-a1b8-b9917838617c" style="display:none"></span>
 
     **Status:** AVAILABLE
-!!! status-outage "Account Login"
+!!! status-available "Account Login"
 
     <span data-uuid="86d36e3b-2dab-44cc-b863-2cf64213b28a" style="display:none"></span>
 
-    **Status:** OUTAGE
+    **Status:** AVAILABLE
 !!! status-available "Files"
 
     <span data-uuid="698e7760-160a-4edd-b535-9bbeb16af1f8" style="display:none"></span>
@@ -39,17 +39,6 @@ icon: lucide/chart-no-axes-column-increasing
 
 ---
 ## Open Incidents
-
-!!! status-outage "Account Login"
-
-    <span data-uuid="5d305966-fb6c-4b10-bf38-60a40e6322cd" style="display:none"></span>
-
-    - **Service Impact:** OUTAGE
-    - **Current Status:** `Ongoing`
-    - **Description:** 
-    - **Reported:** 2026-06-02 22:44
-    - **Resolved:** 
-    - **Causation:** 
 
 ---
 
