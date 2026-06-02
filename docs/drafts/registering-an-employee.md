@@ -27,7 +27,7 @@ Please follow the steps below to register employees as users on the system.
 !!! step
 
     <span data-uuid="6a840b6c-2d80-444f-91b1-a8c6b968fbe3" style="display:none"></span>
-    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on "Pick workspace" and select the site where the employee is located.
+    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
 
     ![](../assets/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
