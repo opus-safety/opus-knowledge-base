@@ -14,8 +14,3 @@
 <span data-uuid="e8bd8157-f828-4ffc-910c-6422fa2d3e7e" style="display:none"></span>
 
 test
-
-## test section 2
-<span data-uuid="5b4396f8-fe0e-47f3-81d8-85016ec424ed" style="display:none"></span>
-
-==~~^^***test***^^~~==
