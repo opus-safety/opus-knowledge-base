@@ -49,8 +49,7 @@ draft_nav = [
     {"Employees" = [
       {"Registering an employee" = "pages/registering-an-employee.md"}
     ]}
-  ]},
-  {"test guide" = "pages/test-guide.md"}
+  ]}
 ]
 
 # ----------------------------------------------------------------------------
