@@ -22,11 +22,6 @@ Follow this guide to register an employee in Opus Compliance Cloud using their o
 ## Manager Steps
 <span data-uuid="cc7b8fc7-a224-4187-9f4f-d952a5917fc1" style="display:none"></span>
 
-!!! warning "Account Linking Warning"
-
-    <span data-uuid="1bae9136-5494-44ec-a333-1ffad2ff1d38" style="display:none"></span>
-    Never use a registration link intended for another employee while you are actively logged into the system. Doing so will incorrectly link their employee record to your Opus account. The system will display a warning prompt if you attempt this. The registration link should instead be used by the employee.
-
 Please follow the steps below to register employees as users on the system.
 
 !!! step
