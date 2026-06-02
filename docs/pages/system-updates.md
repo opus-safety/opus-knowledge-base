@@ -18,11 +18,6 @@ This page highlights the main user-facing improvements, additions and feature re
 
 ??? feature-release "Feature release: test<span class="meta">2nd June 2026</span>"
 
-    <span data-uuid="4e5ac511-7a32-4d16-a95b-b58ab8314c85" style="display:none"></span>
-    test
-
-??? feature-release "Feature release: test<span class="meta">2nd June 2026</span>"
-
     <span data-uuid="9c2f0536-61c2-4b52-86b5-ca274dda3e95" style="display:none"></span>
     test
 
