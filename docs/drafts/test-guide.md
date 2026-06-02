@@ -1,7 +1,9 @@
 # test guide
 <span data-uuid="524cd068-7596-423e-a0ae-22ce277d51cd" style="display:none"></span>
 
-^^==test!==^^
+^^==test==^^
+^^test^^
+==test==
 
 ???+ failure "test<span class="meta">optional</span>"
 
