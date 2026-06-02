@@ -257,44 +257,50 @@
   content: " " counter(step-counter);
 }
 
-/* COLLAPSIBLE steps (`??? step` / `???+ step`) render the title as <summary>.
-   The theme already owns BOTH of <summary>'s pseudo-elements as recolourable
-   masked icons: ::before = the type icon (left), ::after = the fold/unfold
-   chevron (right, rotates on open). Putting the counter on summary::after — as
-   the static rule used to — collides with the chevron: our text lands inside
-   the absolutely-positioned, masked 1rem chevron box and is clipped away, so
-   the number never shows. That's why numbering worked on `!!!` but not `???`.
+/* COLLAPSIBLE steps (`??? step` / `???+ step`) render the title as <summary>,
+   whose two pseudo-elements are both owned by the theme: ::before = the type
+   icon (left), ::after = the fold/unfold chevron (right, rotates on open). The
+   number needs a slot and there are only two, so one of the icons has to give.
 
-   To keep all three (icon + number + chevron) we:
-     • leave ::after (the chevron) untouched — it keeps recolour + rotation;
-     • repurpose ::before as the inline number, flex-ordered after the text;
-     • redraw the circle-check icon as a background-image — it's static, so it
-       doesn't need a pseudo-element (colour baked per scheme to match below).
-   Scoped to :not(:has(> .meta)) so subtitled steps (static-only today) are
-   untouched. */
+   We keep the type ICON native: it stays a masked ::before driven by
+   var(--md-admonition-icon--step) (via the shared step rules above), so
+   changing `step = "lucide/…"` in zensical.toml updates collapsible steps too,
+   and it recolours per scheme for free. In exchange:
+     • the number takes over ::after as plain inline text after the "Step"
+       label, so we strip the chevron's mask / absolute positioning / rotation;
+     • the chevron is redrawn as a background-image in the right gutter, with
+       colour (= step title colour) and glyph (right = closed, down = open)
+       baked per scheme/state. It toggles on open but no longer animates.
+   If you restyle the chevron or the step title colour, update the four baked
+   SVGs below. Scoped to :not(:has(> .meta)) so subtitled steps (static-only
+   today) are untouched. */
 .md-typeset details.step > summary:not(:has(> .meta)) {
-  display: flex;
-  align-items: center;
   background-repeat: no-repeat;
-  background-position: 0 0.125em;
-  background-size: 1.2rem 1.2rem;
+  background-position: right center;
+  background-size: 1rem 1rem;
 }
-.md-typeset details.step > summary:not(:has(> .meta))::before {
-  content: counter(step-counter);
+.md-typeset details.step > summary:not(:has(> .meta))::after {
+  content: " " counter(step-counter);
   -webkit-mask-image: none;
           mask-image: none;
   background-color: transparent;
   position: static;
   width: auto;
   height: auto;
-  margin-left: 0.25em;
-  order: 1; /* lift the number after the "Step" text node (default order 0) */
+  transform: none; /* cancel the theme's open-state rotate(90deg) on this text */
 }
+/* Chevron (baked): light/dark = step title colour; right = closed, down = open. */
 [data-md-color-scheme="default"] .md-typeset details.step > summary:not(:has(> .meta)) {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%230ea5e9' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='m9 12 2 2 4-4'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%230369a1' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'%3E%3Cpath d='m9 18 6-6-6-6'/%3E%3C/svg%3E");
+}
+[data-md-color-scheme="default"] .md-typeset details.step[open] > summary:not(:has(> .meta)) {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%230369a1' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
 }
 [data-md-color-scheme="slate"] .md-typeset details.step > summary:not(:has(> .meta)) {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%2338bdf8' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='m9 12 2 2 4-4'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%23bae6fd' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'%3E%3Cpath d='m9 18 6-6-6-6'/%3E%3C/svg%3E");
+}
+[data-md-color-scheme="slate"] .md-typeset details.step[open] > summary:not(:has(> .meta)) {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%23bae6fd' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
 }
 
 /* Step subtitle — same convention as the System Updates page: the subtitle
