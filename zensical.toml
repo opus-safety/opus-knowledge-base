@@ -34,12 +34,13 @@ nav = [
     ]}
   ]},
   {"System" = [
-     {"System updates" = "pages/system-updates.md"},
-     {"System status" = "pages/system-status.md"}
+    {"System updates" = "pages/system-updates.md"},
+    {"System status" = "pages/system-status.md"}
   ]},
   {"Pre-release Workspace" = [
-     {"Knowledge base roadmap" = "pages/knowledge-base-roadmap.md"},
-  ]}
+    {"Knowledge base roadmap" = "pages/knowledge-base-roadmap.md"}
+  ]},
+  {"test guide" = "pages/test-guide.md"}
 ]
 
 draft_nav = [
@@ -47,8 +48,7 @@ draft_nav = [
     {"Employees" = [
       {"Registering an employee" = "pages/registering-an-employee.md"}
     ]}
-  ]},
-  {"test guide" = "pages/test-guide.md"}
+  ]}
 ]
 
 # ----------------------------------------------------------------------------
