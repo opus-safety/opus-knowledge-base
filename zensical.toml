@@ -30,8 +30,7 @@ nav = [
   {"Guides" = [
     {"Employees" = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
-      {"Registering an employee" = "pages/registering-an-employee.md"},
-      {"test guide 2" = "pages/test-guide-2.md"}
+      {"Registering an employee" = "pages/registering-an-employee.md"}
     ]}
   ]},
   {"System" = [
