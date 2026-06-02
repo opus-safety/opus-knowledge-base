@@ -5,6 +5,5 @@
 
 ???+ failure "test<span class="meta">optional</span>"
 
-
     <span data-uuid="dd8f238e-ebf0-47b3-8e19-270c2d21a723" style="display:none"></span>
-    test! **failure! **
+    **test**
