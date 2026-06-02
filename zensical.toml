@@ -47,6 +47,9 @@ draft_nav = [
     {"Employees" = [
       {"Registering an employee" = "pages/registering-an-employee.md"}
     ]}
+  ]},
+  {"Pre Release Workspace" = [
+    {"Knowledge base roadmap" = "pages/knowledge-base-roadmap.md"}
   ]}
 ]
 
