@@ -14,16 +14,6 @@ This page highlights the main user-facing improvements, additions and feature re
 ## 2026
 
 ---
-### June 2026
-
-??? improvement "Improvement: test<span class="meta">2nd June 2026</span>"
-
-    <span data-uuid="5ea839c9-2093-4525-935b-91366fb406ce" style="display:none"></span>
-    test update
-
-    ![](../assets/occ-captures/admin/sites/uuid/task-reports-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/admin/sites/uuid/task-reports-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
 ### March 2026
 
 ??? improvement "Improvement: Incident Report - Days Lost Table<span class="meta">17th March 2026</span>"
