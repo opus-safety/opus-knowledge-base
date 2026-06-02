@@ -19,13 +19,13 @@ List of features/goals needed to be achieved for full launch
 - [ ] More Buttons Integration
     - [x] Proof of Concept
     - [x] Github integration
-    - [ ] Element capture
+    - [x] Element capture
         - [x] POC
         - [ ] Iron out remaining bugs with certain elements
-    - [ ] Draft support
-    - [ ] System status full flow
-    - [ ] System updates full flow
-    - [ ] Guides full flow
+    - [x] Draft support
+    - [x] System status full flow
+    - [x] System updates full flow
+    - [x] Guides full flow
 - [x] Github
 - [x] Hosting
 - [ ] Custom domain (not required for POC - could use opus-safety subdomain? `docs.opus-safety.co.uk` ?)
