@@ -14,13 +14,6 @@ This page highlights the main user-facing improvements, additions and feature re
 ## 2026
 
 ---
-### June 2026
-
-??? feature-release "Feature release: test<span class="meta">2nd June 2026</span>"
-
-    <span data-uuid="9c2f0536-61c2-4b52-86b5-ca274dda3e95" style="display:none"></span>
-    test
-
 ### March 2026
 
 ??? improvement "Improvement: Incident Report - Days Lost Table<span class="meta">17th March 2026</span>"
