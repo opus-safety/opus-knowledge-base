@@ -124,7 +124,7 @@ This section is intended to be followed by the user being registered.
     ![](../assets/occ-captures/employees/uuid/link/id/hb-light-mode.png#only-light){ width="300" loading=lazy }
     ![](../assets/occ-captures/employees/uuid/link/id/hb-dark-mode.png#only-dark){ width="300" loading=lazy }
 
-???+ step
+!!! step
 
     <span data-uuid="08fae16b-7fb7-4a08-a475-020af19efb37" style="display:none"></span>
     Click **Sign up** (use **Sign in** only if the employee already has an Opus account).
