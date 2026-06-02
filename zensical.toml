@@ -46,7 +46,8 @@ nav = [
 draft_nav = [
   {"Guides" = [
     {"Employees" = [
-      {"Registering an employee" = "pages/registering-an-employee.md"}
+      {"Registering an employee" = "pages/registering-an-employee.md"},
+      {"test guide 2" = "pages/test-guide-2.md"}
     ]}
   ]}
 ]
