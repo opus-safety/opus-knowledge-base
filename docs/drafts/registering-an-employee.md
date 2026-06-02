@@ -179,12 +179,7 @@ This section is intended to be followed by the user being registered.
 
 !!! step
 
-
-
-
-
-
     <span data-uuid="b05d4b11-d3cb-43fe-acb9-fd176e73ac28" style="display:none"></span>
-    Users will receive an email confirmation after registering. They should click **Confirm my email**.
+    After registering, you will receive an email confirmation. Click the **Confirm my email** button in your email.
 
     ![](../assets/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png)
