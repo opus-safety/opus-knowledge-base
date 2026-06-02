@@ -251,9 +251,50 @@
 .md-typeset h2 { counter-reset: step-counter; }
 .md-typeset .admonition.step,
 .md-typeset details.step { counter-increment: step-counter; }
-.md-typeset .step > .admonition-title:not(:has(> .meta))::after,
-.md-typeset .step > summary:not(:has(> .meta))::after {
+/* STATIC steps (`!!! step`) render the title as <p class="admonition-title">,
+   which has no theme ::after, so the counter goes straight there. */
+.md-typeset .step > .admonition-title:not(:has(> .meta))::after {
   content: " " counter(step-counter);
+}
+
+/* COLLAPSIBLE steps (`??? step` / `???+ step`) render the title as <summary>.
+   The theme already owns BOTH of <summary>'s pseudo-elements as recolourable
+   masked icons: ::before = the type icon (left), ::after = the fold/unfold
+   chevron (right, rotates on open). Putting the counter on summary::after — as
+   the static rule used to — collides with the chevron: our text lands inside
+   the absolutely-positioned, masked 1rem chevron box and is clipped away, so
+   the number never shows. That's why numbering worked on `!!!` but not `???`.
+
+   To keep all three (icon + number + chevron) we:
+     • leave ::after (the chevron) untouched — it keeps recolour + rotation;
+     • repurpose ::before as the inline number, flex-ordered after the text;
+     • redraw the circle-check icon as a background-image — it's static, so it
+       doesn't need a pseudo-element (colour baked per scheme to match below).
+   Scoped to :not(:has(> .meta)) so subtitled steps (static-only today) are
+   untouched. */
+.md-typeset details.step > summary:not(:has(> .meta)) {
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-position: 0 0.125em;
+  background-size: 1.2rem 1.2rem;
+}
+.md-typeset details.step > summary:not(:has(> .meta))::before {
+  content: counter(step-counter);
+  -webkit-mask-image: none;
+          mask-image: none;
+  background-color: transparent;
+  position: static;
+  width: auto;
+  height: auto;
+  margin-left: 0.25em;
+  order: 1; /* lift the number after the "Step" text node (default order 0) */
+}
+[data-md-color-scheme="default"] .md-typeset details.step > summary:not(:has(> .meta)) {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%230ea5e9' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='m9 12 2 2 4-4'/%3E%3C/svg%3E");
+}
+[data-md-color-scheme="slate"] .md-typeset details.step > summary:not(:has(> .meta)) {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%2338bdf8' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='m9 12 2 2 4-4'/%3E%3C/svg%3E");
 }
 
 /* Step subtitle — same convention as the System Updates page: the subtitle
@@ -272,8 +313,7 @@
   display: flex;
   flex-direction: column;
 }
-.md-typeset .step > .admonition-title:has(> .meta)::after,
-.md-typeset .step > summary:has(> .meta)::after {
+.md-typeset .step > .admonition-title:has(> .meta)::after {
   content: "Step " counter(step-counter);
   order: 1;
 }
