@@ -120,10 +120,7 @@ Please follow the steps below to register employees as users on the system.
 
 This section is intended to be followed by the user being registered.
 
-!!! step
-
-
-
+??? step
 
     <span data-uuid="f1481c8e-6a9d-46a7-9d6c-27d7c946ed2d" style="display:none"></span>
     After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
