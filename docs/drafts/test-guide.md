@@ -18,5 +18,8 @@
         <span data-uuid="cbd1a7d3-f865-4d37-bb8f-273435424701" style="display:none"></span>
         test
 
+        ![](../assets/occ-captures/admin/sites/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
+        ![](../assets/occ-captures/admin/sites/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
+
 ![](../assets/occ-captures/sites/search-light-mode.png#only-light){ width="20" loading=lazy }
 ![](../assets/occ-captures/sites/search-dark-mode.png#only-dark){ width="20" loading=lazy }
