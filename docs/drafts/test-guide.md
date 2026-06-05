@@ -4,6 +4,3 @@
 
 ![](../assets/occ-captures/admin/sites/employees/new/full-name-light-mode.png#only-light)
 ![](../assets/occ-captures/admin/sites/employees/new/full-name-dark-mode.png#only-dark)
-
-![](../assets/occ-captures/sites/search-light-mode.png#only-light){ width="20" loading=lazy }
-![](../assets/occ-captures/sites/search-dark-mode.png#only-dark){ width="20" loading=lazy }
