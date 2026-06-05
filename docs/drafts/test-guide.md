@@ -12,3 +12,6 @@
 
 ![](../assets/occ-captures/sites/search-light-mode.png#only-light){ style="height: 50px" loading=lazy }
 ![](../assets/occ-captures/sites/search-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+![](../assets/occ-captures/sites/search-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+![](../assets/occ-captures/sites/search-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
