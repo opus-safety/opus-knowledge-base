@@ -5,18 +5,5 @@
 ![](../assets/occ-captures/admin/sites/employees/new/full-name-light-mode.png#only-light)
 ![](../assets/occ-captures/admin/sites/employees/new/full-name-dark-mode.png#only-dark)
 
-???+ question "test"
-
-    <span data-uuid="518792f2-7f53-4fc8-b4c5-d136664d12c2" style="display:none"></span>
-    **^^test^^**
-
-    ![](../assets/occ-captures/admin/sites/employees/new/end-day-light-mode.png#only-light)
-    ![](../assets/occ-captures/admin/sites/employees/new/end-day-dark-mode.png#only-dark)
-
-    !!! abstract "<span class="meta">test</span>"
-
-        <span data-uuid="cbd1a7d3-f865-4d37-bb8f-273435424701" style="display:none"></span>
-        test
-
 ![](../assets/occ-captures/sites/search-light-mode.png#only-light){ width="20" loading=lazy }
 ![](../assets/occ-captures/sites/search-dark-mode.png#only-dark){ width="20" loading=lazy }
