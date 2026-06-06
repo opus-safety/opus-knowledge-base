@@ -15,3 +15,6 @@ test 2
 
     <span data-uuid="e578fc20-6b91-4edb-a25f-c7dae639dd98" style="display:none"></span>
     test
+
+    ![](../assets/occ-captures/sites/search-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/sites/search-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
