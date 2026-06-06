@@ -7,3 +7,6 @@ test 2
 
     <span data-uuid="ebf33348-0128-4b44-9135-45e757ffdd0c" style="display:none"></span>
     test
+
+    ![](../assets/occ-captures/admin/sites/employees/new/end-day-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/employees/new/end-day-dark-mode.png#only-dark)
