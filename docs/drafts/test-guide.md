@@ -5,14 +5,6 @@ test 2
 
 !!! step
 
-    <span data-uuid="45ce64ed-f8c5-4b14-a581-1b807a2b9ece" style="display:none"></span>
-    test
-
-    ![](../assets/occ-captures/admin/sites/employees/new/notes-light-mode.png#only-light)
-    ![](../assets/occ-captures/admin/sites/employees/new/notes-dark-mode.png#only-dark)
-
-!!! step
-
     <span data-uuid="ca64c74f-530f-4746-87d1-77540097c735" style="display:none"></span>
     test
 
