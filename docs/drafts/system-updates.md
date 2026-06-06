@@ -5,3 +5,8 @@
     <span data-uuid="c851cf42-1dfd-43c0-a36c-45c72f0950ed" style="display:none"></span>
     test
 
+    !!! step
+
+        <span data-uuid="b9de2b97-b606-4e66-a1cb-367858ad5dd2" style="display:none"></span>
+        test
+
