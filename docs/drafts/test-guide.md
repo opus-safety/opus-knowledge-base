@@ -20,3 +20,6 @@ test 2
 
     <span data-uuid="4fb0fc18-2380-4045-ab94-fca89ca484a4" style="display:none"></span>
     test 3
+
+    ![](../assets/occ-captures/admin/sites/employees/new/notes-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/employees/new/notes-dark-mode.png#only-dark)
