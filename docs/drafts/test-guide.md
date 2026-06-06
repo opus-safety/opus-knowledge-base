@@ -9,3 +9,6 @@
 
     <span data-uuid="cdfdd540-fe1b-4de8-bb8f-1c168a93bcda" style="display:none"></span>
     test
+
+    ![](../assets/occ-captures/admin/sites/employees/new/photo-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/employees/new/photo-dark-mode.png#only-dark)
