@@ -10,3 +10,8 @@ test 2
 
     ![](../assets/occ-captures/admin/sites/employees/new/end-day-light-mode.png#only-light)
     ![](../assets/occ-captures/admin/sites/employees/new/end-day-dark-mode.png#only-dark)
+
+!!! step
+
+    <span data-uuid="e578fc20-6b91-4edb-a25f-c7dae639dd98" style="display:none"></span>
+    test
