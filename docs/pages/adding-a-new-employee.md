@@ -46,8 +46,8 @@ status: new
     <span data-uuid="830c0ae5-baab-43cd-b6e7-6aede1848221" style="display:none"></span>
     Click the **+New** button at the top right of the page.
 
-    ![](../assets/occ-captures/admin/sites/employees/new-employee-dark-mode.png#only-dark){ style="height: 50px" }
-    ![](../assets/occ-captures/admin/sites/employees/new-employee-light-mode.png#only-light){ style="height: 50px" }
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new-employee-dark-mode.png#only-dark){ style="height: 50px" }
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new-employee-light-mode.png#only-light){ style="height: 50px" }
 
 !!! step
 
@@ -58,8 +58,8 @@ status: new
 
         <span data-uuid="18a913f5-1c6c-4c79-8f44-84be833befbb" style="display:none"></span>
 
-        ![](../assets/occ-captures/admin/sites/employees/new/full-name-dark-mode.png#only-dark)
-        ![](../assets/occ-captures/admin/sites/employees/new/full-name-light-mode.png#only-light)
+        ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
+        ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light)
 
     !!! outline "Photo (optional)"
 
@@ -67,8 +67,8 @@ status: new
 
         Upload a photo for this employee record
 
-        ![](../assets/occ-captures/admin/sites/employees/new/photo-dark-mode.png#only-dark)
-        ![](../assets/occ-captures/admin/sites/employees/new/photo-light-mode.png#only-light)
+        ![](../assets/occ-captures/admin/sites/uuid/employees/new/photo-dark-mode.png#only-dark)
+        ![](../assets/occ-captures/admin/sites/uuid/employees/new/photo-light-mode.png#only-light)
 
     !!! outline "Roles"
 
@@ -76,8 +76,8 @@ status: new
 
         Select the role(s) for this employee.
 
-        ![](../assets/occ-captures/admin/sites/employees/new/role-dark-mode.png#only-dark)
-        ![](../assets/occ-captures/admin/sites/employees/new/role-light-mode.png#only-light)
+        ![](../assets/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
+        ![](../assets/occ-captures/admin/sites/uuid/employees/new/role-light-mode.png#only-light)
 
         !!! warning
 
@@ -97,16 +97,16 @@ status: new
 
     Depending on your site configuration, you may only have one option. If multiple options are available, select the employee's primary place of work.
 
-    ![](../assets/occ-captures/admin/sites/employees/new/located-at-dark-mode.png#only-dark)
-    ![](../assets/occ-captures/admin/sites/employees/new/located-at-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
 
 !!! step
 
     <span data-uuid="8ba98f44-e025-4b13-87a3-833b1c57c99b" style="display:none"></span>
     Under **Own employee record access**, select which level of access the employee should be granted against their own employee record.
 
-    ![](../assets/occ-captures/admin/sites/employees/new/own-employee-record-access-dark-mode.png#only-dark)
-    ![](../assets/occ-captures/admin/sites/employees/new/own-employee-record-access-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-dark-mode.png#only-dark)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-light-mode.png#only-light)
 
 !!! step
 
@@ -116,8 +116,8 @@ status: new
     - **Yes** (recommended) — automatically grants the employee the same access rights for their site as selected in Step 7.
     - **No** — access will need to be configured manually instead.
 
-    ![](../assets/occ-captures/admin/sites/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
-    ![](../assets/occ-captures/admin/sites/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
 
 !!! step "<span class="meta">(optional)</span>"
 
@@ -125,16 +125,16 @@ status: new
 
     Enable **Site access fine-tune** if you need to customise the employee's access settings further — for example, if they require access to multiple sites or need additional authorisations.
 
-    ![](../assets/occ-captures/admin/sites/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
-    ![](../assets/occ-captures/admin/sites/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
 
 !!! step
 
     <span data-uuid="9cddf4de-24f1-4f78-9d9a-353b9e8df9fb" style="display:none"></span>
     Click **Save employee** at the bottom of the page.
 
-    ![](../assets/occ-captures/admin/sites/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" }
-    ![](../assets/occ-captures/admin/sites/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" }
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" }
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" }
 
     After saving, you will be redirected to the employee's access page.
 

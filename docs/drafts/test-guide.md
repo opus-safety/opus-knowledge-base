@@ -3,8 +3,8 @@
 
 testing 1234eeeeeeeeeeeee
 
-![](../assets/occ-captures/admin/sites/employees/new/notes-light-mode.png#only-light)
-![](../assets/occ-captures/admin/sites/employees/new/notes-dark-mode.png#only-dark)
+![](../assets/occ-captures/admin/sites/uuid/employees/new/notes-light-mode.png#only-light)
+![](../assets/occ-captures/admin/sites/uuid/employees/new/notes-dark-mode.png#only-dark)
 
 ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-light-mode.png#only-light){ style="height: 50px" loading=lazy }
 ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
