@@ -4,5 +4,9 @@
   },
   "docs/assets/occ-captures/admin/sites/employees/new/own-employee-record-access-light-mode.png": {
     "padding": 10
+  },
+  "docs/assets/occ-captures/admin/sites/employees/new/site-access-to-mirror-employee-access-light-mode.png": {
+    "resized": true,
+    "padding": 10
   }
 }
