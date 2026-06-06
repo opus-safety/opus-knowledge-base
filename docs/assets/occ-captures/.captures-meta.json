@@ -8,5 +8,9 @@
   "docs/assets/occ-captures/admin/sites/employees/new/site-access-to-mirror-employee-access-light-mode.png": {
     "resized": true,
     "padding": 10
+  },
+  "docs/assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
