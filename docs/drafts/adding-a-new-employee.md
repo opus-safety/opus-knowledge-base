@@ -187,6 +187,9 @@ status: new
     ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/user-light-mode.png#only-light)
     ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/user-dark-mode.png#only-dark)
 
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-dark-mode.png#only-dark)
+
 !!! step
 
     <span data-uuid="eacbba2f-09e7-4a89-971b-d1d59f75cdf2" style="display:none"></span>
