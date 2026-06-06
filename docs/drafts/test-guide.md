@@ -23,3 +23,6 @@ test 2
 
     ![](../assets/occ-captures/admin/sites/employees/new/notes-light-mode.png#only-light)
     ![](../assets/occ-captures/admin/sites/employees/new/notes-dark-mode.png#only-dark)
+
+![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light)
+![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark)
