@@ -3,3 +3,9 @@
 
 ## test
 <span data-uuid="d149456b-a6c0-40e2-b11f-0f63251f17f2" style="display:none"></span>
+
+
+!!! abstract "<span class="meta">test</span>"
+
+    <span data-uuid="cdfdd540-fe1b-4de8-bb8f-1c168a93bcda" style="display:none"></span>
+    test
