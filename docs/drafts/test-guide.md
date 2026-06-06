@@ -7,3 +7,8 @@ test 2
 
     <span data-uuid="a487a027-77b0-4de6-b93d-da3ca74d6cb3" style="display:none"></span>
     test
+
+    !!! step
+
+        <span data-uuid="19e9bdd3-282d-4529-8468-07259b636f5a" style="display:none"></span>
+        test 2
