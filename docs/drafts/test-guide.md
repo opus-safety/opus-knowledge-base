@@ -4,8 +4,3 @@
 ## test
 <span data-uuid="d149456b-a6c0-40e2-b11f-0f63251f17f2" style="display:none"></span>
 
-
-!!! abstract "<span class="meta">test</span>"
-
-    <span data-uuid="0126c29e-04cc-46aa-af20-8f67a9dbd3ee" style="display:none"></span>
-    test
