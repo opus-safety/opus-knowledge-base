@@ -184,8 +184,8 @@ status: new
     `administrator`
     :   Can make administrative-level changes to the employee record, such as adding requirements to their roles.
 
-    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/user-light-mode.png#only-light)
-    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/user-dark-mode.png#only-dark)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-dark-mode.png#only-dark)
 
 !!! step
 
