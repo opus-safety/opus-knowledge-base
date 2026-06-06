@@ -32,3 +32,6 @@ test 2
 
 ![](../assets/occ-captures/sites/search-light-mode.png#only-light){ style="height: 50px" loading=lazy }
 ![](../assets/occ-captures/sites/search-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+![](../assets/occ-captures/admin/sites/employees/new/end-day-light-mode.png#only-light)
+![](../assets/occ-captures/admin/sites/employees/new/end-day-dark-mode.png#only-dark)
