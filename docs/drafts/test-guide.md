@@ -2,3 +2,8 @@
 <span data-uuid="3a4aa1d0-7f42-45b8-a18c-6505782c3e93" style="display:none"></span>
 
 test 2
+
+!!! step "<span class="meta">test</span>"
+
+    <span data-uuid="ebf33348-0128-4b44-9135-45e757ffdd0c" style="display:none"></span>
+    test
