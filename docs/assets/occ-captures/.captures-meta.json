@@ -24,5 +24,9 @@
   "docs/assets/occ-captures/admin/sites/uuid/employees/link-to-opus-account-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/occ-captures/employees/uuid/link/id/link-opus-account-with-employee-record-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
