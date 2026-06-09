@@ -8,8 +8,8 @@ Change 2
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark)
 
 <span data-uuid="057c5c54-df88-497b-80e7-7267c2affcf2" style="display:none"></span>
-![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="502" loading=lazy }
+![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="502" loading=lazy }
 
 !!! step
 
