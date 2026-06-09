@@ -68,16 +68,7 @@ Please follow the steps below to register employees as users on the system.
     1. Ask the employee to scan the QR code with their phone (remind them to log out if they're using someone else's phone).
     2. Copy the link using the button at the bottom and send it via email or an internal messaging system (like Teams or Slack).
 
-    <span data-uuid="0629795c-65d0-4703-a744-c6284c0d7336" style="display:none"></span>
-    ![](../assets/occ-captures/employees/uuid/link/id/or-alternatively-light-mode.png#only-light){ width="400" loading=lazy }
-    ![](../assets/occ-captures/employees/uuid/link/id/or-alternatively-dark-mode.png#only-dark){ width="400" loading=lazy }
-
     ??? info "Optional Registration Email Template"
-
-
-
-
-
 
         <span data-uuid="012849f4-a74d-4ded-9837-9d9c139abc55" style="display:none"></span>
         If using the copied link, you can use a message like this to help:
