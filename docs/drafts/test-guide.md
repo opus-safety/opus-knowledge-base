@@ -3,10 +3,6 @@
 
 Change 2
 
-<span data-uuid="057c5c54-df88-497b-80e7-7267c2affcf2" style="display:none"></span>
-![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="502" loading=lazy }
-![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="502" loading=lazy }
-
 !!! step
 
     <span data-uuid="f9e659ca-efb0-44ef-ae08-599ab85137f6" style="display:none"></span>
