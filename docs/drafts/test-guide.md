@@ -11,6 +11,10 @@ Change 2
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
 
+<span data-uuid="98ca4f26-25df-4629-9b55-5135c59328e1" style="display:none"></span>
+![](../assets/occ-captures/employees/uuid/link/id/link-opus-account-with-employee-record-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+![](../assets/occ-captures/employees/uuid/link/id/link-opus-account-with-employee-record-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 !!! step
 
     <span data-uuid="966e69e0-bfae-4a3c-b926-1c6348f69a71" style="display:none"></span>
