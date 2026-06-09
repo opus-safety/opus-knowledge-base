@@ -11,11 +11,6 @@ Change 2
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
 
-!!! step
-
-    <span data-uuid="966e69e0-bfae-4a3c-b926-1c6348f69a71" style="display:none"></span>
-    test
-
 <span data-uuid="7f52945d-5903-4fd5-aa8b-4cc3a681b9db" style="display:none"></span>
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light)
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
