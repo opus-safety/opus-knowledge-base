@@ -7,6 +7,10 @@ Change 3
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light){ width="50" loading=lazy }
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark){ width="50" loading=lazy }
 
+<span data-uuid="6f3b0209-08ef-4aea-bd99-24828c2c4279" style="display:none"></span>
+![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light)
+![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark)
+
 <span data-uuid="3e7ea9cb-365b-43fd-a976-7e555d5ce950" style="display:none"></span>
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
