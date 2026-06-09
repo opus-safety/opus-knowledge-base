@@ -7,6 +7,11 @@ Change 2
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light)
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark)
 
+!!! step
+
+    <span data-uuid="f9e659ca-efb0-44ef-ae08-599ab85137f6" style="display:none"></span>
+    test
+
 <span data-uuid="2d8880f4-9d02-4a93-adf2-2dc694e48ca2" style="display:none"></span>
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light){ width="500" loading=lazy }
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark){ width="500" loading=lazy }
