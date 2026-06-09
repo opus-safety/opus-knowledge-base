@@ -3,9 +3,11 @@
 
 Change 2
 
+<span data-uuid="a8a397d4-a413-4dd0-ab06-a76bf1d6e767" style="display:none"></span>
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/notes-light-mode.png#only-light)
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/notes-dark-mode.png#only-dark)
 
+<span data-uuid="8790af9a-1866-4d4b-b37d-fcbbf41c8e9a" style="display:none"></span>
 ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-light-mode.png#only-light){ style="height: 50px" loading=lazy }
 ![](../assets/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
