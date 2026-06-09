@@ -3,10 +3,6 @@
 
 Change 2
 
-<span data-uuid="2d8880f4-9d02-4a93-adf2-2dc694e48ca2" style="display:none"></span>
-![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light){ width="500" loading=lazy }
-![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark){ width="500" loading=lazy }
-
 <span data-uuid="78d48bfa-3b4d-47d7-80bb-42c157e3c249" style="display:none"></span>
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
