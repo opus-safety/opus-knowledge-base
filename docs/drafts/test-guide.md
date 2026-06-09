@@ -3,10 +3,6 @@
 
 Change 2
 
-<span data-uuid="6e2f5664-86f2-474f-afd8-c3cf932a4788" style="display:none"></span>
-![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light)
-![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
-
 <span data-uuid="057c5c54-df88-497b-80e7-7267c2affcf2" style="display:none"></span>
 ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="502" loading=lazy }
 ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="502" loading=lazy }
