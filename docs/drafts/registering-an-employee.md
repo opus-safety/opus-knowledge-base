@@ -214,6 +214,11 @@ This section is intended to be followed by the user being registered. Please sel
         ![](../assets/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light)
         ![](../assets/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark)
 
+    !!! step
+
+        <span data-uuid="d279dfcd-a54a-479d-b7bf-f963a7e9a36f" style="display:none"></span>
+        Create your Opus account using an email and password.
+
 === "Existing Opus User (Using an existing account)"
 
     <span data-uuid="e7729746-4268-4635-b8f9-a5e72ec26bf3" style="display:none"></span>
