@@ -125,6 +125,10 @@ This section is intended to be followed by the user being registered.
     ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
     ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
 
+    <span data-uuid="e9b90bf4-21f1-458e-a901-dd4975302745" style="display:none"></span>
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light)
+    ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
+
 !!! step
 
     <span data-uuid="08fae16b-7fb7-4a08-a475-020af19efb37" style="display:none"></span>
