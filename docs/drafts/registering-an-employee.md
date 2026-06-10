@@ -122,8 +122,8 @@ This section is intended to be followed by the user being registered.
     **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
     <span data-uuid="bb5750d2-e0bb-45fb-b480-090c3a58def4" style="display:none"></span>
-    ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="300" loading=lazy }
-    ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="300" loading=lazy }
+    ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
+    ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
 
 !!! step
 
