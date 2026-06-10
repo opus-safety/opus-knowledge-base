@@ -194,6 +194,13 @@ This section is intended to be followed by the user being registered. Please sel
     <span data-uuid="8beea158-9efe-4e96-936e-ded37e8c0474" style="display:none"></span>
     Follow the steps below to create a new Opus account and complete registration.
 
+    !!! step
+
+        <span data-uuid="319c89c4-d6d7-46d4-bbb9-b192f45d28b7" style="display:none"></span>
+        After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
+
+        **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
+
 === "Existing Opus User (Using an existing account)"
 
     <span data-uuid="e7729746-4268-4635-b8f9-a5e72ec26bf3" style="display:none"></span>
