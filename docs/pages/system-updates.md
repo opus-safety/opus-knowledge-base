@@ -104,7 +104,7 @@ This page highlights the main user-facing improvements, additions and feature re
     === "Red"
 
         <span data-uuid="385d57c9-d938-4076-99a1-b5c02ee4b6b8" style="display:none"></span>
-        You have tasks over 6 months old
+        **You have tasks over 6 months old**
 
         <span data-uuid="0403d802-5184-4803-a7fc-fe0eea2241e2" style="display:none"></span>
         ![](../assets/occ-captures/sites/uuid/inbox-coach-4-light-mode.png#only-light)
@@ -113,7 +113,7 @@ This page highlights the main user-facing improvements, additions and feature re
     === "Amber"
 
         <span data-uuid="b081bb5a-9ce9-457d-ab17-fcc6abbb1aaf" style="display:none"></span>
-        You have tasks over 3 months old
+        **You have tasks over 3 months old**
 
         <span data-uuid="9a6eff05-9c05-4e82-b310-bb2f73f61146" style="display:none"></span>
         ![](../assets/occ-captures/sites/uuid/inbox-coach-3-light-mode.png#only-light)
@@ -122,7 +122,7 @@ This page highlights the main user-facing improvements, additions and feature re
     === "Blue"
 
         <span data-uuid="2c456f0a-516b-4a2d-90e2-85aa07d2a42f" style="display:none"></span>
-        All tasks are under 3 months old
+        **All tasks are under 3 months old**
 
         <span data-uuid="7032e579-ebfe-47eb-bf09-e56de8cf6a88" style="display:none"></span>
         ![](../assets/occ-captures/sites/uuid/inbox-coach-2-light-mode.png#only-light)
@@ -131,7 +131,7 @@ This page highlights the main user-facing improvements, additions and feature re
     === "Green"
 
         <span data-uuid="8f1db755-9721-4717-93a1-1ab9c9f104f3" style="display:none"></span>
-        All tasks are assigned and nothing is older than 3 months
+        **All tasks are assigned and nothing is older than 3 months**
 
         <span data-uuid="85874161-43b6-488e-b3ca-191f4426bad5" style="display:none"></span>
         ![](../assets/occ-captures/sites/uuid/inbox-coach-light-mode.png#only-light)
