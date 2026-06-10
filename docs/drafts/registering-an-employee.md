@@ -271,5 +271,5 @@ This section is intended to be followed by the user being registered. Please sel
         Sign in with your existing Opus account.
 
         <span data-uuid="05d44dfc-96f8-4380-bfa2-b55581336b2b" style="display:none"></span>
-        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png#only-light){ width="400" loading=lazy }
+        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-dark-mode.png#only-dark){ width="400" loading=lazy }
