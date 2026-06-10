@@ -210,6 +210,10 @@ This section is intended to be followed by the user being registered. Please sel
         <span data-uuid="905a259b-c572-493c-a9d4-bbfa19495fcf" style="display:none"></span>
         Click **Sign up**
 
+        <span data-uuid="a6dd4e96-1d9d-4a1e-bb81-b36802d48a7f" style="display:none"></span>
+        ![](../assets/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light)
+        ![](../assets/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark)
+
 === "Existing Opus User (Using an existing account)"
 
     <span data-uuid="e7729746-4268-4635-b8f9-a5e72ec26bf3" style="display:none"></span>
