@@ -21,7 +21,7 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="f4708510-3406-4d58-ae6e-5fcee0caf93a" style="display:none"></span>
     The Days lost by site table in the incident report has been updated. In the 'Days lost' column, a warning icon will appear for incidents where the number of days lost has not been specified. Hovering over the icon displays a message showing the count of the calendar days since the incident. 
 
-    ![Animation](../assets/animations/APaQ0SRsFACNA8iJKinXvz4imuNFmvul5rTV6NW8_523747c5.gif){ width="700" align=right }
+    ![Animation](../assets/media/other/animations/APaQ0SRsFACNA8iJKinXvz4imuNFmvul5rTV6NW8_523747c5.gif){ width="700" align=right }
 ??? feature-release "Feature release: Task Export / Print<span class="meta">8th March 2026</span>"
 
     <span data-uuid="7e5eb1d0-3ce3-4a76-bd2d-564be70b5f98" style="display:none"></span>
@@ -41,16 +41,16 @@ This page highlights the main user-facing improvements, additions and feature re
     4. Click **Print this page** — this triggers your browser's print dialogue where you can print or save as PDF.
 
     <span data-uuid="aeec9fc4-7f1d-4522-a630-0914e091a625" style="display:none"></span>
-    ![](../assets/occ-captures/todos/uuid/export-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/todos/uuid/export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/todos/uuid/export-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/todos/uuid/export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
     <span data-uuid="876c7920-bbfb-40da-828e-e83bdf2e8c1c" style="display:none"></span>
-    ![](../assets/occ-captures/todos/uuid/export/print-or-export-light-mode.png#only-light)
-    ![](../assets/occ-captures/todos/uuid/export/print-or-export-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/todos/uuid/export/print-or-export-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/todos/uuid/export/print-or-export-dark-mode.png#only-dark)
 
     <span data-uuid="0a7134fc-eb23-4724-8143-d5be843c7f84" style="display:none"></span>
-    ![](../assets/occ-captures/todos/uuid/export/tom-baverstock-light-mode.png#only-light)
-    ![](../assets/occ-captures/todos/uuid/export/tom-baverstock-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/todos/uuid/export/tom-baverstock-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/todos/uuid/export/tom-baverstock-dark-mode.png#only-dark)
 
     !!! tip
 
@@ -72,7 +72,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     If you would like to bulk reduce any employee's access to the new Manager level, please contact us or submit [a support request.](https://sites.google.com/opus-safety.co.uk/opus-help/hidden-pages/groove-get-in-touch)
 
-    ![Animation](../assets/animations/APaQ0ST4wuGMEIs0gTX1NM70Px7BxiUfNB2uoGLL_34f1a9e9.gif){ width="300" loading=lazy }
+    ![Animation](../assets/media/other/animations/APaQ0ST4wuGMEIs0gTX1NM70Px7BxiUfNB2uoGLL_34f1a9e9.gif){ width="300" loading=lazy }
 ??? improvement "Improvement: Streamlined Process for Adding New Employees<span class="meta">23rd February 2026</span>"
 
     <span data-uuid="55356b33-d920-4ffb-888b-7a5efc24df41" style="display:none"></span>
@@ -82,7 +82,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     [See the latest guide on adding employees for full instructions](https://sites.google.com/opus-safety.co.uk/opus-help/employees/employee-management/adding-a-new-employee) — steps 7–9 outline the new changes in detail.
 
-    ![Animation](../assets/screenshots/APaQ0SS0iS_GT-LmInc6mJXAxarAch-sXSivsGny_47019667.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SS0iS_GT-LmInc6mJXAxarAch-sXSivsGny_47019667.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Disable Reminder Tasks<span class="meta">5th February 2026</span>"
 
     <span data-uuid="c969ded2-a178-46b7-970d-d6ab2385cd3d" style="display:none"></span>
@@ -90,9 +90,9 @@ This page highlights the main user-facing improvements, additions and feature re
 
     For example, it can be used for pre-use checks or procedure-based playbooks. Resources with their reminders disabled can be identified via the snoozed clock icon.
 
-    ![Animation](../assets/screenshots/APaQ0SQjSwrhd4uLyfKzVUaYpSq5JSY93C9TIpop_10504f62.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQjSwrhd4uLyfKzVUaYpSq5JSY93C9TIpop_10504f62.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SQnwUuTB8lCmx4MVkaTPibmv0jgcmGIRDIg_9ac3dcad.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQnwUuTB8lCmx4MVkaTPibmv0jgcmGIRDIg_9ac3dcad.png){ width="700" loading=lazy }
 ### January 2026
 
 ??? feature-release "Feature release: Inbox Coach<span class="meta">29th January 2026</span>"
@@ -107,8 +107,8 @@ This page highlights the main user-facing improvements, additions and feature re
         **You have tasks over 6 months old**
 
         <span data-uuid="0403d802-5184-4803-a7fc-fe0eea2241e2" style="display:none"></span>
-        ![](../assets/occ-captures/sites/uuid/inbox-coach-4-light-mode.png#only-light)
-        ![](../assets/occ-captures/sites/uuid/inbox-coach-4-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/sites/uuid/inbox-coach-4-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/sites/uuid/inbox-coach-4-dark-mode.png#only-dark)
 
     === "Amber"
 
@@ -116,8 +116,8 @@ This page highlights the main user-facing improvements, additions and feature re
         **You have tasks over 3 months old**
 
         <span data-uuid="9a6eff05-9c05-4e82-b310-bb2f73f61146" style="display:none"></span>
-        ![](../assets/occ-captures/sites/uuid/inbox-coach-3-light-mode.png#only-light)
-        ![](../assets/occ-captures/sites/uuid/inbox-coach-3-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/sites/uuid/inbox-coach-3-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/sites/uuid/inbox-coach-3-dark-mode.png#only-dark)
 
     === "Blue"
 
@@ -125,8 +125,8 @@ This page highlights the main user-facing improvements, additions and feature re
         **All tasks are under 3 months old**
 
         <span data-uuid="7032e579-ebfe-47eb-bf09-e56de8cf6a88" style="display:none"></span>
-        ![](../assets/occ-captures/sites/uuid/inbox-coach-2-light-mode.png#only-light)
-        ![](../assets/occ-captures/sites/uuid/inbox-coach-2-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/sites/uuid/inbox-coach-2-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/sites/uuid/inbox-coach-2-dark-mode.png#only-dark)
 
     === "Green"
 
@@ -134,8 +134,8 @@ This page highlights the main user-facing improvements, additions and feature re
         **All tasks are assigned and nothing is older than 3 months**
 
         <span data-uuid="85874161-43b6-488e-b3ca-191f4426bad5" style="display:none"></span>
-        ![](../assets/occ-captures/sites/uuid/inbox-coach-light-mode.png#only-light)
-        ![](../assets/occ-captures/sites/uuid/inbox-coach-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/sites/uuid/inbox-coach-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/sites/uuid/inbox-coach-dark-mode.png#only-dark)
 
     !!! info
 
@@ -148,7 +148,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     This is especially useful for non-managers, who can now clearly see and demonstrate when a checklist was last submitted — for example, showing when an LGV daily check was completed if stopped at the roadside.
 
-    ![Animation](../assets/screenshots/APaQ0SRcT5qiJXgonegY4Ymo2ypWguYj3Rof7mpg_56d4d5ff.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRcT5qiJXgonegY4Ymo2ypWguYj3Rof7mpg_56d4d5ff.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Incident Email Notifications Enhanced<span class="meta">29th January 2026</span>"
 
     <span data-uuid="58ba988b-d912-46c3-8060-e5aa0472428c" style="display:none"></span>
@@ -158,7 +158,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Note: If a user receives a notification after the incident summary has been completed, the email will show the summary instead of the original description.
 
-    ![Animation](../assets/screenshots/APaQ0SS2NjerY_f9fh3ntJh8lL5n4LgCf6R4f8DS_bab1c410.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SS2NjerY_f9fh3ntJh8lL5n4LgCf6R4f8DS_bab1c410.png){ width="700" loading=lazy }
 ## 2025
 
 ---
@@ -170,7 +170,7 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="8b4a12f6-3571-480e-bf0b-00b59c109ef8" style="display:none"></span>
     We have added a 'Linked' filter on both the All Employees and Employees with Site Access pages. This allows you to filter and see which employee records have been linked to an Opus account — it defaults to 'Both'.
 
-    ![Animation](../assets/screenshots/APaQ0STSdwZfmndIc4irE6dR3w17vQfjYVgNhA-b_10bfe3cf.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STSdwZfmndIc4irE6dR3w17vQfjYVgNhA-b_10bfe3cf.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Role + Asset Type Requirements - Schedule Added to Hover-overs<span class="meta">18th December 2025</span>"
 
     <span data-uuid="a44721bf-63df-4014-962a-b2977bab65c9" style="display:none"></span>
@@ -178,9 +178,9 @@ This page highlights the main user-facing improvements, additions and feature re
 
     This also extends to the Manage Asset Types and Manage Roles pages — making it easier to check requirement schedules without opening each one.
 
-    ![Animation](../assets/screenshots/APaQ0SQ0sEBVxqSItwzuADbVQr93xLo5XGUAVQZm_bb704345.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQ0sEBVxqSItwzuADbVQr93xLo5XGUAVQZm_bb704345.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SSoF2jInMgXQue64PmSjlSyzpSO1kXW6wD4_88990b10.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSoF2jInMgXQue64PmSjlSyzpSO1kXW6wD4_88990b10.png){ width="700" loading=lazy }
 ### October 2025
 
 ??? feature-release "Feature release: Task Query<span class="meta">23rd October 2025</span>"
@@ -190,13 +190,13 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Autocomplete suggestions appear for: site, author, assignee, label. *(Role and Type coming soon.)*
 
-    ![Animation](../assets/screenshots/APaQ0SQ3TCzlH8J9V8DnYL73g-80weLGqmWJbPu3_10536174.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQ3TCzlH8J9V8DnYL73g-80weLGqmWJbPu3_10536174.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/animations/APaQ0SScXT4EoGhq_ZDCCDotDmMrRFlOSPAW8B7M_81e7996c.gif){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/animations/APaQ0SScXT4EoGhq_ZDCCDotDmMrRFlOSPAW8B7M_81e7996c.gif){ width="700" loading=lazy }
 
     You can use the following operators to refine your search: **has**, **has one of**, **does not have**. You can also combine parameter searches with free text search (which searches task titles).
 
-    ![Animation](../assets/screenshots/APaQ0SRTKd5R40CBvZQ1UzP3zKSkZ7ONiAb8AALW_a3957aa3.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRTKd5R40CBvZQ1UzP3zKSkZ7ONiAb8AALW_a3957aa3.png){ width="700" loading=lazy }
 
     Our Knowledge Base article on [Task Queries](https://sites.google.com/opus-safety.co.uk/opus-help/reports-searches-exports/searching-tasks-task-reports?authuser=0#h.qlh475jipz8v) has been updated.
 ??? improvement "Improvement: Site Inbox<span class="meta">23rd October 2025</span>"
@@ -211,13 +211,13 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Note: This threshold will likely change to three months in a future update.
 
-    ![Animation](../assets/screenshots/APaQ0SRPMm8p6LmcctcT8Z_FuuLtCBXr8Xw5f39U_f41a091e.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRPMm8p6LmcctcT8Z_FuuLtCBXr8Xw5f39U_f41a091e.png){ width="700" loading=lazy }
 ??? improvement "Improvement: All Tasks<span class="meta">23rd October 2025</span>"
 
     <span data-uuid="7f126fab-38c0-43f2-bd3d-6bdb0cb2d0c4" style="display:none"></span>
     The All Tasks list has been upgraded following the same design improvements as the Site Inbox, with a few small differences in layout and behaviour. These changes make it easier to review and manage tasks across all sites at a glance.
 
-    ![Animation](../assets/screenshots/APaQ0STsZTjacbOomWpLUzkR4up7wfcr8feE3KP8_fee091f5.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STsZTjacbOomWpLUzkR4up7wfcr8feE3KP8_fee091f5.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Uploading Documents - Report Something Option<span class="meta">1st October 2025</span>"
 
     <span data-uuid="391ab77b-f4cf-40dc-9ccc-8ba446b35aef" style="display:none"></span>
@@ -231,7 +231,7 @@ This page highlights the main user-facing improvements, additions and feature re
     - Link documents and corrective actions together
     - Ensure nothing gets lost between paperwork and action
 
-    ![Animation](../assets/screenshots/APaQ0SRBykOIV5-A8OJQ1VYTF15C2eHSkNjQ0et9_4461d0ff.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRBykOIV5-A8OJQ1VYTF15C2eHSkNjQ0et9_4461d0ff.png){ width="700" loading=lazy }
 ### September 2025
 
 ??? improvement "Improvement: Future Starter UI Tweaks<span class="meta">4th September 2025</span>"
@@ -239,9 +239,9 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="8f2a0892-32ef-4148-8814-4c7dabe969eb" style="display:none"></span>
     We've made some slight changes for employees with a future start date. They will now show with a specific future date style, along with an informational panel explaining that tasks won't be generated until their start date (they can still carry out E-learning etc. ahead of that time).
 
-    ![Animation](../assets/screenshots/APaQ0STBc3ZZXgHNNJVKkrCu_917q_5jfz69noz8_1b3fa9bd.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STBc3ZZXgHNNJVKkrCu_917q_5jfz69noz8_1b3fa9bd.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SRAsEo8g3aXy-0NHgztoyllVKWJw9GMCFY9_532009e8.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRAsEo8g3aXy-0NHgztoyllVKWJw9GMCFY9_532009e8.png){ width="700" loading=lazy }
 ### August 2025
 
 ??? feature-release "Feature release: Temporary Access for Non-Registered Employees<span class="meta">28th August 2025</span>"
@@ -253,17 +253,17 @@ This page highlights the main user-facing improvements, additions and feature re
 
     You can find the option to generate the QR code / link on the employee dashboard in the Training, E-learning and Playbooks sections. Once expired, it can be regenerated. Individual links can still be used if preferred.
 
-    ![Animation](../assets/screenshots/APaQ0SRn7L9CgesiO1aYQgFV5KhTsJacylYcCteZ_e1c7a359.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRn7L9CgesiO1aYQgFV5KhTsJacylYcCteZ_e1c7a359.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0STi-oZDxLBaSINC1BcuYqtV5fR-bWW3VoFf_fe4357d2.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STi-oZDxLBaSINC1BcuYqtV5fR-bWW3VoFf_fe4357d2.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SRoO99DmmuCIuthnktVpTMb5xsdnfpl9m8V_23dac82c.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRoO99DmmuCIuthnktVpTMb5xsdnfpl9m8V_23dac82c.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Playbooks - Ability to Check Progress<span class="meta">28th August 2025</span>"
 
     <span data-uuid="61b836ba-d07a-4242-a753-b408d19fd79e" style="display:none"></span>
     You can now see what section a playbook is on via the Playbook submission history. Hovering over will give you the name of the section.
 
-    ![Animation](../assets/screenshots/APaQ0SSBklO1F1kn4U-pu0MgbfTSYS46em3xkDle_da665236.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSBklO1F1kn4U-pu0MgbfTSYS46em3xkDle_da665236.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Checklist Cadence Graphs<span class="meta">20th August 2025</span>"
 
     <span data-uuid="dd19690a-46d1-4c3c-a6b9-edc99bf8ea03" style="display:none"></span>
@@ -278,7 +278,7 @@ This page highlights the main user-facing improvements, additions and feature re
     !!! tip
         If you'd like a custom page showing multiple checklist cadence graphs (e.g. across multiple sites), please speak to Opus and we can help set this up.
 
-    ![Animation](../assets/screenshots/APaQ0STTkoRqELPB7XrEIo0AMAAJENqjuwO0sYxf_95484d8f.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STTkoRqELPB7XrEIo0AMAAJENqjuwO0sYxf_95484d8f.png){ width="700" loading=lazy }
 ### July 2025
 
 ??? improvement "Improvement: Terminology Change from 'Diverge' to 'Override'<span class="meta">29th July 2025</span>"
@@ -290,7 +290,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     If you're unsure about overriding or how templates work, please contact Opus Safety for guidance.
 
-    ![Animation](../assets/screenshots/APaQ0SR9jArHQDeXV-4jKE-uk_F5SSaYs-GKV2S-_00423586.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SR9jArHQDeXV-4jKE-uk_F5SSaYs-GKV2S-_00423586.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Introducing 'Immediate' Task Severity<span class="meta">29th July 2025</span>"
 
     <span data-uuid="1bf25532-4010-4aac-b168-761a23788146" style="display:none"></span>
@@ -302,13 +302,13 @@ This page highlights the main user-facing improvements, additions and feature re
 
     You can use this now by changing the severity of an existing task. If you'd like Opus to update any checklists so that specific triggering responses create an Immediate corrective action, please get in touch.
 
-    ![Animation](../assets/animations/APaQ0STIv57hNZ0yKFJ1tqpqzpaX_6t9OB-L9n4N_e14aa31f.gif){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/animations/APaQ0STIv57hNZ0yKFJ1tqpqzpaX_6t9OB-L9n4N_e14aa31f.gif){ width="700" loading=lazy }
 ??? new-addition "New addition: Search Bar Added to 'My Sites' Page<span class="meta">24th July 2025</span>"
 
     <span data-uuid="1a6a5aae-d207-4d34-9827-68c0ac1172c1" style="display:none"></span>
     You'll now see a live search bar at the top of your 'My Sites' page. As you type, the list instantly filters to match your input — no more scrolling or relying on your browser's search function.
 
-    ![Animation](../assets/screenshots/APaQ0STsuzSRQkklOTjbefyi_vFX-ccqnV2quxq6_146c6d8f.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STsuzSRQkklOTjbefyi_vFX-ccqnV2quxq6_146c6d8f.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Adding Linked Actions to Document Submissions<span class="meta">24th July 2025</span>"
 
     <span data-uuid="3dcd65f3-53c3-4efb-9b0d-24b6493c5f2e" style="display:none"></span>
@@ -318,9 +318,9 @@ This page highlights the main user-facing improvements, additions and feature re
 
     The task will show document details with links to download / view or navigate to the manage document page. It will also appear on the manage document page under **Related Tasks**.
 
-    ![Animation](../assets/screenshots/APaQ0SSK7BZKp_GweT7f6oecXlvJorS_huozrp_4_7ccdb102.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSK7BZKp_GweT7f6oecXlvJorS_huozrp_4_7ccdb102.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0STrNKcmMQxWL_4yRQp3mjc93Sj4mobsmyHl_be0a174e.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STrNKcmMQxWL_4yRQp3mjc93Sj4mobsmyHl_be0a174e.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Report Templates - Repeat Report<span class="meta">24th July 2025</span>"
 
     <span data-uuid="1cb2407b-ec86-4c00-965d-3bf0f2ab1dfa" style="display:none"></span>
@@ -328,9 +328,9 @@ This page highlights the main user-facing improvements, additions and feature re
 
     This is especially useful when adding multiple sub tasks — once you add the first, check this box and keep adding more until you're done.
 
-    ![Animation](../assets/screenshots/APaQ0SSwNKBPiAt6EOW7kcBLruquTzaGlcUKfQxL_c13a7bf4.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSwNKBPiAt6EOW7kcBLruquTzaGlcUKfQxL_c13a7bf4.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SQ__-AP0wLJ-5wRj1JGmdq_UUvSrgSxHpv9_ba14f531.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQ__-AP0wLJ-5wRj1JGmdq_UUvSrgSxHpv9_ba14f531.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Role Required Documents<span class="meta">10th July 2025</span>"
 
     <span data-uuid="50e2a355-c2b8-4edc-8cda-603ea43d55d4" style="display:none"></span>
@@ -338,7 +338,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     This is ideal for anything you want to make compulsory that isn't training — such as a new starter form, driver declaration, or licence check.
 
-    ![Animation](../assets/screenshots/APaQ0SSF4eRPRcqye57Z0024teyWwyjlLN9yV31H_63e43dcd.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSF4eRPRcqye57Z0024teyWwyjlLN9yV31H_63e43dcd.png){ width="700" loading=lazy }
 ??? feature-release "Feature release: Playbooks<span class="meta">10th July 2025</span>"
 
     <span data-uuid="42ffee43-91a7-4600-8eac-ea19e1b1b69e" style="display:none"></span>
@@ -360,9 +360,9 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Playbooks can be site, employee or asset-based and can be role or asset type requirements. We can also combine any checklist option with a playbook (Y/N, free text, photo, etc).
 
-    ![Animation](../assets/screenshots/APaQ0SSrGGxd96GwbKybdh070G9lorz-2bl18UrA_83bdadee.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSrGGxd96GwbKybdh070G9lorz-2bl18UrA_83bdadee.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SQvnlvHcmPCqzmn-wRQGNzOVpRvlGHMqHLS_05cfb70c.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQvnlvHcmPCqzmn-wRQGNzOVpRvlGHMqHLS_05cfb70c.png){ width="700" loading=lazy }
 ### June 2025
 
 ??? new-addition "New addition: Alternative Notification Style<span class="meta">18th June 2025</span>"
@@ -376,7 +376,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     We've also optimised the code around in-system notifications so the count updates quicker.
 
-    ![Animation](../assets/screenshots/APaQ0SQzZ27B2eUrZuv1zhpli2qi9teSKa9vrXq1_e9ce61be.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQzZ27B2eUrZuv1zhpli2qi9teSKa9vrXq1_e9ce61be.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Custom Quick Filters<span class="meta">12th June 2025</span>"
 
     <span data-uuid="486bade8-f7cc-4206-8c00-4e14262d6f58" style="display:none"></span>
@@ -384,7 +384,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     So if there are search queries you use regularly — for example 'Corrective Actions from Employee Checklists' — Opus can add that for you to save time.
 
-    ![Animation](../assets/screenshots/APaQ0SSGi-9YKJuehHisDB-EzBNeWM__Fm9Vtdkv_54843a53.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSGi-9YKJuehHisDB-EzBNeWM__Fm9Vtdkv_54843a53.png){ width="700" loading=lazy }
 ??? feature-release "Feature release: Document Sharing<span class="meta">5th June 2025</span>"
 
     <span data-uuid="31eddf36-4c59-44b9-9310-d0d33a8aebbe" style="display:none"></span>
@@ -397,9 +397,9 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Note: If you have access to multiple sites you can choose which site to view the document at, as they may have different files attached.
 
-    ![Animation](../assets/screenshots/APaQ0SRrOZjvqmVCLSJ5Y3rIO3YifujZnBF-i2DC_f10a2b08.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRrOZjvqmVCLSJ5Y3rIO3YifujZnBF-i2DC_f10a2b08.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SR7eYTN5WL_rgoW_7G-Tj45ZvY1XyW9IlBf_ffc702bf.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SR7eYTN5WL_rgoW_7G-Tj45ZvY1XyW9IlBf_ffc702bf.png){ width="700" loading=lazy }
 ### May 2025
 
 ??? feature-release "Feature release: Checklist Completion by Non-Logged-In and Anonymous Users<span class="meta">22nd May 2025</span>"
@@ -414,9 +414,9 @@ This page highlights the main user-facing improvements, additions and feature re
 
     You can make this change by editing the checklist and changing the **'Submittable by'** setting.
 
-    ![Animation](../assets/screenshots/APaQ0SQWFKBLis0SzhleL6f1nlbWcGrDVhZ0PfjY_6107f70c.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQWFKBLis0SzhleL6f1nlbWcGrDVhZ0PfjY_6107f70c.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SR3rDi0L8jjXXQy0JpJLEcRE4huU_p_gmoI_686035a3.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SR3rDi0L8jjXXQy0JpJLEcRE4huU_p_gmoI_686035a3.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Ability to Preview E-learning Courses<span class="meta">22nd May 2025</span>"
 
     <span data-uuid="5c9f44a3-4bb0-4cbc-aef6-f7bebbc1f4b6" style="display:none"></span>
@@ -427,7 +427,7 @@ This page highlights the main user-facing improvements, additions and feature re
     - **Role Requirements:** Navigate to your role requirements and click on a course.
     - **Your E-learning Templates Page:** via Site Manage, then the **...** 'other options' in the top right.
 
-    ![Animation](../assets/screenshots/APaQ0SQsZIvFLLglqe0u2OmrIjSlz5hCx3yfTtAQ_8971ca43.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQsZIvFLLglqe0u2OmrIjSlz5hCx3yfTtAQ_8971ca43.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Checklist Informationals<span class="meta">14th May 2025</span>"
 
     <span data-uuid="7a2fa6f6-9fac-4971-b0dc-5a69311d2750" style="display:none"></span>
@@ -440,7 +440,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     As a reminder — in addition to standard yes / no questions, we also have free text entry and upload image question types.
 
-    ![Animation](../assets/screenshots/APaQ0SRPwWMKhMG79dI9FSikDMGNlC48EhWW3_4o_b9bf8446.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRPwWMKhMG79dI9FSikDMGNlC48EhWW3_4o_b9bf8446.png){ width="700" loading=lazy }
 ### April 2025
 
 ??? improvement "Improvement: Alternative Audit Report Views<span class="meta">6th April 2025</span>"
@@ -455,7 +455,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     You can print any of these views — the print view has been improved too. See our guide on [How to Save Pages as PDFs / Print Pages](https://sites.google.com/opus-safety.co.uk/opus-help/tips-faqs/faqs#h.5hyvad1kyv6b).
 
-    ![Animation](../assets/screenshots/APaQ0STZW54svmc5g6o3m6TxsTlyE5l65iYOSvF8_df887892.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STZW54svmc5g6o3m6TxsTlyE5l65iYOSvF8_df887892.png){ width="700" loading=lazy }
 ### March 2025
 
 ??? improvement "Improvement: Employee List Authorisation Filters<span class="meta">20th March 2025</span>"
@@ -463,27 +463,27 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="639c2431-219a-4575-be7c-5cd2a19f69a5" style="display:none"></span>
     You can now filter your staff list to see who has the sensitive health authorisation, if this is used in your organisation.
 
-    ![Animation](../assets/screenshots/APaQ0STxD2ZsfnEhFosrfrSMXdGS1TuuTZqm1DQ-_1422c27c.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STxD2ZsfnEhFosrfrSMXdGS1TuuTZqm1DQ-_1422c27c.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Staff Export - Additional Columns Added<span class="meta">20th March 2025</span>"
 
     <span data-uuid="c271382e-d998-413f-97cc-a51a583de2e3" style="display:none"></span>
     Based on feedback, we've added Created Date, Start Date and Health Data Authorisation columns to the export.
 
-    ![Animation](../assets/screenshots/APaQ0SRl-4mDHDdVjs_61c1ZHdGIyVfYRzWmLVWI_aadcb7cf.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRl-4mDHDdVjs_61c1ZHdGIyVfYRzWmLVWI_aadcb7cf.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Subtask Title Prefix<span class="meta">20th March 2025</span>"
 
     <span data-uuid="2b414b0e-f311-45a4-80d5-1c2e2d6d67bd" style="display:none"></span>
     We now auto-add the master task name as a prefix to the sub task name. This makes it easier to understand the context of a sub task when seen in the tasks list. You can still update the title to whatever you'd like.
 
-    ![Animation](../assets/screenshots/APaQ0SQ1Z4OK-XlMXRA0CGA5oP4FkOktdlI7aSdl_70bc90b3.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQ1Z4OK-XlMXRA0CGA5oP4FkOktdlI7aSdl_70bc90b3.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SR3MltRAaYUhtzdZl2G_3BdGp39sD0w4rfx_25e83a5c.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SR3MltRAaYUhtzdZl2G_3BdGp39sD0w4rfx_25e83a5c.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Assign Myself<span class="meta">18th March 2025</span>"
 
     <span data-uuid="b496c611-57aa-476a-adee-2d92f615290f" style="display:none"></span>
     The new **Assign Myself** button allows you to assign tasks to yourself with just one click, bypassing the need to search through a list.
 
-    ![Animation](../assets/screenshots/APaQ0SRHrHDEY_mr1TcaeMjPIIfzCVj_wW-qrUsw_83289617.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRHrHDEY_mr1TcaeMjPIIfzCVj_wW-qrUsw_83289617.png){ width="700" loading=lazy }
 ### February 2025
 
 ??? feature-release "Feature release: Health Data Access Controls<span class="meta">15th February 2025</span>"
@@ -499,7 +499,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Please read the updated [Health Data: Access Controls](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/health-surveillance-access) article.
 
-    ![Animation](../assets/screenshots/APaQ0STTq5PqR9XSFwcSxPl09_I687au8fbnmagt_d0227883.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STTq5PqR9XSFwcSxPl09_I687au8fbnmagt_d0227883.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Report Type Filter<span class="meta">10th February 2025</span>"
 
     <span data-uuid="d98d6485-ac65-4c75-8c8d-4d55c6d80a46" style="display:none"></span>
@@ -509,7 +509,7 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="58f0f382-c57c-43c7-bbfc-d34d4588c91d" style="display:none"></span>
     When you add an employee, you will always be taken to a page to add site access. If you fail to complete this step, a warning will now be displayed both on this page and on the employee's profile.
 
-    ![Animation](../assets/screenshots/APaQ0STD1oBtV9i9UkMOZuWxCHX1Wb_UzlFAJStN_081ae2c1.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STD1oBtV9i9UkMOZuWxCHX1Wb_UzlFAJStN_081ae2c1.png){ width="700" loading=lazy }
 ### January 2025
 
 ??? improvement "Improvement: Accident Form - Enhanced Employee Selection<span class="meta">30th January 2025</span>"
@@ -518,7 +518,7 @@ This page highlights the main user-facing improvements, additions and feature re
     1. You can now select archived employees in the "Injured Employee" field if the accident occurred during their employment period, using the employee's start and last day dates for accurate record-keeping.
     2. For clients managing multiple sites, the "Injured Employee" field now pulls employees from the site where the accident occurred as well as the site specified in the "Against Which Site Should This Be Logged?" field.
 
-    ![Animation](../assets/screenshots/APaQ0SSziqK63_rstknQFlSLas6984hT-_kUtBvs_1b44d31b.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSziqK63_rstknQFlSLas6984hT-_kUtBvs_1b44d31b.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Irregular Schedules<span class="meta">16th January 2025</span>"
 
     <span data-uuid="5a7e1f77-b1ee-44af-a2be-0e53583ee1e2" style="display:none"></span>
@@ -526,7 +526,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     This feature allows you to set the date of the new training / document and then manually add the review date. Please get in touch if you would like to use this feature.
 
-    ![Animation](../assets/screenshots/APaQ0SQlnKaYWE8r1Xrzgt8AcVsdaia29HBCUkvh_7af14cef.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQlnKaYWE8r1Xrzgt8AcVsdaia29HBCUkvh_7af14cef.png){ width="700" loading=lazy }
 ??? feature-release "Feature release: Bespoke Task Labels<span class="meta">2nd January 2025</span>"
 
     <span data-uuid="b9ff90ba-9eb9-4bf1-ac01-0bc56d7757f0" style="display:none"></span>
@@ -536,7 +536,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Please get in touch if you would like to discuss this.
 
-    ![Animation](../assets/screenshots/APaQ0SQkHaXzUFqMw_x5521U1owHGU0fCnyFAGBE_9d1daaf6.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQkHaXzUFqMw_x5521U1owHGU0fCnyFAGBE_9d1daaf6.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Bespoke Checklist Style Report Templates<span class="meta">2nd January 2025</span>"
 
     <span data-uuid="582739fa-de4c-4d82-a32a-7b56f40abf78" style="display:none"></span>
@@ -546,7 +546,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Please get in touch if you think this feature would be of use.
 
-    ![Animation](../assets/screenshots/APaQ0STZ2Yi3HZFqIg7Cfi_bjeP5tZD8H-TsFagq_0a9d985c.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STZ2Yi3HZFqIg7Cfi_bjeP5tZD8H-TsFagq_0a9d985c.png){ width="700" loading=lazy }
 ## 2024
 
 ---
@@ -560,21 +560,21 @@ This page highlights the main user-facing improvements, additions and feature re
 
     It allows you to see on one page what the default schedules are for training and E-learning templates, and identify any divergences — indicating employees have records not using the default schedules (usually because a manager has altered the schedule).
 
-    ![Animation](../assets/screenshots/APaQ0SR0QgTy9DnyJpqqcUEQvz59XRsiWcV7vjG5_326d76ce.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SR0QgTy9DnyJpqqcUEQvz59XRsiWcV7vjG5_326d76ce.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SSfeTdIHeVgFk1yCYB3OTv4_UBi6EkGG630_0503796f.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSfeTdIHeVgFk1yCYB3OTv4_UBi6EkGG630_0503796f.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Briefings & Sign-off Sheets Global View<span class="meta">20th December 2024</span>"
 
     <span data-uuid="74e1b9ca-e797-49fe-b4b2-b9bf8716f45d" style="display:none"></span>
     You can now see briefings and staff sign-off sheets across all your sites.
 
-    ![Animation](../assets/screenshots/APaQ0STUeNJ5FEAqQgzb2ghhvE59vRqZyOV7kWup_ce76a188.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STUeNJ5FEAqQgzb2ghhvE59vRqZyOV7kWup_ce76a188.png){ width="700" loading=lazy }
 ??? improvement "Improvement: To-do Tasks Automatic Reopen<span class="meta">20th December 2024</span>"
 
     <span data-uuid="50b3a3d0-f311-4ad7-a0fc-10854d8aac66" style="display:none"></span>
     If a user tries to resolve a task without completing the requirement — e.g. adding a training record or completing a checklist — the task will now reopen straight away, rather than closing and generating a new task.
 
-    ![Animation](../assets/screenshots/APaQ0SR3EvGF2EgDQLaFzws1baz_gcGnfWlspg3__d66de581.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SR3EvGF2EgDQLaFzws1baz_gcGnfWlspg3__d66de581.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Warning if Assignee Cannot Complete the Task<span class="meta">20th December 2024</span>"
 
     <span data-uuid="08345ddf-79ab-4ffa-80fb-b33961e3c72c" style="display:none"></span>
@@ -582,27 +582,27 @@ This page highlights the main user-facing improvements, additions and feature re
 
     A warning icon also appears next to the assigned user.
 
-    ![Animation](../assets/screenshots/APaQ0STAt5OcLi3n-4ThBJHpIYtAQ7e8Hk8eAGz3_93f20240.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STAt5OcLi3n-4ThBJHpIYtAQ7e8Hk8eAGz3_93f20240.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SR2mL8I3qaY84gv_VfcxyKTqPowJPMy8-PX_d4fbdcc7.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SR2mL8I3qaY84gv_VfcxyKTqPowJPMy8-PX_d4fbdcc7.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Easily Identify Role or Type-Specific Requirements<span class="meta">19th December 2024</span>"
 
     <span data-uuid="5da7515b-7b8a-4d11-9811-ab801bd38252" style="display:none"></span>
     You can now click on an employee role or asset type to see which records relate to that role / type.
 
-    ![Animation](../assets/screenshots/APaQ0STW1Z4P-Wlfg1A_Ns2pW1w-at9-00d8REKT_3331c681.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STW1Z4P-Wlfg1A_Ns2pW1w-at9-00d8REKT_3331c681.png){ width="700" loading=lazy }
 ??? new-addition "New addition: My Assigned Tasks - Snoozed and Resolved Filters<span class="meta">18th December 2024</span>"
 
     <span data-uuid="f5e5983e-6beb-4d9b-95dd-f9d247266e5d" style="display:none"></span>
     My assigned tasks now has filters for snoozed and resolved tasks to help you manage your workload.
 
-    ![Animation](../assets/screenshots/APaQ0SQYaharoty_a6H_HyjvvfBLxk94IPHWnyMq_cfd37c2e.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQYaharoty_a6H_HyjvvfBLxk94IPHWnyMq_cfd37c2e.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Site Snapshot - Archived Records<span class="meta">18th December 2024</span>"
 
     <span data-uuid="18c5b3bd-4827-4912-9793-681cd9d2185e" style="display:none"></span>
     You can now opt to see archived records in the snapshot pages.
 
-    ![Animation](../assets/screenshots/APaQ0SQKVfKDZN8XvjAkgcIhroc1uol7I4lolPcg_2fa8e0d1.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQKVfKDZN8XvjAkgcIhroc1uol7I4lolPcg_2fa8e0d1.png){ width="700" loading=lazy }
 ??? feature-release "Feature release: My Dashboard Full Release<span class="meta">16th December 2024</span>"
 
     <span data-uuid="2f36f7ed-bb15-4a7b-a886-cc6c0feb7939" style="display:none"></span>
@@ -612,21 +612,21 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Thank you to the beta testers!
 
-    ![Animation](../assets/screenshots/APaQ0SROHVSqM_zh6UMt7sq2nJsV_vVgr6lNTpp9_86739f64.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SROHVSqM_zh6UMt7sq2nJsV_vVgr6lNTpp9_86739f64.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Spillage Report Type<span class="meta">7th December 2024</span>"
 
     <span data-uuid="f2dc6605-a141-44d5-a9ee-406eefb05768" style="display:none"></span>
     We've added a new optional report type specifically designed for recording spillages. Particularly useful for clients who are ISO 14001 accredited and require detailed spillage documentation.
 
-    ![Animation](../assets/screenshots/APaQ0SQlG3cLjcuk6JRA1W3N4US88YL_J7ubcFVV_b75b117d.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQlG3cLjcuk6JRA1W3N4US88YL_J7ubcFVV_b75b117d.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Accident Report Template - Contact Details Tweaks<span class="meta">5th December 2024</span>"
 
     <span data-uuid="2d0fb5ee-a446-4f18-9638-f8c7a9b056a4" style="display:none"></span>
     The form now has explicit separate areas for contact details for the person reporting and the injured party.
 
-    ![Animation](../assets/screenshots/APaQ0SRtUFDjNHejJId4m7sebj_DnC60sK2q-uck_99c2ded7.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRtUFDjNHejJId4m7sebj_DnC60sK2q-uck_99c2ded7.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SQC6Ewl8v6kzdUbYjfYzYzogh2o-lb06eF3_56a41965.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQC6Ewl8v6kzdUbYjfYzYzogh2o-lb06eF3_56a41965.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Accident Form - 'Days off Work' Change<span class="meta">5th December 2024</span>"
 
     <span data-uuid="c8f263b1-3c42-4df8-a939-b8705cc62f87" style="display:none"></span>
@@ -634,9 +634,9 @@ This page highlights the main user-facing improvements, additions and feature re
 
     This prevents users submitting '0' when they don't yet know if the employee has had time off, and then failing to update it later.
 
-    ![Animation](../assets/screenshots/APaQ0SQo01Zc4T6915nKuTVhGtrfYJjYvDqwucQ4_9c22e527.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQo01Zc4T6915nKuTVhGtrfYJjYvDqwucQ4_9c22e527.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SSZcxHejbRHQ6YGVtVId9CW_5TyMaeve3ZL_39c33bf4.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSZcxHejbRHQ6YGVtVId9CW_5TyMaeve3ZL_39c33bf4.png){ width="700" loading=lazy }
 ### November 2024
 
 ??? improvement "Improvement: Document Path Automation<span class="meta">10th November 2024</span>"
@@ -644,21 +644,21 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="7ed57513-4e62-4601-83cd-a2652a5eeeab" style="display:none"></span>
     The system now creates a file / folder path for you automatically. You can choose from existing folders. This should speed up the adding of new documents.
 
-    ![Animation](../assets/screenshots/APaQ0SRznIzP73YNW1mim6dPOTQVLgoYkuuMZmPN_59e348cc.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRznIzP73YNW1mim6dPOTQVLgoYkuuMZmPN_59e348cc.png){ width="700" loading=lazy }
 ??? improvement "Improvment: Role / Asset Type Requirements - Visual Indicator<span class="meta">10th November 2024</span>"
 
     <span data-uuid="26a4828a-6a4a-4e92-8f9c-6b4698f07853" style="display:none"></span>
     It's now easy to see whether a record is there because it was added to the asset / employee individually, or because it's a role or asset type requirement.
 
-    ![Animation](../assets/screenshots/APaQ0SRD1h6FwSWYexnWruJlcuyurAIOr-oNv0hl_6b36d265.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRD1h6FwSWYexnWruJlcuyurAIOr-oNv0hl_6b36d265.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SSPd0dPqiYeL2prmKHZAMBBCAltjH82qzmm_a0a0a3f6.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSPd0dPqiYeL2prmKHZAMBBCAltjH82qzmm_a0a0a3f6.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Checklist Tab Tree View<span class="meta">10th November 2024</span>"
 
     <span data-uuid="3f43fe7d-cbde-4d84-bd16-0927a49d8449" style="display:none"></span>
     It's now easier to see in one place which checklists across all sites and assets are due.
 
-    ![Animation](../assets/screenshots/APaQ0SRZOCebEZPRHAQn7ssJuFA8khvvSFeKctaa_567a91ff.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRZOCebEZPRHAQn7ssJuFA8khvvSFeKctaa_567a91ff.png){ width="700" loading=lazy }
 ??? new-addition "New addition: My Dashboard Beta Release<span class="meta">10th November 2024</span>"
 
     <span data-uuid="13297a80-736a-4eff-97b0-fd3996a22431" style="display:none"></span>
@@ -666,7 +666,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Opt in [here](https://cloud.opus-safety.co.uk/my/profile#:~:text=Save%20changes-,Preferences,-Change%20the%20behaviour) and let us know your thoughts.
 
-    ![Animation](../assets/screenshots/APaQ0STdx8_s8P4VEIOvy0WPyvVak9zwE-Gm4vHx_a7c5d826.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STdx8_s8P4VEIOvy0WPyvVak9zwE-Gm4vHx_a7c5d826.png){ width="700" loading=lazy }
 ### October 2024
 
 ??? new-addition "New addition: Flag Task Label<span class="meta">25th October 2024</span>"
@@ -680,7 +680,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     **Coming Soon:** Subscription options for flagged tasks — senior managers will be able to subscribe to the Flag Task label and receive notifications when tasks are marked with it.
 
-    ![Animation](../assets/screenshots/APaQ0SROMMzKCaKtEGzNWrnu0FE0S_R2h3cdRDAq_596d6b1b.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SROMMzKCaKtEGzNWrnu0FE0S_R2h3cdRDAq_596d6b1b.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Incident Summary Field<span class="meta">24th October 2024</span>"
 
     <span data-uuid="2b934d47-3e64-40fc-b25f-3f3f71f05143" style="display:none"></span>
@@ -698,7 +698,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     If you want to use this feature, please comment on the task(s) explaining why, then send us the task link(s).
 
-    ![Animation](../assets/screenshots/APaQ0SRE5ZqVc8-FTd1AWGzPxYNnN4AnpUzDO-aw_03db67ab.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRE5ZqVc8-FTd1AWGzPxYNnN4AnpUzDO-aw_03db67ab.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Employee Site Access Management<span class="meta">20th October 2024</span>"
 
     <span data-uuid="02a4b7d0-ab9a-4f2a-adb4-338cc084c6f3" style="display:none"></span>
@@ -706,7 +706,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     See [here](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/adding-a-new-employee) for more guidance.
 
-    ![Animation](../assets/screenshots/APaQ0SS76Avf-l2S_1FrdvjGIQ5pisCNLCEnLeta_29cefd27.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SS76Avf-l2S_1FrdvjGIQ5pisCNLCEnLeta_29cefd27.png){ width="700" loading=lazy }
 ### August 2024
 
 ??? improvement "Improvement: Ability to Add Photos or Use Camera for Document Uploads<span class="meta">22nd August 2024</span>"
@@ -714,7 +714,7 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="dfcfc35d-94ff-4f73-adb2-553c64149d84" style="display:none"></span>
     Previously PDF only, you can now upload images or take photos on a mobile device. Helpful for users who don't have PDF versions of certificates / reports or can't scan documents.
 
-    ![Animation](../assets/screenshots/APaQ0SSMnHc_E4xce1ttP31-euDdvGxM_GkO8lxO_0a91e2d7.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSMnHc_E4xce1ttP31-euDdvGxM_GkO8lxO_0a91e2d7.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Attach Image Multi-Select<span class="meta">22nd August 2024</span>"
 
     <span data-uuid="95619adb-4d84-40a2-9f89-45ce53938599" style="display:none"></span>
@@ -726,25 +726,25 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="db3b8272-9cfe-4a9a-81e3-c9290f824095" style="display:none"></span>
     When clicking on a card within the Site Snapshot (e.g. Training Due), the number of items listed now corresponds to the number on the card.
 
-    ![Animation](../assets/animations/APaQ0SSwOF_2Jn3UMrGmEOLayYVWmnAH7J4w07sg_28a51f15.gif){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/animations/APaQ0SSwOF_2Jn3UMrGmEOLayYVWmnAH7J4w07sg_28a51f15.gif){ width="700" loading=lazy }
 ??? improvement "Improvement: User Inbox Subscription Button<span class="meta">21st July 2024</span>"
 
     <span data-uuid="f550c574-03e5-49e6-96f2-a56022f77021" style="display:none"></span>
     Subscriptions button (located: User inbox > All Tasks) now functions as intended and takes you to subscriptions page.
 
-    ![Animation](../assets/animations/APaQ0STcm6Utv4y26an99RAS9C3mv5sdvdLFIUbB_4bdf0bcb.gif){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/animations/APaQ0STcm6Utv4y26an99RAS9C3mv5sdvdLFIUbB_4bdf0bcb.gif){ width="700" loading=lazy }
 ??? feature-release "Feature release: Printable Sign-off Sheets and Briefings<span class="meta">19th July 2024</span>"
 
     <span data-uuid="3ffe71b6-1c83-41a3-afe6-07024d4e1a2f" style="display:none"></span>
     You can now create a printable sign-off sheet and later turn it into a briefing. Useful for things such as toolbox talks.
 
-    ![Animation](../assets/screenshots/APaQ0SSOPvqiiFK0QUnQI0skox_UUTzIdMpN1HnU_621e3cad.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSOPvqiiFK0QUnQI0skox_UUTzIdMpN1HnU_621e3cad.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Site Snapshot - Asset Type / Employee Role Filtering<span class="meta">1st July 2024</span>"
 
     <span data-uuid="272e9b6f-8b0f-4dd8-b140-8f9981f43665" style="display:none"></span>
     You now have the ability to filter by asset type or employee role on both the Site Snapshot page and snapshot subpages.
 
-    ![Animation](../assets/screenshots/APaQ0SS4x0qgaJoKZbV1v6VQAqF90XsnoVthws-V_8fe5a89c.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SS4x0qgaJoKZbV1v6VQAqF90XsnoVthws-V_8fe5a89c.png){ width="700" loading=lazy }
 ### June 2024
 
 ??? improvement "Improvement: Profile & Settings UI<span class="meta">14th June 2024</span>"
@@ -752,7 +752,7 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="b37558df-3bda-4afc-baa4-c90c719c2659" style="display:none"></span>
     The profile & settings UI has been updated to assist with user account management and ease of use. Newsletters have also been added - located on the new top bar, along with Security, Subscriptions and Notifications.
 
-    ![Animation](../assets/screenshots/APaQ0SQauhPpv9Ggis83OGrg_xRBSMEHzaopFlW7_f39d8c5d.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQauhPpv9Ggis83OGrg_xRBSMEHzaopFlW7_f39d8c5d.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Individual User 2FA / MFA Refinement<span class="meta">14th June 2024</span>"
 
     <span data-uuid="7713f377-5fcc-4096-9365-66813f895300" style="display:none"></span>
@@ -760,19 +760,19 @@ This page highlights the main user-facing improvements, additions and feature re
 
     This menu is now located under "Security" in the Profile & Settings UI. An updated guide has also been posted in the Knowledge Base under tips.
 
-    ![Animation](../assets/screenshots/APaQ0ST4MpnG1aOVoKiVUqfL78qqTCmJWBDVVIfX_282b9ddb.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0ST4MpnG1aOVoKiVUqfL78qqTCmJWBDVVIfX_282b9ddb.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Mode Button UI Update<span class="meta">7th June 2024</span>"
 
     <span data-uuid="e9ec1d2e-9008-485e-a901-81175c5a4ee5" style="display:none"></span>
     Manage and View buttons have been recoloured and renamed to 'Switch to Manage Mode' / 'Switch to View Mode' to make it clearer to users which mode is being viewed.
 
-    ![Animation](../assets/screenshots/APaQ0STEFRWNh65cLfdbAfkaHJfOH3TvjIY8KtnT_2c01a401.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STEFRWNh65cLfdbAfkaHJfOH3TvjIY8KtnT_2c01a401.png){ width="700" loading=lazy }
 ??? feature-release "Feature release: Individual User 2FA/MFA<span class="meta">7th June 2024</span>"
 
     <span data-uuid="9d43e68b-43af-4ef7-ba5e-27693127e6b7" style="display:none"></span>
     New feature added to allow individual users to setup 2FA/MFA on their accounts.
 
-    ![Animation](../assets/screenshots/APaQ0STl7frI6riXEFSL0Ab__-w2wMidQxlCtivU_3e893ec9.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STl7frI6riXEFSL0Ab__-w2wMidQxlCtivU_3e893ec9.png){ width="700" loading=lazy }
 ### May 2024
 
 ??? improvement "Improvement: Safety Alerts Multi-Site Selection<span class="meta">23rd May 2024</span>"
@@ -780,13 +780,13 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="00963139-d7a9-4656-bd2c-d30b995d4c74" style="display:none"></span>
     Added ability to tick multiple sites in one go and toggle on / off for sub sites.
 
-    ![Animation](../assets/screenshots/APaQ0SQ-NbGj_hTcUFCc-0H7RCGmDeT9xxiMx6GL_989171f6.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQ-NbGj_hTcUFCc-0H7RCGmDeT9xxiMx6GL_989171f6.png){ width="700" loading=lazy }
 ??? new-addition "New addition: 'Signed in as' Name Display<span class="meta">23rd May 2024</span>"
 
     <span data-uuid="6b6ab2ea-31eb-4a81-bcd9-5f96c72994e0" style="display:none"></span>
     Added for cases where user might share devices. If the name here is wrong it indicates to the user that the previous user has not logged out or that they have shared a session and the other user has overwritten their display name.
 
-    ![Animation](../assets/screenshots/APaQ0SSQYSaAqLNadcugcZdUmh4SjEbSitBLkiXd_589e452a.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSQYSaAqLNadcugcZdUmh4SjEbSitBLkiXd_589e452a.png){ width="700" loading=lazy }
 ### April 2024
 
 ??? new-addition "New addition: Document Access Controls<span class="meta">25th April 2024</span>"
@@ -800,26 +800,26 @@ This page highlights the main user-facing improvements, additions and feature re
 
     We advise keeping as much documentation with the first option so that employees can read by scanning your site QR code.
 
-    ![Animation](../assets/screenshots/APaQ0SRKuR7qGARcf2na-E_tpmSVVy8C3JajUei__3bf1f949.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRKuR7qGARcf2na-E_tpmSVVy8C3JajUei__3bf1f949.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Accident / Near Miss Report Template Tweaks<span class="meta">19th April 2024</span>"
 
     <span data-uuid="9b25490f-88b4-4965-8bd7-26c7b49958e3" style="display:none"></span>
     - 'Occurrence site' changed to 'Against which site should this accident be logged' and moved to the investigation section.
     - New 'missing information' text changes.
 
-    ![Animation](../assets/screenshots/APaQ0SRIW_7_sUq4ofxUjgHf8V4TxaM-i-Oo4df6_14011a15.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRIW_7_sUq4ofxUjgHf8V4TxaM-i-Oo4df6_14011a15.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Role / Asset Type Pop-up<span class="meta">16th April 2024</span>"
 
     <span data-uuid="5b75fcff-f478-465a-b51b-46002db5c9e8" style="display:none"></span>
     Hover over role or asset types to see what Role Requirements or Asset Type Requirements are set. Also shown on adding new employees and assets via a more info ... button.
 
-    ![Animation](../assets/screenshots/APaQ0SQBm89QxoKbgoi_YAiowrdXqPwLfgg5PFF6_29a808ad.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQBm89QxoKbgoi_YAiowrdXqPwLfgg5PFF6_29a808ad.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Clear End Date<span class="meta">16th April 2024</span>"
 
     <span data-uuid="7d33ceeb-a1d1-499d-81bf-ee62293b8d30" style="display:none"></span>
     Added to more easily remove left dates on archived staff or assets.
 
-    ![Animation](../assets/screenshots/APaQ0SQVc849noh8AFgIeD3cNO51nXOvfWsWdhLN_7cd6e3e6.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQVc849noh8AFgIeD3cNO51nXOvfWsWdhLN_7cd6e3e6.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Reduced / Refined Notification Email<span class="meta">15th April 2024</span>"
 
     <span data-uuid="e8c78ed8-d9c1-432c-a07e-eee5ba1c3343" style="display:none"></span>
@@ -831,23 +831,23 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="8b7fa566-5bdc-427d-968d-365878045f35" style="display:none"></span>
     Comment boxes will now highlight new comments. Blue for new comments inc. system information messages. Orange / green to see task comments that others have made when you click on a notification link.
 
-    ![Animation](../assets/screenshots/APaQ0STrf6FOyg2aK0g5B1a_wL6bXdB_gMJccilV_12b94d11.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STrf6FOyg2aK0g5B1a_wL6bXdB_gMJccilV_12b94d11.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SQm8oRHzwicndDU0aWeOCmujg6S-6aCIgfk_a4dc4ab7.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQm8oRHzwicndDU0aWeOCmujg6S-6aCIgfk_a4dc4ab7.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SScmtyA5wqIm0n3IuAjdqGROZXjR8TOHR23_e5ce7e10.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SScmtyA5wqIm0n3IuAjdqGROZXjR8TOHR23_e5ce7e10.png){ width="700" loading=lazy }
 ??? new-addition "New addition: File Uploader<span class="meta">12th March 2024</span>"
 
     <span data-uuid="be7a84ca-202e-4f99-80a6-6eda40206c1e" style="display:none"></span>
     A new file uploader to allow larger files to be added to checklist, training and documents. This will prevent issues where larger files were timing out. Note: support for image files coming soon. For mobile devices we recommend using Camscanner or other document scanning app to convert physical files into PDFs.
 
-    ![Animation](../assets/screenshots/APaQ0SRUXjjq9oy0o9L-MB8KjY0VrFnWNpDftBpc_66fc0096.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRUXjjq9oy0o9L-MB8KjY0VrFnWNpDftBpc_66fc0096.png){ width="700" loading=lazy }
 ??? feature-release "Feature release: Checklist Cadence Graph<span class="meta">12th March 2024</span>"
 
     <span data-uuid="8fdeb00b-93d2-46d7-8acc-a02d31a73be0" style="display:none"></span>
     Within "Manage Checklist" you will see the Checklist Submission Calendar / Cadence Graph which displays checklist submissions over time — a convenient snapshot to identify any gaps showing non-compliance.
 
-    ![Animation](../assets/screenshots/APaQ0STgv0Iaa12HYOH9Pgp77wKWTZRmbrV-MvIP_a4ae5af7.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STgv0Iaa12HYOH9Pgp77wKWTZRmbrV-MvIP_a4ae5af7.png){ width="700" loading=lazy }
 ??? improvement "Improvement: New Terminology - Sub Tasks and Parent Tasks<span class="meta">12th March 2024</span>"
 
     <span data-uuid="9ece4410-9058-4087-b2c9-5c9894538104" style="display:none"></span>
@@ -857,15 +857,15 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="ec9464c4-1105-4a71-a68f-0f38458f5a6a" style="display:none"></span>
     When you add sub tasks you will see a bell symbol to the right. Selecting that will snooze the parent task until the sub task is completed. Ideal for tasks that can't be progressed until sub tasks are done.
 
-    ![Animation](../assets/screenshots/APaQ0SQLNy3CTKfykGlED0Ga323wmPmG_GeFVSjd_49fcd014.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQLNy3CTKfykGlED0Ga323wmPmG_GeFVSjd_49fcd014.png){ width="700" loading=lazy }
 ??? new-addition "New addition: E-learning Certificates<span class="meta">12th March 2024</span>"
 
     <span data-uuid="7361e35a-5995-4b9d-93f7-37d4f9d9eb74" style="display:none"></span>
     Currently for newly taken courses. Opus can generate a certificate if you need it. Find it by clicking on the E-learning name then View.
 
-    ![Animation](../assets/screenshots/APaQ0STu39mYIaSf2NrMJSz-K5S62AEdnFRkBuC5_f19fbf62.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0STu39mYIaSf2NrMJSz-K5S62AEdnFRkBuC5_f19fbf62.png){ width="700" loading=lazy }
 
-    ![Animation](../assets/screenshots/APaQ0SRJS-LOeLk5gOBz9IGc1C2u32TEJ6BZK9P5_bcfc1ac3.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SRJS-LOeLk5gOBz9IGc1C2u32TEJ6BZK9P5_bcfc1ac3.png){ width="700" loading=lazy }
 ### February 2024
 
 ??? feature-release "Feature release: Safety Alerts<span class="meta">15th February 2024</span>"
@@ -873,11 +873,11 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="26420708-bf04-400f-b4e6-41674c5ea078" style="display:none"></span>
     Allows you to create tasks on multiple sites to alert to critical issues — see [here](https://sites.google.com/opus-safety.co.uk/opus-help/sites/safety-alerts) for more guidance.
 
-    ![Animation](../assets/screenshots/APaQ0SSz8B8_0v0HtLSRuMQnZy-oWp-JAJUxmEim_9b12c867.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SSz8B8_0v0HtLSRuMQnZy-oWp-JAJUxmEim_9b12c867.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Audit Subscription<span class="meta">15th February 2024</span>"
 
     <span data-uuid="13473286-81a8-4f2e-bf45-79c784000215" style="display:none"></span>
     A task is now generated on the site inbox when an audit is published against your site(s) with a link to the audit report and with any audit actions listed as sub tasks. You can also now subscribe to recieve in-system/email notifications for audits being published against your site(s).
 
-    ![Animation](../assets/screenshots/APaQ0SQDgJ20LtcxrIOEVrd9fPILpN3HSEDdCWfQ_62d2760f.png){ width="700" loading=lazy }
+    ![Animation](../assets/media/other/screenshots/APaQ0SQDgJ20LtcxrIOEVrd9fPILpN3HSEDdCWfQ_62d2760f.png){ width="700" loading=lazy }
 > To see a list of system updates made prior to 2024 click [here](https://sites.google.com/opus-safety.co.uk/opus-help/system-updates/historical-system-updates).
