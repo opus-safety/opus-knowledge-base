@@ -26,6 +26,17 @@ Change 4
         <span data-uuid="16d58e04-3040-4b42-af0d-574d89076877" style="display:none"></span>
         test step
 
+        <span data-uuid="a8a0b0c6-57d5-4bb4-8830-9d58f53c4e49" style="display:none"></span>
+        === "Tab 1"
+
+            <span data-uuid="4e3abee6-7ef7-4883-b452-dfc6e7f49415" style="display:none"></span>
+            test
+
+        === "Tab 2"
+
+            <span data-uuid="4204a472-eede-4f3f-8d16-e6f684b1d06b" style="display:none"></span>
+            test
+
 === "Tab 2"
 
     <span data-uuid="a9ee6344-65b8-4c2c-b96d-13a71db5eaeb" style="display:none"></span>
