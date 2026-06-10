@@ -255,3 +255,8 @@ This section is intended to be followed by the user being registered. Please sel
         <span data-uuid="559f0963-90cf-4605-8839-df0d13e7c6ab" style="display:none"></span>
         ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
         ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="8d848539-eab2-42e1-9559-24c2c995908b" style="display:none"></span>
+        Click **Sign in**
