@@ -131,6 +131,10 @@ This page highlights the main user-facing improvements, additions and feature re
         <span data-uuid="2c456f0a-516b-4a2d-90e2-85aa07d2a42f" style="display:none"></span>
         All tasks are under 3 months old
 
+        <span data-uuid="7032e579-ebfe-47eb-bf09-e56de8cf6a88" style="display:none"></span>
+        ![](../assets/occ-captures/sites/uuid/inbox-coach-2-light-mode.png#only-light)
+        ![](../assets/occ-captures/sites/uuid/inbox-coach-2-dark-mode.png#only-dark)
+
     === "Green"
 
         <span data-uuid="8f1db755-9721-4717-93a1-1ab9c9f104f3" style="display:none"></span>
