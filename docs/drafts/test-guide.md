@@ -20,3 +20,8 @@ Change 4
 
     <span data-uuid="b63c7017-24f2-4f50-87b3-c5834a4a4c6b" style="display:none"></span>
     *^^Description!^^*
+
+    !!! step
+
+        <span data-uuid="16d58e04-3040-4b42-af0d-574d89076877" style="display:none"></span>
+        test step
