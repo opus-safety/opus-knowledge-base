@@ -25,9 +25,6 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Task Export / Print<span class="meta">8th March 2026</span>"
 
     <span data-uuid="7e5eb1d0-3ce3-4a76-bd2d-564be70b5f98" style="display:none"></span>
-
-    ![Animation](../assets/screenshots/APaQ0SQInzcG3RyMonCImE0WTcdVLJkyuTsbF3XR_555fdcf1.png){ width="700" loading=lazy }
-
     The new Export Task button allows you to generate a "clean" version of any task page. This automatically strips away system interface elements (like navigation bars and buttons) and allows you to customise the view to ensure the recipient sees only the information they need.
 
     **Customisation Options**
@@ -43,12 +40,13 @@ This page highlights the main user-facing improvements, additions and feature re
     3. Click **Apply options & excludes** to save your changes.
     4. Click **Print this page** — this triggers your browser's print dialogue where you can print or save as PDF.
 
-    !!! tip
-        Comments display relative time (e.g. "3mo ago"). Hover over the relative time text to reveal the exact date for filtering purposes.
-
     ![Animation](../assets/screenshots/APaQ0SRUpAYhmBsk6i9g25m0DxvSzWoVV-P5vroc_499f3329.png){ width="700" loading=lazy }
 
     ![Animation](../assets/screenshots/APaQ0STMQlR2Zgpfxq0uTkrgAeuDE8k6lg2bb0x6_667ca9f5.png){ width="700" loading=lazy }
+
+    !!! tip
+
+        Comments display relative time (e.g. "3mo ago"). Hover over the relative time text to reveal the exact date for filtering purposes.
 ### February 2026
 
 ??? new-addition "New addition: Administrator & Manager Access<span class="meta">23rd February 2026</span>"
