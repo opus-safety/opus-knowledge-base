@@ -46,6 +46,17 @@ icon: lucide/chart-no-axes-column-increasing
 
 ??? outline "View past incidents"
 
+    !!! status-outage "Server, Account Login, Files, Tasks, Notifications"
+
+        <span data-uuid="a3baf3b3-e2ee-4dd4-bc43-b57d9d812285" style="display:none"></span>
+
+        - **Service Impact:** OUTAGE
+        - **Current Status:** `Resolved`
+        - **Description:** System Outage
+        - **Reported:** 2026-06-10 14:19
+        - **Resolved:** 2026-06-10 14:52
+        - **Causation:** Emergency switch swap required system reboot
+
     !!! status-outage "Server"
 
         <span data-uuid="7cc25a0a-b8a9-4671-8f90-b2cb57413fa6" style="display:none"></span>
