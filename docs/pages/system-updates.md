@@ -48,6 +48,10 @@ This page highlights the main user-facing improvements, additions and feature re
     ![](../assets/occ-captures/todos/uuid/export/print-or-export-light-mode.png#only-light){ width="400" loading=lazy }
     ![](../assets/occ-captures/todos/uuid/export/print-or-export-dark-mode.png#only-dark){ width="400" loading=lazy }
 
+    <span data-uuid="0a7134fc-eb23-4724-8143-d5be843c7f84" style="display:none"></span>
+    ![](../assets/occ-captures/todos/uuid/export/tom-baverstock-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/todos/uuid/export/tom-baverstock-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
     !!! tip
 
         Comments display relative time (e.g. "3mo ago"). Hover over the relative time text to reveal the exact date for filtering purposes.
