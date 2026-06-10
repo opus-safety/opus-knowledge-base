@@ -129,10 +129,12 @@ This page highlights the main user-facing improvements, additions and feature re
     === "Blue"
 
         <span data-uuid="2c456f0a-516b-4a2d-90e2-85aa07d2a42f" style="display:none"></span>
+        All tasks are under 3 months old
 
     === "Green"
 
         <span data-uuid="8f1db755-9721-4717-93a1-1ab9c9f104f3" style="display:none"></span>
+        All tasks are assigned and nothing is older than 3 months
 
     <span data-uuid="5a3522b9-00d8-4af6-9244-8d9d310c104b" style="display:none"></span>
     ![](../assets/occ-captures/sites/uuid/inbox-coach-light-mode.png#only-light)
