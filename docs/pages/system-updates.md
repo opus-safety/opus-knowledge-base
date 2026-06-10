@@ -48,6 +48,10 @@ This page highlights the main user-facing improvements, additions and feature re
     ![](../assets/occ-captures/todos/uuid/export-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/occ-captures/todos/uuid/export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
+    <span data-uuid="876c7920-bbfb-40da-828e-e83bdf2e8c1c" style="display:none"></span>
+    ![](../assets/occ-captures/todos/uuid/export/print-or-export-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/todos/uuid/export/print-or-export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
     !!! tip
 
         Comments display relative time (e.g. "3mo ago"). Hover over the relative time text to reveal the exact date for filtering purposes.
