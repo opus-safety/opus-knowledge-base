@@ -217,6 +217,10 @@ This section is intended to be followed by the user being registered. Please sel
 
         **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
+        <span data-uuid="559f0963-90cf-4605-8839-df0d13e7c6ab" style="display:none"></span>
+        ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light)
+        ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark)
+
     <span data-uuid="b4e00ec7-c250-4766-af82-6c7e1e66a0df" style="display:none"></span>
     ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
     ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
