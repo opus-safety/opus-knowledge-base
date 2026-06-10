@@ -182,3 +182,8 @@ This section is intended to be followed by the user being registered.
     After registering, you will receive an email confirmation. Click the **Confirm my email** button in your email.
 
     ![](../assets/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png)
+
+## User Steps
+<span data-uuid="e47349ff-854c-47a6-80ae-56d8113ebf98" style="display:none"></span>
+
+This section is intended to be followed by the user being registered. Please select the appropriate tab below, depending on whether you already have an Opus account.
