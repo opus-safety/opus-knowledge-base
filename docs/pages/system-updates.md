@@ -44,6 +44,10 @@ This page highlights the main user-facing improvements, additions and feature re
 
     ![Animation](../assets/screenshots/APaQ0STMQlR2Zgpfxq0uTkrgAeuDE8k6lg2bb0x6_667ca9f5.png){ width="700" loading=lazy }
 
+    <span data-uuid="aeec9fc4-7f1d-4522-a630-0914e091a625" style="display:none"></span>
+    ![](../assets/occ-captures/todos/uuid/export-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/todos/uuid/export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
     !!! tip
 
         Comments display relative time (e.g. "3mo ago"). Hover over the relative time text to reveal the exact date for filtering purposes.
