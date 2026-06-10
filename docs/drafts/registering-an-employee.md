@@ -114,6 +114,10 @@ Please follow the steps below to register employees as users on the system.
 
 This section is intended to be followed by the user being registered.
 
+<span data-uuid="fc71b223-2bd0-4d3c-9f7c-8ae5547bf378" style="display:none"></span>
+![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light)
+![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark)
+
 !!! step
 
     <span data-uuid="f1481c8e-6a9d-46a7-9d6c-27d7c946ed2d" style="display:none"></span>
@@ -139,10 +143,6 @@ This section is intended to be followed by the user being registered.
     ![](../assets/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark)
 
 !!! step
-
-
-
-
 
     <span data-uuid="d35ef028-b377-4116-936e-5fc91d3ffa63" style="display:none"></span>
     Create your Opus account using an email and password.
