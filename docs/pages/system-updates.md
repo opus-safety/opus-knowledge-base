@@ -139,10 +139,6 @@ This page highlights the main user-facing improvements, additions and feature re
         ![](../assets/occ-captures/sites/uuid/inbox-coach-light-mode.png#only-light)
         ![](../assets/occ-captures/sites/uuid/inbox-coach-dark-mode.png#only-dark)
 
-    <span data-uuid="dda4146f-1998-423f-9133-4ed04ec1e979" style="display:none"></span>
-    ![](../assets/occ-captures/sites/uuid/inbox-coach-2-light-mode.png#only-light)
-    ![](../assets/occ-captures/sites/uuid/inbox-coach-2-dark-mode.png#only-dark)
-
     <span data-uuid="d14659f6-2377-475f-8265-b1f357a2a397" style="display:none"></span>
     ![](../assets/occ-captures/sites/uuid/inbox-coach-3-light-mode.png#only-light)
     ![](../assets/occ-captures/sites/uuid/inbox-coach-3-dark-mode.png#only-dark)
