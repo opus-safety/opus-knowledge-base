@@ -106,6 +106,10 @@ This page highlights the main user-facing improvements, additions and feature re
     - **Green** – All tasks are assigned and nothing is older than 3 months
 
     We also now resurface "forgotten" assigned tasks that are over 3 months old, so nothing slips through the cracks. Snoozed tasks continue to be hidden from the inbox.
+
+    <span data-uuid="5a3522b9-00d8-4af6-9244-8d9d310c104b" style="display:none"></span>
+    ![](../assets/occ-captures/sites/uuid/inbox-coach-light-mode.png#only-light)
+    ![](../assets/occ-captures/sites/uuid/inbox-coach-dark-mode.png#only-dark)
 ??? new-addition "New addition: Checklists - Visibility of Date Last Submitted<span class="meta">29th January 2026</span>"
 
     <span data-uuid="1bffc13b-d575-4eaf-90ee-d054487e1d7c" style="display:none"></span>
