@@ -107,6 +107,24 @@ This page highlights the main user-facing improvements, additions and feature re
 
     We also now resurface "forgotten" assigned tasks that are over 3 months old, so nothing slips through the cracks. Snoozed tasks continue to be hidden from the inbox.
 
+    <span data-uuid="34db1879-707a-4a11-a606-f60ff57991f3" style="display:none"></span>
+    === "Red"
+
+        <span data-uuid="385d57c9-d938-4076-99a1-b5c02ee4b6b8" style="display:none"></span>
+        You have tasks over 6 months old
+
+    === "Amber"
+
+        <span data-uuid="b081bb5a-9ce9-457d-ab17-fcc6abbb1aaf" style="display:none"></span>
+
+    === "Blue"
+
+        <span data-uuid="2c456f0a-516b-4a2d-90e2-85aa07d2a42f" style="display:none"></span>
+
+    === "Green"
+
+        <span data-uuid="8f1db755-9721-4717-93a1-1ab9c9f104f3" style="display:none"></span>
+
     <span data-uuid="5a3522b9-00d8-4af6-9244-8d9d310c104b" style="display:none"></span>
     ![](../assets/occ-captures/sites/uuid/inbox-coach-light-mode.png#only-light)
     ![](../assets/occ-captures/sites/uuid/inbox-coach-dark-mode.png#only-dark)
