@@ -220,8 +220,8 @@ This section is intended to be followed by the user being registered. Please sel
         Create your Opus account using an email and password.
 
         <span data-uuid="5196aa96-bc3d-4b06-aa60-994ccd28b124" style="display:none"></span>
-        ![](../assets/occ-captures/users/sign-up/email-address-light-mode.png#only-light)
-        ![](../assets/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark)
+        ![](../assets/occ-captures/users/sign-up/email-address-light-mode.png#only-light){ width="400" loading=lazy }
+        ![](../assets/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ width="400" loading=lazy }
 
 === "Existing Opus User (Using an existing account)"
 
