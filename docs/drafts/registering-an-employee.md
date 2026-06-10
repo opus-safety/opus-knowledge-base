@@ -185,7 +185,7 @@ This section is intended to be followed by the user being registered.
 This section is intended to be followed by the user being registered. Please select the appropriate tab below, depending on whether you already have an Opus account.
 
 <span data-uuid="6cf2533a-e585-4d2c-a9a4-4504e3dcb68f" style="display:none"></span>
-=== "New Opus User (Creating your account)"
+=== "New Opus User"
 
     <span data-uuid="8beea158-9efe-4e96-936e-ded37e8c0474" style="display:none"></span>
     **Follow the steps below to create a new Opus account and complete registration.**
@@ -240,7 +240,7 @@ This section is intended to be followed by the user being registered. Please sel
             <span data-uuid="c1f8ad72-362e-47b2-bb55-caddf5405708" style="display:none"></span>
             Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
 
-=== "Existing Opus User (Using an existing account)"
+=== "Existing Opus User"
 
     <span data-uuid="e7729746-4268-4635-b8f9-a5e72ec26bf3" style="display:none"></span>
     **Follow the steps below to complete registration with an existing Opus account.**
