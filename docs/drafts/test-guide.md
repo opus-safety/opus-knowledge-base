@@ -4,20 +4,20 @@
 Change 4
 
 <span data-uuid="727a6c65-08c1-4e03-9221-1560f5b98cfb" style="display:none"></span>
-![](../assets/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
-![](../assets/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
 
 <span data-uuid="4e88d398-655d-45ee-97e0-e1ce9eb00d35" style="display:none"></span>
-![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light){ width="50" loading=lazy }
-![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark){ width="50" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light){ width="50" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark){ width="50" loading=lazy }
 
 <span data-uuid="3e7ea9cb-365b-43fd-a976-7e555d5ce950" style="display:none"></span>
-![](../assets/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
-![](../assets/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
 
 <span data-uuid="6f3b0209-08ef-4aea-bd99-24828c2c4279" style="display:none"></span>
-![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light)
-![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark)
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light)
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark)
 
 <span data-uuid="3cd3ef35-dcc3-4246-8565-2fe6e7df6623" style="display:none"></span>
 === "Test tab"
@@ -58,5 +58,5 @@ Change 4
     test 2!
 
 <span data-uuid="0490b75c-4d4e-457a-8188-4549559b7281" style="display:none"></span>
-![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light)
-![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark)
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light)
+![](../assets/media/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark)

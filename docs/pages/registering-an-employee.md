@@ -29,32 +29,32 @@ Please follow the steps below to register employees as users on the system.
     <span data-uuid="6a840b6c-2d80-444f-91b1-a8c6b968fbe3" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
 
-    ![](../assets/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
     <span data-uuid="a7729bf7-f503-4805-8586-b2ae5221b1fc" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
-    ![](../assets/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
     <span data-uuid="a67d3b29-2c86-4cab-b6cd-f05b829f2e77" style="display:none"></span>
     Click **Employee records** on the manage sidebar.
 
-    ![](../assets/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
     <span data-uuid="b2d7d272-376b-4a81-8764-97f19ee71420" style="display:none"></span>
     In the employee list, click the blue **Link to Opus Account** button next to the employee record.
 
-    ![](../assets/occ-captures/admin/sites/uuid/employees/link-to-opus-account-light-mode.png#only-light)
-    ![](../assets/occ-captures/admin/sites/uuid/employees/link-to-opus-account-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/link-to-opus-account-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/link-to-opus-account-dark-mode.png#only-dark)
 
 !!! step
 
@@ -64,8 +64,8 @@ Please follow the steps below to register employees as users on the system.
     1. Ask the employee to scan the QR code with their phone (remind them to log out if they're using someone else's phone).
     2. Copy the link using the button at the bottom and send it via email or an internal messaging system (like Teams or Slack).
 
-    ![](../assets/occ-captures/employees/uuid/link/id/or-alternatively-light-mode.png#only-light){ width="400" loading=lazy }
-    ![](../assets/occ-captures/employees/uuid/link/id/or-alternatively-dark-mode.png#only-dark){ width="400" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/link/id/or-alternatively-light-mode.png#only-light){ width="400" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/link/id/or-alternatively-dark-mode.png#only-dark){ width="400" loading=lazy }
 
     ??? info "Optional Registration Email Template"
 
@@ -121,19 +121,19 @@ This section is intended to be followed by the user being registered.
 
     **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
-    ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="300" loading=lazy }
-    ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="300" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="300" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="300" loading=lazy }
 
 !!! step
 
     <span data-uuid="08fae16b-7fb7-4a08-a475-020af19efb37" style="display:none"></span>
     Click **Sign up** (use **Sign in** only if the employee already has an Opus account).
 
-    ![](../assets/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light)
-    ![](../assets/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark)
 
-    ![](../assets/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light)
-    ![](../assets/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark)
 
 !!! step
 
@@ -144,16 +144,16 @@ This section is intended to be followed by the user being registered.
     <span data-uuid="d35ef028-b377-4116-936e-5fc91d3ffa63" style="display:none"></span>
     Create your Opus account using an email and password.
 
-    ![](../assets/occ-captures/users/sign-up/email-address-light-mode.png#only-light){ width="300" loading=lazy }
-    ![](../assets/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ width="300" loading=lazy }
+    ![](../assets/media/occ-captures/users/sign-up/email-address-light-mode.png#only-light){ width="300" loading=lazy }
+    ![](../assets/media/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ width="300" loading=lazy }
 
 !!! step
 
     <span data-uuid="73780846-68e1-492b-875d-229acc97ac96" style="display:none"></span>
     You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
 
-    ![](../assets/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
-    ![](../assets/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
 
     !!! warning "Don't skip this step"
 
@@ -176,4 +176,4 @@ This section is intended to be followed by the user being registered.
     <span data-uuid="b05d4b11-d3cb-43fe-acb9-fd176e73ac28" style="display:none"></span>
     After registering, you will receive an email confirmation. Click the **Confirm my email** button in your email.
 
-    ![](../assets/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png)
+    ![](../assets/media/other/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png)
