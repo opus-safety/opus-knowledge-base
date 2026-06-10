@@ -202,8 +202,8 @@ This section is intended to be followed by the user being registered. Please sel
         **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
         <span data-uuid="bc4af3e2-9f0b-4fa6-a0ce-bade24520441" style="display:none"></span>
-        ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light)
-        ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark)
+        ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
+        ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
 
 === "Existing Opus User (Using an existing account)"
 
