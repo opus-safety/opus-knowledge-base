@@ -25,3 +25,8 @@ Change 4
 
         <span data-uuid="16d58e04-3040-4b42-af0d-574d89076877" style="display:none"></span>
         test step
+
+=== "Tab 2"
+
+    <span data-uuid="a9ee6344-65b8-4c2c-b96d-13a71db5eaeb" style="display:none"></span>
+    test 2!
