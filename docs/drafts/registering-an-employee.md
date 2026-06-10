@@ -269,3 +269,7 @@ This section is intended to be followed by the user being registered. Please sel
 
         <span data-uuid="d831edc3-fb74-454f-8dc1-b015cced51f2" style="display:none"></span>
         Sign in with your existing Opus account.
+
+        <span data-uuid="05d44dfc-96f8-4380-bfa2-b55581336b2b" style="display:none"></span>
+        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-dark-mode.png#only-dark)
