@@ -118,6 +118,10 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="d14659f6-2377-475f-8265-b1f357a2a397" style="display:none"></span>
     ![](../assets/occ-captures/sites/uuid/inbox-coach-3-light-mode.png#only-light)
     ![](../assets/occ-captures/sites/uuid/inbox-coach-3-dark-mode.png#only-dark)
+
+    <span data-uuid="8da29477-0678-44b8-9b27-47af7efc8966" style="display:none"></span>
+    ![](../assets/occ-captures/sites/uuid/inbox-coach-4-light-mode.png#only-light)
+    ![](../assets/occ-captures/sites/uuid/inbox-coach-4-dark-mode.png#only-dark)
 ??? new-addition "New addition: Checklists - Visibility of Date Last Submitted<span class="meta">29th January 2026</span>"
 
     <span data-uuid="1bffc13b-d575-4eaf-90ee-d054487e1d7c" style="display:none"></span>
