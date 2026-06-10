@@ -211,5 +211,5 @@ This section is intended to be followed by the user being registered. Please sel
     Follow the steps below to complete registration with an existing Opus account.
 
     <span data-uuid="b4e00ec7-c250-4766-af82-6c7e1e66a0df" style="display:none"></span>
-    ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light)
-    ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark)
+    ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
+    ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
