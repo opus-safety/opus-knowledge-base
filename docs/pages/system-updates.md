@@ -49,8 +49,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ![](../assets/occ-captures/todos/uuid/export/print-or-export-dark-mode.png#only-dark)
 
     <span data-uuid="0a7134fc-eb23-4724-8143-d5be843c7f84" style="display:none"></span>
-    ![](../assets/occ-captures/todos/uuid/export/tom-baverstock-light-mode.png#only-light){ width="400" loading=lazy }
-    ![](../assets/occ-captures/todos/uuid/export/tom-baverstock-dark-mode.png#only-dark){ width="400" loading=lazy }
+    ![](../assets/occ-captures/todos/uuid/export/tom-baverstock-light-mode.png#only-light)
+    ![](../assets/occ-captures/todos/uuid/export/tom-baverstock-dark-mode.png#only-dark)
 
     !!! tip
 
