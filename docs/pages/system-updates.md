@@ -122,6 +122,10 @@ This page highlights the main user-facing improvements, additions and feature re
         <span data-uuid="b081bb5a-9ce9-457d-ab17-fcc6abbb1aaf" style="display:none"></span>
         You have tasks over 3 months old
 
+        <span data-uuid="9a6eff05-9c05-4e82-b310-bb2f73f61146" style="display:none"></span>
+        ![](../assets/occ-captures/sites/uuid/inbox-coach-3-light-mode.png#only-light)
+        ![](../assets/occ-captures/sites/uuid/inbox-coach-3-dark-mode.png#only-dark)
+
     === "Blue"
 
         <span data-uuid="2c456f0a-516b-4a2d-90e2-85aa07d2a42f" style="display:none"></span>
