@@ -106,14 +106,6 @@ This page highlights the main user-facing improvements, additions and feature re
     - **Green** – All tasks are assigned and nothing is older than 3 months
 
     We also now resurface "forgotten" assigned tasks that are over 3 months old, so nothing slips through the cracks. Snoozed tasks continue to be hidden from the inbox.
-
-    ![Animation](../assets/screenshots/APaQ0STtkioc1IVyInHfyFgohGiMus5dDOI-F2Wg_e56dd507.png){ width="700" loading=lazy }
-
-    ![Animation](../assets/screenshots/APaQ0STP18ZKF1iUY6E193er6PwMotSAh96RiMML_e1f28867.png){ width="700" loading=lazy }
-
-    ![Animation](../assets/screenshots/APaQ0SSZDPLKtgWGoS7Vz4zFtN4Ul-lWkOZCit3a_0cf38f65.png){ width="700" loading=lazy }
-
-    ![Animation](../assets/screenshots/APaQ0SS0EkHeSpJXoIsxnEV69VWsM00yBqIWXlCC_8ae7ae0d.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Checklists - Visibility of Date Last Submitted<span class="meta">29th January 2026</span>"
 
     <span data-uuid="1bffc13b-d575-4eaf-90ee-d054487e1d7c" style="display:none"></span>
