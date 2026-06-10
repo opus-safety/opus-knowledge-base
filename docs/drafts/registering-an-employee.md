@@ -239,6 +239,11 @@ This section is intended to be followed by the user being registered. Please sel
 
             If the employee skips this step, they'll have an Opus account without an associated employee record. See [Incomplete Registration](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/troubleshooting-log-in-registration-problems#:~:text=Locked%20Account-,Incomplete%20Registration%20%2D%20when%20an%20employee%20lands%20on%20a%20page%20that%20says%20%27Cannot%20find%20what%20you%20are%20looking%20for%27,-If%20a%20user) in the Troubleshooting Login / Registration Problems guide.
 
+        !!! note "Registration links are one-time use"
+
+            <span data-uuid="c1f8ad72-362e-47b2-bb55-caddf5405708" style="display:none"></span>
+            Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
+
 === "Existing Opus User (Using an existing account)"
 
     <span data-uuid="e7729746-4268-4635-b8f9-a5e72ec26bf3" style="display:none"></span>
