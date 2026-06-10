@@ -223,6 +223,11 @@ This section is intended to be followed by the user being registered. Please sel
         ![](../assets/occ-captures/users/sign-up/email-address-light-mode.png#only-light){ width="400" loading=lazy }
         ![](../assets/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ width="400" loading=lazy }
 
+    !!! step
+
+        <span data-uuid="60309b33-e362-46ac-868a-4f28e9a38f73" style="display:none"></span>
+        You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
+
 === "Existing Opus User (Using an existing account)"
 
     <span data-uuid="e7729746-4268-4635-b8f9-a5e72ec26bf3" style="display:none"></span>
