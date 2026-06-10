@@ -273,3 +273,8 @@ This section is intended to be followed by the user being registered. Please sel
         <span data-uuid="05d44dfc-96f8-4380-bfa2-b55581336b2b" style="display:none"></span>
         ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png#only-light){ width="400" loading=lazy }
         ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-dark-mode.png#only-dark){ width="400" loading=lazy }
+
+        !!! question "Forgot your password?"
+
+            <span data-uuid="e9f95178-1064-4a7d-be97-ec1f3f214b40" style="display:none"></span>
+            Use the [Forgot your password?](https://cloud.opus-safety.co.uk/users/password/new) link and follow the instructions to reset your password.
