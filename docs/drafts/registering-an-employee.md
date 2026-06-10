@@ -220,7 +220,3 @@ This section is intended to be followed by the user being registered. Please sel
         <span data-uuid="559f0963-90cf-4605-8839-df0d13e7c6ab" style="display:none"></span>
         ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
         ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
-
-    <span data-uuid="b4e00ec7-c250-4766-af82-6c7e1e66a0df" style="display:none"></span>
-    ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
-    ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
