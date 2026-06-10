@@ -192,7 +192,7 @@ This section is intended to be followed by the user being registered. Please sel
 === "New Opus User (Creating your account)"
 
     <span data-uuid="8beea158-9efe-4e96-936e-ded37e8c0474" style="display:none"></span>
-    Follow the steps below to create a new Opus account and complete registration.
+    **Follow the steps below to create a new Opus account and complete registration.**
 
     !!! step
 
@@ -208,7 +208,7 @@ This section is intended to be followed by the user being registered. Please sel
 === "Existing Opus User (Using an existing account)"
 
     <span data-uuid="e7729746-4268-4635-b8f9-a5e72ec26bf3" style="display:none"></span>
-    Follow the steps below to complete registration with an existing Opus account.
+    **Follow the steps below to complete registration with an existing Opus account.**
 
     <span data-uuid="b4e00ec7-c250-4766-af82-6c7e1e66a0df" style="display:none"></span>
     ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
