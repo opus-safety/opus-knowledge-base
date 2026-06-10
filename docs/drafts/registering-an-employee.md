@@ -210,6 +210,13 @@ This section is intended to be followed by the user being registered. Please sel
     <span data-uuid="e7729746-4268-4635-b8f9-a5e72ec26bf3" style="display:none"></span>
     **Follow the steps below to complete registration with an existing Opus account.**
 
+    !!! step
+
+        <span data-uuid="11daf1a1-56e3-47a9-8891-babe91bb6b20" style="display:none"></span>
+        After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
+
+        **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
+
     <span data-uuid="b4e00ec7-c250-4766-af82-6c7e1e66a0df" style="display:none"></span>
     ![](../assets/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
     ![](../assets/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
