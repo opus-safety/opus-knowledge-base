@@ -49,8 +49,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ![](../assets/occ-captures/todos/uuid/export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
     <span data-uuid="876c7920-bbfb-40da-828e-e83bdf2e8c1c" style="display:none"></span>
-    ![](../assets/occ-captures/todos/uuid/export/print-or-export-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/occ-captures/todos/uuid/export/print-or-export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/occ-captures/todos/uuid/export/print-or-export-light-mode.png#only-light){ width="400" loading=lazy }
+    ![](../assets/occ-captures/todos/uuid/export/print-or-export-dark-mode.png#only-dark){ width="400" loading=lazy }
 
     !!! tip
 
