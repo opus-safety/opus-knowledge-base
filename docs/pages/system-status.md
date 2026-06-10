@@ -48,6 +48,17 @@ icon: lucide/chart-no-axes-column-increasing
 
     !!! status-outage "Server"
 
+        <span data-uuid="eabb3f02-50ea-4c86-a72b-63bec6113614" style="display:none"></span>
+
+        - **Service Impact:** OUTAGE
+        - **Current Status:** `Resolved`
+        - **Description:** Full system outage
+        - **Reported:** 2026-06-10 14:19
+        - **Resolved:** 2026-06-10 14:52
+        - **Causation:** Emergency switch swap required system reboot
+
+    !!! status-outage "Server"
+
         <span data-uuid="7cc25a0a-b8a9-4671-8f90-b2cb57413fa6" style="display:none"></span>
 
         - **Service Impact:** OUTAGE
