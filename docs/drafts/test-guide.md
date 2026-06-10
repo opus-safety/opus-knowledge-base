@@ -52,3 +52,7 @@ Change 4
 
     <span data-uuid="a9ee6344-65b8-4c2c-b96d-13a71db5eaeb" style="display:none"></span>
     test 2!
+
+<span data-uuid="0490b75c-4d4e-457a-8188-4549559b7281" style="display:none"></span>
+![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-light-mode.png#only-light)
+![](../assets/occ-captures/admin/sites/uuid/employees/new/end-day-dark-mode.png#only-dark)
