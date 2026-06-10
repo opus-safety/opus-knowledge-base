@@ -3,6 +3,10 @@
 
 Change 4
 
+<span data-uuid="727a6c65-08c1-4e03-9221-1560f5b98cfb" style="display:none"></span>
+![](../assets/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
+![](../assets/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
+
 <span data-uuid="4e88d398-655d-45ee-97e0-e1ce9eb00d35" style="display:none"></span>
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light){ width="50" loading=lazy }
 ![](../assets/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark){ width="50" loading=lazy }
