@@ -120,6 +120,7 @@ This page highlights the main user-facing improvements, additions and feature re
     === "Amber"
 
         <span data-uuid="b081bb5a-9ce9-457d-ab17-fcc6abbb1aaf" style="display:none"></span>
+        You have tasks over 3 months old
 
     === "Blue"
 
