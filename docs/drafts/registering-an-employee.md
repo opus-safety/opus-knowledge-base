@@ -264,3 +264,8 @@ This section is intended to be followed by the user being registered. Please sel
         <span data-uuid="024d111b-1f76-4b16-8e06-6db3852e83e1" style="display:none"></span>
         ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light)
         ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark)
+
+    !!! step
+
+        <span data-uuid="d831edc3-fb74-454f-8dc1-b015cced51f2" style="display:none"></span>
+        Sign in with your existing Opus account.
