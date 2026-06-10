@@ -37,6 +37,17 @@ Change 4
             <span data-uuid="4204a472-eede-4f3f-8d16-e6f684b1d06b" style="display:none"></span>
             test
 
+            <span data-uuid="6d2ef09e-1383-48cf-a83b-d690b0b57d79" style="display:none"></span>
+            === "Tab 1"
+
+                <span data-uuid="239e56e8-fc3e-4630-8e7f-f63066d07ff5" style="display:none"></span>
+                test
+
+            === "Tab 2"
+
+                <span data-uuid="8ce93adc-9ac1-48b5-aadc-d2c2ec5402ed" style="display:none"></span>
+                test
+
 === "Tab 2"
 
     <span data-uuid="a9ee6344-65b8-4c2c-b96d-13a71db5eaeb" style="display:none"></span>
