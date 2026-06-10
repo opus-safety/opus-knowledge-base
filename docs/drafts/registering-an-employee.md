@@ -187,3 +187,14 @@ This section is intended to be followed by the user being registered.
 <span data-uuid="e47349ff-854c-47a6-80ae-56d8113ebf98" style="display:none"></span>
 
 This section is intended to be followed by the user being registered. Please select the appropriate tab below, depending on whether you already have an Opus account.
+
+<span data-uuid="6cf2533a-e585-4d2c-a9a4-4504e3dcb68f" style="display:none"></span>
+=== "New Opus User (Creating your account)"
+
+    <span data-uuid="8beea158-9efe-4e96-936e-ded37e8c0474" style="display:none"></span>
+    Follow the steps below to create a new Opus account and complete registration.
+
+=== "Existing Opus User (Using an existing account)"
+
+    <span data-uuid="e7729746-4268-4635-b8f9-a5e72ec26bf3" style="display:none"></span>
+    Follow the steps below to complete registration with an existing Opus account.
