@@ -260,3 +260,7 @@ This section is intended to be followed by the user being registered. Please sel
 
         <span data-uuid="8d848539-eab2-42e1-9559-24c2c995908b" style="display:none"></span>
         Click **Sign in**
+
+        <span data-uuid="024d111b-1f76-4b16-8e06-6db3852e83e1" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark)
