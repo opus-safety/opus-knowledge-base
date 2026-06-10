@@ -113,6 +113,10 @@ This page highlights the main user-facing improvements, additions and feature re
         <span data-uuid="385d57c9-d938-4076-99a1-b5c02ee4b6b8" style="display:none"></span>
         You have tasks over 6 months old
 
+        <span data-uuid="0403d802-5184-4803-a7fc-fe0eea2241e2" style="display:none"></span>
+        ![](../assets/occ-captures/sites/uuid/inbox-coach-4-light-mode.png#only-light)
+        ![](../assets/occ-captures/sites/uuid/inbox-coach-4-dark-mode.png#only-dark)
+
     === "Amber"
 
         <span data-uuid="b081bb5a-9ce9-457d-ab17-fcc6abbb1aaf" style="display:none"></span>
