@@ -278,3 +278,27 @@ This section is intended to be followed by the user being registered. Please sel
 
             <span data-uuid="e9f95178-1064-4a7d-be97-ec1f3f214b40" style="display:none"></span>
             Use the [Forgot your password?](https://cloud.opus-safety.co.uk/users/password/new) link and follow the instructions to reset your password.
+
+    !!! step
+
+        <span data-uuid="3032beef-987d-474c-a242-55d73d761690" style="display:none"></span>
+
+        You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
+
+        <span data-uuid="d096249b-b143-4ebc-a0c3-264d95cf3d0f" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+        !!! warning
+
+            <span data-uuid="f387b9cb-4824-4fa1-9bf4-9f44cc3c0439" style="display:none"></span>
+
+            Don't skip this step! 
+
+            If the employee skips this step, they'll have an Opus account without an associated employee record. See [Incomplete Registration](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/troubleshooting-log-in-registration-problems#:~:text=Locked%20Account-,Incomplete%20Registration%20%2D%20when%20an%20employee%20lands%20on%20a%20page%20that%20says%20%27Cannot%20find%20what%20you%20are%20looking%20for%27,-If%20a%20user) in the Troubleshooting Login / Registration Problems guide.
+
+        !!! note "Registration links are one-time use"
+
+            <span data-uuid="7760d887-3bea-488d-8cdb-4e778f5de932" style="display:none"></span>
+
+            Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
