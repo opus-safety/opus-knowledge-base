@@ -39,9 +39,6 @@ This page highlights the main user-facing improvements, additions and feature re
     2. Configure your filtering and exclusions.
     3. Click **Apply options & excludes** to save your changes.
     4. Click **Print this page** — this triggers your browser's print dialogue where you can print or save as PDF.
-
-    ![Animation](../assets/screenshots/APaQ0SRUpAYhmBsk6i9g25m0DxvSzWoVV-P5vroc_499f3329.png){ width="700" loading=lazy }
-
     ![Animation](../assets/screenshots/APaQ0STMQlR2Zgpfxq0uTkrgAeuDE8k6lg2bb0x6_667ca9f5.png){ width="700" loading=lazy }
 
     <span data-uuid="aeec9fc4-7f1d-4522-a630-0914e091a625" style="display:none"></span>
