@@ -98,12 +98,7 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Inbox Coach<span class="meta">29th January 2026</span>"
 
     <span data-uuid="a3f629aa-8f60-4f08-8572-556eb38cf960" style="display:none"></span>
-    We've added an Inbox Coach to help you quickly understand the health of your tasks at a glance. The message and colour update automatically based on task age:
-
-    - **Red** – You have tasks over 6 months old
-    - **Amber** – You have tasks over 3 months old
-    - **Blue** – All tasks are under 3 months old
-    - **Green** – All tasks are assigned and nothing is older than 3 months
+    We've added an Inbox Coach to help you quickly understand the health of your tasks at a glance. The message and colour update automatically based on task age
 
     We also now resurface "forgotten" assigned tasks that are over 3 months old, so nothing slips through the cracks. Snoozed tasks continue to be hidden from the inbox.
 
