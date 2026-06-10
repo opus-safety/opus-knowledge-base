@@ -220,12 +220,11 @@ This section is intended to be followed by the user being registered. Please sel
     !!! step
 
         <span data-uuid="3032beef-987d-474c-a242-55d73d761690" style="display:none"></span>
-
         You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
 
         <span data-uuid="d096249b-b143-4ebc-a0c3-264d95cf3d0f" style="display:none"></span>
-        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
 
         !!! warning
 
