@@ -93,3 +93,7 @@ Temporary access is a way to grant your employees access to certain features wit
     <span data-uuid="f9f6153f-fa22-4704-86cd-e55148fdf27c" style="display:none"></span>
     ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
     ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
+
+!!! step
+
+    <span data-uuid="a8119ff5-2349-41a7-8b12-9ee687d854b1" style="display:none"></span>
