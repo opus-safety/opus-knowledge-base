@@ -111,7 +111,7 @@ Please follow the steps below to register employees as users on the system.
 ## User Steps
 <span data-uuid="e47349ff-854c-47a6-80ae-56d8113ebf98" style="display:none"></span>
 
-This section is intended to be followed by the user being registered. Please select the appropriate tab below, depending on whether you already have an Opus account.
+This section is intended to be followed by the user being registered. Please select the appropriate tab below, depending on whether you already have an Opus account and follow the steps outlined.
 
 <span data-uuid="6cf2533a-e585-4d2c-a9a4-4504e3dcb68f" style="display:none"></span>
 === "New Opus User"
