@@ -51,5 +51,10 @@ Temporary access is a way to grant your employees access to certain features wit
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/link-to-opus-account-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/link-to-opus-account-dark-mode.png#only-dark)
 
+!!! step
+
+    <span data-uuid="ca7994d3-6d48-4ef0-87a2-1e93e55113b8" style="display:none"></span>
+    Scroll down to the E-learning section on their record and select **Grant temporary access**
+
 ## User Steps
 <span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
