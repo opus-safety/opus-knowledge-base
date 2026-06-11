@@ -1,13 +1,14 @@
 ---
 title: Home
-background-animation: neural-v2
+background-animation: golden-v1
+force-dark: true
 groove: true
 hide:
   - toc
   - footer
 ---
 
-<div class="home-hero" markdown>
+<div class="home-hero" data-force-dark markdown>
 
 # Opus Knowledge Base v2
 
