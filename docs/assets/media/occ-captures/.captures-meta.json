@@ -39,5 +39,9 @@
   "docs/assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/admin/sites/uuid/e-learning-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
