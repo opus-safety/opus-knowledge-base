@@ -82,3 +82,8 @@ Change 4
 !!! outline "<span class="meta">block 2</span>"
 
     <span data-uuid="3121b1ef-352b-4b5e-8f25-79bbefd65d2b" style="display:none"></span>
+
+    !!! step
+
+        <span data-uuid="4a099fe3-e3c9-4fec-840b-2a2ace01f2e7" style="display:none"></span>
+        test
