@@ -7,3 +7,6 @@ Temporary access is a way to grant your employees access to certain features wit
 - Sign in securely at any time.
 - Configure personalised system notifications.
 - Interact with more parts of the system.
+
+## Manager Steps
+<span data-uuid="96bfb2b5-5a1d-419d-bc84-ceb5ba7b12d8" style="display:none"></span>
