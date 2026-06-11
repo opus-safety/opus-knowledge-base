@@ -65,5 +65,9 @@ Temporary access is a way to grant your employees access to certain features wit
     <span data-uuid="f58fb35d-b15b-4bb8-8769-a5acc29e091a" style="display:none"></span>
     Select the **Grant temporary access** button at the bottom of the E-learning table
 
+    <span data-uuid="7710f797-c051-458b-84cc-e40711b5f482" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/grant-temporary-access-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/grant-temporary-access-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 ## User Steps
 <span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
