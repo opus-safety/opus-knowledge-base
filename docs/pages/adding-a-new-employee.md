@@ -22,6 +22,7 @@ status: new
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you want to add the employee.
 
     ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" }
+    <span data-uuid="adc39665-6e47-4e01-af19-9fee6207ace4" style="display:none"></span>
     ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" }
 
 
@@ -31,6 +32,7 @@ status: new
     From the site inbox, click the **Switch to Manage Mode** button.
 
     ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" }
+    <span data-uuid="dec2a546-3f32-4527-9542-3ba47d8640e9" style="display:none"></span>
     ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" }
 
 !!! step
@@ -38,6 +40,7 @@ status: new
     <span data-uuid="ed3f95b7-0e39-4f5c-8bb1-fdc520f3e1ee" style="display:none"></span>
     Click **Employee records** on the manage sidebar.
 
+    <span data-uuid="3f5134ff-f14b-4f35-9095-7915f5e7d207" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
@@ -47,6 +50,7 @@ status: new
     Click the **+New** button at the top right of the page.
 
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-dark-mode.png#only-dark){ style="height: 50px" }
+    <span data-uuid="b1bf3986-33b7-4435-834f-492bbcae2582" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-light-mode.png#only-light){ style="height: 50px" }
 
 !!! step
@@ -59,6 +63,7 @@ status: new
         <span data-uuid="18a913f5-1c6c-4c79-8f44-84be833befbb" style="display:none"></span>
 
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
+        <span data-uuid="bf9f3125-fd08-4267-a92e-5e05ebc6f8dc" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light)
 
     !!! outline "Photo (optional)"
@@ -68,6 +73,7 @@ status: new
         Upload a photo for this employee record
 
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-dark-mode.png#only-dark)
+        <span data-uuid="a13099e9-501d-4e14-91b4-8e739dbe5c0f" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-light-mode.png#only-light)
 
     !!! outline "Roles"
@@ -77,6 +83,7 @@ status: new
         Select the role(s) for this employee.
 
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
+        <span data-uuid="995ea501-552a-4ae0-b555-07113e4f4cdd" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-light-mode.png#only-light)
 
         !!! warning
@@ -98,6 +105,7 @@ status: new
     Depending on your site configuration, you may only have one option. If multiple options are available, select the employee's primary place of work.
 
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
+    <span data-uuid="235cf39d-1887-4e3f-a28d-094bf64a1391" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
 
 !!! step
@@ -106,6 +114,7 @@ status: new
     Under **Own employee record access**, select which level of access the employee should be granted against their own employee record.
 
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-dark-mode.png#only-dark)
+    <span data-uuid="02a69540-67bf-4b56-bad2-ff29a4547d6c" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-light-mode.png#only-light)
 
 !!! step
@@ -117,6 +126,7 @@ status: new
     - **No** — access will need to be configured manually instead.
 
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
+    <span data-uuid="3a1236f8-708d-40d9-8cd6-c6037c919c1d" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
 
 !!! step "<span class="meta">(optional)</span>"
@@ -126,6 +136,7 @@ status: new
     Enable **Site access fine-tune** if you need to customise the employee's access settings further — for example, if they require access to multiple sites or need additional authorisations.
 
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
+    <span data-uuid="a366ef45-429c-4591-a779-0dce7951ff7b" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
 
 !!! step
@@ -134,6 +145,7 @@ status: new
     Click **Save employee** at the bottom of the page.
 
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" }
+    <span data-uuid="6994511d-2240-41c1-a121-fb6767abaeac" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" }
 
     After saving, you will be redirected to the employee's access page.
@@ -151,8 +163,9 @@ status: new
     <span data-uuid="3da3ed47-1413-4854-9e15-f73c4ccaeefc" style="display:none"></span>
     After creating the employee record with the fine-tune option selected, you will be redirected to the employee site access page.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    <span data-uuid="6f80e610-9b19-46b5-8ac7-3ea26e8e48d1" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-dark-mode.png#only-dark)
 
 !!! step
 
@@ -161,6 +174,7 @@ status: new
 
     `authorised/health` — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
 
+    <span data-uuid="4a54dc3b-46e2-4353-a0a0-38007af9ced8" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-dark-mode.png#only-dark)
 
@@ -184,6 +198,7 @@ status: new
     `administrator`
     :   Can make administrative-level changes to the employee record, such as adding requirements to their roles.
 
+    <span data-uuid="0c2dbe77-cac5-4a62-b0ef-2b838d0117bf" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-dark-mode.png#only-dark)
 
@@ -191,6 +206,8 @@ status: new
 
     <span data-uuid="eacbba2f-09e7-4a89-971b-d1d59f75cdf2" style="display:none"></span>
     === "Single Site"
+
+        <span data-uuid="d6b9075d-5106-4922-b810-11b0c5b80a7c" style="display:none"></span>
 
         Choose whether the employee should access the site as a **user**, **manager**, or **administrator** using the drop-down menu. To remove access, select the **-** option.
 
@@ -202,6 +219,8 @@ status: new
         ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
 
     === "Multiple Sites"
+
+        <span data-uuid="39f74d89-d0a5-498a-a699-ac0deba20b93" style="display:none"></span>
 
         Click the double up-arrows next to the site name to give access higher up your organisational hierarchy — across other sites, regions, or your entire organisation.
 
@@ -217,6 +236,7 @@ status: new
     <span data-uuid="6a2ac366-1367-4124-a71f-49b289189fc4" style="display:none"></span>
     Once you have made the changes, click **Apply changes**.
 
+    <span data-uuid="f24b09c0-a5a9-4467-be37-bc672ab1b37e" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
