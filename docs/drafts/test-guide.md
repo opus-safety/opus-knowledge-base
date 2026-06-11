@@ -83,6 +83,10 @@ Change 4
 ![](../assets/media/occ-captures/admin/sites/uuid/generate-snapshot-light-mode.png#only-light){ style="height: 100px" loading=lazy }
 ![](../assets/media/occ-captures/admin/sites/uuid/generate-snapshot-dark-mode.png#only-dark){ style="height: 100px" loading=lazy }
 
+<span data-uuid="72a0b2dd-078f-4218-b4b7-f0ab9b0c53aa" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/generate-snapshot-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/generate-snapshot-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 ??? outline "<span class="meta">block 2</span>"
 
     <span data-uuid="3121b1ef-352b-4b5e-8f25-79bbefd65d2b" style="display:none"></span>
