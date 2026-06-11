@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block extrahead %}
   {% if page.meta and page.meta['background-animation'] == 'neural-v1' %}
-    <script src="{{ 'assets/javascripts/neural.js' | url }}" defer></script>
+    <script src="{{ 'assets/javascripts/neural-v1.js' | url }}" defer></script>
   {% elif page.meta and page.meta['background-animation'] == 'neural-v2' %}
     <script src="{{ 'assets/javascripts/neural-v2.js' | url }}" defer></script>
   {% endif %}

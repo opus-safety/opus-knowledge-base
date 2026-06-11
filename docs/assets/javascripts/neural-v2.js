@@ -10,7 +10,7 @@
  *  - Real signal propagation: pulses carry charge, ignite chain reactions,
  *    and periodic cluster bursts send visible waves through the network.
  *  - Edges heat up and glow while a signal travels along them, then cool.
- *  - Depth fog, subtle per-node drift, twinkle, camera parallax on mouse.
+ *  - Depth fog, subtle per-node drift, twinkle.
  *  - Respects prefers-reduced-motion.
  */
 
@@ -58,7 +58,6 @@
       orbitRadius:    26,    // resting orbit distance
       introDuration:  4.5,   // seconds for the opening dolly-in
       lookTarget:     [0, -1.6, 0], // look slightly below centre → network sits above the hero text
-      parallax:       [1.6, 1.0],   // mouse parallax strength (x, y) in world units
     };
 
     /* ── Simulation tuning ──────────────────────────────────────────────── */
@@ -70,7 +69,7 @@
       fireThreshold: 0.95, // accumulated charge that forces a firing
       emitChance:   0.5,   // chance each connection gets a pulse on firing
       emitCap:      3,     // max pulses emitted per firing
-      pulseSpeed:   6.5,   // world units per second a pulse travels
+      pulseSpeed:   2.6,   // world units per second a pulse travels
       spontaneousEvery: 0.7,  // seconds between random single firings
       burstEvery:   [6, 10],  // [min,max] seconds between cluster bursts
       burstSize:    4,        // nodes fired per burst
@@ -639,16 +638,6 @@
     var camTheta  = Math.random() * Math.PI * 2;
     var camRadius = REDUCED ? CFG.orbitRadius : CFG.introRadiusStart;
 
-    var mouseX = 0, mouseY = 0;          // eased parallax state
-    var mouseTX = 0, mouseTY = 0;        // raw target
-
-    if (!REDUCED) {
-      window.addEventListener('mousemove', function (e) {
-        mouseTX = (e.clientX / window.innerWidth - 0.5) * 2;
-        mouseTY = (e.clientY / window.innerHeight - 0.5) * 2;
-      });
-    }
-
     /* ── Animation loop ─────────────────────────────────────────────────── */
     var animId = null;
     var last = null;
@@ -758,11 +747,6 @@
         } else {
           camTheta += dt * (0.045 + 0.02 * Math.sin(simTime * 0.05));
         }
-
-        // Eased mouse parallax
-        var ek = 1 - Math.exp(-3 * dt);
-        mouseX += (mouseTX - mouseX) * ek;
-        mouseY += (mouseTY - mouseY) * ek;
       }
 
       var camPhi = 0.12 + (REDUCED ? 0 : 0.16 * Math.sin(simTime * 0.07));
@@ -770,11 +754,7 @@
       camera.position.x = camRadius * cosP * Math.cos(camTheta);
       camera.position.z = camRadius * cosP * Math.sin(camTheta);
       camera.position.y = camRadius * Math.sin(camPhi);
-      camera.lookAt(
-        CFG.lookTarget[0] - mouseX * CFG.parallax[0],
-        CFG.lookTarget[1] + mouseY * CFG.parallax[1],
-        CFG.lookTarget[2]
-      );
+      camera.lookAt(CFG.lookTarget[0], CFG.lookTarget[1], CFG.lookTarget[2]);
 
       // Depth fade tracks the camera so the far side always melts away
       fogUniforms.uFogNear.value = camRadius * 0.55;
