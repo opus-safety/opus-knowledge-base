@@ -88,7 +88,6 @@ features = [
     "navigation.instant",           # SPA/XHR navigation
     "navigation.instant.prefetch",  # prefetch on hover
     "navigation.path",              # breadcrumb
-    "navigation.sections",          # group sections in sidebar
     "navigation.tabs",              # top-level sections as header tabs
     "navigation.top",               # back-to-top button
     "navigation.tracking",          # auto-update URL with active anchor
