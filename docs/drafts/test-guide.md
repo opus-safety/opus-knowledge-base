@@ -68,3 +68,8 @@ Change 4
 ??? outline "<span class="meta">block 1</span>"
 
     <span data-uuid="dcafbd08-7ebf-4e5c-a67e-8473470c222d" style="display:none"></span>
+
+    !!! step
+
+        <span data-uuid="255db5db-4bd2-4aed-a3ef-1acf56d6c813" style="display:none"></span>
+        step 1!
