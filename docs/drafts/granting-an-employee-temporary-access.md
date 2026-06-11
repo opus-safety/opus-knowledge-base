@@ -32,5 +32,15 @@ Temporary access is a way to grant your employees access to certain features wit
     ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
+!!! step
+
+    <span data-uuid="5c834f74-26bf-441c-b2b6-1f8a09376ba4" style="display:none"></span>
+
+    Click **Employee records** on the manage sidebar.
+
+    <span data-uuid="d261e01c-6b94-4a84-9140-250334855cd3" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 ## User Steps
 <span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
