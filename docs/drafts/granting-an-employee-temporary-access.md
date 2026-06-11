@@ -97,3 +97,7 @@ Temporary access is a way to grant your employees access to certain features wit
 !!! step
 
     <span data-uuid="a8119ff5-2349-41a7-8b12-9ee687d854b1" style="display:none"></span>
+
+    <span data-uuid="5b53691c-395d-4609-a41c-b2233369797f" style="display:none"></span>
+    ![](../assets/media/occ-captures/employees/uuid/temporary-accessing/id/accept-temporary-access-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/employees/uuid/temporary-accessing/id/accept-temporary-access-dark-mode.png#only-dark)
