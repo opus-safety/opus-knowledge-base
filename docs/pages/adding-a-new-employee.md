@@ -1,6 +1,5 @@
 ---
 icon: lucide/user-plus
-status: new
 ---
 
 # Adding a New Employee
