@@ -207,6 +207,8 @@ status: new
     <span data-uuid="eacbba2f-09e7-4a89-971b-d1d59f75cdf2" style="display:none"></span>
     === "Single Site"
 
+        <span data-uuid="d6b9075d-5106-4922-b810-11b0c5b80a7c" style="display:none"></span>
+
         Choose whether the employee should access the site as a **user**, **manager**, or **administrator** using the drop-down menu. To remove access, select the **-** option.
 
         !!! note
@@ -217,6 +219,8 @@ status: new
         ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
 
     === "Multiple Sites"
+
+        <span data-uuid="39f74d89-d0a5-498a-a699-ac0deba20b93" style="display:none"></span>
 
         Click the double up-arrows next to the site name to give access higher up your organisational hierarchy — across other sites, regions, or your entire organisation.
 
