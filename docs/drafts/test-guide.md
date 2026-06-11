@@ -74,7 +74,7 @@ Change 4
         <span data-uuid="255db5db-4bd2-4aed-a3ef-1acf56d6c813" style="display:none"></span>
         step 1!
 
-    ??? step "<span class="meta">block 2</span>"
+    ??? step
 
         <span data-uuid="54f85d97-f0fb-46a0-88ee-ecc5e5bf4cc9" style="display:none"></span>
         test
