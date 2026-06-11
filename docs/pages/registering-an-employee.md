@@ -1,6 +1,5 @@
 ---
 icon: lucide/user-check
-status: new
 ---
 
 # Registering an Employee with an Opus Account
