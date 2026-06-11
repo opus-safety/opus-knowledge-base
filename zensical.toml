@@ -47,9 +47,6 @@ draft_nav = [
   {"Guides" = [
     {"Test" = [
       {"test guide" = "pages/test-guide.md"}
-    ]},
-    {"Employees" = [
-      {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
     ]}
   ]}
 ]
