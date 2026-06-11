@@ -763,34 +763,13 @@
       renderer.render(scene, camera);
     }
 
-    /* ── Dark-mode lock ─────────────────────────────────────────────────── */
-    /* The homepage always renders in dark mode: the scheme is forced to
-       "slate" while the hero is visible and the palette toggle is hidden
-       (body.neural-dark-lock, see neural-hero.css). The user's own choice
-       is restored on navigation away — localStorage is never touched. */
-    var savedScheme = null;
-
-    function lockDarkMode() {
-      if (savedScheme === null) {
-        savedScheme = document.body.getAttribute('data-md-color-scheme') || 'default';
-      }
-      document.body.classList.add('neural-dark-lock');
-      document.body.setAttribute('data-md-color-scheme', 'slate');
-    }
-
-    function unlockDarkMode() {
-      document.body.classList.remove('neural-dark-lock');
-      if (savedScheme !== null) {
-        document.body.setAttribute('data-md-color-scheme', savedScheme);
-        savedScheme = null;
-      }
-    }
-
     /* ── Show / hide ────────────────────────────────────────────────────── */
+    /* Dark-mode enforcement is handled separately by dark-lock.js via the
+       page's `force-dark: true` front matter — this script adapts to
+       whatever scheme is active (see the MutationObserver above). */
     function activate() {
       heroDiv.style.display = 'block';
       document.body.classList.add('neural-active');
-      lockDarkMode();
       applyPalette();
       if (animId === null) {
         last = null;
@@ -804,7 +783,6 @@
       heroDiv.style.display = 'none';
       heroDiv.style.opacity = '0';
       document.body.classList.remove('neural-active');
-      unlockDarkMode();
       if (animId !== null) {
         cancelAnimationFrame(animId);
         animId = null;

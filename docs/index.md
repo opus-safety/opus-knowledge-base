@@ -1,6 +1,6 @@
 ---
 title: Home
-background-animation: golden-v1
+background-animation: neural-v2
 force-dark: true
 groove: true
 hide:
