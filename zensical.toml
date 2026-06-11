@@ -47,11 +47,7 @@ nav = [
 ]
 
 draft_nav = [
-  {"Guides" = [
-    {"Employees" = [
-      {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
-    ]}
-  ]}
+
 ]
 
 # ----------------------------------------------------------------------------
