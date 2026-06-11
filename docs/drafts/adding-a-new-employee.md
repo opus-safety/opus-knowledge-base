@@ -164,8 +164,8 @@ status: new
     After creating the employee record with the fine-tune option selected, you will be redirected to the employee site access page.
 
     <span data-uuid="6f80e610-9b19-46b5-8ac7-3ea26e8e48d1" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-dark-mode.png#only-dark)
 
 !!! step
 
