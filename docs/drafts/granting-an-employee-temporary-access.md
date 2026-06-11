@@ -83,6 +83,7 @@ Follow this guide to grant an employee temporary access for an employee.
 ## User Steps
 <span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
 
+This section is intended to be followed by the user being set up.
 
 !!! step
 
