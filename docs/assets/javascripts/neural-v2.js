@@ -738,14 +738,18 @@
 
       /* Camera */
       if (!REDUCED) {
+        var orbitRate = 0.032 + 0.014 * Math.sin(simTime * 0.05);
         if (introProgress < 1) {
           introProgress = Math.min(1, introProgress + dt / CFG.introDuration);
           var it = introProgress;
           var ease = it * it * it * (it * (it * 6 - 15) + 10); // smootherstep
           camRadius = lerp(CFG.introRadiusStart, CFG.orbitRadius, ease);
-          camTheta += dt * 0.10;       // gentle sweep during the dolly-in
+          // Sweep fast at the start, glide into the resting orbit rate —
+          // smootherstep has zero slope at t=1, so there is no speed jump
+          // when the dolly-in hands over to the orbit.
+          camTheta += dt * lerp(0.10, orbitRate, ease);
         } else {
-          camTheta += dt * (0.032 + 0.014 * Math.sin(simTime * 0.05));
+          camTheta += dt * orbitRate;
         }
       }
 
