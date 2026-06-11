@@ -69,9 +69,9 @@
       fireThreshold: 0.95, // accumulated charge that forces a firing
       emitChance:   0.5,   // chance each connection gets a pulse on firing
       emitCap:      3,     // max pulses emitted per firing
-      pulseSpeed:   2.6,   // world units per second a pulse travels
-      spontaneousEvery: 0.7,  // seconds between random single firings
-      burstEvery:   [6, 10],  // [min,max] seconds between cluster bursts
+      pulseSpeed:   1.6,   // world units per second a pulse travels
+      spontaneousEvery: 1.1,  // seconds between random single firings
+      burstEvery:   [9, 14],  // [min,max] seconds between cluster bursts
       burstSize:    4,        // nodes fired per burst
       heatDecay:    0.7,      // edge heat lost per second
       maxPulses:    240,      // pulse pool size
@@ -745,7 +745,7 @@
           camRadius = lerp(CFG.introRadiusStart, CFG.orbitRadius, ease);
           camTheta += dt * 0.10;       // gentle sweep during the dolly-in
         } else {
-          camTheta += dt * (0.045 + 0.02 * Math.sin(simTime * 0.05));
+          camTheta += dt * (0.032 + 0.014 * Math.sin(simTime * 0.05));
         }
       }
 
