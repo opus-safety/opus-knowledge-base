@@ -11,9 +11,9 @@
   function loadAndRun() {
     if (window.THREE) { run(); return; }
     var s = document.createElement('script');
-    var neuralTag = document.querySelector('script[src*="neural.js"]');
-    if (!neuralTag) { console.error('[neural] Cannot locate neural.js script tag.'); return; }
-    s.src = neuralTag.src.replace('neural.js', 'three.min.js');
+    var neuralTag = document.querySelector('script[src*="neural-v1.js"]');
+    if (!neuralTag) { console.error('[neural] Cannot locate neural-v1.js script tag.'); return; }
+    s.src = neuralTag.src.replace('neural-v1.js', 'three.min.js');
     s.onload = run;
     s.onerror = function () { console.error('[neural] Three.js failed to load.'); };
     document.head.appendChild(s);
