@@ -106,7 +106,7 @@ Temporary access is a way to grant your employees access to certain features wit
 !!! step
 
     <span data-uuid="d356e9d5-68f9-4cbd-96c0-80956631c2ba" style="display:none"></span>
-    After accepting, you land on [My Dashboard](https://cloud.opus-safety.co.uk/dashboard). You can now complete your employee requirements such as elearning from here
+    After accepting, you land on [My Dashboard](https://cloud.opus-safety.co.uk/dashboard). You can now complete your employee requirements such as elearning from here.
 
     <span data-uuid="49476e85-f8d9-4991-b645-5282972bb460" style="display:none"></span>
     ![](../assets/media/occ-captures/dashboard/my-dashboard-temporary-access-light-mode.png#only-light)
