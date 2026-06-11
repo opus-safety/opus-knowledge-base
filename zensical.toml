@@ -49,7 +49,7 @@ draft_nav = [
     ]},
     {"Employees" = [
       {"Registering an employee" = "pages/registering-an-employee.md"},
-      {"Granting an Employee Temporary Access" = "drafts/granting-an-employee-temporary-access.md"}
+      {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
     ]}
   ]}
 ]
