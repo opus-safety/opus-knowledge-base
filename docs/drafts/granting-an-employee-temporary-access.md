@@ -10,3 +10,6 @@ Temporary access is a way to grant your employees access to certain features wit
 
 ## Manager Steps
 <span data-uuid="96bfb2b5-5a1d-419d-bc84-ceb5ba7b12d8" style="display:none"></span>
+
+## User Steps
+<span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
