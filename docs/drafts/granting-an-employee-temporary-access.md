@@ -22,5 +22,15 @@ Temporary access is a way to grant your employees access to certain features wit
     ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
+!!! step
+
+    <span data-uuid="c52f924a-e5dc-4e5a-a315-684d10416c31" style="display:none"></span>
+
+    From the site inbox, click the **Switch to Manage Mode** button.
+
+    <span data-uuid="7d3d3157-48ac-4237-a78b-97008102de4a" style="display:none"></span>
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 ## User Steps
 <span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
