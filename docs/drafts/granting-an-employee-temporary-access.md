@@ -80,3 +80,16 @@ Temporary access is a way to grant your employees access to certain features wit
 
 ## User Steps
 <span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
+
+
+!!! step
+
+    <span data-uuid="5fc5c46b-7b29-48c3-b01e-4b260da2a1e7" style="display:none"></span>
+
+    After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
+
+    **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
+
+    <span data-uuid="f9f6153f-fa22-4704-86cd-e55148fdf27c" style="display:none"></span>
+    ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
