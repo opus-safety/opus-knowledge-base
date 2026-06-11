@@ -30,7 +30,8 @@ nav = [
   {"Guides" = [
     {"Employees" = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
-      {"Registering an employee" = "pages/registering-an-employee.md"}
+      {"Registering an employee" = "pages/registering-an-employee.md"},
+      {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
     ]}
   ]},
   {"System" = [
@@ -48,7 +49,6 @@ draft_nav = [
       {"test guide" = "pages/test-guide.md"}
     ]},
     {"Employees" = [
-      {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"},
       {"Registering an employee" = "pages/registering-an-employee.md"}
     ]}
   ]}
