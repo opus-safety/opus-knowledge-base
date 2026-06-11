@@ -35,3 +35,9 @@ body.neural-active .md-header {
   -webkit-backdrop-filter: none !important;
   backdrop-filter: none !important;
 }
+
+/* ── Dark-mode lock (neural-v2) ── */
+/* The homepage is forced to the slate scheme, so the toggle would be a no-op */
+body.neural-dark-lock form[data-md-component="palette"] {
+  display: none;
+}
