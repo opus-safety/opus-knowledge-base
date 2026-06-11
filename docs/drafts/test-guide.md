@@ -79,6 +79,10 @@ Change 4
         <span data-uuid="54f85d97-f0fb-46a0-88ee-ecc5e5bf4cc9" style="display:none"></span>
         test
 
+<span data-uuid="ed561693-755e-4ecc-9474-a14191d66101" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/generate-snapshot-light-mode.png#only-light){ style="height: 100px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/generate-snapshot-dark-mode.png#only-dark){ style="height: 100px" loading=lazy }
+
 ??? outline "<span class="meta">block 2</span>"
 
     <span data-uuid="3121b1ef-352b-4b5e-8f25-79bbefd65d2b" style="display:none"></span>
