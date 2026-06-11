@@ -111,3 +111,8 @@ Temporary access is a way to grant your employees access to certain features wit
     <span data-uuid="49476e85-f8d9-4991-b645-5282972bb460" style="display:none"></span>
     ![](../assets/media/occ-captures/dashboard/my-dashboard-temporary-access-light-mode.png#only-light)
     ![](../assets/media/occ-captures/dashboard/my-dashboard-temporary-access-dark-mode.png#only-dark)
+
+!!! warning
+
+    <span data-uuid="dd93b074-7b90-47a6-a9b9-0b5fb4b7cc92" style="display:none"></span>
+    Temporary access expires after 7 days. A prompt is available on [My Dashboard](https://cloud.opus-safety.co.uk/dashboard) in the **Security** panel to create an account if you would like to make your access permanent.
