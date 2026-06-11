@@ -4,6 +4,11 @@
     <script src="{{ 'assets/javascripts/neural-v1.js' | url }}" defer></script>
   {% elif page.meta and page.meta['background-animation'] == 'neural-v2' %}
     <script src="{{ 'assets/javascripts/neural-v2.js' | url }}" defer></script>
+  {% elif page.meta and page.meta['background-animation'] == 'golden-v1' %}
+    <script src="{{ 'assets/javascripts/golden-v1.js' | url }}" defer></script>
+  {% endif %}
+  {% if page.meta and page.meta['force-dark'] %}
+    <script src="{{ 'assets/javascripts/dark-lock.js' | url }}" defer></script>
   {% endif %}
   {% if page.meta and page.meta.editor %}
     <script src="{{ 'assets/javascripts/editor.js' | url }}" defer></script>

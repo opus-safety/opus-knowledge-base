@@ -41,3 +41,8 @@ body.neural-active .md-header {
 body.neural-dark-lock form[data-md-component="palette"] {
   display: none;
 }
+
+/* ── Dark-mode lock (dark-lock.js, pages with force-dark: true) ── */
+body.dark-lock form[data-md-component="palette"] {
+  display: none;
+}
