@@ -32,9 +32,6 @@ nav = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
       {"Registering an employee" = "pages/registering-an-employee.md"},
       {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
-    ]},
-    {"Test" = [
-      {"test guide 3" = "pages/test-guide.md"}
     ]}
   ]},
   {"System" = [
