@@ -1,6 +1,6 @@
 ---
 title: Home
-neural: true
+background-animation: neural-v2
 groove: true
 hide:
   - toc
