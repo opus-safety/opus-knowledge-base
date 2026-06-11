@@ -69,5 +69,10 @@ Temporary access is a way to grant your employees access to certain features wit
     ![](../assets/media/occ-captures/admin/sites/uuid/grant-temporary-access-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/grant-temporary-access-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
+!!! step
+
+    <span data-uuid="7455625d-3143-4b72-ba45-3082d001d441" style="display:none"></span>
+    A QR code and link copy button will appear. Have the user scan the QR code or copy the link and send to them via email or similar
+
 ## User Steps
 <span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
