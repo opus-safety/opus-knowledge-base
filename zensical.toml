@@ -32,6 +32,9 @@ nav = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
       {"Registering an employee" = "pages/registering-an-employee.md"},
       {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
+    ]},
+    {"Test" = [
+      {"test guide" = "pages/test-guide.md"}
     ]}
   ]},
   {"System" = [
@@ -44,11 +47,7 @@ nav = [
 ]
 
 draft_nav = [
-  {"Guides" = [
-    {"Test" = [
-      {"test guide" = "pages/test-guide.md"}
-    ]}
-  ]}
+
 ]
 
 # ----------------------------------------------------------------------------
