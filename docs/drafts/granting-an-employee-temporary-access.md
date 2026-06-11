@@ -8,7 +8,7 @@ icon: lucide/user-star
 Temporary access is a way to grant your employees access to certain features without an account (such as E-learning, viewing site documents, and reporting events).
 
 
-Follow this guide to grant an employee temporary access for an employee.
+Follow this guide to grant an employee temporary access.
 
 ## Manager Steps
 <span data-uuid="96bfb2b5-5a1d-419d-bc84-ceb5ba7b12d8" style="display:none"></span>
