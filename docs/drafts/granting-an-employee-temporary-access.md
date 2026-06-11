@@ -42,5 +42,15 @@ Temporary access is a way to grant your employees access to certain features wit
     ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
+!!! step
+
+    <span data-uuid="f5e862fd-6a74-4cfb-abc1-815989d6d5c6" style="display:none"></span>
+
+    In the employee list, click the blue **Link to Opus Account** button next to the employee record.
+
+    <span data-uuid="bc10e62b-e95e-4b8c-b16d-e23e6cc8e596" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/link-to-opus-account-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/link-to-opus-account-dark-mode.png#only-dark)
+
 ## User Steps
 <span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
