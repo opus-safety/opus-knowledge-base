@@ -79,7 +79,7 @@ Change 4
         <span data-uuid="54f85d97-f0fb-46a0-88ee-ecc5e5bf4cc9" style="display:none"></span>
         test
 
-!!! outline "<span class="meta">block 2</span>"
+??? outline "<span class="meta">block 2</span>"
 
     <span data-uuid="3121b1ef-352b-4b5e-8f25-79bbefd65d2b" style="display:none"></span>
 
