@@ -47,9 +47,6 @@ nav = [
 ]
 
 draft_nav = [
-  {"Pre Release Workspace" = [
-    {"Knowledge base roadmap" = "pages/knowledge-base-roadmap.md"}
-  ]},
   {"Guides" = [
     {"Getting Started" = [
       {"Overview" = "pages/overview.md"}
