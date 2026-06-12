@@ -16,3 +16,8 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
 ## Features & Abilities
 <span data-uuid="50678988-6cc4-430b-9ed1-7a592128294c" style="display:none"></span>
+
+
+!!! outline "Viewing your available contractors"
+
+    <span data-uuid="593a361b-1e9a-453e-b258-201f7e446433" style="display:none"></span>
