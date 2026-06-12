@@ -44,7 +44,11 @@ nav = [
 ]
 
 draft_nav = [
-
+  {"Guides" = [
+    {"Contractors" = [
+      {"What is Opus Contractor Management?" = "pages/what-is-opus-contractor-management.md"}
+    ]}
+  ]}
 ]
 
 # ----------------------------------------------------------------------------
