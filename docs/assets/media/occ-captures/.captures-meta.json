@@ -67,5 +67,9 @@
   "docs/assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/projects/uuid/project-inbox-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
