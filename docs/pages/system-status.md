@@ -48,17 +48,6 @@ icon: lucide/chart-no-axes-column-increasing
 
     !!! status-outage "Server"
 
-        <span data-uuid="3291c5af-c860-47ce-ba7b-224c81363854" style="display:none"></span>
-
-        - **Service Impact:** OUTAGE
-        - **Current Status:** `Resolved`
-        - **Description:** Server down
-        - **Reported:** 2026-06-11 22:18
-        - **Resolved:** 2026-06-12 02:21
-        - **Causation:** idk
-
-    !!! status-outage "Server"
-
         <span data-uuid="eabb3f02-50ea-4c86-a72b-63bec6113614" style="display:none"></span>
 
         - **Service Impact:** OUTAGE
