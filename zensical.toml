@@ -51,6 +51,9 @@ draft_nav = [
     {"Contractors" = [
       {"Contractor & Project statuses" = "pages/contractor-and-project-statuses.md"},
       {"Contractors Overview" = "pages/contractors-overview.md"}
+    ]},
+    {"Employees" = [
+      {"Adding a new employee" = "pages/adding-a-new-employee.md"}
     ]}
   ]}
 ]
