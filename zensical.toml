@@ -40,9 +40,6 @@ nav = [
   {"System" = [
     {"System updates" = "pages/system-updates.md"},
     {"System status" = "pages/system-status.md"}
-  ]},
-  {"Pre-release Workspace" = [
-    {"Knowledge base roadmap" = "pages/knowledge-base-roadmap.md"}
   ]}
 ]
 
