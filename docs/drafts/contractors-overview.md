@@ -8,3 +8,8 @@ Opus Contractor Management is a powerful new add-on product that allows you to m
 
 
 This feature allows you to add contractors onto the system, as well as managing the projects contractors work on.
+
+## Who is it for?
+<span data-uuid="2defab44-c268-45a0-85fd-5f273498312c" style="display:none"></span>
+
+Opus Contractor Management is designed for businesses that regularly engage contractors and need to manage the compliance requirements, documentation, and projects associated with contractors working on their site(s).
