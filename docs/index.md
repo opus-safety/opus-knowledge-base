@@ -10,9 +10,9 @@ hide:
 
 <div class="home-hero" data-force-dark markdown>
 
-# Opus Knowledge Base v2
+# Opus Knowledge Base
 
-### A new & upcoming knowledge repository for Opus Compliance Cloud
+### The knowledge repository for Opus Compliance Cloud
 
 [Get started](pages/overview.md){ .md-button .md-button--primary }
 [Learn more](pages/overview.md){ .md-button }
