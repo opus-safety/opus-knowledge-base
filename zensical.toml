@@ -34,7 +34,7 @@ nav = [
     {"Employees" = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
       {"Registering an employee" = "pages/registering-an-employee.md"},
-      {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
+      {"Granting an employee temporary access" = "pages/granting-an-employee-temporary-access.md"}
     ]},
     {"Contractors" = [
       {"Contractors Overview" = "pages/contractors-overview.md"}
@@ -52,7 +52,7 @@ draft_nav = [
       {"Contractor and Project Statuses" = "pages/contractor-and-project-statuses.md"}
     ]},
     {"Employees" = [
-      {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
+      {"Granting an employee temporary access" = "pages/granting-an-employee-temporary-access.md"}
     ]}
   ]}
 ]
