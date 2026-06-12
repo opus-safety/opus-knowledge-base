@@ -14,13 +14,3 @@
 | `Renewable` | All requirements for the Contractor have been fulfilled previously, but at least one requirement is now out of date and needs renewing. |
 | `Ready` | All requirements for the Contractor have been fulfilled and are currently up to date. The Contractor is ready for use. |
 | `Archived` | The Contractor has been archived from the Contractor's edit page. Any existing open requirement tasks for this Contractor will have been resolved, and no new tasks will be generated for outstanding requirements. |
-
-<span data-uuid="19ef57a1-faa2-4d8c-b816-4e3dae73131b" style="display:none"></span>
-
-| Status | Description |
-| :--- | :--- |
-| `Stale` | This Contractor is configured to not be required to be kept up to date while not in use. Its requirements are due; however, the Contractor is not currently being used. |
-| `Incomplete` | At least one requirement for the Contractor has not yet been fulfilled. |
-| `Renewable` | All requirements for the Contractor have been fulfilled previously, but at least one requirement is now out of date and needs renewing. |
-| `Ready` | All requirements for the Contractor have been fulfilled and are currently up to date. The Contractor is ready for use. |
-| `Archived` | The Contractor has been archived from the Contractor's edit page. Any existing open requirement tasks for this Contractor will have been resolved, and no new tasks will be generated for outstanding requirements. |
