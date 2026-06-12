@@ -41,7 +41,7 @@ Opus Contractor Management is designed for businesses that regularly engage cont
     <span data-uuid="01542dce-d5e5-4370-9f0c-8566ba1cbd23" style="display:none"></span>
 
     <span data-uuid="8257e0e5-7b75-413d-ad5c-b21cf8c94cec" style="display:none"></span>
-    === "Contractor: View mode inbox"
+    === "Contractor inbox"
 
         <span data-uuid="d4dafb37-e2ec-495f-b034-bb4014b2bc96" style="display:none"></span>
 
@@ -49,15 +49,7 @@ Opus Contractor Management is designed for businesses that regularly engage cont
         ![](../assets/media/occ-captures/contractors/uuid/contractor-inbox-light-mode.png#only-light)
         ![](../assets/media/occ-captures/contractors/uuid/contractor-inbox-dark-mode.png#only-dark)
 
-    === "Contractor: Manage mode"
-
-        <span data-uuid="cc21f230-3b6e-4577-ae3b-9b669e928d3c" style="display:none"></span>
-
-        <span data-uuid="73d829e1-3e0f-4c28-81a2-3d819b27211d" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-dark-mode.png#only-dark)
-
-    === "Project: View mode inbox"
+    === "Project inbox"
 
         <span data-uuid="ae858fcd-fbf5-47d3-b49d-f97453348437" style="display:none"></span>
 
@@ -65,7 +57,15 @@ Opus Contractor Management is designed for businesses that regularly engage cont
         ![](../assets/media/occ-captures/projects/uuid/project-inbox-light-mode.png#only-light)
         ![](../assets/media/occ-captures/projects/uuid/project-inbox-dark-mode.png#only-dark)
 
-    === "Project: Manage mode"
+    === "Contractor manage"
+
+        <span data-uuid="cc21f230-3b6e-4577-ae3b-9b669e928d3c" style="display:none"></span>
+
+        <span data-uuid="73d829e1-3e0f-4c28-81a2-3d819b27211d" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-dark-mode.png#only-dark)
+
+    === "Project manage"
 
         <span data-uuid="0c83e025-6b9d-4c0e-a544-05918483b025" style="display:none"></span>
 
