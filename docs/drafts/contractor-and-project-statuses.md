@@ -6,6 +6,7 @@
 
 
 <span data-uuid="a03a06b5-28fd-40cf-8ba2-6f78f304bd19" style="display:none"></span>
+
 | Status | Description |
 | :--- | :--- |
 | `Stale` | This Contractor is configured to not be required to be kept up to date while not in use. Its requirements are due; however, the Contractor is not currently being used. |
