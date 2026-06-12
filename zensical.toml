@@ -28,12 +28,14 @@ extra_javascript = []
 nav = [
   {"Home" = "index.md"},
   {"Guides" = [
+    {"Getting started" = [
+      {"Overview" = "pages/overview.md"}
+    ]},
     {"Employees" = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
       {"Registering an employee" = "pages/registering-an-employee.md"},
       {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
-    ]},
-    {"Overview" = "pages/overview.md"}
+    ]}
   ]},
   {"System" = [
     {"System updates" = "pages/system-updates.md"},
