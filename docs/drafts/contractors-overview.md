@@ -53,6 +53,10 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
         <span data-uuid="cc21f230-3b6e-4577-ae3b-9b669e928d3c" style="display:none"></span>
 
+        <span data-uuid="73d829e1-3e0f-4c28-81a2-3d819b27211d" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-dark-mode.png#only-dark)
+
     === "Project: View mode inbox"
 
         <span data-uuid="ae858fcd-fbf5-47d3-b49d-f97453348437" style="display:none"></span>
