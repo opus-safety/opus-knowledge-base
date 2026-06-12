@@ -10,11 +10,11 @@ icon: lucide/chart-no-axes-column-increasing
 
 <div class="grid" markdown>
 
-!!! status-outage "Server"
+!!! status-available "Server"
 
     <span data-uuid="3e7c2ce8-ef4d-495a-a1b8-b9917838617c" style="display:none"></span>
 
-    **Status:** OUTAGE
+    **Status:** AVAILABLE
 !!! status-available "Account Login"
 
     <span data-uuid="86d36e3b-2dab-44cc-b863-2cf64213b28a" style="display:none"></span>
@@ -40,22 +40,22 @@ icon: lucide/chart-no-axes-column-increasing
 ---
 ## Open Incidents
 
-!!! status-outage "Server"
-
-    <span data-uuid="3291c5af-c860-47ce-ba7b-224c81363854" style="display:none"></span>
-
-    - **Service Impact:** OUTAGE
-    - **Current Status:** `Ongoing`
-    - **Description:** Server down
-    - **Reported:** 2026-06-11 22:18
-    - **Resolved:** 
-    - **Causation:** 
-
 ---
 
 ## Past Incidents
 
 ??? outline "View past incidents"
+
+    !!! status-outage "Server"
+
+        <span data-uuid="3291c5af-c860-47ce-ba7b-224c81363854" style="display:none"></span>
+
+        - **Service Impact:** OUTAGE
+        - **Current Status:** `Resolved`
+        - **Description:** Server down
+        - **Reported:** 2026-06-11 22:18
+        - **Resolved:** 2026-06-12 02:21
+        - **Causation:** idk
 
     !!! status-outage "Server"
 
