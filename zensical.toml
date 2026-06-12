@@ -32,7 +32,8 @@ nav = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
       {"Registering an employee" = "pages/registering-an-employee.md"},
       {"Granting an Employee Temporary Access" = "pages/granting-an-employee-temporary-access.md"}
-    ]}
+    ]},
+    {"Overview" = "pages/overview.md"}
   ]},
   {"System" = [
     {"System updates" = "pages/system-updates.md"},
@@ -46,9 +47,6 @@ nav = [
 draft_nav = [
   {"Pre Release Workspace" = [
     {"Knowledge base roadmap" = "pages/knowledge-base-roadmap.md"}
-  ]},
-  {"Guides" = [
-    {"Overview" = "pages/overview.md"}
   ]}
 ]
 
