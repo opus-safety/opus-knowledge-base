@@ -48,9 +48,9 @@ icon: lucide/user-plus
     <span data-uuid="830c0ae5-baab-43cd-b6e7-6aede1848221" style="display:none"></span>
     Click the **+New** button at the top right of the page.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-dark-mode.png#only-dark){ style="height: 50px" }
     <span data-uuid="b1bf3986-33b7-4435-834f-492bbcae2582" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-light-mode.png#only-light){ style="height: 50px" }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
