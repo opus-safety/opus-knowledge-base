@@ -1,0 +1,10 @@
+/* ============================================================================
+   Table tweaks
+   ============================================================================ */
+
+/* Stop the first column from wrapping mid-word (e.g. "Incomplete" breaking
+   onto two lines). The column sizes to its content instead. */
+.md-typeset table:not([class]) td:first-child,
+.md-typeset table:not([class]) th:first-child {
+  white-space: nowrap;
+}
