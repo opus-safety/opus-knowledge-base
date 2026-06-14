@@ -145,11 +145,11 @@ icon: lucide/user-plus
     <span data-uuid="9cddf4de-24f1-4f78-9d9a-353b9e8df9fb" style="display:none"></span>
     Click **Save employee** at the bottom of the page.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" }
-    <span data-uuid="6994511d-2240-41c1-a121-fb6767abaeac" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" }
-
     After saving, you will be redirected to the employee's access page.
+
+    <span data-uuid="6994511d-2240-41c1-a121-fb6767abaeac" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 ### Fine-Tune Site Access
 <span data-uuid="4939bfd0-1431-48a4-9183-2d6c2c745496" style="display:none"></span>
