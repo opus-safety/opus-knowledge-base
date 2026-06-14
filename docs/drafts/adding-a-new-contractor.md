@@ -108,6 +108,10 @@ icon: lucide/square-plus
     <span data-uuid="225598f9-cf23-4642-bb0b-d60418ac8907" style="display:none"></span>
     Select the type(s) for this contractor.
 
+    <span data-uuid="c892c017-6418-44b8-ac17-5d18334d1e05" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/type-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/type-dark-mode.png#only-dark)
+
     !!! warning
 
         <span data-uuid="de8f3442-0c69-4e12-a5ab-b0b5c7348e5e" style="display:none"></span>
