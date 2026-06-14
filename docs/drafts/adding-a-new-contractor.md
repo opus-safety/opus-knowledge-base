@@ -116,3 +116,8 @@ icon: lucide/square-plus
 
         <span data-uuid="de8f3442-0c69-4e12-a5ab-b0b5c7348e5e" style="display:none"></span>
         Please select the relevant type(s), as these will determine the requirements added to the contractor. Multiple types can be selected if applicable.
+
+    !!! tip
+
+        <span data-uuid="4e7e06e3-5b7a-42f2-b97c-5a22041e36de" style="display:none"></span>
+        To view the specific requirements for each type, hover over the ellipsis (…) to the right of each type title.
