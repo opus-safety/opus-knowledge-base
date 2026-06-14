@@ -81,3 +81,10 @@ icon: lucide/square-plus
     <span data-uuid="a17e44d0-c786-491c-ac3a-997acb3e7907" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/keep-requirements-up-to-date-outside-of-projects-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/keep-requirements-up-to-date-outside-of-projects-dark-mode.png#only-dark)
+
+    !!! example "Example - Yes"
+
+        <span data-uuid="da075c2b-58df-452d-b5cb-8074d70b19ec" style="display:none"></span>
+        If you select `Yes`, you will receive ongoing task reminders to complete and maintain this contractor’s requirements (such as insurance documents), regardless of whether the contractor is currently in use at any of your sites via an active project.
+
+        This option is recommended for contractors who are **important** or **regularly used**, as it helps ensure they remain compliant and ready to use whenever needed.
