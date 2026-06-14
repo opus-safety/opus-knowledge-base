@@ -17,3 +17,14 @@
 
 ## Project statuses
 <span data-uuid="bf87a2fe-e52d-4127-9e60-1b6842a1ee1d" style="display:none"></span>
+
+
+<span data-uuid="2c8cb682-8f6c-4a12-a7db-5103fed54794" style="display:none"></span>
+
+| Status | Description |
+| :--- | :--- |
+| `Future` | This Project's start date is in the future. Tasks will not generate until this Project starts. |
+| `Incomplete` | At least one requirement for the Project has not yet been fulfilled. |
+| `Renewable` | All requirements for the Project have been fulfilled previously, but at least one requirement is now out of date and needs renewing. |
+| `Ready` | All requirements for the Project have been fulfilled and are currently up to date. The Project is ready to start. |
+| `Ended` | The Project has ended. |
