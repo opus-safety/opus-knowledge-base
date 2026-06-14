@@ -64,3 +64,7 @@ icon: lucide/square-plus
         <span data-uuid="aead29af-4891-4af6-a046-8f80d4d40e0c" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/photo-light-mode.png#only-light)
         ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/photo-dark-mode.png#only-dark)
+
+    !!! outline "Website, Phone and E-mail Information<span class="meta">(recommended)</span>"
+
+        <span data-uuid="645278b8-9ba6-411d-a62d-5d1e57a519a7" style="display:none"></span>
