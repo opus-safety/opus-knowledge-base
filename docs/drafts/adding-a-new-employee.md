@@ -69,8 +69,7 @@ icon: lucide/user-plus
 
         <span data-uuid="98cffe7a-991f-47c1-8d0c-4491f2560820" style="display:none"></span>
         Upload a photo for this employee record
-
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-dark-mode.png#only-dark)
+        [](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-dark-mode.png#only-dark)
 
         <span data-uuid="a13099e9-501d-4e14-91b4-8e739dbe5c0f" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-light-mode.png#only-light)
