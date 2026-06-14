@@ -2,18 +2,18 @@
 icon: lucide/user-plus
 ---
 
-# Adding a New Employee
+# Adding a new employee
 <span data-uuid="4a117361-0f80-4470-a607-6653e0662468" style="display:none"></span>
+
 
 !!! note "Restricted Access"
 
     <span data-uuid="2d4afe6d-5dc1-4ba8-b6b0-29da68cffefa" style="display:none"></span>
     You might not have access to add employees if your company manages this centrally.
 
----
-
-## Creating the Employee Record
+## Creating the employee record
 <span data-uuid="8b5fe9d6-25d1-4a4c-a562-c5af2276df05" style="display:none"></span>
+
 
 !!! step
 
@@ -23,7 +23,6 @@ icon: lucide/user-plus
     <span data-uuid="adc39665-6e47-4e01-af19-9fee6207ace4" style="display:none"></span>
     ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
 
 !!! step
 
@@ -146,8 +145,9 @@ icon: lucide/user-plus
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-### Fine-Tune Site Access
+### Fine-tune site access
 <span data-uuid="4939bfd0-1431-48a4-9183-2d6c2c745496" style="display:none"></span>
+
 
 !!! info "Optional"
 
@@ -236,9 +236,9 @@ icon: lucide/user-plus
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
----
-## Next Steps
+## Next steps
 <span data-uuid="00daa24e-8ef5-4388-af27-5b4d6ce59ff2" style="display:none"></span>
+
 
 !!! tip "Next Step: Register the Employee"
 
