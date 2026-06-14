@@ -61,9 +61,9 @@ icon: lucide/user-plus
 
         <span data-uuid="18a913f5-1c6c-4c79-8f44-84be833befbb" style="display:none"></span>
 
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
         <span data-uuid="bf9f3125-fd08-4267-a92e-5e05ebc6f8dc" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
 
     !!! outline "Photo<span class="meta">(optional)</span>"
 
