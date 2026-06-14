@@ -72,3 +72,8 @@ icon: lucide/square-plus
         <span data-uuid="c6eb4aec-dcbe-453a-8954-165c2faa76e4" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/website-phone-email-light-mode.png#only-light)
         ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/website-phone-email-dark-mode.png#only-dark)
+
+!!! step
+
+    <span data-uuid="9baaa011-d22c-46d4-b02d-602c77f8d7c2" style="display:none"></span>
+    Select whether you would like to keep this contractor up to date when not in use (no active projects).
