@@ -27,3 +27,8 @@ icon: lucide/square-plus
     ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" }
     <span data-uuid="f3fa3cad-0237-41eb-b2b7-b7d8be42a599" style="display:none"></span>
     ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" }
+
+!!! step
+
+    <span data-uuid="41da59b1-aeab-429b-a2df-b027eba1e47f" style="display:none"></span>
+    Click **Contractors** on the manage sidebar.
