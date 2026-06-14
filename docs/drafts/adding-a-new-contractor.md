@@ -93,7 +93,7 @@ icon: lucide/square-plus
 
         **^^Recommended for:^^** Contractors who are regularly used or important to your operations.
 
-    !!! example "Example - No"
+    ??? info "When to select No"
 
         <span data-uuid="ce0135a8-ed9d-43e7-81c1-39d6c2ca7938" style="display:none"></span>
         Selecting `No` means:
