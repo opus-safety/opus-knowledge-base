@@ -112,10 +112,3 @@ icon: lucide/square-plus
 
         <span data-uuid="de8f3442-0c69-4e12-a5ab-b0b5c7348e5e" style="display:none"></span>
         Please select the relevant type(s), as these will determine the requirements added to the contractor. Multiple types can be selected if applicable.
-
-    !!! tip
-
-        <span data-uuid="60907946-0d6c-4f89-9893-1728f26d49cb" style="display:none"></span>
-
-
-        Additional supplementary roles may be available, typically indicated with a "+" prefix (e.g. "+Fire Marshal"). These are designed to be used alongside a core role. To view the specific requirements for each role, hover over the ellipsis (…) to the right of the role title.
