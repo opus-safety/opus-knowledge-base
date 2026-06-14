@@ -102,3 +102,29 @@ icon: lucide/square-plus
         - Reminder tasks will be hidden from your inbox if the contractor is not currently in use (via an active project).
 
         ^^**Recommended for:**^^ Contractors who are not regularly used or are less important to your operations.
+
+!!! outline "Roles"
+
+    <span data-uuid="225598f9-cf23-4642-bb0b-d60418ac8907" style="display:none"></span>
+
+
+    Select the role(s) for this employee.
+
+    <span data-uuid="d7a3d868-f60a-490f-85bc-dcdc428b0a4e" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
+
+    !!! warning
+
+        <span data-uuid="de8f3442-0c69-4e12-a5ab-b0b5c7348e5e" style="display:none"></span>
+
+
+
+        Please ensure you select the appropriate roles, as these determine the employee's required training, e-learning modules, and checklist items. You may select multiple roles where required.
+
+    !!! tip
+
+        <span data-uuid="60907946-0d6c-4f89-9893-1728f26d49cb" style="display:none"></span>
+
+
+        Additional supplementary roles may be available, typically indicated with a "+" prefix (e.g. "+Fire Marshal"). These are designed to be used alongside a core role. To view the specific requirements for each role, hover over the ellipsis (…) to the right of the role title.
