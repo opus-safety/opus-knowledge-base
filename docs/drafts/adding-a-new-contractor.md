@@ -82,7 +82,7 @@ icon: lucide/square-plus
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/keep-requirements-up-to-date-outside-of-projects-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/keep-requirements-up-to-date-outside-of-projects-dark-mode.png#only-dark)
 
-    !!! example "Example - Yes"
+    ??? info "When to select Yes"
 
         <span data-uuid="da075c2b-58df-452d-b5cb-8074d70b19ec" style="display:none"></span>
         Selecting `Yes` means:
