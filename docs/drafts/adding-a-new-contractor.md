@@ -77,3 +77,7 @@ icon: lucide/square-plus
 
     <span data-uuid="9baaa011-d22c-46d4-b02d-602c77f8d7c2" style="display:none"></span>
     Select whether you would like to keep this contractor up to date when not in use (no active projects).
+
+    <span data-uuid="a17e44d0-c786-491c-ac3a-997acb3e7907" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/keep-requirements-up-to-date-outside-of-projects-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/keep-requirements-up-to-date-outside-of-projects-dark-mode.png#only-dark)
