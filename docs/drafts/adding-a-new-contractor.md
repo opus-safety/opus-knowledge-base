@@ -56,3 +56,7 @@ icon: lucide/square-plus
         <span data-uuid="4f28532f-bf9c-4355-a237-b884d9045a6c" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/contractor-name-light-mode.png#only-light)
         ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/contractor-name-dark-mode.png#only-dark)
+
+    !!! outline "Photo<span class="meta">(optional)</span>"
+
+        <span data-uuid="95a28c73-dc77-4a1f-b8c5-4d4a94e162e2" style="display:none"></span>
