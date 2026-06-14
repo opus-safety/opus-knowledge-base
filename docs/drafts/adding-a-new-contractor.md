@@ -32,7 +32,3 @@ icon: lucide/square-plus
 
     <span data-uuid="41da59b1-aeab-429b-a2df-b027eba1e47f" style="display:none"></span>
     Click **Contractors** on the manage sidebar.
-
-    <span data-uuid="405ab420-b231-4d4e-abea-36dbae3c8683" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/contractors-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/contractors-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
