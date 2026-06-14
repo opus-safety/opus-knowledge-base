@@ -30,9 +30,9 @@ icon: lucide/user-plus
     <span data-uuid="c78f6738-7ec2-474b-a11b-a6c3c447e3a4" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
-    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" }
     <span data-uuid="dec2a546-3f32-4527-9542-3ba47d8640e9" style="display:none"></span>
-    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" }
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
@@ -48,9 +48,9 @@ icon: lucide/user-plus
     <span data-uuid="830c0ae5-baab-43cd-b6e7-6aede1848221" style="display:none"></span>
     Click the **+New** button at the top right of the page.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-dark-mode.png#only-dark){ style="height: 50px" }
     <span data-uuid="b1bf3986-33b7-4435-834f-492bbcae2582" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-light-mode.png#only-light){ style="height: 50px" }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
@@ -61,16 +61,14 @@ icon: lucide/user-plus
 
         <span data-uuid="18a913f5-1c6c-4c79-8f44-84be833befbb" style="display:none"></span>
 
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
         <span data-uuid="bf9f3125-fd08-4267-a92e-5e05ebc6f8dc" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
 
     !!! outline "Photo<span class="meta">(optional)</span>"
 
         <span data-uuid="98cffe7a-991f-47c1-8d0c-4491f2560820" style="display:none"></span>
-        Upload a photo for this employee record
-
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-dark-mode.png#only-dark)
+        Upload a photo for this employee record.
 
         <span data-uuid="a13099e9-501d-4e14-91b4-8e739dbe5c0f" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-light-mode.png#only-light)
@@ -79,12 +77,11 @@ icon: lucide/user-plus
     !!! outline "Roles"
 
         <span data-uuid="6e058e18-27fb-4f0e-9218-a2b5c7c35909" style="display:none"></span>
-
         Select the role(s) for this employee.
 
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
         <span data-uuid="995ea501-552a-4ae0-b555-07113e4f4cdd" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
 
         !!! warning
 
@@ -104,18 +101,18 @@ icon: lucide/user-plus
 
     Depending on your site configuration, you may only have one option. If multiple options are available, select the employee's primary place of work.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
     <span data-uuid="235cf39d-1887-4e3f-a28d-094bf64a1391" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
 
 !!! step
 
     <span data-uuid="8ba98f44-e025-4b13-87a3-833b1c57c99b" style="display:none"></span>
     Under **Own employee record access**, select which level of access the employee should be granted against their own employee record.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-dark-mode.png#only-dark)
     <span data-uuid="02a69540-67bf-4b56-bad2-ff29a4547d6c" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-dark-mode.png#only-dark)
 
 !!! step
 
@@ -125,30 +122,29 @@ icon: lucide/user-plus
     - **Yes** (recommended) — automatically grants the employee the same access rights for their site as selected in Step 7.
     - **No** — access will need to be configured manually instead.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
     <span data-uuid="3a1236f8-708d-40d9-8cd6-c6037c919c1d" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
 
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="c32aeb19-9667-4560-804b-c744678ce05c" style="display:none"></span>
-
     Enable **Site access fine-tune** if you need to customise the employee's access settings further — for example, if they require access to multiple sites or need additional authorisations.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
     <span data-uuid="a366ef45-429c-4591-a779-0dce7951ff7b" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
 
 !!! step
 
     <span data-uuid="9cddf4de-24f1-4f78-9d9a-353b9e8df9fb" style="display:none"></span>
     Click **Save employee** at the bottom of the page.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" }
-    <span data-uuid="6994511d-2240-41c1-a121-fb6767abaeac" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" }
-
     After saving, you will be redirected to the employee's access page.
+
+    <span data-uuid="6994511d-2240-41c1-a121-fb6767abaeac" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 ### Fine-Tune Site Access
 <span data-uuid="4939bfd0-1431-48a4-9183-2d6c2c745496" style="display:none"></span>
