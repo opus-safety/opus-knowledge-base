@@ -85,9 +85,12 @@ icon: lucide/square-plus
     !!! example "Example - Yes"
 
         <span data-uuid="da075c2b-58df-452d-b5cb-8074d70b19ec" style="display:none"></span>
-        If you select `Yes`, you will receive ongoing task reminders to complete and maintain this contractor’s requirements (such as insurance documents), regardless of whether the contractor is currently in use at any of your sites via an active project.
+        Selecting `Yes` means:
 
-        This option is recommended for contractors who are **important** or **regularly used**, as it helps ensure they remain compliant and ready to use whenever needed.
+        - You will always receive ongoing task reminders into your inbox to complete and maintain this contractor’s requirements (e.g. insurance documents).
+        - Reminders will continue even if the contractor is not currently in use (via an active project).
+        - This helps ensure important or frequently used contractors remain compliant and ready to use when needed.
+        **^^Recommended for:^^** Contractors who are regularly used or important to your operations.
 
     !!! example "Example - No"
 
