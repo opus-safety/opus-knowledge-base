@@ -106,13 +106,7 @@ icon: lucide/square-plus
 !!! outline "Roles"
 
     <span data-uuid="225598f9-cf23-4642-bb0b-d60418ac8907" style="display:none"></span>
-
-
     Select the role(s) for this employee.
-
-    <span data-uuid="d7a3d868-f60a-490f-85bc-dcdc428b0a4e" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
 
     !!! warning
 
