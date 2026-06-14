@@ -95,6 +95,9 @@ icon: lucide/square-plus
     !!! example "Example - No"
 
         <span data-uuid="ce0135a8-ed9d-43e7-81c1-39d6c2ca7938" style="display:none"></span>
-        If you select `No`, you will **^^not^^** receive ongoing task reminders to complete and maintain this contractor’s requirements (such as insurance documents), unless the contractor is currently in use at any of your sites via an active project.
+        Selecting `No` means:
 
-        This option is recommended for contractors who are **not used regularly** or where you would prefer to update the contractors requirements only when hiring the contractor for a job/project.
+        - You will only receive ongoing task reminders into your inbox to complete and maintain this contractor’s requirements (e.g. insurance documents) when the contractor is in use (via an active project).
+        - Reminder tasks will be hidden from your inbox if the contractor is not currently in use (via an active project).
+        - This helps ensure important or frequently used contractors remain compliant and ready to use when needed.
+        **^^Recommended for:^^** Contractors who are not regularly used or are less important to your operations.
