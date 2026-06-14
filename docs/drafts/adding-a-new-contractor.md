@@ -103,10 +103,10 @@ icon: lucide/square-plus
 
         ^^**Recommended for:**^^ Contractors who are not regularly used or are less important to your operations.
 
-!!! outline "Roles"
+!!! step
 
     <span data-uuid="225598f9-cf23-4642-bb0b-d60418ac8907" style="display:none"></span>
-    Select the role(s) for this employee.
+    Select the type(s) for this contractor.
 
     !!! warning
 
