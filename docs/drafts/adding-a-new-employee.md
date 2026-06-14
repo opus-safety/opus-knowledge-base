@@ -133,12 +133,12 @@ icon: lucide/user-plus
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="c32aeb19-9667-4560-804b-c744678ce05c" style="display:none"></span>
-
     Enable **Site access fine-tune** if you need to customise the employee's access settings further — for example, if they require access to multiple sites or need additional authorisations.
+    [](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
     <span data-uuid="a366ef45-429c-4591-a779-0dce7951ff7b" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
 
 !!! step
 
