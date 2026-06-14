@@ -103,10 +103,11 @@ icon: lucide/user-plus
     Under **Located at**, select the site the record will be located at.
 
     Depending on your site configuration, you may only have one option. If multiple options are available, select the employee's primary place of work.
+    [](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
     <span data-uuid="235cf39d-1887-4e3f-a28d-094bf64a1391" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
 
 !!! step
 
