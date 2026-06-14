@@ -36,3 +36,14 @@ icon: lucide/square-plus
     <span data-uuid="a8b75252-32f6-4db7-b21e-98e5e2207263" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="5f768027-c106-4d58-979c-c2438a14196d" style="display:none"></span>
+
+
+    Click the **+New** button at the top right of the page.
+
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new-contractor-dark-mode.png#only-dark){ style="height: 50px" }
+    <span data-uuid="64299a0b-4fda-4eea-a6b8-2f009b981765" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new-contractor-light-mode.png#only-light){ style="height: 50px" }
