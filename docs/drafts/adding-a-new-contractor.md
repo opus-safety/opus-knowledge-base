@@ -52,3 +52,7 @@ icon: lucide/square-plus
     !!! outline "Contractor name"
 
         <span data-uuid="d31b39b6-30c3-4d9d-a6ae-52e0f11aa6bc" style="display:none"></span>
+
+        <span data-uuid="4f28532f-bf9c-4355-a237-b884d9045a6c" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/contractor-name-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/contractor-name-dark-mode.png#only-dark)
