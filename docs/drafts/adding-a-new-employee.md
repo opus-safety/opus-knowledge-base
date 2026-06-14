@@ -122,9 +122,9 @@ icon: lucide/user-plus
     - **Yes** (recommended) — automatically grants the employee the same access rights for their site as selected in Step 7.
     - **No** — access will need to be configured manually instead.
 
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
     <span data-uuid="3a1236f8-708d-40d9-8cd6-c6037c919c1d" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark)
 
 !!! step "<span class="meta">(optional)</span>"
 
