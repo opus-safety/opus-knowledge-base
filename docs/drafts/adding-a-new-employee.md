@@ -78,12 +78,12 @@ icon: lucide/user-plus
     !!! outline "Roles"
 
         <span data-uuid="6e058e18-27fb-4f0e-9218-a2b5c7c35909" style="display:none"></span>
-
         Select the role(s) for this employee.
+        [](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
 
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
         <span data-uuid="995ea501-552a-4ae0-b555-07113e4f4cdd" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
 
         !!! warning
 
