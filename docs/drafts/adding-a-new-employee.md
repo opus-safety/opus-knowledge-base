@@ -145,8 +145,9 @@ icon: lucide/user-plus
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-### Fine-Tune Site Access
+### Fine-tune site access
 <span data-uuid="4939bfd0-1431-48a4-9183-2d6c2c745496" style="display:none"></span>
+
 
 !!! info "Optional"
 
@@ -235,7 +236,6 @@ icon: lucide/user-plus
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
----
 ## Next Steps
 <span data-uuid="00daa24e-8ef5-4388-af27-5b4d6ce59ff2" style="display:none"></span>
 
