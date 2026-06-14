@@ -11,8 +11,9 @@ icon: lucide/user-plus
     <span data-uuid="2d4afe6d-5dc1-4ba8-b6b0-29da68cffefa" style="display:none"></span>
     You might not have access to add employees if your company manages this centrally.
 
-## Creating the Employee Record
+## Creating the employee record
 <span data-uuid="8b5fe9d6-25d1-4a4c-a562-c5af2276df05" style="display:none"></span>
+
 
 !!! step
 
@@ -22,7 +23,6 @@ icon: lucide/user-plus
     <span data-uuid="adc39665-6e47-4e01-af19-9fee6207ace4" style="display:none"></span>
     ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
 
 !!! step
 
