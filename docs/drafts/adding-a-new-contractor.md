@@ -48,3 +48,7 @@ icon: lucide/square-plus
 
     <span data-uuid="ca53121e-6140-4ec5-b457-facd193a89d8" style="display:none"></span>
     Fill in the contractor's details:
+
+    !!! outline "Contractor name"
+
+        <span data-uuid="d31b39b6-30c3-4d9d-a6ae-52e0f11aa6bc" style="display:none"></span>
