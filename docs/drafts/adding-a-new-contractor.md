@@ -111,10 +111,7 @@ icon: lucide/square-plus
     !!! warning
 
         <span data-uuid="de8f3442-0c69-4e12-a5ab-b0b5c7348e5e" style="display:none"></span>
-
-
-
-        Please ensure you select the appropriate roles, as these determine the employee's required training, e-learning modules, and checklist items. You may select multiple roles where required.
+        Please select the relevant type(s), as these will determine the requirements added to the contractor. Multiple types can be selected if applicable.
 
     !!! tip
 
