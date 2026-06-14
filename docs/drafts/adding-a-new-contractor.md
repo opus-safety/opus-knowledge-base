@@ -47,7 +47,7 @@ icon: lucide/square-plus
 !!! step
 
     <span data-uuid="ca53121e-6140-4ec5-b457-facd193a89d8" style="display:none"></span>
-    Fill in the contractor's details:
+    Fill in the initial contractor's details:
 
     !!! outline "Contractor name"
 
