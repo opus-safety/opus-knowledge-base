@@ -13,7 +13,7 @@ icon: lucide/gauge
 
 | Status | Description |
 | :--- | :--- |
-| `Stale` | This Contractor is configured to not be required to be kept up to date while not in use. Its requirements are due; however, the Contractor is not currently being used. test |
+| `Staletest` | This Contractor is configured to not be required to be kept up to date while not in use. Its requirements are due; however, the Contractor is not currently being used. test |
 | `Incomplete` | At least one requirement for the Contractor has not yet been fulfilled. |
 | `Renewable` | All requirements for the Contractor have been fulfilled previously, but at least one requirement is now out of date and needs renewing. |
 | `Ready` | All requirements for the Contractor have been fulfilled and are currently up to date. The Contractor is ready for use. |
