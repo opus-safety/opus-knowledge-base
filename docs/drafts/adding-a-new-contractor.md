@@ -105,6 +105,11 @@ icon: lucide/square-plus
 
 !!! step
 
+    <span data-uuid="977ecf8d-501c-4777-a2bc-4d80e2c63c53" style="display:none"></span>
+    Select what **Kind** of contractor they are.
+
+!!! step
+
     <span data-uuid="225598f9-cf23-4642-bb0b-d60418ac8907" style="display:none"></span>
     Select the type(s) for this contractor.
 
