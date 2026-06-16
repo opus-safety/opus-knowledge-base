@@ -146,3 +146,7 @@ icon: lucide/square-plus
 
     <span data-uuid="40f633da-a5af-4a0e-857e-f74dd486f8d8" style="display:none"></span>
     Click **Save contractor** at the bottom of the page.
+
+    <span data-uuid="3c314565-7e00-4796-8bc6-4b4885eb60d9" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/save-contractor-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/save-contractor-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
