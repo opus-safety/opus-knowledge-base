@@ -145,11 +145,7 @@ icon: lucide/square-plus
 !!! step
 
     <span data-uuid="40f633da-a5af-4a0e-857e-f74dd486f8d8" style="display:none"></span>
-
-
-    Click **Save employee** at the bottom of the page.
-
-    After saving, you will be redirected to the employee's access page.
+    Click **Save contractor** at the bottom of the page.
 
     <span data-uuid="b95516b1-efac-43a6-be09-b0d9e4c350d9" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
