@@ -41,8 +41,13 @@ body.neural-active .md-main__inner {
   margin-top: 0;
 }
 
-body.neural-active .md-sidebar--primary {
-  display: none;
+/* Hide the persistent left-nav column on the homepage — desktop only.
+   Below 76.25em this same element IS the slide-in drawer toggled by the
+   hamburger menu, so hiding it there would break mobile navigation. */
+@media screen and (min-width: 76.25em) {
+  body.neural-active .md-sidebar--primary {
+    display: none;
+  }
 }
 
 .home-hero .md-button {
