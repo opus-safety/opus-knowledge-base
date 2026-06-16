@@ -137,7 +137,3 @@ icon: lucide/square-plus
     Under **Located at**, select the site the contractor will be located at. 
 
     If you operate across multiple sites and this contractor is used throughout a region or across your organisation, place the contractor in the relevant regional or parent site so it is available to all sites within that scope.
-
-    <span data-uuid="55f8bcd3-fc2f-4395-adbc-30690e9171f4" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
