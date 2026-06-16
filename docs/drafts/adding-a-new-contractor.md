@@ -130,3 +130,16 @@ icon: lucide/square-plus
 
         <span data-uuid="4e7e06e3-5b7a-42f2-b97c-5a22041e36de" style="display:none"></span>
         To view the specific requirements for each type, hover over the ellipsis (…) to the right of each type title.
+
+!!! step
+
+    <span data-uuid="0c3ca7e2-4055-45bf-ba26-ea206313f85f" style="display:none"></span>
+
+
+    Under **Located at**, select the site the record will be located at.
+
+    Depending on your site configuration, you may only have one option. If multiple options are available, select the employee's primary place of work.
+
+    <span data-uuid="55f8bcd3-fc2f-4395-adbc-30690e9171f4" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
