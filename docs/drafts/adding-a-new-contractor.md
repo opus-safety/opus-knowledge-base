@@ -108,6 +108,10 @@ icon: lucide/square-plus
     <span data-uuid="977ecf8d-501c-4777-a2bc-4d80e2c63c53" style="display:none"></span>
     Select what **Kind** of contractor they are.
 
+    <span data-uuid="5c03b543-c1b1-46b9-913b-19e7c391ab8a" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/kind-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/kind-dark-mode.png#only-dark)
+
 !!! step
 
     <span data-uuid="225598f9-cf23-4642-bb0b-d60418ac8907" style="display:none"></span>
