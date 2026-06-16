@@ -141,3 +141,16 @@ icon: lucide/square-plus
     <span data-uuid="ee27cd5e-c045-41fb-8a15-c6768b342008" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/located-at-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/located-at-dark-mode.png#only-dark)
+
+!!! step
+
+    <span data-uuid="40f633da-a5af-4a0e-857e-f74dd486f8d8" style="display:none"></span>
+
+
+    Click **Save employee** at the bottom of the page.
+
+    After saving, you will be redirected to the employee's access page.
+
+    <span data-uuid="b95516b1-efac-43a6-be09-b0d9e4c350d9" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
