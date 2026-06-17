@@ -96,7 +96,7 @@ icon: lucide/user-plus
 !!! step
 
     <span data-uuid="2921e002-6efa-4ede-8635-b5eac450bd87" style="display:none"></span>
-    Under **Located at**, select the site the record will be located at.
+    Under **Located at**, choose where the employee is located. By default, the employee will be located at the site you selected in Step 1, but you can change the location here if needed.
 
     Depending on your site configuration, you may only have one option. If multiple options are available, select the employee's primary place of work.
 
