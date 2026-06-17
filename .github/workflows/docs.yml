@@ -9,8 +9,12 @@ permissions:
   pages: write
   id-token: write
 concurrency:
+  # Allow one concurrent deployment; let in-progress production deploys
+  # finish instead of cancelling them mid-flight (cancelling a run after it
+  # has handed off to the Pages backend leaves an "in progress deployment"
+  # that the next run collides with).
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   deploy:
     environment:
