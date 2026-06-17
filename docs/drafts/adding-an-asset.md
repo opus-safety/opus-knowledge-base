@@ -97,3 +97,7 @@ icon: lucide/package
 
     <span data-uuid="5c34d56e-8d59-47bf-bedf-2c18bd712d3b" style="display:none"></span>
     Click **Save asset** at the bottom of the page.
+
+    <span data-uuid="13934758-effb-42e9-89e0-a90a53e56219" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/save-asset-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/save-asset-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
