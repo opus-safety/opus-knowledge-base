@@ -128,6 +128,13 @@ icon: lucide/square-plus
 
         To view the requirements set up against a type, select the ellipsis (…) icon next to it.
 
+    ??? info "Can't find a type that describes your contractor?"
+
+        <span data-uuid="7bf73bdc-07d1-4c65-9b0d-bcb02ae65266" style="display:none"></span>
+
+
+        Contact support for assistance with setting up new contractor types.
+
 !!! step
 
     <span data-uuid="0c3ca7e2-4055-45bf-ba26-ea206313f85f" style="display:none"></span>
