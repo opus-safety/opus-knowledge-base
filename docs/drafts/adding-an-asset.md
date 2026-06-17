@@ -77,7 +77,7 @@ icon: lucide/package
     !!! tip
 
         <span data-uuid="5c4978a9-72ff-49ae-bedb-fef0b7970a85" style="display:none"></span>
-        To view the requirements set up against a type, select the ellipsis (…) button next to it.
+        To view the requirements set up against a type, select the ellipsis (…) icon next to it.
 
     ??? info "Can't find a type that describes your asset?"
 
