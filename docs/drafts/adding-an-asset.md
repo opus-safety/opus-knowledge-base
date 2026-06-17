@@ -52,6 +52,10 @@ icon: lucide/package
         <span data-uuid="5bfe54e3-af7e-4762-b608-a70743b04de2" style="display:none"></span>
         Make sure the name is easily identifiable. If you have multiple assets, consider numbering them or using an ID, serial number, or registration number.
 
+        <span data-uuid="f81d9976-6dbd-470c-87a1-d7268bbc94bc" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/asset-name-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/asset-name-dark-mode.png#only-dark)
+
     !!! outline "Photo<span class="meta">(optional)</span>"
 
         <span data-uuid="a03277b0-f80e-4614-a010-d8b49dc9b8da" style="display:none"></span>
