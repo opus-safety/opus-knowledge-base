@@ -89,6 +89,10 @@ icon: lucide/package
     <span data-uuid="5a3439a6-a8b0-4370-8c80-af43a5d99374" style="display:none"></span>
     Under **Located at**, choose where the asset is located. By default, the asset will be located at the site you selected in Step 1, but you can change the location here if needed.
 
+    <span data-uuid="9dd12174-32e3-465a-a07b-e5f7867ad278" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/located-at-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/located-at-dark-mode.png#only-dark)
+
 !!! step
 
     <span data-uuid="5c34d56e-8d59-47bf-bedf-2c18bd712d3b" style="display:none"></span>
