@@ -29,6 +29,10 @@ icon: lucide/package
     <span data-uuid="685d5b95-3ba0-468d-839e-ebd3e9cc3392" style="display:none"></span>
     Click **Assets** on the manage sidebar.
 
+    <span data-uuid="9cf48810-5a51-45fd-9ff1-df5e61c08fee" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 !!! step
 
     <span data-uuid="710dff90-91d8-4f70-8462-1b67cb90d889" style="display:none"></span>
