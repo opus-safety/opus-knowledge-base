@@ -60,6 +60,9 @@ draft_nav = [
     ]},
     {"Assets" = [
       {"Adding an asset" = "drafts/adding-an-asset.md"}
+    ]},
+    {"Employees" = [
+      {"Adding a new employee" = "pages/adding-a-new-employee.md"}
     ]}
   ]}
 ]
