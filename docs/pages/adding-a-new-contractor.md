@@ -121,15 +121,19 @@ icon: lucide/square-plus
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/type-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/type-dark-mode.png#only-dark)
 
-    !!! warning
-
-        <span data-uuid="de8f3442-0c69-4e12-a5ab-b0b5c7348e5e" style="display:none"></span>
-        Please select the relevant type(s), as these will determine the requirements added to the contractor. Multiple types can be selected if applicable.
-
     !!! tip
 
-        <span data-uuid="4e7e06e3-5b7a-42f2-b97c-5a22041e36de" style="display:none"></span>
-        To view the specific requirements for each type, hover over the ellipsis (…) to the right of each type title.
+        <span data-uuid="44183f99-683a-45e1-a91c-6f6c02576359" style="display:none"></span>
+
+
+        To view the requirements set up against a type, select the ellipsis (…) icon next to it.
+
+    ??? info "Can't find a type that describes your contractor?"
+
+        <span data-uuid="7bf73bdc-07d1-4c65-9b0d-bcb02ae65266" style="display:none"></span>
+
+
+        Contact support for assistance with setting up new contractor types.
 
 !!! step
 
