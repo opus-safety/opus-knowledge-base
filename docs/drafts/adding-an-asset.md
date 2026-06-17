@@ -87,7 +87,7 @@ icon: lucide/package
 !!! step
 
     <span data-uuid="5a3439a6-a8b0-4370-8c80-af43a5d99374" style="display:none"></span>
-    Under **Located at**, choose where the asset is located. By default, the asset is assigned to the site you selected in Step 1, but you can change the location here if needed.
+    Under **Located at**, choose where the asset is located. By default, the asset will be located at the site you selected in Step 1, but you can change the location here if needed.
 
 !!! step
 
