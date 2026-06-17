@@ -44,6 +44,9 @@ nav = [
       {"Contractors Overview" = "pages/contractors-overview.md"},
       {"Contractor & Project statuses" = "pages/contractor-and-project-statuses.md"},
       {"Adding a new contractor" = "pages/adding-a-new-contractor.md"}
+    ]},
+    {"Assets" = [
+      {"Adding an asset" = "drafts/adding-an-asset.md"}
     ]}
   ]},
   {"System" = [
@@ -57,9 +60,6 @@ draft_nav = [
     {"Contractors" = [
       {"Contractor & Project statuses" = "pages/contractor-and-project-statuses.md"},
       {"Adding a new contractor" = "pages/adding-a-new-contractor.md"}
-    ]},
-    {"Assets" = [
-      {"Adding an asset" = "drafts/adding-an-asset.md"}
     ]}
   ]}
 ]
