@@ -140,6 +140,11 @@ icon: lucide/square-plus
     <span data-uuid="0c3ca7e2-4055-45bf-ba26-ea206313f85f" style="display:none"></span>
     Under **Located at**, choose the site the contractor will belong to. By default, the contractor will be located at the site you selected in Step 1, but you can change the location here if needed.
 
+    !!! tip
+
+        <span data-uuid="cfcee21b-2bf0-4e1f-8870-08dbea9d58b1" style="display:none"></span>
+        If you operate across multiple sites and this contractor is used throughout a region or across your organisation, place the contractor in the relevant regional or parent site so it is available to all sites within that scope.
+
     <span data-uuid="ee27cd5e-c045-41fb-8a15-c6768b342008" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/located-at-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/located-at-dark-mode.png#only-dark)
