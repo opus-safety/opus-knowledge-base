@@ -121,6 +121,13 @@ icon: lucide/square-plus
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/type-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/contractors/new/type-dark-mode.png#only-dark)
 
+    !!! tip
+
+        <span data-uuid="44183f99-683a-45e1-a91c-6f6c02576359" style="display:none"></span>
+
+
+        To view the requirements set up against a type, select the ellipsis (…) icon next to it.
+
     !!! warning
 
         <span data-uuid="de8f3442-0c69-4e12-a5ab-b0b5c7348e5e" style="display:none"></span>
