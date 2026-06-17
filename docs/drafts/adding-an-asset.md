@@ -68,7 +68,7 @@ icon: lucide/package
 !!! step
 
     <span data-uuid="eb1dd8c3-cc9f-4e6e-802f-d3ad05015c96" style="display:none"></span>
-    Select what **Type(s)** this asset is. You may have requirements set up against these types.
+    Select the **Type(s)** for this asset. You may have requirements set up against these types.
 
     !!! tip
 
