@@ -128,11 +128,6 @@ icon: lucide/square-plus
 
         To view the requirements set up against a type, select the ellipsis (…) icon next to it.
 
-    !!! warning
-
-        <span data-uuid="de8f3442-0c69-4e12-a5ab-b0b5c7348e5e" style="display:none"></span>
-        Please select the relevant type(s), as these will determine the requirements added to the contractor. Multiple types can be selected if applicable.
-
 !!! step
 
     <span data-uuid="0c3ca7e2-4055-45bf-ba26-ea206313f85f" style="display:none"></span>
