@@ -61,6 +61,10 @@ icon: lucide/package
         <span data-uuid="a03277b0-f80e-4614-a010-d8b49dc9b8da" style="display:none"></span>
         Upload a photo of your asset to help with clearer identification.
 
+        <span data-uuid="a8498f5e-37dd-4cb2-bab8-6407a9d4d63e" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/photo-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/photo-dark-mode.png#only-dark)
+
     !!! outline "Notes<span class="meta">(optional)</span>"
 
         <span data-uuid="87696760-5046-4e29-93aa-74760a687405" style="display:none"></span>
