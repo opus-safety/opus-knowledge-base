@@ -70,6 +70,10 @@ icon: lucide/package
     <span data-uuid="eb1dd8c3-cc9f-4e6e-802f-d3ad05015c96" style="display:none"></span>
     Select the **Type(s)** for this asset. You may have requirements set up against these types.
 
+    <span data-uuid="38cbb3c2-8779-4eb9-8519-1cc5dd2d3bac" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/type-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/type-dark-mode.png#only-dark)
+
     !!! tip
 
         <span data-uuid="5c4978a9-72ff-49ae-bedb-fef0b7970a85" style="display:none"></span>
