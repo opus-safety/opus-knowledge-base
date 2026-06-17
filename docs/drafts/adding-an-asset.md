@@ -65,11 +65,6 @@ icon: lucide/package
         ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/photo-light-mode.png#only-light)
         ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/photo-dark-mode.png#only-dark)
 
-    !!! outline "Notes<span class="meta">(optional)</span>"
-
-        <span data-uuid="87696760-5046-4e29-93aa-74760a687405" style="display:none"></span>
-        Add any additional information about the asset in this section.
-
 !!! step
 
     <span data-uuid="eb1dd8c3-cc9f-4e6e-802f-d3ad05015c96" style="display:none"></span>
