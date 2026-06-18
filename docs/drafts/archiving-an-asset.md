@@ -77,6 +77,10 @@ Has an asset been sold or left your site? You can easily update this in the syst
     <span data-uuid="a7305d1f-7db4-4559-bf22-ba9ac0b83b81" style="display:none"></span>
     Click **Save asset** at the bottom of the page.
 
+    <span data-uuid="c68cede4-0233-4b0d-9a75-b966927b2cea" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/save-asset-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/save-asset-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 !!! info
 
     <span data-uuid="c9a78723-4ecb-4105-bc30-d331482483a7" style="display:none"></span>
