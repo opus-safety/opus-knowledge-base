@@ -52,7 +52,8 @@ nav = [
   {"System" = [
     {"System updates" = "pages/system-updates.md"},
     {"System status" = "pages/system-status.md"}
-  ]}
+  ]},
+  {"archiving-an-asset" = "pages/archiving-an-asset.md"}
 ]
 
 draft_nav = [
