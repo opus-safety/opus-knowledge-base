@@ -57,11 +57,7 @@ nav = [
 ]
 
 draft_nav = [
-  {"Guides" = [
-    {"Contractors" = [
-      {"Contractor & Project statuses" = "drafts/contractor-and-project-statuses.md"}
-    ]}
-  ]}
+
 ]
 
 # ----------------------------------------------------------------------------
