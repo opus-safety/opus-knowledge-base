@@ -68,6 +68,10 @@ Has an asset been sold or left your site? You can easily update this in the syst
     <span data-uuid="45deb062-7b56-47aa-8bb6-e9d31cb99bec" style="display:none"></span>
     Select the **Archive now** option.
 
+    <span data-uuid="e60a61e8-3651-49f1-a6dd-728d98f863c6" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/archive-now-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/archive-now-dark-mode.png#only-dark)
+
 !!! step
 
     <span data-uuid="a7305d1f-7db4-4559-bf22-ba9ac0b83b81" style="display:none"></span>
