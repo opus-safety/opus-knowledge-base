@@ -47,6 +47,10 @@ Has an asset been sold or left your site? You can easily update this in the syst
     <span data-uuid="5ba42516-3bcf-428c-9719-4f7462eb51a2" style="display:none"></span>
     Select the asset you would like to archive from the list.
 
+    <span data-uuid="a8617b7e-427d-4fb1-8c39-400585039b7d" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/list-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/list-dark-mode.png#only-dark)
+
 ## Archiving the asset
 <span data-uuid="c81d91a7-cdff-4d48-8960-ca3ec67de739" style="display:none"></span>
 
