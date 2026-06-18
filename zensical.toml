@@ -62,7 +62,8 @@ draft_nav = [
       {"Contractor & Project statuses" = "drafts/contractor-and-project-statuses.md"}
     ]},
     {"Assets" = [
-      {"Adding an asset" = "drafts/adding-an-asset.md"}
+      {"Adding an asset" = "drafts/adding-an-asset.md"},
+      {"Archiving an asset" = "drafts/archiving-an-asset.md"}
     ]}
   ]}
 ]
