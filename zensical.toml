@@ -46,8 +46,7 @@ nav = [
       {"Adding a new contractor" = "pages/adding-a-new-contractor.md"}
     ]},
     {"Assets" = [
-      {"Adding an asset" = "pages/adding-an-asset.md"},
-      {"Archiving an asset" = "pages/archiving-an-asset.md"}
+      {"Adding an asset" = "pages/adding-an-asset.md"}
     ]}
   ]},
   {"System" = [
