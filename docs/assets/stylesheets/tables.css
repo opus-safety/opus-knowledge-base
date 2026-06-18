@@ -8,3 +8,12 @@
 .md-typeset table:not([class]) th:first-child {
   white-space: nowrap;
 }
+
+/* Let an image in the first column keep its natural width instead of being
+   squished to fit the column. The column then sizes to the image. */
+.md-typeset table:not([class]) td:first-child img,
+.md-typeset table:not([class]) th:first-child img {
+  max-width: none;
+  width: auto;
+  height: auto;
+}
