@@ -27,7 +27,7 @@ icon: lucide/gauge
 
 | Status | Description |
 | :--- | :--- |
-| `Future` | This Project's start date is in the future. Tasks will not generate until this Project starts. |
+|  | This Project's start date is in the future. Tasks will not generate until this Project starts. |
 | `Incomplete` | At least one requirement for the Project has not yet been fulfilled. |
 | `Renewable` | All requirements for the Project have been fulfilled previously, but at least one requirement is now out of date and needs renewing. |
 | `Ready` | All requirements for the Project have been fulfilled and are currently up to date. The Project is ready to start. |
