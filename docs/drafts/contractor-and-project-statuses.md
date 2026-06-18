@@ -14,7 +14,7 @@ icon: lucide/gauge
 | Status | Description |
 | :--- | :--- |
 | <span data-uuid="645110d4-1210-4cac-b103-81ab3820e30a" style="display:none"></span>![](../assets/media/occ-captures/admin/sites/uuid/contractors/stale-light-mode.png#only-light){ style="height: 30px" loading=lazy } ![](../assets/media/occ-captures/admin/sites/uuid/contractors/stale-dark-mode.png#only-dark){ style="height: 30px" loading=lazy } | This Contractor is configured to not be required to be kept up to date while not in use. Its requirements are due; however, the Contractor is not currently being used. test |
-| `Incomplete` | At least one requirement for the Contractor has not yet been fulfilled. |
+|  | At least one requirement for the Contractor has not yet been fulfilled. |
 | `Renewable` | All requirements for the Contractor have been fulfilled previously, but at least one requirement is now out of date and needs renewing. |
 | `Ready` | All requirements for the Contractor have been fulfilled and are currently up to date. The Contractor is ready for use. |
 | `Archived` | The Contractor has been archived from the Contractor's edit page. Any existing open requirement tasks for this Contractor will have been resolved, and no new tasks will be generated for outstanding requirements. |
