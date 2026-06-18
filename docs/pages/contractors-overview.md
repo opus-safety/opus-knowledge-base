@@ -1,5 +1,7 @@
 ---
 icon: lucide/layout-dashboard
+hide:
+  - toc
 ---
 
 # Contractors Overview
