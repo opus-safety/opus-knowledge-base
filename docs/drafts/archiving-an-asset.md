@@ -84,4 +84,4 @@ Has an asset been sold or left your site? You can easily update this in the syst
 !!! info
 
     <span data-uuid="c9a78723-4ecb-4105-bc30-d331482483a7" style="display:none"></span>
-    You will be able to find archived assets in future by changing the filter on the **Asset View** or **Manage Assets** pages to `Archived` or `All`.
+    You will be able to find archived assets in future by changing the filter on the your Asset list page to `Archived` or `All`.
