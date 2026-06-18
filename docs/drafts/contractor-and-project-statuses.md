@@ -27,7 +27,7 @@ icon: lucide/gauge
 
 | Status | Description |
 | :--- | :--- |
-|  | This Project's start date is in the future. Tasks will not generate until this Project starts. |
+| <span data-uuid="94f269eb-7d71-4ec9-a4d1-75990f066989" style="display:none"></span>![](../assets/media/occ-captures/admin/sites/uuid/future-light-mode.png#only-light){ style="height: 30px" loading=lazy } ![](../assets/media/occ-captures/admin/sites/uuid/future-dark-mode.png#only-dark){ style="height: 30px" loading=lazy } | This Project's start date is in the future. Tasks will not generate until this Project starts. |
 | `Incomplete` | At least one requirement for the Project has not yet been fulfilled. |
 | `Renewable` | All requirements for the Project have been fulfilled previously, but at least one requirement is now out of date and needs renewing. |
 | `Ready` | All requirements for the Project have been fulfilled and are currently up to date. The Project is ready to start. |
