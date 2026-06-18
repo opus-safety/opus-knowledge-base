@@ -1,5 +1,5 @@
 ---
-icon: lucide/archive
+icon: lucide/package-minus
 ---
 
 # Archiving an asset
