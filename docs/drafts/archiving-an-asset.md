@@ -45,7 +45,7 @@ Has an asset been sold or left your site? You can easily update this in the syst
 !!! step
 
     <span data-uuid="5ba42516-3bcf-428c-9719-4f7462eb51a2" style="display:none"></span>
-    Select the asset you would like to remove from the list.
+    Select the asset you would like to archive from the list.
 
 ## Archiving the asset
 <span data-uuid="c81d91a7-cdff-4d48-8960-ca3ec67de739" style="display:none"></span>
