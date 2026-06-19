@@ -1,5 +1,5 @@
 ---
-icon: lucide/layout-dashboard
+icon: lucide/activity
 hide:
   - toc
 ---
