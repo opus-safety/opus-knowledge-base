@@ -42,12 +42,12 @@ nav = [
     ]},
     {"Contractors" = [
       {"Contractor & Project statuses" = "pages/contractor-and-project-statuses.md"},
-      {"Adding a new contractor" = "pages/adding-a-new-contractor.md"}
+      {"Adding a new contractor" = "pages/adding-a-new-contractor.md"},
+      {"Contractors Overview" = "pages/contractors-overview.md"}
     ]},
     {"Assets" = [
       {"Adding an asset" = "pages/adding-an-asset.md"},
-      {"Archiving an asset" = "pages/archiving-an-asset.md"},
-      {"Contractors Overview" = "pages/contractors-overview.md"}
+      {"Archiving an asset" = "pages/archiving-an-asset.md"}
     ]}
   ]},
   {"System" = [
@@ -57,11 +57,7 @@ nav = [
 ]
 
 draft_nav = [
-  {"Guides" = [
-    {"Contractors" = [
-      {"Contractors Overview" = "drafts/contractors-overview.md"}
-    ]}
-  ]}
+
 ]
 
 # ----------------------------------------------------------------------------
