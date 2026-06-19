@@ -49,6 +49,9 @@ nav = [
     {"Assets" = [
       {"Adding an asset" = "pages/adding-an-asset.md"},
       {"Archiving an asset" = "pages/archiving-an-asset.md"}
+    ]},
+    {"Testing" = [
+      {"test-guide" = "pages/test-guide.md"}
     ]}
   ]},
   {"System" = [
@@ -58,11 +61,7 @@ nav = [
 ]
 
 draft_nav = [
-  {"Guides" = [
-    {"Testing" = [
-      {"test-guide" = "drafts/test-guide.md"}
-    ]}
-  ]}
+
 ]
 
 # ----------------------------------------------------------------------------
