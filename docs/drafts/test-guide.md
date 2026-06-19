@@ -21,6 +21,7 @@ hide:
 `Manage your contractors effortlessly`
 
 # Opus Contractor Management
+<span data-uuid="aad82ac6-10d3-46a5-a0c9-f41a5ab5ce2b" style="display:none"></span>
 
 Opus Contractor Management is designed for businesses that regularly engage contractors and need to manage the compliance requirements, documentation, and projects associated with contractors working on their site(s).
 
