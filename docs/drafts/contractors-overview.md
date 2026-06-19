@@ -2,6 +2,8 @@
 icon: lucide/layout-dashboard
 hide:
   - toc
+  - navigation
+  - path
 ---
 
 # Contractors Overview
