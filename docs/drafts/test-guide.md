@@ -14,10 +14,14 @@ hide:
 <span data-uuid="cef3d173-f7b9-4f8f-9bae-d0df7c802802" style="display:none"></span>
 <div class="grid" markdown>
 
-<div markdown>
+</div>
 
-<span data-uuid="22c33b6b-1335-4fb8-b3c4-b7757d82ee62" style="display:none"></span>
-Manage your contractors effortlessly
+<span data-uuid="e5eb8971-c475-41aa-b598-1c5ecc8cde4c" style="display:none"></span>
+
+| Column 1 | Column 2 |
+| :--- | :--- |
+|  |  |
+|  |  |
 
 # Opus Contractor Management
 <span data-uuid="b40a4312-e7cb-40a9-9ff6-83ffc4532bc6" style="display:none"></span>
