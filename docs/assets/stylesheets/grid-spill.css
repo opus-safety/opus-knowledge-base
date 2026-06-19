@@ -1,0 +1,30 @@
+/* ============================================================================
+ * grid-spill.css — per-cell "Allow spill" for the More Buttons grid component.
+ *
+ * A grid cell authored with "Allow spill" gets class="spill" on its <div>
+ * (e.g. `<div class="card spill" markdown>`). When the grid is laid out 2-up
+ * (>= 60em) that cell stops forcing its track wide (min-width:0) and lets
+ * oversized content — typically a wide image or, later, a video — overflow past
+ * the column edge instead of shrinking its sibling cells. Set the content's own
+ * width (e.g. on the capture) to control how far it spills.
+ *
+ * Below 60em the Material `.grid` stacks to a single column, so spill is left
+ * inert there: images fall back to max-width:100% and phones never get a
+ * surprise horizontal scrollbar.
+ * ========================================================================== */
+
+@media screen and (min-width: 60em) {
+  /* A grid containing a spill cell must not clip it at the grid box edge. */
+  .md-typeset .grid:has(> .spill) {
+    overflow: visible;
+  }
+
+  .md-typeset .grid > .spill {
+    min-width: 0;
+    overflow: visible;
+  }
+
+  .md-typeset .grid > .spill :is(img, svg, video) {
+    max-width: none;
+  }
+}
