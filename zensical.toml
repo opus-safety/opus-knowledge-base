@@ -49,9 +49,6 @@ nav = [
     {"Assets" = [
       {"Adding an asset" = "pages/adding-an-asset.md"},
       {"Archiving an asset" = "pages/archiving-an-asset.md"}
-    ]},
-    {"Test" = [
-      {"test guide" = "pages/test-guide.md"}
     ]}
   ]},
   {"System" = [
