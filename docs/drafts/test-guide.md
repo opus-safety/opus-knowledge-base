@@ -16,13 +16,6 @@ hide:
 
 </div>
 
-<span data-uuid="2471193a-0c00-4434-bde5-e2f2948e10d4" style="display:none"></span>
-
-| Column 1 | Column 2 |
-| :--- | :--- |
-|  |  |
-|  |  |
-
 # Opus Contractor Management
 <span data-uuid="b40a4312-e7cb-40a9-9ff6-83ffc4532bc6" style="display:none"></span>
 
