@@ -3,6 +3,7 @@ icon: lucide/a-large-small
 hide:
   - navigation
   - toc
+  - path
 ---
 
 <style data-mb-hide-title>style[data-mb-hide-title]+h1{display:none}</style>
