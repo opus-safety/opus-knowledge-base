@@ -20,6 +20,7 @@ extra_css = [
   "assets/stylesheets/groove.css",
   "assets/stylesheets/tables.css",
   "assets/stylesheets/grid-spill.css",
+  "assets/stylesheets/videos.css",
 ]
 extra_javascript = [
     "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
