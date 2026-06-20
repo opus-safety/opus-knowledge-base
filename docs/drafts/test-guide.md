@@ -40,12 +40,12 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 <span data-uuid="cef3d173-f7b9-4f8f-9bae-d0df7c802802" style="display:none"></span>
 <div class="grid" markdown>
 
-<div class="card" style="align-self: center" markdown>
+<div class="card" style="align-self: start" markdown>
 
 <span data-uuid="22c33b6b-1335-4fb8-b3c4-b7757d82ee62" style="display:none"></span>
 # Project Status
 
-View and manage your project status.
+View and manage the status of your projects.
 
 </div>
 
