@@ -14,9 +14,14 @@ hide:
 <span data-uuid="766549fb-b20f-4a06-b8ad-247f643995e0" style="display:none"></span>
 <div class="grid" markdown>
 
-<div markdown>
+<div style="align-self: center" markdown>
 
 <span data-uuid="b1c113e3-17f2-4cf7-b7de-86905aff4954" style="display:none"></span>
+Manage your contractors effortlessly
+
+# Opus Contractor Management
+
+Opus Contractor Management is designed for businesses that regularly engage contractors and need to manage the compliance requirements, documentation, and projects associated with contractors working on their site(s).
 
 </div>
 
