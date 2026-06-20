@@ -76,3 +76,39 @@ View and manage the status of your projects.
 
 ## Features
 <span data-uuid="d482ffdb-1c0d-4053-9c9f-542a646295a2" style="display:none"></span>
+
+
+<span data-uuid="9062ea4a-64df-4986-87b7-95512b423c69" style="display:none"></span>
+<div class="grid" markdown>
+
+<div class="card" style="align-self: start" markdown>
+
+<span data-uuid="bb6fb5c7-c9c3-49cd-8d01-f169618ec4fe" style="display:none"></span>
+
+# Contractor Status
+
+View and manage the live status of your contractors with ease using our colour-coded status indicators.
+
+<span data-uuid="09d19b19-1601-46d0-99d9-3e27aabcb143" style="display:none"></span>
+<video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+<video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+
+</div>
+
+<div class="card" style="align-self: start" markdown>
+
+<span data-uuid="dc23bb73-042d-43a2-b7fd-d10041583a04" style="display:none"></span>
+
+# Project Status
+
+View and manage the status of your projects.
+
+</div>
+
+<div class="card" style="align-self: start" markdown>
+
+<span data-uuid="af74d3a1-b2e7-4ec3-a0e6-6a1f5e7a8d13" style="display:none"></span>
+
+</div>
+
+</div>
