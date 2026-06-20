@@ -62,7 +62,7 @@ View and manage the status of your projects.
 
 </div>
 
-<div class="card" markdown>
+<div class="card" style="align-self: start" markdown>
 
 <span data-uuid="4a986137-627f-4c7f-967f-3b85a983901a" style="display:none"></span>
 
