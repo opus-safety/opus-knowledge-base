@@ -57,8 +57,8 @@ View and manage the status of your projects.
 View and manage the status of your contractors.
 
 <span data-uuid="4fdb2a97-905c-4568-8703-35d0b9b26d72" style="display:none"></span>
-<video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="width: 400px; border-radius: 8px"></video>
-<video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="width: 400px; border-radius: 8px"></video>
+<video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+<video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
 </div>
 
