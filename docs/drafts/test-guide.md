@@ -49,7 +49,7 @@ View and manage your project status.
 
 </div>
 
-<div class="card" style="align-self: center" markdown>
+<div class="card" style="align-self: start" markdown>
 
 <span data-uuid="46ca6663-d1b4-4683-be45-a0b869e1b5da" style="display:none"></span>
 # Contractor Status
