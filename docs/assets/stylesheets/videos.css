@@ -1,0 +1,37 @@
+/* ============================================================================
+ * videos.css — embed <video> animations with the same #only-light / #only-dark
+ * theme swap and inline sizing as occ-captures images.
+ *
+ * Material's built-in rule only targets `img[src$="#only-light"]`, so these
+ * selectors re-add the behaviour for <video>. Author a light/dark FILE PAIR and
+ * emit two <video> elements; the matching one shows and toggles live with the
+ * palette switch, exactly like an image pair.
+ *
+ * Two ways to mark a video for the swap (use whichever the source HTML needs):
+ *   1. Fragment on src (image parity, single file per theme):
+ *        <video src="…/foo-light-mode.mp4#only-light" …>
+ *   2. Class (use when the <video> has <source> children instead of a src
+ *      attribute — e.g. webm + mp4 fallback — because the [src$=] selector
+ *      cannot see into <source> elements):
+ *        <video class="only-light" …><source src="…webm"><source src="…mp4"></video>
+ *
+ * Videos are authored as raw HTML (md_in_html is enabled). attr_list { } braces
+ * do NOT apply to raw HTML, so set size/attributes as real HTML attributes.
+ * ========================================================================== */
+
+/* Image-like responsive defaults (Material gives <img> these; <video> needs
+ * them explicitly). Inline width/height on the element override these. */
+.md-typeset video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Theme swap — hide the non-matching theme's video.
+ * Fragment form (mirrors Material's img[src$="#only-…"] rule)            …and…
+ * class form (for a <video> that uses <source> children instead of src). */
+[data-md-color-scheme="slate"]   video[src$="#only-light"],
+[data-md-color-scheme="default"] video[src$="#only-dark"],
+[data-md-color-scheme="slate"]   video.only-light,
+[data-md-color-scheme="default"] video.only-dark {
+  display: none;
+}
