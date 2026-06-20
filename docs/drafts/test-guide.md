@@ -25,7 +25,7 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
 </div>
 
-<div class="spill" markdown>
+<div class="spill" style="align-self: center" markdown>
 
 <span data-uuid="64b607f7-176b-4230-b60b-ec629a442352" style="display:none"></span>
 
