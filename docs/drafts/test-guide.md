@@ -60,7 +60,7 @@ View and manage the live status of your contractors with ease using our colour-c
 <div class="card" style="align-self: start" markdown>
 
 <span data-uuid="95abb5e3-9d82-4255-a0fa-bdd24a4a39bd" style="display:none"></span>
-## Project Status
+# Project Status
 
 View and manage the status of your projects.
 
