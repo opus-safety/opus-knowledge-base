@@ -5,11 +5,10 @@ hide:
   - path
 ---
 
-<style data-mb-hide-title>style[data-mb-hide-title]+h1{display:none}</style>
-
 # test-guide
 <span data-uuid="b65f2740-379f-4b04-9b3c-eadf06e22f90" style="display:none"></span>
 
+<style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
 
 <span data-uuid="766549fb-b20f-4a06-b8ad-247f643995e0" style="display:none"></span>
 <div class="grid" markdown>
