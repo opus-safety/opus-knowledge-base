@@ -67,6 +67,17 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
 <span data-uuid="dc23bb73-042d-43a2-b7fd-d10041583a04" style="display:none"></span>
 
+!!! outline "Contractor Status"
+
+    <span data-uuid="067fd8ad-1da6-4c43-984f-e2372f85f83d" style="display:none"></span>
+
+
+    View and manage the live status of your contractors with ease using our colour-coded status indicators.
+
+    <span data-uuid="9916c53d-6bc6-4493-9537-b6d141e00df8" style="display:none"></span>
+    <video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+    <video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+
 </div>
 
 <div style="align-self: start" markdown>
