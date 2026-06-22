@@ -16,7 +16,7 @@ hide:
 <div style="align-self: center" markdown>
 
 <span data-uuid="b1c113e3-17f2-4cf7-b7de-86905aff4954" style="display:none"></span>
-Manage your contractors effortlessly
+`Manage your contractors efficiently`
 
 # Opus Contractor Management
 
