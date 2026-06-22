@@ -80,10 +80,4 @@ Leverage the tools you already know and use, including documents, checklists, pl
 
 </div>
 
-<div style="align-self: start" markdown>
-
-<span data-uuid="af74d3a1-b2e7-4ec3-a0e6-6a1f5e7a8d13" style="display:none"></span>
-
-</div>
-
 </div>
