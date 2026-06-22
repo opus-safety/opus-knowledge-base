@@ -48,10 +48,9 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 <span data-uuid="9062ea4a-64df-4986-87b7-95512b423c69" style="display:none"></span>
 <div class="grid" markdown>
 
-<div class="card" style="align-self: start" markdown>
+<div style="align-self: start" markdown>
 
 <span data-uuid="bb6fb5c7-c9c3-49cd-8d01-f169618ec4fe" style="display:none"></span>
-
 # Contractor Status
 
 View and manage the live status of your contractors with ease using our colour-coded status indicators.
@@ -62,17 +61,16 @@ View and manage the live status of your contractors with ease using our colour-c
 
 </div>
 
-<div class="card" style="align-self: start" markdown>
+<div style="align-self: start" markdown>
 
 <span data-uuid="dc23bb73-042d-43a2-b7fd-d10041583a04" style="display:none"></span>
-
 # Project Status
 
 View and manage the status of your projects.
 
 </div>
 
-<div class="card" style="align-self: start" markdown>
+<div style="align-self: start" markdown>
 
 <span data-uuid="af74d3a1-b2e7-4ec3-a0e6-6a1f5e7a8d13" style="display:none"></span>
 
