@@ -57,7 +57,7 @@ Leverage the tools you already know and use, including documents, checklists, pl
 !!! outline "Creating your contractors"
 
     <span data-uuid="067fd8ad-1da6-4c43-984f-e2372f85f83d" style="display:none"></span>
-    Easily add your contractors and their contact information, making them quickly accessible across your organisation. testtingggggg
+    Easily add your contractors, their assigned type(s) and their contact information, making them quickly accessible across your organisation.
 
     <span data-uuid="61c96a55-453c-465e-b603-75f9bae19763" style="display:none"></span>
     <video src="../assets/media/videos/contractor-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
