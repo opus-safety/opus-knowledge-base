@@ -20,7 +20,7 @@ hide:
 
 # Opus Contractor Management
 
-Opus Contractor Management is our latest flagship feature within Opus Compliance Cloud, seamlessly integrating contractor and project management into your existing Opus experience. Designed to assist with managing contractors, it provides greater visibility, control, and efficiency - helping you track requirements, monitor compliance, and manage projects from one centralised platform.
+Stay on top of contractor management with Opus Contractor Management. Gain in-depth visibility and control over your contractors and projects, while maintaining compliance through seamless integration with your existing Opus experience.
 
 </div>
 
