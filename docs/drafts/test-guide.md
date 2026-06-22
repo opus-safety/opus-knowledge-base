@@ -59,6 +59,10 @@ View and manage the live status of your contractors with ease using our colour-c
 
     <span data-uuid="d5441f6f-2dad-43fa-9cd3-066a2fca802d" style="display:none"></span>
 
+    <span data-uuid="2ac887d7-a175-4fdf-a4c8-6cc2925851cd" style="display:none"></span>
+    <video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+    <video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+
 <span data-uuid="09d19b19-1601-46d0-99d9-3e27aabcb143" style="display:none"></span>
 <video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 <video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
