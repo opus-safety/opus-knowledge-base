@@ -66,6 +66,11 @@ Follow the guide below on how to do this.
 
 !!! step
 
+    <span data-uuid="c9aa7863-e62d-4c2d-bc27-a64f4204b629" style="display:none"></span>
+    Click **Edit** in the top right
+
+!!! step
+
     <span data-uuid="0bc4999c-feac-4c38-acc8-a0ec798918a0" style="display:none"></span>
 
     Type the employee's leaving date in the **End day** field.
