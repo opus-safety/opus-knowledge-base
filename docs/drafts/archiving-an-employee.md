@@ -83,47 +83,6 @@ Use this method if you don't have access to **All Employees**, or if you want to
 
     Then click **Save employee** at the bottom of the page.
 
-## Method 2 — Remove Button
-<span data-uuid="bd2b2614-98bb-4cd4-848b-25762a13e739" style="display:none"></span>
-
-!!! step
-
-    <span data-uuid="b1d9f106-7d68-48e3-83b0-412603248ab9" style="display:none"></span>
-
-    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
-
-    <span data-uuid="ef75e856-3269-4908-b138-fa281d497bc7" style="display:none"></span>
-    ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-!!! step
-
-    <span data-uuid="9174baac-6f58-4ff8-83f2-3bbb63f0cc09" style="display:none"></span>
-
-    From the site inbox page, click the **Switch to Manage Mode** button.
-
-    <span data-uuid="7283e311-a763-40b8-8229-eee0aed2d0b0" style="display:none"></span>
-    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-!!! step
-
-    <span data-uuid="fb5d1de2-46d6-47c7-8353-f2bba28bd7e3" style="display:none"></span>
-
-    Click **All Employees** on the manage sidebar.
-
-!!! step
-
-    <span data-uuid="1b8ce0f2-a3f0-4d48-bebb-970f2fe5d670" style="display:none"></span>
-
-    Find the person you're looking for and click **Remove** on the right side of their name.
-
-!!! step
-
-    <span data-uuid="c220f3ef-ff43-4269-9a86-824202516e61" style="display:none"></span>
-
-    In the pop-up message, click **Mark as Ex-employee**. This will set their leaving date to today (if you want to set a specific date, use **Method 1**).
-
 ## Open tasks related to the employee
 <span data-uuid="3aaf3b7d-62ea-4d6f-8014-134382b5c8c8" style="display:none"></span>
 
