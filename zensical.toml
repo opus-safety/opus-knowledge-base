@@ -65,9 +65,6 @@ draft_nav = [
   {"Guides" = [
     {"Testing" = [
       {"test-guide" = "drafts/test-guide.md"}
-    ]},
-    {"Contractors" = [
-      {"Contractors Overview" = "drafts/contractors-overview.md"}
     ]}
   ]}
 ]
