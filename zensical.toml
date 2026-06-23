@@ -59,7 +59,11 @@ nav = [
 ]
 
 draft_nav = [
-
+  {"Guides" = [
+    {"Contractors" = [
+      {"Adding a new contractor" = "drafts/adding-a-new-contractor.md"}
+    ]}
+  ]}
 ]
 
 # ----------------------------------------------------------------------------
