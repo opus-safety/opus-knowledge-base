@@ -50,9 +50,6 @@ nav = [
       {"Contractors Overview" = "pages/contractors-overview.md"},
       {"Contractor & Project statuses" = "pages/contractor-and-project-statuses.md"},
       {"Adding a new contractor" = "pages/adding-a-new-contractor.md"}
-    ]},
-    {"Testing" = [
-      {"test-guide" = "pages/test-guide.md"}
     ]}
   ]},
   {"System" = [
