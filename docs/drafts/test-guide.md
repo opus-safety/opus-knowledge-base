@@ -19,6 +19,7 @@ hide:
 `Smarter management, built for compliance`
 
 # Opus Contractor Management
+<span data-uuid="eb853ffc-49af-43f4-9a33-51107e10376c" style="display:none"></span>
 
 Stay on top of contractor management with Opus Contractor Management. Gain in-depth visibility and control over your contractors and projects, while maintaining compliance through seamless integration with your existing Opus experience.
 
