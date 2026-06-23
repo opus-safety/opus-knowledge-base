@@ -18,6 +18,17 @@ Use this method if you don't have access to **All Employees**, or if you want to
 
 !!! step
 
+    <span data-uuid="f86a6323-3f0e-43e8-a0e8-d37fd3daba5a" style="display:none"></span>
+
+
+    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
+
+    <span data-uuid="0267c868-94db-4e1a-980b-09e19f91eaee" style="display:none"></span>
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
     <span data-uuid="543d3ad3-0862-464c-b724-6d4e3e8c3a4a" style="display:none"></span>
 
     Click on the employee's name, then hit **Edit** in the top right.
