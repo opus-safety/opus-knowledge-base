@@ -11,10 +11,9 @@ If someone's left your workplace, you'll need to **archive their employee record
 
 Follow the guide below on how to do this.
 
-## Method 1 — Edit Employee Record
+## Steps
 <span data-uuid="eec2a23f-c738-49b8-ba5b-2f834a8fba80" style="display:none"></span>
 
-Use this method if you don't have access to **All Employees**, or if you want to set a specific leaving date.
 
 !!! step
 
