@@ -111,7 +111,6 @@ After archiving an employee, you may still have open tasks linked to their recor
 !!! tip
 
     <span data-uuid="1fe8f96f-9e34-4949-9b21-bb646bb621d1" style="display:none"></span>
-
-    If you want an employee to be archived and their reminder tasks automatically resolved immediately, set their **End Date** to the previous day.
+    If you want an employee to be archived and their reminder tasks resolved immediately, set their **End Date** to the previous day.
 
     For short-term contracted staff, you can pre-populate the **End Date** in advance.
