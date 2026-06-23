@@ -16,11 +16,11 @@ hide:
 <div style="align-self: center" markdown>
 
 <span data-uuid="b1c113e3-17f2-4cf7-b7de-86905aff4954" style="display:none"></span>
-Manage your contractors effortlessly
+`Smarter management, built for compliance`
 
 # Opus Contractor Management
 
-Opus Contractor Management is designed for businesses that regularly engage contractors and need to manage the compliance requirements, documentation, and projects associated with contractors working on their site(s).
+Stay on top of contractor management with Opus Contractor Management. Gain in-depth visibility and control over your contractors and projects, while maintaining compliance through seamless integration with your existing Opus experience.
 
 </div>
 
@@ -36,12 +36,12 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
 </div>
 
-## -
+## What is Opus Contractor Management?
 <span data-uuid="513dbd38-7e94-454c-9ec0-06339ea0a71b" style="display:none"></span>
 
-<style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
+Opus Contractor Management is our latest flagship feature within Opus Compliance Cloud, seamlessly integrating contractor and project management into your existing Opus experience. Designed to simplify contractor oversight, it provides greater visibility, control, and efficiency - helping you manage requirements, monitor compliance, and track projects from one centralised platform.
 
----
+Leverage the tools you already know and use, including documents, checklists, playbooks, and more, by applying them directly to your contractors and projects. Keep everything organised, ensure requirements are completed, and maintain compliance throughout the entire contractor lifecycle.
 
 ## Features
 <span data-uuid="d482ffdb-1c0d-4053-9c9f-542a646295a2" style="display:none"></span>
@@ -52,33 +52,31 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
 <div style="align-self: start" markdown>
 
-<span data-uuid="bb6fb5c7-c9c3-49cd-8d01-f169618ec4fe" style="display:none"></span>
-
-!!! outline "Contractor Status"
-
-    <span data-uuid="d5441f6f-2dad-43fa-9cd3-066a2fca802d" style="display:none"></span>
-    View and manage the live status of your contractors with ease using our colour-coded status indicators.
-
-    <span data-uuid="2ac887d7-a175-4fdf-a4c8-6cc2925851cd" style="display:none"></span>
-    <video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-    <video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-
-</div>
-
-<div style="align-self: start" markdown>
-
 <span data-uuid="dc23bb73-042d-43a2-b7fd-d10041583a04" style="display:none"></span>
 
 !!! outline "Creating your contractors"
 
     <span data-uuid="067fd8ad-1da6-4c43-984f-e2372f85f83d" style="display:none"></span>
-    Create your contractors with ease.
+    Easily add your contractors, their assigned type(s) and their contact information, making them quickly accessible across your organisation.
+
+    <span data-uuid="61c96a55-453c-465e-b603-75f9bae19763" style="display:none"></span>
+    <video src="../assets/media/videos/contractor-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+    <video src="../assets/media/videos/contractor-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
 </div>
 
 <div style="align-self: start" markdown>
 
-<span data-uuid="af74d3a1-b2e7-4ec3-a0e6-6a1f5e7a8d13" style="display:none"></span>
+<span data-uuid="bb6fb5c7-c9c3-49cd-8d01-f169618ec4fe" style="display:none"></span>
+
+!!! outline "Contractor Status"
+
+    <span data-uuid="d5441f6f-2dad-43fa-9cd3-066a2fca802d" style="display:none"></span>
+    View and manage your contractors with ease using our colour-coded status indicators, which automatically update based on the state of the contractor's requirements.
+
+    <span data-uuid="2ac887d7-a175-4fdf-a4c8-6cc2925851cd" style="display:none"></span>
+    <video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+    <video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
 </div>
 
