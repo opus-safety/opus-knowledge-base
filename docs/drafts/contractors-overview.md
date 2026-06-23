@@ -29,8 +29,8 @@ Stay on top of contractor management with Opus Contractor Management. Gain in-de
 <span data-uuid="7d5cc5c0-dec1-4041-b677-221524647c46" style="display:none"></span>
 
 <span data-uuid="738f1081-d27d-487d-8d69-dd7412126587" style="display:none"></span>
-![](../assets/media/occ-captures/admin/sites/uuid/contractors/list-light-mode.png#only-dark){ style="border-radius: 8px" width="1800" loading=lazy }
-![](../assets/media/occ-captures/admin/sites/uuid/contractors/list-dark-mode.png#only-light){ style="border-radius: 8px" width="1800" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/contractors/list-light-mode.png#only-dark){ style="border-radius: 8px" width="1200" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/contractors/list-dark-mode.png#only-light){ style="border-radius: 8px" width="1200" loading=lazy }
 
 </div>
 
