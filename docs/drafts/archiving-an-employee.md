@@ -69,6 +69,10 @@ Follow the guide below on how to do this.
     <span data-uuid="c9aa7863-e62d-4c2d-bc27-a64f4204b629" style="display:none"></span>
     Click **Edit** in the top right
 
+    <span data-uuid="5dee5733-d00b-4207-9f39-16ca71d7a700" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 !!! step
 
     <span data-uuid="0bc4999c-feac-4c38-acc8-a0ec798918a0" style="display:none"></span>
