@@ -53,15 +53,6 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 <span data-uuid="50678988-6cc4-430b-9ed1-7a592128294c" style="display:none"></span>
 
 
-!!! outline "Quick-glance status indicators"
-
-    <span data-uuid="4fb4bd87-a9fd-4225-89b9-f920d588cf43" style="display:none"></span>
-    Easily see if a Contractor or Project is ready, incomplete, needs renewal or more via colour status indicators.
-
-    <span data-uuid="84eb6f67-5a6c-435a-930f-51daa6c8ed4a" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/contractor-and-projects-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/contractor-and-projects-dark-mode.png#only-dark)
-
 !!! outline "Integrates into existing view / manage flows"
 
     <span data-uuid="01542dce-d5e5-4370-9f0c-8566ba1cbd23" style="display:none"></span>
