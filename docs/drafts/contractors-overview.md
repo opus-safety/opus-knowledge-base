@@ -5,10 +5,10 @@ hide:
   - navigation
 ---
 
-<style data-mb-hide-title>.md-typeset h1:first-of-type{display:none}</style>
-
 # Contractors Overview
 <span data-uuid="51c203d2-e1a1-402e-91a3-5fd67479d7b6" style="display:none"></span>
+
+<style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
 
 ## What is Opus Contractor Management?
 <span data-uuid="f54fcb7c-1bdd-437c-b079-81f11cd70208" style="display:none"></span>
