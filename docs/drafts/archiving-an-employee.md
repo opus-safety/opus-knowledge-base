@@ -29,6 +29,17 @@ Use this method if you don't have access to **All Employees**, or if you want to
 
 !!! step
 
+    <span data-uuid="95ccc80e-6807-425b-a521-745c69b29273" style="display:none"></span>
+
+
+    From the site inbox, click the **Switch to Manage Mode** button.
+
+    <span data-uuid="3deee725-33ca-49a7-9216-668546f7cb47" style="display:none"></span>
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
     <span data-uuid="543d3ad3-0862-464c-b724-6d4e3e8c3a4a" style="display:none"></span>
 
     Click on the employee's name, then hit **Edit** in the top right.
