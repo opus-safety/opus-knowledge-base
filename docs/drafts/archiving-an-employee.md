@@ -7,7 +7,9 @@ icon: lucide/user-minus
 
 If someone's left your workplace, you'll need to **archive their employee record**.
 
-If you have access to add new staff via **All Employees** in the manage sidebar, use **Method 2**. Otherwise, use **Method 1** below.
+
+
+Follow the guide below on how to do this.
 
 ## Method 1 — Edit Employee Record
 <span data-uuid="eec2a23f-c738-49b8-ba5b-2f834a8fba80" style="display:none"></span>
