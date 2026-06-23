@@ -37,6 +37,11 @@ Stay on top of contractor management with Opus Contractor Management. Gain in-de
 
 </div>
 
+## -
+<span data-uuid="50a57bde-8f7d-4933-9247-977d9c8eec67" style="display:none"></span>
+
+<style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
+
 ## What is Opus Contractor Management?
 <span data-uuid="513dbd38-7e94-454c-9ec0-06339ea0a71b" style="display:none"></span>
 
@@ -82,10 +87,3 @@ Leverage the tools you already know and use, including documents, checklists, pl
 </div>
 
 </div>
-
-## -
-<span data-uuid="50a57bde-8f7d-4933-9247-977d9c8eec67" style="display:none"></span>
-
-<style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
-
----
