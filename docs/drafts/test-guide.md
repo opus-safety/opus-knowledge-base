@@ -77,7 +77,7 @@ Leverage the tools you already know and use, including documents, checklists, pl
 
 <span data-uuid="bb6fb5c7-c9c3-49cd-8d01-f169618ec4fe" style="display:none"></span>
 
-!!! outline "Contractor Status"
+!!! outline "Managing you Contractor's status"
 
     <span data-uuid="d5441f6f-2dad-43fa-9cd3-066a2fca802d" style="display:none"></span>
     View and manage your contractors with ease using our colour-coded status indicators, which automatically update based on the state of the contractor's requirements.
