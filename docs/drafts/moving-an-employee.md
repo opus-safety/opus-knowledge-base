@@ -1,0 +1,142 @@
+---
+icon: lucide/user-cog
+---
+
+# Moving an employee
+<span data-uuid="83239016-5193-4745-8a16-e287f19b31c6" style="display:none"></span>
+
+If an employee changes site, you'll need to **move their employee record** to the new location and reconfigure their site access. This guide walks through finding the employee, removing their old access, moving the record, and granting access at the new site.
+
+## Finding the employee
+<span data-uuid="570945c1-c48a-41ee-8954-0e968757bc6f" style="display:none"></span>
+
+!!! step
+
+    <span data-uuid="7fbe02aa-6625-4150-85dc-47e944ed7542" style="display:none"></span>
+    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
+
+    <span data-uuid="d13f56bb-f666-4572-9567-167541f6cb05" style="display:none"></span>
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="ef4c7488-69fa-4705-b536-f8ca8de8baac" style="display:none"></span>
+    From the site inbox page, click the **Switch to Manage Mode** button.
+
+    <span data-uuid="4ff60d1e-7e7d-448c-8820-c0dbc6dd6436" style="display:none"></span>
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="3f43afe9-afc1-4973-953f-cc7ba8d2c260" style="display:none"></span>
+    Click **All Employees** on the manage sidebar.
+
+!!! step
+
+    <span data-uuid="77b65710-65d8-4bde-b9e9-c9644554f795" style="display:none"></span>
+    Find the person you're looking for and click on their name to access their record.
+
+## Removing old access
+<span data-uuid="d9a64569-9e00-46a3-b0f5-b22b74afb23c" style="display:none"></span>
+
+If applicable or desired, you may want to remove the employee's existing access at their old site.
+
+!!! step
+
+    <span data-uuid="5b86d28a-d96c-4a08-85bb-cac9882010f8" style="display:none"></span>
+    From the employee record page, scroll down to the **Site access** section.
+
+!!! step
+
+    <span data-uuid="97d05a7e-bcaa-4c84-9e1b-f46fc438c63d" style="display:none"></span>
+    Hit the **Edit** button.
+
+!!! step
+
+    <span data-uuid="0a93b345-61aa-4b6b-b4b8-e812f4d4bcde" style="display:none"></span>
+    For the employee's old site(s), revoke their access by selecting the **` - `** option.
+
+!!! step
+
+    <span data-uuid="d12d6243-00f1-4274-ae55-81daaa36d10f" style="display:none"></span>
+    When done, make sure to click **Apply changes**.
+
+    <span data-uuid="77c96f9a-1935-4d9e-be2e-d023c5c9e3f8" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+## Moving the employee's location
+<span data-uuid="dd452400-4876-4226-a4a4-2a205e1c46a2" style="display:none"></span>
+
+Now it's time to move the employee record's location.
+
+!!! step
+
+    <span data-uuid="88e3708c-b710-4970-ba25-51f503cb0ba1" style="display:none"></span>
+    Navigate back to the employee record and scroll up to the top of the page.
+
+!!! step
+
+    <span data-uuid="954fde5e-5e79-48f9-9c8c-92fa899cf977" style="display:none"></span>
+    Hit the **Edit** button in the top right.
+
+!!! step
+
+    <span data-uuid="501fb8b1-5b70-4d1c-99ad-89f2daa30384" style="display:none"></span>
+    Scroll to the **Located at** section and move the record up to the highest common parent between the old and new site (e.g. your company's parent site/dashboard).
+
+!!! step
+
+    <span data-uuid="47562cf4-7afe-45fd-bbb1-cbd67ebca7f3" style="display:none"></span>
+    Click **Save** at the bottom, then click the **Edit** button again.
+
+    Now move the employee to the correct location.
+
+!!! step
+
+    <span data-uuid="7cc8b849-2e78-49cc-9903-5b9fbdf59088" style="display:none"></span>
+    Then click **Save employee** at the bottom of the page.
+
+## Reconfiguring employee access
+<span data-uuid="b11c18ba-4878-4c2c-aebe-7969cbecce36" style="display:none"></span>
+
+!!! step
+
+    <span data-uuid="9acf7137-83d1-46cb-96ad-6509fafaba25" style="display:none"></span>
+    From the employee record page, scroll down to the **Site access** section.
+
+!!! step
+
+    <span data-uuid="54416290-74cb-4292-9172-cce2cea8312d" style="display:none"></span>
+    Hit the **Edit** button.
+
+!!! step
+
+    <span data-uuid="6afd38b3-9f38-4d72-af77-698fc0068e4d" style="display:none"></span>
+    Configure site access at the employee's new site. You do this via the drop-down menu and can select either **user** or **manager** access.
+
+    !!! note
+
+        <span data-uuid="a71e0930-9fd9-4fd5-8e95-085d28e13930" style="display:none"></span>
+        Granting user access automatically gives user access to assets so that employees can report defects and view asset documentation, as well as complete checklists if it is their responsibility.
+
+!!! step "<span class="meta">(optional)</span>"
+
+    <span data-uuid="4011d046-9891-4ebb-a323-83b494ac967f" style="display:none"></span>
+    If you have multiple sites, you can jump up a level to give access higher up your organisational hierarchy. Just click on the double up arrows next to the site name to give access to other sites, regions or your entire organisation.
+
+    !!! tip
+
+        <span data-uuid="0f03116b-c328-4c7e-a18e-28aa5bff7b4b" style="display:none"></span>
+        If you have multiple sites and want someone to access all of them, make them a manager at the top level, and the access will cascade down. You can do this at a regional level too if your organisation is structured that way.
+
+!!! step
+
+    <span data-uuid="d52c3f9b-1b1d-49c5-99c8-2001874f858e" style="display:none"></span>
+    When done, make sure to click **Apply changes**.
+
+    <span data-uuid="d444fdd7-3fb2-41e1-9ebe-a3cd047a607b" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
