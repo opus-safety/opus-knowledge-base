@@ -40,6 +40,17 @@ Use this method if you don't have access to **All Employees**, or if you want to
 
 !!! step
 
+    <span data-uuid="60777f9f-8165-43a2-9e21-b216dabb1f8c" style="display:none"></span>
+
+
+    Click **Employee records** on the manage sidebar.
+
+    <span data-uuid="4ec28fc4-d362-494b-96c8-38d42450f901" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
     <span data-uuid="543d3ad3-0862-464c-b724-6d4e3e8c3a4a" style="display:none"></span>
 
     Click on the employee's name, then hit **Edit** in the top right.
