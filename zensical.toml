@@ -40,7 +40,8 @@ nav = [
     {"Employees" = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
       {"Registering an employee" = "pages/registering-an-employee.md"},
-      {"Granting an employee temporary access" = "pages/granting-an-employee-temporary-access.md"}
+      {"Granting an employee temporary access" = "pages/granting-an-employee-temporary-access.md"},
+      {"Archiving an employee" = "pages/archiving-an-employee.md"}
     ]},
     {"Assets" = [
       {"Adding an asset" = "pages/adding-an-asset.md"},
@@ -61,7 +62,6 @@ nav = [
 draft_nav = [
   {"Guides" = [
     {"Employees" = [
-      {"Archiving an employee" = "drafts/archiving-an-employee.md"},
       {"Registering an employee" = "drafts/registering-an-employee.md"},
       {"Moving an employee" = "drafts/moving-an-employee.md"}
     ]}
