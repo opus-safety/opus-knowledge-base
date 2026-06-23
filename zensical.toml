@@ -59,7 +59,9 @@ nav = [
 ]
 
 draft_nav = [
-
+  {"Drafts" = [
+    {"Archiving an employee" = "drafts/archiving-an-employee.md"}
+  ]}
 ]
 
 # ----------------------------------------------------------------------------
