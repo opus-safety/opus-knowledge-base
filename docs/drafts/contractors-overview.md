@@ -53,43 +53,6 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 <span data-uuid="50678988-6cc4-430b-9ed1-7a592128294c" style="display:none"></span>
 
 
-!!! outline "Integrates into existing view / manage flows"
-
-    <span data-uuid="01542dce-d5e5-4370-9f0c-8566ba1cbd23" style="display:none"></span>
-
-    <span data-uuid="8257e0e5-7b75-413d-ad5c-b21cf8c94cec" style="display:none"></span>
-    === "Contractor inbox"
-
-        <span data-uuid="d4dafb37-e2ec-495f-b034-bb4014b2bc96" style="display:none"></span>
-
-        <span data-uuid="8fd4a1ea-5499-4b6d-bd57-834e537000db" style="display:none"></span>
-        ![](../assets/media/occ-captures/contractors/uuid/contractor-inbox-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/contractors/uuid/contractor-inbox-dark-mode.png#only-dark)
-
-    === "Project inbox"
-
-        <span data-uuid="ae858fcd-fbf5-47d3-b49d-f97453348437" style="display:none"></span>
-
-        <span data-uuid="441dfc8d-8c4b-410d-b15e-6a603c33b6cc" style="display:none"></span>
-        ![](../assets/media/occ-captures/projects/uuid/project-inbox-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/projects/uuid/project-inbox-dark-mode.png#only-dark)
-
-    === "Contractor manage"
-
-        <span data-uuid="cc21f230-3b6e-4577-ae3b-9b669e928d3c" style="display:none"></span>
-
-        <span data-uuid="73d829e1-3e0f-4c28-81a2-3d819b27211d" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-dark-mode.png#only-dark)
-
-    === "Project manage"
-
-        <span data-uuid="0c83e025-6b9d-4c0e-a544-05918483b025" style="display:none"></span>
-
-        <span data-uuid="abee79b2-1c92-43ca-a7c9-616cd19ba1de" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/project-manage-mode-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/admin/sites/uuid/project-manage-mode-dark-mode.png#only-dark)
-
 ## More
 <span data-uuid="f563e7ac-25da-4c56-8ef2-c6097eb7ed57" style="display:none"></span>
 
