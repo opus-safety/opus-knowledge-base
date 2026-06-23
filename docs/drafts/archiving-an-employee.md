@@ -54,6 +54,10 @@ Use this method if you don't have access to **All Employees**, or if you want to
     <span data-uuid="543d3ad3-0862-464c-b724-6d4e3e8c3a4a" style="display:none"></span>
     Find the employee from the list and click on their name
 
+    <span data-uuid="6389ed6b-70ec-4059-8bfb-ac84ae15102f" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-light){ width="400" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-dark){ width="400" loading=lazy }
+
     !!! tip "Shortcut!<span class="meta">(optional)</span>"
 
         <span data-uuid="8dd2b997-a364-4d19-a2bf-0da90c0f140f" style="display:none"></span>
