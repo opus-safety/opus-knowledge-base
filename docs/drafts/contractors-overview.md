@@ -53,15 +53,6 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 <span data-uuid="50678988-6cc4-430b-9ed1-7a592128294c" style="display:none"></span>
 
 
-!!! outline "Viewing your available contractors"
-
-    <span data-uuid="593a361b-1e9a-453e-b258-201f7e446433" style="display:none"></span>
-    View the contractors available at your site. These may include contractors added specifically to the site, or contractors inherited from regional or parent levels if your organisation operates across multiple sites.
-
-    <span data-uuid="af015bdd-1240-4355-a1ec-f6efb27198ef" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/list-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/contractors/list-dark-mode.png#only-dark)
-
 !!! outline "Quick-glance status indicators"
 
     <span data-uuid="4fb4bd87-a9fd-4225-89b9-f920d588cf43" style="display:none"></span>
