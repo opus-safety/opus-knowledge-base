@@ -54,6 +54,13 @@ Use this method if you don't have access to **All Employees**, or if you want to
     <span data-uuid="543d3ad3-0862-464c-b724-6d4e3e8c3a4a" style="display:none"></span>
     Find the employee from the list and click on their name
 
+    !!! tip "Shortcut!<span class="meta">(optional)</span>"
+
+        <span data-uuid="8dd2b997-a364-4d19-a2bf-0da90c0f140f" style="display:none"></span>
+        If you see the red Remove button next to the employee’s name in the list, you can click this instead to schedule the employee to be archived at the end of the day. You can then skip the remaining steps.
+
+        If you need to set a specific end date for the employee (for example, if their leaving date is in the future or was in the past), continue with the steps below.
+
 !!! step
 
     <span data-uuid="0bc4999c-feac-4c38-acc8-a0ec798918a0" style="display:none"></span>
