@@ -8,7 +8,33 @@ hide:
 # Contractors Overview
 <span data-uuid="51c203d2-e1a1-402e-91a3-5fd67479d7b6" style="display:none"></span>
 
-<style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
+
+<span data-uuid="5c501de1-690a-4aae-b588-6352e7091072" style="display:none"></span>
+<div class="grid" markdown>
+
+<div style="align-self: center" markdown>
+
+<span data-uuid="5a79bfb0-aaf2-4811-a436-0b7af6c4f5ec" style="display:none"></span>
+
+`Smarter management, built for compliance`
+
+# Opus Contractor Management
+
+Stay on top of contractor management with Opus Contractor Management. Gain in-depth visibility and control over your contractors and projects, while maintaining compliance through seamless integration with your existing Opus experience.
+
+</div>
+
+<div class="spill" style="align-self: center" markdown>
+
+<span data-uuid="7d5cc5c0-dec1-4041-b677-221524647c46" style="display:none"></span>
+
+<span data-uuid="738f1081-d27d-487d-8d69-dd7412126587" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/contractors/list-light-mode.png#only-dark){ style="border-radius: 8px" width="1800" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/contractors/list-dark-mode.png#only-light){ style="border-radius: 8px" width="1800" loading=lazy }
+
+</div>
+
+</div>
 
 ## What is Opus Contractor Management?
 <span data-uuid="f54fcb7c-1bdd-437c-b079-81f11cd70208" style="display:none"></span>
