@@ -52,8 +52,7 @@ Use this method if you don't have access to **All Employees**, or if you want to
 !!! step
 
     <span data-uuid="543d3ad3-0862-464c-b724-6d4e3e8c3a4a" style="display:none"></span>
-
-    Click on the employee's name, then hit **Edit** in the top right.
+    Find the employee from the list and click on their name
 
 !!! step
 
