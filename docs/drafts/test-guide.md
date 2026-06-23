@@ -97,10 +97,6 @@ Leverage the tools you already know and use, including documents, checklists, pl
     <span data-uuid="15866d88-7d6f-417d-a1f7-694b6f0ddca1" style="display:none"></span>
     Just like with your contractors, projects have statuses too! Easily see the state of your project and see which requirements are still outstanding.
 
-    <span data-uuid="aa88349d-c5fc-4070-b7ea-b707f9ae04f3" style="display:none"></span>
-    <video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-    <video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-
 </div>
 
 </div>
