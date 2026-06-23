@@ -48,10 +48,7 @@ Stay on top of contractor management with Opus Contractor Management. Gain in-de
 ## What is Opus Contractor Management?
 <span data-uuid="f54fcb7c-1bdd-437c-b079-81f11cd70208" style="display:none"></span>
 
-Opus Contractor Management is a powerful new add-on product that allows you to manage contractors through Opus Compliance Cloud.
-
-
-This feature allows you to add contractors onto the system, as well as managing the projects contractors work on.
+Opus Contractor Management is a powerful new add-on that enables you to manage contractors directly through Opus Compliance Cloud. The feature allows you to add contractors to the system, oversee their details, and manage the projects they work on.
 
 ## Who is it for?
 <span data-uuid="2defab44-c268-45a0-85fd-5f273498312c" style="display:none"></span>
