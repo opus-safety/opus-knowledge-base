@@ -77,7 +77,7 @@ If applicable or desired, you may want to remove the employee's existing access 
 !!! step
 
     <span data-uuid="0a93b345-61aa-4b6b-b4b8-e812f4d4bcde" style="display:none"></span>
-    For the employee's old site(s), revoke their access by selecting the **` - `** option.
+    For the employee's old site(s), revoke their access by selecting the **`-`** option.
 
 !!! step
 
