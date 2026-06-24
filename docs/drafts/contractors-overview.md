@@ -125,3 +125,6 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
     <span data-uuid="ad827ac1-a299-4cc4-985f-cbffb19374ec" style="display:none"></span>
     If you are interested in applying this to your management tools, please email contact us via the button below to discuss adding Opus Contractor Management to your current service.
+
+<span data-uuid="c126725f-a8f9-4cd6-bc58-0671e212142b" style="display:none"></span>
+[Contact us :lucide-send:](https://www.opus-safety.co.uk/contact){ .md-button .md-button--primary }
