@@ -10,6 +10,7 @@ If an employee changes site, you'll need to **move their employee record** to th
 ## Finding the employee
 <span data-uuid="570945c1-c48a-41ee-8954-0e968757bc6f" style="display:none"></span>
 
+
 !!! step
 
     <span data-uuid="7fbe02aa-6625-4150-85dc-47e944ed7542" style="display:none"></span>
@@ -27,6 +28,17 @@ If an employee changes site, you'll need to **move their employee record** to th
     <span data-uuid="4ff60d1e-7e7d-448c-8820-c0dbc6dd6436" style="display:none"></span>
     ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="2d00d693-d0da-460c-8aa4-550889e24952" style="display:none"></span>
+
+
+    Click **Employee records** on the manage sidebar.
+
+    <span data-uuid="964962a2-dd08-4de7-82ad-90780e1b5436" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
