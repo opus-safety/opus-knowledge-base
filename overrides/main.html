@@ -1,5 +1,22 @@
 {% extends "base.html" %}
+
+{# Recursively emit one nav node as a hidden <li>: data-title always, data-url for
+   pages, a nested <ul> for sections. Consumed at runtime by nav-links.js to render
+   "Nav links" components — see the more-buttons extension. The tree is identical on
+   every page and derives from zensical.toml at build time, so editing the toml +
+   rebuilding updates every nav-links list with no page edits. #}
+{% macro mb_nav_node(item) %}
+  <li data-title="{{ item.title | e }}"{% if item.url %} data-url="{{ item.url | url }}"{% endif %}>
+    {%- if item.children %}<ul>{% for child in item.children %}{{ mb_nav_node(child) }}{% endfor %}</ul>{% endif -%}
+  </li>
+{% endmacro %}
+
 {% block extrahead %}
+  {# Hidden, full site-nav tree (in <head> so it survives instant-navigation body
+     swaps) + the script that fills .mb-nav-links placeholders from it. #}
+  <template id="__mb-nav-tree"><ul>{% for item in nav.items %}{{ mb_nav_node(item) }}{% endfor %}</ul></template>
+  <script src="{{ 'assets/javascripts/nav-links.js' | url }}" defer></script>
+
   {% if page.meta and page.meta['background-animation'] == 'neural-v1' %}
     <script src="{{ 'assets/javascripts/neural-v1.js' | url }}" defer></script>
   {% elif page.meta and page.meta['background-animation'] == 'neural-v2' %}
