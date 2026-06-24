@@ -185,6 +185,8 @@ Now it's time to move the employee record's location.
     <span data-uuid="4011d046-9891-4ebb-a323-83b494ac967f" style="display:none"></span>
     If you have multiple sites, you can jump up a level to give access higher up your organisational hierarchy. Just click on the double up arrows next to the site name to give access to other sites, regions or your entire organisation.
 
+    ![](../assets/media/other/screenshots/APaQ0SRL-eDqthpF8jrV9xBNKwEhqf67e9IeA91W_d2fe5420.gif)
+
     !!! tip
 
         <span data-uuid="0f03116b-c328-4c7e-a18e-28aa5bff7b4b" style="display:none"></span>
