@@ -177,3 +177,4 @@ alternate_style = true
 custom_checkbox = true
 [project.markdown_extensions.pymdownx.keys]
 [project.markdown_extensions.tables]
+[project.markdown_extensions.pymdownx.emoji]
