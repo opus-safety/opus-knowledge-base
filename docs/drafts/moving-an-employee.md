@@ -155,6 +155,10 @@ Now it's time to move the employee record's location.
     <span data-uuid="9acf7137-83d1-46cb-96ad-6509fafaba25" style="display:none"></span>
     From the employee record page, scroll down to the **Site access** section.
 
+    <span data-uuid="3f0bdda7-393b-4842-a07a-9cae413463be" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/site-access-custom-1-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/site-access-custom-1-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
 !!! step
 
     <span data-uuid="54416290-74cb-4292-9172-cce2cea8312d" style="display:none"></span>
