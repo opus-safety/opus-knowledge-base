@@ -74,6 +74,12 @@
         a.rel = 'noopener';
         a.textContent = title;
         li.appendChild(a);
+        if (src.getAttribute('data-current')) {
+          var marker = document.createElement('em');
+          marker.className = 'mb-nav-links__current';
+          marker.textContent = ' (current page)';
+          li.appendChild(marker);
+        }
       } else {
         var span = document.createElement('span');
         span.className = 'mb-nav-links__section';

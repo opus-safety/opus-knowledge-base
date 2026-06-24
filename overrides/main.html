@@ -6,7 +6,7 @@
    every page and derives from zensical.toml at build time, so editing the toml +
    rebuilding updates every nav-links list with no page edits. #}
 {% macro mb_nav_node(item) %}
-  <li data-title="{{ item.title | e }}"{% if item.url %} data-url="{{ item.url | url }}"{% endif %}>
+  <li data-title="{{ item.title | e }}"{% if item.url %} data-url="{{ item.url | url }}"{% endif %}{% if item.active %} data-current="1"{% endif %}>
     {%- if item.children %}<ul>{% for child in item.children %}{{ mb_nav_node(child) }}{% endfor %}</ul>{% endif -%}
   </li>
 {% endmacro %}
