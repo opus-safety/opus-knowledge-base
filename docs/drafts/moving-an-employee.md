@@ -127,6 +127,10 @@ Now it's time to move the employee record's location.
 
     Now move the employee to the correct location.
 
+    <span data-uuid="405e8e95-f0d9-4ba3-bb9c-7d19fe98d40a" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 !!! step
 
     <span data-uuid="7cc8b849-2e78-49cc-9903-5b9fbdf59088" style="display:none"></span>
