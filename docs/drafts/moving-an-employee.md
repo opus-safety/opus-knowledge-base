@@ -131,6 +131,13 @@ Now it's time to move the employee record's location.
 
 !!! step
 
+    <span data-uuid="dd81f61b-116b-4ef7-aa31-211873ec1e75" style="display:none"></span>
+    Click the Edit button once again.
+
+    Scroll back down to the **Located at** section and move the employee to the correct location.
+
+!!! step
+
     <span data-uuid="7cc8b849-2e78-49cc-9903-5b9fbdf59088" style="display:none"></span>
     Then click **Save employee** at the bottom of the page.
 
