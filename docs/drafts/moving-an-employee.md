@@ -78,8 +78,8 @@ If applicable or desired, you may want to remove the employee's existing access 
     For the employee's old site(s), revoke their access by selecting the **`-`** option.
 
     <span data-uuid="80d020b9-8a92-4659-8f1a-bfa760fb817c" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/site-access-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/site-access-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/site-access-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/site-access-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
