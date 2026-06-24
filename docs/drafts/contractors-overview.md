@@ -17,12 +17,14 @@ hide:
 <div style="align-self: center" markdown>
 
 <span data-uuid="5a79bfb0-aaf2-4811-a436-0b7af6c4f5ec" style="display:none"></span>
-
 `Smarter management, built for compliance`
 
 # Opus Contractor Management
 
 Stay on top of contractor management with Opus Contractor Management. Gain in-depth visibility and control over your contractors and projects, while maintaining compliance through seamless integration with your existing Opus experience.
+
+<span data-uuid="b8be8e4c-3560-4c3a-98de-36111797e36e" style="display:none"></span>
+[Contact us :lucide-send:](https://support.opus-safety.co.uk/pages/contractors-overview#more){ .md-button .md-button--primary }
 
 </div>
 
