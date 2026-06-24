@@ -62,8 +62,10 @@ nav = [
 
 draft_nav = [
   {"Guides" = [
-    {"Assets" = [
-      {"test" = "drafts/test.md"}
+    {"Test" = [
+      {"Test" = [
+        {"test" = "drafts/test.md"}
+      ]}
     ]}
   ]}
 ]
