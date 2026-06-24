@@ -116,6 +116,10 @@ Now it's time to move the employee record's location.
     <span data-uuid="501fb8b1-5b70-4d1c-99ad-89f2daa30384" style="display:none"></span>
     Scroll to the **Located at** section and move the record up to the highest common parent between the old and new site (e.g. your company's parent site/dashboard).
 
+    <span data-uuid="ae50c4e1-064d-4e7b-ba3e-65c0d10f878f" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/located-at-subsite-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/located-at-subsite-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
 !!! step
 
     <span data-uuid="47562cf4-7afe-45fd-bbb1-cbd67ebca7f3" style="display:none"></span>
