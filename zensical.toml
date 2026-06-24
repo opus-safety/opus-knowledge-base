@@ -75,7 +75,7 @@ draft_nav = [
 [project.theme]
 language   = "en"
 #variant   = "classic"           # default is "modern"
-#favicon   = "assets/config/favicon.png"
+favicon    = "assets/config/favicon.svg"
 logo       = "assets/config/opus-safety-logo.svg"
 custom_dir = "overrides"
 
