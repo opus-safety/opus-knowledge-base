@@ -1,0 +1,7 @@
+/* Header logo
+   The logo is rendered as <img>, so the SVG's fill="currentColor" can't inherit
+   the header text colour — it falls back to black. Force it white to match the
+   white title text on the primary-coloured header (both light and dark schemes). */
+.md-logo img {
+  filter: brightness(0) invert(1);
+}
