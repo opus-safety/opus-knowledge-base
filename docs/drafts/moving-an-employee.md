@@ -30,11 +30,6 @@ If an employee changes site, you'll need to **move their employee record** to th
 
 !!! step
 
-    <span data-uuid="3f43afe9-afc1-4973-953f-cc7ba8d2c260" style="display:none"></span>
-    Click **All Employees** on the manage sidebar.
-
-!!! step
-
     <span data-uuid="77b65710-65d8-4bde-b9e9-c9644554f795" style="display:none"></span>
     Find the person you're looking for and click on their name to access their record.
 
