@@ -24,7 +24,7 @@ hide:
 Stay on top of contractor management with Opus Contractor Management. Gain in-depth visibility and control over your contractors and projects, while maintaining compliance through seamless integration with your existing Opus experience.
 
 <span data-uuid="b8be8e4c-3560-4c3a-98de-36111797e36e" style="display:none"></span>
-[Contact us :lucide-send:](https://www.opus-safety.co.uk/contact){ .md-button .md-button--primary }
+[Contact us :lucide-send:](https://www.opus-safety.co.uk/contact){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
 </div>
 
@@ -126,5 +126,5 @@ Opus Contractor Management is designed for businesses that regularly engage cont
     <span data-uuid="ad827ac1-a299-4cc4-985f-cbffb19374ec" style="display:none"></span>
     If you are interested in applying this to your management tools, please email contact us via the button below to discuss adding Opus Contractor Management to your current service.
 
-<span data-uuid="c126725f-a8f9-4cd6-bc58-0671e212142b" style="display:none"></span>
-[Contact us :lucide-send:](https://www.opus-safety.co.uk/contact){ .md-button .md-button--primary }
+    <span data-uuid="b3ad397b-80c8-454f-9914-1c2206773d26" style="display:none"></span>
+    [Contact us :lucide-send:](https://www.opus-safety.co.uk/contact){ .md-button .md-button--primary target="_blank" rel="noopener" }
