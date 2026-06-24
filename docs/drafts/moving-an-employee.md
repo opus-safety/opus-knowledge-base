@@ -145,6 +145,10 @@ Now it's time to move the employee record's location.
     <span data-uuid="7cc8b849-2e78-49cc-9903-5b9fbdf59088" style="display:none"></span>
     Then click **Save employee** at the bottom of the page.
 
+    <span data-uuid="12135641-dbb5-4a00-a422-b25b426aadb0" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/save-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 ## Reconfiguring employee access
 <span data-uuid="b11c18ba-4878-4c2c-aebe-7969cbecce36" style="display:none"></span>
 
