@@ -68,7 +68,7 @@ If applicable or desired, you may want to remove the employee's existing access 
 !!! step
 
     <span data-uuid="97d05a7e-bcaa-4c84-9e1b-f46fc438c63d" style="display:none"></span>
-    Hit the **Edit** button.
+    Click the **Edit** button in the site access section.
 
     <span data-uuid="3527e587-db38-4ebb-92a9-d7198b08445f" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/edit-light-mode.png#only-light){ style="height: 50px" loading=lazy }
