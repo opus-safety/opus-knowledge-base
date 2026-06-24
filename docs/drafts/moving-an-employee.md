@@ -190,7 +190,7 @@ Now it's time to move the employee record's location.
     !!! tip
 
         <span data-uuid="0f03116b-c328-4c7e-a18e-28aa5bff7b4b" style="display:none"></span>
-        If you have multiple sites and want someone to access all of them, make them a manager at the top level, and the access will cascade down. You can do this at a regional level too if your organisation is structured that way.
+        If you have multiple sites and want someone to access all of them, give them access at the top level, and the access will cascade down. You can do this at a regional level too if your organisation is structured that way.
 
 !!! step
 
