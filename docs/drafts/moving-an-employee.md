@@ -123,9 +123,7 @@ Now it's time to move the employee record's location.
 !!! step
 
     <span data-uuid="47562cf4-7afe-45fd-bbb1-cbd67ebca7f3" style="display:none"></span>
-    Click **Save** at the bottom, then click the **Edit** button again.
-
-    Now move the employee to the correct location.
+    Click **Save employee** at the bottom
 
     <span data-uuid="405e8e95-f0d9-4ba3-bb9c-7d19fe98d40a" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
