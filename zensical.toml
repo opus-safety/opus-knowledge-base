@@ -69,7 +69,8 @@ draft_nav = [
       {"Test" = [
         {"test" = "drafts/test.md"}
       ]}
-    ]}
+    ]},
+    {"test 2" = "drafts/test-2.md"}
   ]}
 ]
 
