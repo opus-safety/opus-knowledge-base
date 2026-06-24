@@ -1,5 +1,5 @@
 ---
-icon: lucide/user-cog
+icon: lucide/user-pen
 ---
 
 # Moving an employee
