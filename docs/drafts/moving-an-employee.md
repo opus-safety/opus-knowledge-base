@@ -173,6 +173,8 @@ Now it's time to move the employee record's location.
     <span data-uuid="6afd38b3-9f38-4d72-af77-698fc0068e4d" style="display:none"></span>
     Configure site access at the employee's new site. You can do this via the drop-down menu and can select either **user** or **manager** access.
 
+    ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
+
     !!! note
 
         <span data-uuid="a71e0930-9fd9-4fd5-8e95-085d28e13930" style="display:none"></span>
