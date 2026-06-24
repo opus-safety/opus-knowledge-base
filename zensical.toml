@@ -99,8 +99,8 @@ features = [
     # Navigation
     "navigation.footer",            # prev/next links in footer
     "navigation.indexes",           # section index pages
-    "navigation.instant",           # SPA/XHR navigation
-    "navigation.instant.prefetch",  # prefetch on hover
+    #"navigation.instant",          # SPA/XHR navigation — disabled: full reloads keep <head> nav tree + body in sync (reliability over speed)
+    #"navigation.instant.prefetch", # prefetch on hover — requires navigation.instant
     "navigation.path",              # breadcrumb
     "navigation.tabs",              # top-level sections as header tabs
     "navigation.top",               # back-to-top button
