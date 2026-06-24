@@ -136,6 +136,10 @@ Now it's time to move the employee record's location.
 
     Scroll back down to the **Located at** section and move the employee to the correct location.
 
+    <span data-uuid="a4ddd562-d6ac-47b2-b054-81b3360cc600" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/located-at-subsite-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/located-at-subsite-dark-mode.png#only-dark)
+
 !!! step
 
     <span data-uuid="7cc8b849-2e78-49cc-9903-5b9fbdf59088" style="display:none"></span>
