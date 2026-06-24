@@ -175,11 +175,6 @@ Now it's time to move the employee record's location.
 
     ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
 
-    !!! note
-
-        <span data-uuid="a71e0930-9fd9-4fd5-8e95-085d28e13930" style="display:none"></span>
-        Granting user access automatically gives user access to assets so that employees can report defects and view asset documentation, as well as complete checklists if it is their responsibility.
-
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="4011d046-9891-4ebb-a323-83b494ac967f" style="display:none"></span>
