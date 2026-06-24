@@ -21,7 +21,6 @@ extra_css = [
   "assets/stylesheets/tables.css",
   "assets/stylesheets/grid-spill.css",
   "assets/stylesheets/videos.css",
-  "assets/stylesheets/logo.css",
 ]
 extra_javascript = [
     "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
@@ -76,7 +75,6 @@ draft_nav = [
 language   = "en"
 #variant   = "classic"           # default is "modern"
 favicon    = "assets/config/favicon.svg"
-logo       = "assets/config/opus-safety-logo.svg"
 custom_dir = "overrides"
 
 #[project.theme.font]
@@ -125,8 +123,8 @@ features = [
 # ----------------------------------------------------------------------------
 # Icons — logo + custom admonition icons
 # ----------------------------------------------------------------------------
-#[project.theme.icon]
-#logo = "lucide/smile"
+[project.theme.icon]
+logo = "opus-safety-logo"   # custom inlined SVG → overrides/.icons/opus-safety-logo.svg (fill=currentColor, adapts to theme)
 
 [project.theme.icon.admonition]
 new-addition    = "lucide/circle-plus"
