@@ -107,6 +107,10 @@ Now it's time to move the employee record's location.
     <span data-uuid="954fde5e-5e79-48f9-9c8c-92fa899cf977" style="display:none"></span>
     Hit the **Edit** button in the top right.
 
+    <span data-uuid="066d7761-b65d-4da4-8580-abd04e1bd8e6" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 !!! step
 
     <span data-uuid="501fb8b1-5b70-4d1c-99ad-89f2daa30384" style="display:none"></span>
