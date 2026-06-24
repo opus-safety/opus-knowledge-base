@@ -125,10 +125,6 @@ Now it's time to move the employee record's location.
     <span data-uuid="47562cf4-7afe-45fd-bbb1-cbd67ebca7f3" style="display:none"></span>
     Click **Save employee** at the bottom to return back to the employee record.
 
-    <span data-uuid="405e8e95-f0d9-4ba3-bb9c-7d19fe98d40a" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/save-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
 !!! step
 
     <span data-uuid="dd81f61b-116b-4ef7-aa31-211873ec1e75" style="display:none"></span>
