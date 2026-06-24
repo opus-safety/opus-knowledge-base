@@ -61,6 +61,10 @@ If applicable or desired, you may want to remove the employee's existing access 
     <span data-uuid="5b86d28a-d96c-4a08-85bb-cac9882010f8" style="display:none"></span>
     From the employee record page, scroll down to the **Site access** section.
 
+    <span data-uuid="62ea623d-f8b4-44d4-82db-29f7e80de9de" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/site-access-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/site-access-dark-mode.png#only-dark)
+
 !!! step
 
     <span data-uuid="97d05a7e-bcaa-4c84-9e1b-f46fc438c63d" style="display:none"></span>
