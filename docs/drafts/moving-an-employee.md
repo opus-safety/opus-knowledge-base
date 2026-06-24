@@ -45,6 +45,17 @@ If an employee changes site, you'll need to **move their employee record** to th
     <span data-uuid="77b65710-65d8-4bde-b9e9-c9644554f795" style="display:none"></span>
     Find the person you're looking for and click on their name to access their record.
 
+!!! step
+
+    <span data-uuid="964c6547-5010-496c-8aac-e1c3826e2d1b" style="display:none"></span>
+
+
+    Find the employee from the list and click on their name
+
+    <span data-uuid="1aad27af-fba0-492d-9d6d-b9d6bb220406" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-light){ width="400" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-dark){ width="400" loading=lazy }
+
 ## Removing old access
 <span data-uuid="d9a64569-9e00-46a3-b0f5-b22b74afb23c" style="display:none"></span>
 
