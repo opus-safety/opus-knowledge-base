@@ -28,12 +28,12 @@ icon: lucide/chart-no-axes-column-increasing
 
 
     **Status:** AVAILABLE
-!!! status-disruption "Tasks"
+!!! status-available "Tasks"
 
     <span data-uuid="a5a84566-b9e1-48ab-8aa1-e547edbbddd4" style="display:none"></span>
 
 
-    **Status:** DISRUPTION
+    **Status:** AVAILABLE
 !!! status-available "Notifications"
 
     <span data-uuid="3bf0ddc2-b721-4031-844b-55961b163655" style="display:none"></span>
@@ -44,18 +44,6 @@ icon: lucide/chart-no-axes-column-increasing
 
 ---
 ## Open Incidents
-
-!!! status-disruption "Tasks"
-
-    <span data-uuid="d7d756fc-b34f-43ea-95fa-923db48d7e79" style="display:none"></span>
-
-
-    - **Service Impact:** DISRUPTION
-    - **Current Status:** `Ongoing`
-    - **Description:** An issue is preventing users editing fields on tasks. Investigation in progress.
-    - **Reported:** 2026-06-26 10:19
-    - **Resolved:** 
-    - **Causation:** 
 
 ---
 
