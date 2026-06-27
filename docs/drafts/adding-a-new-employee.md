@@ -243,8 +243,7 @@ icon: lucide/user-plus
 !!! tip "Next Step: Register the Employee"
 
     <span data-uuid="d3f112e9-3bf5-477a-8995-71b7834feea9" style="display:none"></span>
-    Now that you've added an employee, you may want to know how to give them access to the system to complete tasks such as their E-Learning or Checklists.
+    Now that you've added an employee, you may want to know how to give them access to the system to complete tasks such as their E-Learning or Checklists. Below are the ways you can do this:
 
-    Would you like to give the employee access to the system using **their own Opus Account**? Follow [our guide here](https://support.opus-safety.co.uk/pages/registering-an-employee/) to learn how to register them.
-
-    Alternatively, you can give them **temporary access** to the system for 7 days without registering an Opus Account. Follow [our guide below](https://support.opus-safety.co.uk/pages/granting-an-employee-temporary-access/) to set this up.
+    - [Registering an Employee with an Opus Account](https://support.opus-safety.co.uk/pages/registering-an-employee/)
+    - [Granting an employee temporary access (7 days)](https://support.opus-safety.co.uk/pages/granting-an-employee-temporary-access/)
