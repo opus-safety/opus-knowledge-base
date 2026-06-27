@@ -90,7 +90,7 @@ If applicable or desired, you may want to remove the employee's existing access 
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-## Moving the employee's location
+## Changing the employee's location
 <span data-uuid="dd452400-4876-4226-a4a4-2a205e1c46a2" style="display:none"></span>
 
 Now it's time to move the employee record's location.
