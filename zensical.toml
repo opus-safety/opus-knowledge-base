@@ -46,7 +46,8 @@ nav = [
     ]},
     {"Assets" = [
       {"Adding an asset" = "pages/adding-an-asset.md"},
-      {"Archiving an asset" = "pages/archiving-an-asset.md"}
+      {"Archiving an asset" = "pages/archiving-an-asset.md"},
+      {"Moving an asset" = "pages/moving-an-asset.md"}
     ]},
     {"Contractors" = [
       {"Contractors Overview" = "pages/contractors-overview.md"},
@@ -64,9 +65,6 @@ draft_nav = [
   {"Guides" = [
     {"Tasks" = [
       {"Task Overview" = "drafts/task-overview.md"}
-    ]},
-    {"Assets" = [
-      {"Moving an asset" = "drafts/moving-an-asset.md"}
     ]}
   ]}
 ]
