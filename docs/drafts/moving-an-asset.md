@@ -100,3 +100,6 @@ If an asset has moved to another site, you can easily update it in the system â€
     <span data-uuid="0981a872-cd10-46ef-8c23-dafde932b4d8" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/edit/save-asset-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/edit/save-asset-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+## test
+<span data-uuid="6c6a55d2-f83e-4bff-9ce9-a0f59f3f92f1" style="display:none"></span>
