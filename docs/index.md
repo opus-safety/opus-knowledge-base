@@ -2,7 +2,6 @@
 title: Home
 background-animation: neural-v2
 force-dark: true
-groove: true
 hide:
   - toc
   - footer

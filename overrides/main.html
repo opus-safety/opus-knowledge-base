@@ -28,7 +28,7 @@
   {% if page.meta and page.meta.editor %}
     <script src="{{ 'assets/javascripts/editor.js' | url }}" defer></script>
   {% endif %}
-  {% if page.meta and page.meta.groove %}
-    <script src="{{ 'assets/javascripts/groove.js' | url }}"></script>
-  {% endif %}
+  {# Groove support widget loads on every page so any link can trigger it via
+     window.groove.widget.open(); deferred so it never blocks rendering. #}
+  <script src="{{ 'assets/javascripts/groove.js' | url }}" defer></script>
 {% endblock %}

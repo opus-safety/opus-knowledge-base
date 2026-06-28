@@ -2,7 +2,6 @@
 tags:
     - System
 icon: lucide/clock-arrow-up
-groove: true
 ---
 
 # System Updates
