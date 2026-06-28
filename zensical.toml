@@ -65,9 +65,6 @@ draft_nav = [
   {"Guides" = [
     {"Tasks" = [
       {"Task Overview" = "drafts/task-overview.md"}
-    ]},
-    {"Assets" = [
-      {"Moving an asset" = "drafts/moving-an-asset.md"}
     ]}
   ]}
 ]
