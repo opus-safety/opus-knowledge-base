@@ -61,7 +61,11 @@ nav = [
 ]
 
 draft_nav = [
-
+  {"Guides" = [
+    {"Assets" = [
+      {"Adding an asset" = "drafts/adding-an-asset.md"}
+    ]}
+  ]}
 ]
 
 # ----------------------------------------------------------------------------
