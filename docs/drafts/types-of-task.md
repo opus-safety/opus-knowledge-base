@@ -84,6 +84,10 @@ View the Diagram / Table below to view the different kinds of reminder tasks you
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-olive">Checklists</span> | Site Fire Safety Checks, Office Checks, Warehouse Checks, Opening/Closing Checks, etc. |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Site Procedures, Step-by-step guides, etc. |
 
+=== "Reminder Tasks: Example"
+
+    <span data-uuid="bd5461fe-cda9-47bf-a07e-715df178cca4" style="display:none"></span>
+
 ## Corrective Actions
 <span data-uuid="3d3ea63d-3b52-45bd-a004-4aadb6ff8fed" style="display:none"></span>
 
