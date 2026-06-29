@@ -5,7 +5,7 @@ icon: lucide/grid-2-x-2-check
 # Types of task
 <span data-uuid="e0f63ac3-c844-4979-8eb4-0c28194addb7" style="display:none"></span>
 
-Broadly speaking, tasks can be categorised into different types based on how they are generated and their content.
+Broadly speaking, a task is anything that needs to be done. This guide will show you the different kinds of tasks you may encounter when using Opus Compliance Cloud.
 
 ## Reminder Tasks
 <span data-uuid="67d4309c-2663-49a1-85a2-6a73f9da9108" style="display:none"></span>
