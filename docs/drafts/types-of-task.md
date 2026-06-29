@@ -153,3 +153,6 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
         <span data-uuid="c6392e63-b052-4e9c-8f53-c2e1b41e680e" style="display:none"></span>
         ![](../assets/media/occ-captures/todos/uuid/example-corrective-action-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/occ-captures/todos/uuid/example-corrective-action-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
+## Reported Events
+<span data-uuid="50f1bbeb-1764-41cb-aa0c-66dcff9c578a" style="display:none"></span>
