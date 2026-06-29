@@ -66,6 +66,9 @@ draft_nav = [
     {"Tasks" = [
       {"Task Overview" = "drafts/task-overview.md"},
       {"Types of task" = "drafts/types-of-task.md"}
+    ]},
+    {"Contractors" = [
+      {"Contractor & Project statuses" = "drafts/contractor-and-project-statuses.md"}
     ]}
   ]}
 ]
