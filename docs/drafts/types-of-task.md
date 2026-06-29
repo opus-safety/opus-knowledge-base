@@ -6,3 +6,6 @@ icon: lucide/grid-2-x-2-check
 <span data-uuid="e0f63ac3-c844-4979-8eb4-0c28194addb7" style="display:none"></span>
 
 Broadly speaking, tasks can be categorised into different types based on how they are generated and their content.
+
+## Reminder Tasks
+<span data-uuid="67d4309c-2663-49a1-85a2-6a73f9da9108" style="display:none"></span>
