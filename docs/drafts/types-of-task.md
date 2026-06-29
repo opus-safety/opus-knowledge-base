@@ -10,16 +10,3 @@ Broadly speaking, tasks can be categorised into different types based on how the
 ## Reminder Tasks
 <span data-uuid="67d4309c-2663-49a1-85a2-6a73f9da9108" style="display:none"></span>
 
-
-<span data-uuid="f84cebae-acd7-437d-9b13-fbb865433ddc" style="display:none"></span>
-
-| Applies to | Type of reminder | Examples |
-| :--- | :--- | :--- |
-| <span class="mb-label mb-label-pink">Sites</span> | `Checklist / Playbooks` | **Filling in:** Manager's Monthly Walk-around, Fire Safety Checks, Office/Welfare Checks, Warehouse Checks and Opening/Closing Checks |
-| `Sites` | `Document` | **Uploading:** Company Policies, Handbooks, Risk Assessments, etc |
-| `Assets` | `Checklists / Playbooks` | **Filling in:** Vehicle Pre-Use Checks, Ladder Checks, Fire Alarm Checks, Emergency Lighting Checks, etc |
-| `Assets` | `Document` | **Uploading:** Annual Services, LOLER Certificates, Inspection Records, etc |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
