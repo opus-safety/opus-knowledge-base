@@ -128,3 +128,7 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
 === "Corrective Actions: Table"
 
     <span data-uuid="3f795098-fff2-4bdd-99d5-db4d643d1e58" style="display:none"></span>
+
+=== "Corrective Actions: Example"
+
+    <span data-uuid="b659c870-a667-4f29-a102-e568c63777f7" style="display:none"></span>
