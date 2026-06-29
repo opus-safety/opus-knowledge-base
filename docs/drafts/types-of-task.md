@@ -11,6 +11,15 @@ Broadly speaking, tasks can be categorised into different types based on how the
 <span data-uuid="67d4309c-2663-49a1-85a2-6a73f9da9108" style="display:none"></span>
 
 
+<span data-uuid="92864bfb-083b-44ee-90ca-77f029734506" style="display:none"></span>
+=== "Diagram"
+
+    <span data-uuid="1a7f0b20-73ed-49db-affd-77f66024b249" style="display:none"></span>
+
+=== "Table"
+
+    <span data-uuid="11d4dba4-b5e7-4f0b-9089-6f641f0b83ba" style="display:none"></span>
+
 <span data-uuid="7b4feecc-a42a-46c0-ab6e-59b78128abe1" style="display:none"></span>
 ```mermaid
 ---
