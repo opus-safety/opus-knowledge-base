@@ -70,8 +70,7 @@ draft_nav = [
       {"Types of task" = "drafts/types-of-task.md"}
     ]},
     {"Contractors" = [
-      {"Contractor & Project statuses" = "drafts/contractor-and-project-statuses.md"},
-      {"Contractors Overview" = "drafts/contractors-overview.md"}
+      {"Contractor & Project statuses" = "drafts/contractor-and-project-statuses.md"}
     ]}
   ]}
 ]
