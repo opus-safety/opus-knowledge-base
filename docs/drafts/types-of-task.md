@@ -39,17 +39,17 @@ config:
   layout: elk
 ---
 flowchart LR
- subgraph s1
+ subgraph s1[" "]
         n5(["Asset Checklists"])
         n8(["Asset Playbooks"])
         n9(["Asset Documents"])
   end
- subgraph s4
+ subgraph s4[" "]
         n10(["Site Checklists"])
         n11(["Site Playbooks"])
         n12(["Site Documents"])
   end
- subgraph s5
+ subgraph s5[" "]
         n13(["Employee Checklists"])
         n14(["Employee Playbooks"])
         n15(["E-learning"])
