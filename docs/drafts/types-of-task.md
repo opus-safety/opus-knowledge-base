@@ -149,3 +149,7 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
         - The recommended action to take in the middle.
         - The source of the action, in this case its from the Fire Safety checklist, on the right panel.
         - The question and the answer also on the right panel.
+
+        <span data-uuid="c6392e63-b052-4e9c-8f53-c2e1b41e680e" style="display:none"></span>
+        ![](../assets/media/occ-captures/todos/uuid/example-corrective-action-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/todos/uuid/example-corrective-action-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
