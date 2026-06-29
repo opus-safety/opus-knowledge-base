@@ -13,7 +13,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
 <span data-uuid="7b4feecc-a42a-46c0-ab6e-59b78128abe1" style="display:none"></span>
 ```mermaid
-%%{init: {'flowchart': {'curve': 'stepBefore', 'nodeSpacing': 20, 'rankSpacing': 45, 'padding': 4}, 'themeVariables': {'fontSize': '12px'}}}%%
+%%{init: {'layout': 'dagre', 'flowchart': {'curve': 'stepBefore', 'nodeSpacing': 20, 'rankSpacing': 45, 'padding': 4}, 'themeVariables': {'fontSize': '12px'}}}%%
 
 graph TD
 
@@ -26,18 +26,14 @@ R --> A(Assets)
 R --> E(Employees)
 
 S --> S1(Site Checklists / Playbooks)
-
-S --> S2(Site Documents)
+S1 ~~~ S2(Site Documents)
 
 A --> A1(Asset Checklists / Playbooks)
-
-A --> A2(Asset Documents)
+A1 ~~~ A2(Asset Documents)
 
 E --> E1(Employee Checklists / Playbooks)
-
-E --> E2(E-learning)
-
-E --> E3(Training)
+E1 ~~~ E2(E-learning)
+E2 ~~~ E3(Training)
 
 class R root
 
