@@ -22,7 +22,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
     <span data-uuid="96706bb5-e74a-4d3e-a0d0-e02124a06435" style="display:none"></span>
 
-    | Column 1 | Column 2 | Column 3 |
+    | Applied to | Reminder Type | Description |
     | :--- | :--- | :--- |
     |  |  |  |
     |  |  |  |
