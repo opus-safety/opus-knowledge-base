@@ -18,8 +18,6 @@ View the Diagram / Table below to view the different kinds of reminder tasks you
 <span data-uuid="92864bfb-083b-44ee-90ca-77f029734506" style="display:none"></span>
 === "Reminder Tasks: Diagram"
 
-    <span data-uuid="1a7f0b20-73ed-49db-affd-77f66024b249" style="display:none"></span>
-
     <span data-uuid="104fef89-f0d9-49e1-b5f2-a21cbfedcdfc" style="display:none"></span>
     ```mermaid
     ---
