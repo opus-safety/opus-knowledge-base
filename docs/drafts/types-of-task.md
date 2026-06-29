@@ -13,7 +13,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
 <span data-uuid="f84cebae-acd7-437d-9b13-fbb865433ddc" style="display:none"></span>
 
-| Column 1 | Column 2 |
+| Type | Description |
 | :--- | :--- |
 |  |  |
 |  |  |
