@@ -17,27 +17,27 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
 graph LR
 
-R@{ icon: "lucide:bell", form: "square", label: "Reminder Tasks", pos: "b" }
+R("Reminder Tasks")
 
-R --> S@{ icon: "lucide:building-2", form: "square", label: "Sites", pos: "b" }
+R --> S("Sites")
 
-R --> A@{ icon: "lucide:truck", form: "square", label: "Assets", pos: "b" }
+R --> A("Assets")
 
-R --> E@{ icon: "lucide:users", form: "square", label: "Employees", pos: "b" }
+R --> E("Employees")
 
-S --> S1@{ icon: "lucide:clipboard-check", form: "square", label: "Site Checklists / Playbooks", pos: "b" }
+S --> S1("Site Checklists / Playbooks")
 
-S --> S2@{ icon: "lucide:file-text", form: "square", label: "Site Documents", pos: "b" }
+S --> S2("Site Documents")
 
-A --> A1@{ icon: "lucide:clipboard-check", form: "square", label: "Asset Checklists / Playbooks", pos: "b" }
+A --> A1("Asset Checklists / Playbooks")
 
-A --> A2@{ icon: "lucide:file-text", form: "square", label: "Asset Documents", pos: "b" }
+A --> A2("Asset Documents")
 
-E --> E1@{ icon: "lucide:clipboard-check", form: "square", label: "Employee Checklists / Playbooks", pos: "b" }
+E --> E1("Employee Checklists / Playbooks")
 
-E --> E2@{ icon: "lucide:graduation-cap", form: "square", label: "E-learning", pos: "b" }
+E --> E2("E-learning")
 
-E --> E3@{ icon: "lucide:book-open", form: "square", label: "Training", pos: "b" }
+E --> E3("Training")
 
 class R root
 
