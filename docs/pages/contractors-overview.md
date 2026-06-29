@@ -17,7 +17,7 @@ hide:
 <div style="align-self: center" markdown>
 
 <span data-uuid="5a79bfb0-aaf2-4811-a436-0b7af6c4f5ec" style="display:none"></span>
-`Smarter management, built for compliance`
+<span class="mb-label mb-label-slate">Smarter management, built for compliance</span>
 
 # Opus Contractor Management
 
