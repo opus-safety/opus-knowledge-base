@@ -110,5 +110,9 @@
   "docs/assets/media/occ-captures/admin/sites/uuid/site-access-custom-1-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/todos/uuid/example-reminder-task-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
