@@ -32,7 +32,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-fuchsia">Playbooks</span> |  |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-cyan">E-learning</span> |  |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-red">Training</span> |  |
-    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-indigo">Documents</span> | Company policies, Handbooks or Risk assessments. |
+    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-slate">Documents</span> | Company policies, Handbooks or Risk assessments. |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-emerald">Checklist</span> | Managers’ Monthly Walk-arounds, including Fire Safety Checks, Office Checks, or Warehouse Checks. |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-fuchsia">Playbooks</span> | Site Procedures or Step-by-step guides. |
 
