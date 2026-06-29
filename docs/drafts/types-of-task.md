@@ -32,7 +32,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-fuchsia">Playbooks</span> | Vehicle/Machinery Procedures or Routines. |
     | <span class="mb-label mb-label-amber">Employees</span> |  |  |
     | <span class="mb-label mb-label-amber">Employees</span> |  |  |
-    |  |  |  |
+    | <span class="mb-label mb-label-amber">Employees</span> |  |  |
     |  |  |  |
 
 <span data-uuid="7b4feecc-a42a-46c0-ab6e-59b78128abe1" style="display:none"></span>
