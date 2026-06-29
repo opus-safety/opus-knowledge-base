@@ -131,19 +131,9 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
 
     <span data-uuid="da9d8035-17b0-4d99-aff6-4c2457d55c59" style="display:none"></span>
 
-    | Applied to | Reminder Type | Examples |
-    | :--- | :--- | :--- |
-    | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-slate">Documents</span> | Annual Services, LOLER/Thorough Examinations, Inspection Certificates, etc. |
-    | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-olive">Checklists</span> | Vehicle/Machinery Pre-use Checks, Ladder Checks, Racking Checks, etc. |
-    | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Vehicle/Machinery Procedures, Routines, etc. |
-    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-slate">Documents</span> | Licences, Personal Assessments, etc. |
-    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-olive">Checklists</span> | DSE Assessments, Health Surveillance, etc. |
-    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Employee Inductions, Personal Workflows, etc. |
-    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-stone">E-learning</span> | Manual Handling, Racking Safety, Fire Marshal, etc. |
-    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-neutral">Training</span> | First Aid at Work, Counterbalance Training, Lorry Loader Training, etc. |
-    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-slate">Documents</span> | Company policies, Handbooks, Risk assessments, etc. |
-    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-olive">Checklists</span> | Site Fire Safety Checks, Office Checks, Warehouse Checks, Opening/Closing Checks, etc. |
-    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Site Procedures, Step-by-step guides, etc. |
+    | Applied to | Reminder Type |
+    | :--- | :--- |
+    | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-slate">Documents</span> |
 
 === "Corrective Actions: Example"
 
