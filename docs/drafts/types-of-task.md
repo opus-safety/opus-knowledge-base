@@ -20,6 +20,13 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
     <span data-uuid="11d4dba4-b5e7-4f0b-9089-6f641f0b83ba" style="display:none"></span>
 
+    <span data-uuid="96706bb5-e74a-4d3e-a0d0-e02124a06435" style="display:none"></span>
+
+    | Column 1 | Column 2 | Column 3 |
+    | :--- | :--- | :--- |
+    |  |  |  |
+    |  |  |  |
+
 <span data-uuid="7b4feecc-a42a-46c0-ab6e-59b78128abe1" style="display:none"></span>
 ```mermaid
 ---
