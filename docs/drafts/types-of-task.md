@@ -140,3 +140,14 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
 === "Corrective Actions: Example"
 
     <span data-uuid="b659c870-a667-4f29-a102-e568c63777f7" style="display:none"></span>
+
+    !!! outline "Example Reminder Task - Fire Safety"
+
+        <span data-uuid="97b7d1e7-6ecf-4ac4-a5ae-f49f4ef639ce" style="display:none"></span>
+
+
+        This is an example of a reminder to complete a <span class="mb-label mb-label-sky">Site Checklist</span> task. As this is a reminder task to fulfil a **requirement**, you must complete the checklist to resolve it.
+
+        <span data-uuid="65ebc9ce-1390-4d51-99d9-21df1f3d149e" style="display:none"></span>
+        ![](../assets/media/occ-captures/todos/uuid/example-reminder-task-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/todos/uuid/example-reminder-task-dark-mode.png#only-dark)
