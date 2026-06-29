@@ -76,8 +76,11 @@ Follow the guide below on how to do this.
 !!! step
 
     <span data-uuid="0bc4999c-feac-4c38-acc8-a0ec798918a0" style="display:none"></span>
-
     Type the employee's leaving date in the **End day** field.
+
+    <span data-uuid="6c330984-b5b5-467c-8143-0debf539394e" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/end-day-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/end-day-dark-mode.png#only-dark)
 
     !!! note
 
@@ -88,8 +91,11 @@ Follow the guide below on how to do this.
 !!! step
 
     <span data-uuid="9cedbeba-b917-4bb0-8cf6-446fcce4f161" style="display:none"></span>
-
     Then click **Save employee** at the bottom of the page.
+
+    <span data-uuid="960f18fb-7729-4e56-b6fe-18815332782d" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/save-employee-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/save-employee-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 ## Open tasks related to the employee
 <span data-uuid="3aaf3b7d-62ea-4d6f-8014-134382b5c8c8" style="display:none"></span>
