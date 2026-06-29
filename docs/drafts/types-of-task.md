@@ -24,7 +24,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
     | Applied to | Reminder Type | Examples |
     | :--- | :--- | :--- |
-    | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-slate">Documents</span> | Annual Services, LOLER/Thorough Examinations or Inspection Certificates. |
+    | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-slate">Documents</span> | Annual Services, LOLER/Thorough Examinations, Inspection Certificates, etc. |
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-olive">Checklists</span> | Vehicle/Machinery Pre-use Checks, Ladder Checks, Racking Checks, etc. |
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Vehicle/Machinery Procedures, Routines, etc. |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-slate">Documents</span> | Licences, Personal Assessments, etc. |
