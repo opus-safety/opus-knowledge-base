@@ -161,3 +161,16 @@ Reported Events are tasks that have been manually reported by someone.
 
 
 View the Diagram / Table below to view the different kinds of Reported Events you will likely encounter.
+
+<span data-uuid="45885d92-4331-4c58-83d1-13bb4467ac17" style="display:none"></span>
+=== "Reported Events: Diagram"
+
+    <span data-uuid="e354a7ce-c5fa-410c-963a-f3d59f0d8589" style="display:none"></span>
+
+=== "Reported Events: Table"
+
+    <span data-uuid="e8269c04-a69e-4e1d-90be-0a7ec912923f" style="display:none"></span>
+
+=== "Reported Events: Example"
+
+    <span data-uuid="19e6ece2-7c35-415e-9996-21e6f7bff75c" style="display:none"></span>
