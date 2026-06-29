@@ -82,11 +82,14 @@ Follow the guide below on how to do this.
     ![](../assets/media/occ-captures/admin/sites/uuid/edit/end-day-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/edit/end-day-dark-mode.png#only-dark)
 
-    !!! note
+    !!! info
 
         <span data-uuid="efcd1812-0512-4045-a82b-f620a4e01068" style="display:none"></span>
+        The end day is the last day of working - the system will consider them as current up to midnight (UTC).
 
-        The end day is the last day of working — the system will consider them as current up to midnight (UTC).
+        If you want an employee to be archived and their reminder tasks resolved immediately, set their End Day to yesterday or before.
+
+        For short-term contracted staff, you can pre-populate the End Day field in advance.
 
 !!! step
 
