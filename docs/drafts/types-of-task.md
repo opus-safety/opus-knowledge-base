@@ -13,7 +13,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
 <span data-uuid="7b4feecc-a42a-46c0-ab6e-59b78128abe1" style="display:none"></span>
 ```mermaid
-%%{init: {'flowchart': {'curve': 'stepBefore', 'nodeSpacing': 20, 'rankSpacing': 45, 'padding': 4}, 'themeVariables': {'fontSize': '12px'}}}%%
+%%{init: {'flowchart': {'curve': 'stepBefore', 'nodeSpacing': 20, 'rankSpacing': 45, 'padding': 4}, 'elk': {'nodePlacementStrategy': 'SIMPLE'}, 'themeVariables': {'fontSize': '12px'}}}%%
 
 graph LR
 
