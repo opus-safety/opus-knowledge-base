@@ -135,7 +135,7 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
     | :--- | :--- |
     | <span class="mb-label mb-label-cyan">Automated Corrective Actions</span> | An automated corrective action is an action that is generated automatically as a result of someone completing a checklist or playbook. It is triggered when a response to a question meets a specific condition, causing a corrective action to be raised. |
     | <span class="mb-label mb-label-rose">Audit Corrective Actions</span> | An audit corrective action is an action generated as a result of an auditor or consultant carrying out an audit of a site. These corrective actions are typically bespoke, detailed, and often relate to higher-priority findings that require attention. |
-    |  |  |
+    | <span class="mb-label mb-label-purple">Manually Reported Corrective Actions</span> | A manually reported corrective action is an ad-hoc action that has been raised by a user. For example, an employee may notice a defect while walking past a vehicle and report it as a corrective action immediately. |
 
 === "Corrective Actions: Example"
 
