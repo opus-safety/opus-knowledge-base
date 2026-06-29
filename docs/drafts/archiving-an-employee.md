@@ -113,10 +113,3 @@ After archiving an employee, you may still have open tasks linked to their recor
     <span data-uuid="2ac3d969-b5ba-48d4-af73-cdc96fecd131" style="display:none"></span>
 
     These remain open and must be manually updated and resolved, including details of how the issue was addressed. This ensures there's a clear evidence trail if any follow-up action is needed after the employee has left, which is particularly important in the case of contentious leavers.
-
-!!! tip
-
-    <span data-uuid="1fe8f96f-9e34-4949-9b21-bb646bb621d1" style="display:none"></span>
-    If you want an employee to be archived and their reminder tasks resolved immediately, set their **End Date** to the previous day.
-
-    For short-term contracted staff, you can pre-populate the **End Date** in advance.
