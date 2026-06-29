@@ -131,7 +131,7 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
 
     <span data-uuid="da9d8035-17b0-4d99-aff6-4c2457d55c59" style="display:none"></span>
 
-    | Applied to | Reminder Type |
+    | Corrective Action Type | Description |
     | :--- | :--- |
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-slate">Documents</span> |
 
