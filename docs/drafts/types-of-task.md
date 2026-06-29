@@ -17,7 +17,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 | :--- | :--- | :--- |
 | `Sites` | Site Checklist / Playbooks | Manager's Monthly Walk-around, Fire Safety Checks, Office/Welfare Checks and Warehouse Checks |
 | `Sites` | Site Document | Company Policies, Handbooks and Risk Assessments |
-|  |  |  |
+| `Assets` | Asset Checklists / Playbooks | Vehicle Pre-Use Checks, Ladder Checks, Fire Alarm Checks and Emergency Lighting Checks |
 |  |  |  |
 |  |  |  |
 |  |  |  |
