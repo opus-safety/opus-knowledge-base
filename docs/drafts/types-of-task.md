@@ -94,8 +94,8 @@ View the Diagram / Table below to view the different kinds of reminder tasks you
         This is an example of a reminder to complete a <span class="mb-label mb-label-sky">Site Checklist</span> task. As this is a reminder task to fulfil a **requirement**, you must complete the checklist to resolve it.
 
         <span data-uuid="52e6832f-3cb1-436b-9aa1-1e203a41f87c" style="display:none"></span>
-        ![](../assets/media/occ-captures/todos/uuid/example-reminder-task-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/todos/uuid/example-reminder-task-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/todos/uuid/example-reminder-task-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/todos/uuid/example-reminder-task-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 ## Corrective Actions
 <span data-uuid="3d3ea63d-3b52-45bd-a004-4aadb6ff8fed" style="display:none"></span>
