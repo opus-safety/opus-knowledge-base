@@ -27,7 +27,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-slate">Documents</span> | Annual Services, LOLER/Thorough Examinations or Inspection Certificates. |
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-olive">Checklists</span> | Vehicle/Machinery Pre-use Checks, Ladder Checks or Racking Checks. |
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Vehicle/Machinery Procedures or Routines. |
-    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-slate">Documents</span> | Licences or Personal Assessments |
+    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-slate">Documents</span> | Licences, Personal Assessments, etc. |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-olive">Checklists</span> | DSE Assessments or Health Surveillance |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Employee Inductions or Processes |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-stone">E-learning</span> | Manual Handling, Racking Safety, Fire Marshal or more |
