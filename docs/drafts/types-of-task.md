@@ -88,6 +88,11 @@ View the Diagram / Table below to view the different kinds of reminder tasks you
 
     <span data-uuid="bd5461fe-cda9-47bf-a07e-715df178cca4" style="display:none"></span>
 
+    !!! outline "Example Reminder Task - Fire Safety"
+
+        <span data-uuid="41b90da5-5d37-4a64-89ba-bdc084e4c386" style="display:none"></span>
+        This is an example of a reminder to complete a <span class="mb-label mb-label-sky">Site Checklist</span> task. As this is a reminder task to fulfil a **requirement**, you must complete the checklist to resolve it.
+
 ## Corrective Actions
 <span data-uuid="3d3ea63d-3b52-45bd-a004-4aadb6ff8fed" style="display:none"></span>
 
