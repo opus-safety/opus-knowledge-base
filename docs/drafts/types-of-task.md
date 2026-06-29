@@ -34,7 +34,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-neutral">Training</span> | First Aid at Work, Counterbalance Training, Lorry Loader Training, etc. |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-slate">Documents</span> | Company policies, Handbooks, Risk assessments, etc. |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-olive">Checklists</span> | Site Fire Safety Checks, Office Checks, Warehouse Checks, Opening/Closing Checks, etc. |
-    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Site Procedures or Step-by-step guides. |
+    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Site Procedures, Step-by-step guides, etc. |
 
 <span data-uuid="7b4feecc-a42a-46c0-ab6e-59b78128abe1" style="display:none"></span>
 ```mermaid
