@@ -16,6 +16,47 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
     <span data-uuid="1a7f0b20-73ed-49db-affd-77f66024b249" style="display:none"></span>
 
+    <span data-uuid="104fef89-f0d9-49e1-b5f2-a21cbfedcdfc" style="display:none"></span>
+    ```mermaid
+    ---
+    config:
+      layout: elk
+    ---
+    flowchart LR
+     subgraph s1[" "]
+            n5(["Asset Checklists"])
+            n8(["Asset Playbooks"])
+            n9(["Asset Documents"])
+      end
+     subgraph s4[" "]
+            n10(["Site Checklists"])
+            n11(["Site Playbooks"])
+            n12(["Site Documents"])
+      end
+     subgraph s5[" "]
+            n13(["Employee Checklists"])
+            n14(["Employee Playbooks"])
+            n15(["E-learning"])
+            n16(["Training"])
+      end
+        A["Reminder Tasks"] --> n1["Assets"] & n2["Sites"] & n3["Employees"]
+        n1 --> s1
+        n5 --- n8
+        n8 --- n9
+        n10 --- n11
+        n11 --- n12
+        n2 --> s4
+        n13 --- n14
+        n14 --- n15
+        n3 --> s5
+        n15 --> n16
+
+        A@{ shape: rounded}
+        n1@{ shape: rounded}
+        n2@{ shape: rounded}
+        n3@{ shape: rounded}
+    ```
+
 === "Table"
 
     <span data-uuid="11d4dba4-b5e7-4f0b-9089-6f641f0b83ba" style="display:none"></span>
