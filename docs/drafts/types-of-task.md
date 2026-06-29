@@ -15,5 +15,5 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
 | Applies to | Type of reminder | Description |
 | :--- | :--- | :--- |
-|  |  |  |
+| `Sites` | Site Checklist | A reminder to complete a site checklist. This may include routine checks, such as a manager’s monthly site walk-around or a site-specific Fire Safety checklist. |
 |  |  |  |
