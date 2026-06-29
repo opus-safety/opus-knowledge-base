@@ -27,7 +27,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-indigo">Documents</span> | Company policies, Handbooks or Risk assessments. |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-emerald">Checklist</span> | Managers’ Monthly Walk-arounds, including Fire Safety Checks, Office Checks, or Warehouse Checks. |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-yellow">Playbooks</span> | Site Procedures or Step-by-step guides. |
-    |  |  |  |
+    | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-indigo">Documents</span> | Annual Services, LOLER/Thorough Examinations or Inspection Certificates |
     |  |  |  |
     |  |  |  |
     |  |  |  |
