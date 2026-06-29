@@ -22,7 +22,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
     <span data-uuid="96706bb5-e74a-4d3e-a0d0-e02124a06435" style="display:none"></span>
 
-    | Applied to | Reminder Type | Description |
+    | Applied to | Reminder Type | Examples |
     | :--- | :--- | :--- |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-emerald">Checklist</span> | Managers’ Monthly Walk-arounds, including Fire Safety Checks, Office Checks, or Warehouse Checks. |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-indigo">Documents</span> | Company policies, Handbooks or Risk assessments. |
