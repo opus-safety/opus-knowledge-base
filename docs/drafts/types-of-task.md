@@ -13,31 +13,41 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
 <span data-uuid="7b4feecc-a42a-46c0-ab6e-59b78128abe1" style="display:none"></span>
 ```mermaid
-%%{init: {'flowchart': {'curve': 'stepBefore', 'nodeSpacing': 20, 'rankSpacing': 45, 'padding': 4}, 'themeVariables': {'fontSize': '12px'}}}%%
+---
+config:
+  layout: elk
+---
+flowchart LR
+ subgraph s1
+        n5(["Asset Checklists"])
+        n8(["Asset Playbooks"])
+        n9(["Asset Documents"])
+  end
+ subgraph s4
+        n10(["Site Checklists"])
+        n11(["Site Playbooks"])
+        n12(["Site Documents"])
+  end
+ subgraph s5
+        n13(["Employee Checklists"])
+        n14(["Employee Playbooks"])
+        n15(["E-learning"])
+        n16(["Training"])
+  end
+    A["Reminder Tasks"] --> n1["Assets"] & n2["Sites"] & n3["Employees"]
+    n1 --> s1
+    n5 --- n8
+    n8 --- n9
+    n10 --- n11
+    n11 --- n12
+    n2 --> s4
+    n13 --- n14
+    n14 --- n15
+    n3 --> s5
+    n15 --> n16
 
-graph TD
-
-R(Reminder Tasks)
-
-R --> S(Sites)
-
-R --> A(Assets)
-
-R --> E(Employees)
-
-S --> S1(Site Checklists / Playbooks)
-S1 ~~~ S2(Site Documents)
-
-A --> A1(Asset Checklists / Playbooks)
-A1 ~~~ A2(Asset Documents)
-
-E --> E1(Employee Checklists / Playbooks)
-E1 ~~~ E2(E-learning)
-E2 ~~~ E3(Training)
-
-class R root
-
-class S,A,E branch
-
-class S1,S2,A1,A2,E1,E2,E3 leaf
+    A@{ shape: rounded}
+    n1@{ shape: rounded}
+    n2@{ shape: rounded}
+    n3@{ shape: rounded}
 ```
