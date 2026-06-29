@@ -28,7 +28,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-olive">Checklists</span> | Vehicle/Machinery Pre-use Checks, Ladder Checks or Racking Checks. |
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Vehicle/Machinery Procedures or Routines. |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-slate">Documents</span> | Licences or Personal Assessments |
-    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-olive">Checklists</span> |  |
+    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-olive">Checklists</span> | DSE Assessments or Health Surveillance |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-mauve">Playbooks</span> |  |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-stone">E-learning</span> |  |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-neutral">Training</span> |  |
