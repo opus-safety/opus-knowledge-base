@@ -156,3 +156,5 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
 
 ## Reported Events
 <span data-uuid="50f1bbeb-1764-41cb-aa0c-66dcff9c578a" style="display:none"></span>
+
+Reported events are tasks that have been manually reported by someone.
