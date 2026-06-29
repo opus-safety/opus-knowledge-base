@@ -29,7 +29,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Vehicle/Machinery Procedures, Routines, etc. |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-slate">Documents</span> | Licences, Personal Assessments, etc. |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-olive">Checklists</span> | DSE Assessments, Health Surveillance, etc. |
-    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Employee Inductions or Processes |
+    | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-mauve">Playbooks</span> | Employee Inductions, Personal Workflows, etc. |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-stone">E-learning</span> | Manual Handling, Racking Safety, Fire Marshal or more |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-neutral">Training</span> | First Aid at Work, Counterbalance Training, Lorry Loader Training, etc |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-slate">Documents</span> | Company policies, Handbooks or Risk assessments. |
