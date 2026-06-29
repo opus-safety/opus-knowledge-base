@@ -25,8 +25,7 @@ extra_css = [
 ]
 extra_javascript = [
     "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
-    "/assets/javascripts/tablesort.js",
-    "/assets/javascripts/mermaid.mjs"
+    "/assets/javascripts/tablesort.js"
 ]
 
 # ----------------------------------------------------------------------------
