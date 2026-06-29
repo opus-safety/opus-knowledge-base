@@ -17,27 +17,27 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
 graph LR
 
-R("Reminder Tasks")
+R(Reminder Tasks)
 
-R --> S("Sites")
+R --> S(Sites)
 
-R --> A("Assets")
+R --> A(Assets)
 
-R --> E("Employees")
+R --> E(Employees)
 
-S --> S1("Site Checklists / Playbooks")
+S --> S1(Site Checklists / Playbooks)
 
-S --> S2("Site Documents")
+S --> S2(Site Documents)
 
-A --> A1("Asset Checklists / Playbooks")
+A --> A1(Asset Checklists / Playbooks)
 
-A --> A2("Asset Documents")
+A --> A2(Asset Documents)
 
-E --> E1("Employee Checklists / Playbooks")
+E --> E1(Employee Checklists / Playbooks)
 
-E --> E2("E-learning")
+E --> E2(E-learning)
 
-E --> E3("Training")
+E --> E3(Training)
 
 class R root
 
