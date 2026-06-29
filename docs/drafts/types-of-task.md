@@ -24,7 +24,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
     | Applied to | Reminder Type | Description |
     | :--- | :--- | :--- |
-    |  |  |  |
+    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-emerald">Checklist</span> | Reminders to complete Site Checklists are typically used for activities such as Managers’ Monthly Walk-arounds, including Fire Safety Checks, Office Checks, and Warehouse Checks. These checks focus on reviewing and assessing the site or an area. |
     |  |  |  |
 
 <span data-uuid="7b4feecc-a42a-46c0-ab6e-59b78128abe1" style="display:none"></span>
