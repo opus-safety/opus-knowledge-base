@@ -18,7 +18,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 | `Sites` | `Checklist / Playbooks` | **Filling in:** Manager's Monthly Walk-around, Fire Safety Checks, Office/Welfare Checks, Warehouse Checks and Opening/Closing Checks |
 | `Sites` | `Document` | **Uploading:** Company Policies, Handbooks, Risk Assessments, etc |
 | `Assets` | `Checklists / Playbooks` | **Filling in:** Vehicle Pre-Use Checks, Ladder Checks, Fire Alarm Checks, Emergency Lighting Checks, etc |
-| `**Assets**` | `Document` | **Uploading:** Annual Services, LOLER Certificates, Inspection Records, etc |
+| `Assets` | `Document` | **Uploading:** Annual Services, LOLER Certificates, Inspection Records, etc |
 |  |  |  |
 |  |  |  |
 |  |  |  |
