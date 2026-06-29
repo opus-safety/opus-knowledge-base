@@ -70,9 +70,6 @@ draft_nav = [
     ]},
     {"Contractors" = [
       {"Contractor & Project statuses" = "drafts/contractor-and-project-statuses.md"}
-    ]},
-    {"Employees" = [
-      {"Archiving an employee" = "drafts/archiving-an-employee.md"}
     ]}
   ]}
 ]
