@@ -15,7 +15,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
 ```mermaid
 %%{init: {'flowchart': {'curve': 'stepBefore', 'nodeSpacing': 20, 'rankSpacing': 45, 'padding': 4}, 'themeVariables': {'fontSize': '12px'}}}%%
 
-graph LR
+graph TD
 
 R(Reminder Tasks)
 
