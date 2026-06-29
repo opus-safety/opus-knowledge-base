@@ -25,7 +25,7 @@ Broadly speaking, tasks can be categorised into different types based on how the
     | Applied to | Reminder Type | Description |
     | :--- | :--- | :--- |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-emerald">Checklist</span> | Reminders to complete Site Checklists are typically for activities such as Managers’ Monthly Walk-arounds, including Fire Safety Checks, Office Checks, and Warehouse Checks. These checks focus on reviewing and assessing the site or an area. |
-    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-indigo">Documents</span> | Reminders to complete Site Documents are typically for things like Company policies, Handbooks or Risk assessments. These documents are typically relevant to a site or the company as a whole. |
+    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-indigo">Documents</span> | Company policies, Handbooks or Risk assessments. |
     | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-yellow">Playbooks</span> | Site Procedures or Step-by-step guides |
     |  |  |  |
     |  |  |  |
