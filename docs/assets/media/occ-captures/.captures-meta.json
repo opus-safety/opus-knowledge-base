@@ -114,5 +114,9 @@
   "docs/assets/media/occ-captures/todos/uuid/example-reminder-task-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/todos/uuid/example-corrective-action-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
