@@ -24,9 +24,6 @@ Broadly speaking, tasks can be categorised into different types based on how the
 
     | Applied to | Reminder Type | Examples |
     | :--- | :--- | :--- |
-    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-indigo">Documents</span> | Company policies, Handbooks or Risk assessments. |
-    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-emerald">Checklist</span> | Managers’ Monthly Walk-arounds, including Fire Safety Checks, Office Checks, or Warehouse Checks. |
-    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-fuchsia">Playbooks</span> | Site Procedures or Step-by-step guides. |
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-indigo">Documents</span> | Annual Services, LOLER/Thorough Examinations or Inspection Certificates. |
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-emerald">Checklist</span> | Vehicle/Machinery Pre-use Checks, Ladder Checks or Racking Checks. |
     | <span class="mb-label mb-label-lime">Assets</span> | <span class="mb-label mb-label-fuchsia">Playbooks</span> | Vehicle/Machinery Procedures or Routines. |
@@ -35,6 +32,9 @@ Broadly speaking, tasks can be categorised into different types based on how the
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-fuchsia">Playbooks</span> |  |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-cyan">E-learning</span> |  |
     | <span class="mb-label mb-label-amber">Employees</span> | <span class="mb-label mb-label-red">Training</span> |  |
+    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-indigo">Documents</span> | Company policies, Handbooks or Risk assessments. |
+    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-emerald">Checklist</span> | Managers’ Monthly Walk-arounds, including Fire Safety Checks, Office Checks, or Warehouse Checks. |
+    | <span class="mb-label mb-label-sky">Sites</span> | <span class="mb-label mb-label-fuchsia">Playbooks</span> | Site Procedures or Step-by-step guides. |
 
 <span data-uuid="7b4feecc-a42a-46c0-ab6e-59b78128abe1" style="display:none"></span>
 ```mermaid
