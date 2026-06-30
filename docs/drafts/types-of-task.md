@@ -167,6 +167,22 @@ View the Diagram / Table below to view the different kinds of Reported Events yo
 
     <span data-uuid="e354a7ce-c5fa-410c-963a-f3d59f0d8589" style="display:none"></span>
 
+    <span data-uuid="948b5a3b-d717-4fb8-9940-706cf129657a" style="display:none"></span>
+    ```mermaid
+    ---
+    config:
+      layout: elk
+    ---
+    flowchart TB
+        A["Reported Events"] --> n1["Incidents (Injury / Near miss)"] & n2["Road Traffic Collision"] & n3["Safety Observation"] & n4["... and more"]
+
+        A@{ shape: rounded}
+        n1@{ shape: rounded}
+        n2@{ shape: rounded}
+        n3@{ shape: rounded}
+        n4@{ shape: rounded}
+    ```
+
 === "Reported Events: Table"
 
     <span data-uuid="e8269c04-a69e-4e1d-90be-0a7ec912923f" style="display:none"></span>
