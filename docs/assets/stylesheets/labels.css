@@ -3,9 +3,9 @@
    ----------------------------------------------------------------------------
    Coloured inline pills authored from the More Buttons rich-text editor, which
    emits a raw HTML span: <span class="mb-label mb-label-<slug>">text</span>
-   (md_in_html renders it). Colours below are duplicated from the extension's
-   labelColours.json — keep the two in sync if the palette changes. Light values
-   apply under the "default" scheme, dark values under "slate".
+   (md_in_html renders it). This stylesheet is fully standalone — the colour
+   values below are hand-authored here and have no link to anything outside this
+   repo. Light values apply under the "default" scheme, dark under "slate".
    ============================================================================ */
 
 .md-typeset .mb-label {
