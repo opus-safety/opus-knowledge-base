@@ -71,6 +71,9 @@ draft_nav = [
     {"Tasks" = [
       {"Task Overview" = "drafts/task-overview.md"},
       {"Task Inbox & Coach" = "drafts/task-inbox-coach.md"}
+    ]},
+    {"Test" = [
+      {"Test" = "drafts/test.md"}
     ]}
   ]}
 ]
