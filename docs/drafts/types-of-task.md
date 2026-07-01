@@ -183,10 +183,11 @@ View the Diagram / Table below to view the different kinds of Reported Events yo
         n4@{ shape: rounded}
     ```
 
-=== "Reported Events: Table"
-
-    <span data-uuid="e8269c04-a69e-4e1d-90be-0a7ec912923f" style="display:none"></span>
-
 === "Reported Events: Example"
 
     <span data-uuid="19e6ece2-7c35-415e-9996-21e6f7bff75c" style="display:none"></span>
+    This is an example of an <span class="mb-label mb-label-yellow">Incident</span> with <span class="mb-label mb-label-pink">Injury</span> task. You can see:
+
+    The recommended action to take in the middle.
+    The source of the action, in this case its from the Fire Safety checklist, on the right panel.
+    The question and the answer that triggered the action also on the right panel.
