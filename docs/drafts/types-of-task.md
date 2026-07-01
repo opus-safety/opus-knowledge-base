@@ -186,11 +186,7 @@ View the Diagram / Table below to view the different kinds of Reported Events yo
 === "Reported Events: Example"
 
     <span data-uuid="19e6ece2-7c35-415e-9996-21e6f7bff75c" style="display:none"></span>
-    This is an example of an <span class="mb-label mb-label-yellow">Incident</span> with <span class="mb-label mb-label-pink">Injury</span> task. You can see:
-
-    The recommended action to take in the middle.
-    The source of the action, in this case its from the Fire Safety checklist, on the right panel.
-    The question and the answer that triggered the action also on the right panel.
+    This is an example of a Reported Event task - specifically an <span class="mb-label mb-label-yellow">Incident</span> with <span class="mb-label mb-label-pink">Injury</span>. Reported Event tasks will typically have certain fields that need to be filled in to complete the task.
 
     <span data-uuid="d232200e-ec59-4976-87ee-2cf42906194b" style="display:none"></span>
     ![](../assets/media/occ-captures/todos/uuid/example-reported-event-light-mode.png#only-light)
