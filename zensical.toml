@@ -72,9 +72,6 @@ draft_nav = [
       {"Task Overview" = "drafts/task-overview.md"},
       {"Task Inbox & Coach" = "drafts/task-inbox-coach.md"},
       {"Types of task" = "drafts/types-of-task.md"}
-    ]},
-    {"Contractors" = [
-      {"Contractors Overview" = "drafts/contractors-overview.md"}
     ]}
   ]}
 ]
