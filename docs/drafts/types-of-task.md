@@ -191,3 +191,7 @@ View the Diagram / Table below to view the different kinds of Reported Events yo
     The recommended action to take in the middle.
     The source of the action, in this case its from the Fire Safety checklist, on the right panel.
     The question and the answer that triggered the action also on the right panel.
+
+    <span data-uuid="d232200e-ec59-4976-87ee-2cf42906194b" style="display:none"></span>
+    ![](../assets/media/occ-captures/todos/uuid/example-reported-event-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/todos/uuid/example-reported-event-dark-mode.png#only-dark)
