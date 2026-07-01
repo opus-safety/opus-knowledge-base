@@ -69,8 +69,7 @@ nav = [
 draft_nav = [
   {"Guides" = [
     {"Tasks" = [
-      {"Task Overview" = "drafts/task-overview.md"},
-      {"Types of task" = "drafts/types-of-task.md"}
+      {"Task Overview" = "drafts/task-overview.md"}
     ]}
   ]}
 ]
