@@ -15,7 +15,7 @@ Follow this guide to register an employee in Opus Compliance Cloud using their o
 !!! tip "No Account? Try Temporary Access"
 
     <span data-uuid="40c62bde-7d69-4319-bbfd-63eaa9742f65" style="display:none"></span>
-    Interested in a quick and easy way for employees to complete their personal requirements without creating an account? [Explore our Temporary Access feature](https://ollie-opus.github.io/opus-knowledge-base/pages/granting-an-employee-temporary-access/) and give them secure, time-limited access to the system.
+    Interested in a quick and easy way for employees to complete their personal requirements without creating an account? [Explore our Temporary Access feature](https://support.opus-safety.co.uk/pages/granting-an-employee-temporary-access/) and give them secure, time-limited access to the system.
 
 ## Manager Steps
 <span data-uuid="cc7b8fc7-a224-4187-9f4f-d952a5917fc1" style="display:none"></span>
