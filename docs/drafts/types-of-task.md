@@ -117,7 +117,7 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
       layout: elk
     ---
     flowchart TB
-        A["Reminder Tasks"] --> n1["Automated Corrective Actions"] & n2["Audit Corrective Actions"] & n3["Manually Reported Corrective Actions"]
+        A["Corrective Actions"] --> n1["Automated Corrective Actions"] & n2["Audit Corrective Actions"] & n3["Manually Reported Corrective Actions"]
 
         A@{ shape: rounded}
         n1@{ shape: rounded}
