@@ -39,6 +39,9 @@ nav = [
     {"Getting started" = [
       {"Overview" = "pages/overview.md"}
     ]},
+    {"Tasks" = [
+      {"Types of task" = "pages/types-of-task.md"}
+    ]},
     {"Employees" = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
       {"Registering an employee" = "pages/registering-an-employee.md"},
@@ -55,9 +58,6 @@ nav = [
       {"Contractors Overview" = "pages/contractors-overview.md"},
       {"Contractor & Project statuses" = "pages/contractor-and-project-statuses.md"},
       {"Adding a new contractor" = "pages/adding-a-new-contractor.md"}
-    ]},
-    {"Tasks" = [
-      {"Types of task" = "pages/types-of-task.md"}
     ]}
   ]},
   {"System" = [
