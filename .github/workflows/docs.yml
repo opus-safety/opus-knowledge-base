@@ -37,7 +37,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment-retry.outputs.page_url || steps.deployment-final.outputs.page_url }}
     # Serialize deployments and let in-progress ones finish instead of
     # cancelling them mid-flight (cancelling a run after it has handed off to
     # the Pages backend leaves an "in progress deployment" that the next run
@@ -47,10 +47,24 @@ jobs:
       group: "pages-deploy"
       cancel-in-progress: false
     timeout-minutes: 40
+    # deploy-pages caps its wait at 10 minutes per attempt (values above
+    # 600000 ms are clamped with a warning), so resilience against a backed-up
+    # Pages queue comes from retrying: three attempts gives up to ~30 minutes
+    # of total tolerance.
     steps:
       - uses: actions/deploy-pages@v4
         id: deployment
-        with:
-          # The Pages queue can back up when several deployments land close
-          # together; wait up to 30 minutes (default is 10) before giving up.
-          timeout: 1800000
+        continue-on-error: true
+      # Brief pause before retrying so a colliding "in progress" deployment
+      # from another run has a chance to finish.
+      - if: steps.deployment.outcome == 'failure'
+        run: sleep 60
+      - uses: actions/deploy-pages@v4
+        id: deployment-retry
+        if: steps.deployment.outcome == 'failure'
+        continue-on-error: true
+      - if: steps.deployment-retry.outcome == 'failure'
+        run: sleep 60
+      - uses: actions/deploy-pages@v4
+        id: deployment-final
+        if: steps.deployment-retry.outcome == 'failure'
