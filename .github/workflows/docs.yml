@@ -4,33 +4,53 @@ on:
     branches:
       - master
       - main
+  # Allow manual re-deploys from the Actions tab (e.g. after a queue timeout)
+  # without needing to push a commit.
+  workflow_dispatch:
 permissions:
   contents: read
   pages: write
   id-token: write
-concurrency:
-  # Allow one concurrent deployment; let in-progress production deploys
-  # finish instead of cancelling them mid-flight (cancelling a run after it
-  # has handed off to the Pages backend leaves an "in progress deployment"
-  # that the next run collides with).
-  group: "pages"
-  cancel-in-progress: false
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
+    # Only the newest push matters for a full-site build: cancel superseded
+    # builds instead of queueing them, so rapid pushes from multiple people
+    # collapse into the latest build.
+    concurrency:
+      group: "pages-build"
+      cancel-in-progress: true
+    timeout-minutes: 15
     steps:
-      - uses: actions/configure-pages@v5
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
       - run: pip install zensical
+      - uses: actions/configure-pages@v5
       - run: zensical build --clean
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    # Serialize deployments and let in-progress ones finish instead of
+    # cancelling them mid-flight (cancelling a run after it has handed off to
+    # the Pages backend leaves an "in progress deployment" that the next run
+    # collides with). Superseded *pending* deploys are dropped automatically,
+    # so only the latest artifact deploys.
+    concurrency:
+      group: "pages-deploy"
+      cancel-in-progress: false
+    timeout-minutes: 40
+    steps:
       - uses: actions/deploy-pages@v4
         id: deployment
+        with:
+          # The Pages queue can back up when several deployments land close
+          # together; wait up to 30 minutes (default is 10) before giving up.
+          timeout: 1800000
