@@ -6,5 +6,5 @@
 
 | Icon | Severity | Description |
 | :--- | :--- | :--- |
-|  |  |  |
+|  | Immediate |  |
 |  |  |  |
