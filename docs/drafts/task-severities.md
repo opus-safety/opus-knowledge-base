@@ -4,7 +4,7 @@
 
 <span data-uuid="0a704267-ed4f-4b9f-8792-fb95af194fe6" style="display:none"></span>
 
-| Column 1 | Column 2 | Column 3 |
+| Icon | Severity | Description |
 | :--- | :--- | :--- |
 |  |  |  |
 |  |  |  |
