@@ -121,3 +121,7 @@ After archiving an employee, you may still have open tasks linked to their recor
 <span data-uuid="ef534b01-95b6-4e97-89ca-913f242d42d6" style="display:none"></span>
 
 If the employee still has tasks assigned you will see an on screem prompt to alert you.
+
+<span data-uuid="fbd37e72-6394-4cef-8038-546060741864" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/edit/assigned-unresolved-tasks-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/edit/assigned-unresolved-tasks-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
