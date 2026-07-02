@@ -70,8 +70,7 @@ draft_nav = [
   {"Guides" = [
     {"Tasks" = [
       {"Task Overview" = "drafts/task-overview.md"},
-      {"Task Inbox & Coach" = "drafts/task-inbox-coach.md"},
-      {"Types of task" = "drafts/types-of-task.md"}
+      {"Task Inbox & Coach" = "drafts/task-inbox-coach.md"}
     ]},
     {"Employees" = [
       {"Archiving an employee" = "drafts/archiving-an-employee.md"}
