@@ -132,5 +132,8 @@
   "docs/assets/media/occ-captures/admin/sites/uuid/snapshot/overview/site-snapshot-annotated-download-csv-light-mode.png": {
     "resized": true,
     "padding": 6
+  },
+  "docs/assets/media/occ-captures/admin/sites/uuid/compliance-reports/demo-company-sub-sites-annotated-light-mode.png": {
+    "padding": 20
   }
 }
