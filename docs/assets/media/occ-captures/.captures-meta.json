@@ -122,5 +122,8 @@
   "docs/assets/media/occ-captures/todos/uuid/example-reported-event-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/admin/sites/uuid/employees/located-at-light-mode.png": {
+    "padding": 20
   }
 }
