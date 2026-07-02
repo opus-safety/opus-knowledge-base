@@ -6,5 +6,5 @@
 
 | Icon | Severity |
 | :--- | :--- |
-| <span data-uuid="ddb9e3e5-aca0-42e8-8496-9ef082bf64aa" style="display:none"></span>![](../assets/media/occ-captures/sites/uuid/todos/disaster-light-mode.png#only-light){ width="20" loading=lazy } ![](../assets/media/occ-captures/sites/uuid/todos/disaster-dark-mode.png#only-dark){ width="20" loading=lazy } | Immediate |
+| <span data-uuid="ddb9e3e5-aca0-42e8-8496-9ef082bf64aa" style="display:none"></span>![](../assets/media/occ-captures/sites/uuid/todos/disaster-light-mode.png#only-light){ width="20" loading=lazy } ![](../assets/media/occ-captures/sites/uuid/todos/disaster-dark-mode.png#only-dark){ width="20" loading=lazy } | <span class="mb-label mb-label-red">Immediate</span> |
 |  |  |
