@@ -116,3 +116,8 @@ After archiving an employee, you may still have open tasks linked to their recor
     <span data-uuid="2ac3d969-b5ba-48d4-af73-cdc96fecd131" style="display:none"></span>
 
     These remain open and must be manually updated and resolved, including details of how the issue was addressed. This ensures there's a clear evidence trail if any follow-up action is needed after the employee has left, which is particularly important in the case of contentious leavers.
+
+## Tasks assigned to the employee
+<span data-uuid="ef534b01-95b6-4e97-89ca-913f242d42d6" style="display:none"></span>
+
+If the employee still has tasks assigned you will get a notification when you add an end date
