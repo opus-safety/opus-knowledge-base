@@ -120,4 +120,4 @@ After archiving an employee, you may still have open tasks linked to their recor
 ## Tasks assigned to the employee
 <span data-uuid="ef534b01-95b6-4e97-89ca-913f242d42d6" style="display:none"></span>
 
-If the employee still has tasks assigned you will get a notification when you add an end date
+If the employee still has tasks assigned you will see an on screem prompt to alert you.
