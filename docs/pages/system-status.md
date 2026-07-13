@@ -10,12 +10,12 @@ icon: lucide/chart-no-axes-column-increasing
 
 <div class="grid" markdown>
 
-!!! status-outage "Server"
+!!! status-available "Server"
 
     <span data-uuid="3e7c2ce8-ef4d-495a-a1b8-b9917838617c" style="display:none"></span>
 
 
-    **Status:** OUTAGE
+    **Status:** AVAILABLE
 !!! status-available "Account Login"
 
     <span data-uuid="86d36e3b-2dab-44cc-b863-2cf64213b28a" style="display:none"></span>
@@ -44,18 +44,6 @@ icon: lucide/chart-no-axes-column-increasing
 
 ---
 ## Open Incidents
-
-!!! status-outage "Server"
-
-    <span data-uuid="e5ce8dc7-6a20-42c1-ad56-9ecfb74f3838" style="display:none"></span>
-
-
-    - **Service Impact:** OUTAGE
-    - **Current Status:** `Ongoing`
-    - **Description:** Full System Outage. (receiving 502 Bad Gateway)
-    - **Reported:** 2026-07-13 10:11
-    - **Resolved:** 
-    - **Causation:** 
 
 ---
 
