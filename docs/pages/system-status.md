@@ -52,7 +52,7 @@ icon: lucide/chart-no-axes-column-increasing
 
     - **Service Impact:** OUTAGE
     - **Current Status:** `Ongoing`
-    - **Description:** Opus Compliance Cloud not responding. Page timeouts (502 Bad Gateway)
+    - **Description:** Full System Outage. (receiving 502 Bad Gateway)
     - **Reported:** 2026-07-13 10:11
     - **Resolved:** 
     - **Causation:** 
