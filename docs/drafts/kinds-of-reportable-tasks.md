@@ -11,7 +11,7 @@ hide:
 !!! outline "Report types"
 
     <span data-uuid="add38bdd-85d5-4bf3-bc54-2d9f63b75264" style="display:none"></span>
-    Report types are available to you behind the blue Report something button on your site inbox. This is where you go to report events such as Incidents. There are many more report types available to be enabled for you beyond the default ones available to you.
+    You can see the report types available to you by clicking the blue Report Something button above your site inbox. This is used to report events such as incidents. Additional report types can be enabled beyond the default options available to you, as shown in the table below.
 
     <span data-uuid="05a8680f-871c-4801-b47c-b4c3aef2cb65" style="display:none"></span>
     ![](../assets/media/occ-captures/sites/uuid/report-something-light-mode.png#only-light){ style="height: 50px" loading=lazy }
