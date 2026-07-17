@@ -14,7 +14,7 @@
 | Contractor on site | <span class="mb-label mb-label-slate">Any</span> |  |
 | Corrective action | <span class="mb-label mb-label-slate">Any</span> |  |
 | Dynamic risk assessment | <span class="mb-label mb-label-slate">Any</span> |  |
-| Employee intervention | <span class="mb-label mb-label-slate">Any</span> |  |
+| Employee intervention | <span class="mb-label mb-label-slate">Any</span> | Used for where action needs to be taken place against an employee. Examples include instances where an employee has been observed not wearing PPE or where an incident necessitates retraining. It is typically used as a sub-task for a near miss or accident, particularly when such events are caused by an act or omission of staff behaviour. |
 | Enforcement officer visit | <span class="mb-label mb-label-slate">Any</span> |  |
 | Fire evacuation or drill | <span class="mb-label mb-label-slate">Any</span> |  |
 | First aid administered | <span class="mb-label mb-label-slate">Any</span> |  |
@@ -29,6 +29,6 @@
 | Safety observation | <span class="mb-label mb-label-slate">Any</span> |  |
 | Security incident | <span class="mb-label mb-label-slate">Any</span> |  |
 | Something positive | <span class="mb-label mb-label-slate">Any</span> |  |
-| Spillage | <span class="mb-label mb-label-orange">Merchants</span>, <span class="mb-label mb-label-amber">Manufacturing</span> |  |
+| Spillage | <span class="mb-label mb-label-orange">Merchants</span>, <span class="mb-label mb-label-amber">Manufacturing</span> | Designed for recording spillages of substances. This could be particularly beneficial for clients who are <span class="mb-label mb-label-mauve">ISO 14001</span> accredited and require detailed spillage documentation. |
 | Task observation | <span class="mb-label mb-label-slate">Any</span> |  |
 | Visitor on site | <span class="mb-label mb-label-slate">Any</span> |  |
