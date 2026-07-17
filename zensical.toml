@@ -40,7 +40,10 @@ nav = [
       {"Overview" = "pages/overview.md"}
     ]},
     {"Tasks" = [
-      {"Types of task" = "pages/types-of-task.md"}
+      {"Types of task" = "pages/types-of-task.md"},
+      {"Reporting" = [
+        {"Kinds of reportable tasks" = "pages/kinds-of-reportable-tasks.md"}
+      ]}
     ]},
     {"Employees" = [
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
@@ -71,10 +74,7 @@ draft_nav = [
     {"Tasks" = [
       {"Task Overview" = "drafts/task-overview.md"},
       {"Task Inbox & Coach" = "drafts/task-inbox-coach.md"},
-      {"Task Severities" = "drafts/task-severities.md"},
-      {"Reporting" = [
-        {"Kinds of reportable tasks" = "drafts/kinds-of-reportable-tasks.md"}
-      ]}
+      {"Task Severities" = "drafts/task-severities.md"}
     ]},
     {"Employees" = [
       {"Archiving an employee" = "drafts/archiving-an-employee.md"}
