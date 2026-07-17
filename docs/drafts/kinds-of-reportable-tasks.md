@@ -25,16 +25,16 @@ hide:
 | Fire evacuation or drill | <span class="mb-label mb-label-slate">Any</span> | Logging of ad-hoc fire evacuations or drills |
 | First aid administered | <span class="mb-label mb-label-slate">Any</span> | This template is used to log first aid given to members of the public where an accident hasn't occurred on your premises. Typically used by clients with high numbers of visitors on site |
 | Food delivery | <span class="mb-label mb-label-fuchsia">Food</span> | This template is for logging food deliveries to check the acceptability of the delivery's condition and food temperatures |
-| Food manufacturing contamination | <span class="mb-label mb-label-fuchsia">Food</span>, <span class="mb-label mb-label-amber">Manufacturing</span> |  |
+| Food manufacturing contamination | <span class="mb-label mb-label-fuchsia">Food</span> <span class="mb-label mb-label-amber">Manufacturing</span> |  |
 | Incident (Injury / Near miss) | <span class="mb-label mb-label-slate">Any</span> |  |
 | Maintenance request | <span class="mb-label mb-label-slate">Any</span> | Logging of issues that require maintenance. |
 | Pest activity | <span class="mb-label mb-label-fuchsia">Food</span> |  |
-| Plant / Machine incident | <span class="mb-label mb-label-orange">Merchants</span>, <span class="mb-label mb-label-amber">Manufacturing</span> |  |
+| Plant / Machine incident | <span class="mb-label mb-label-orange">Merchants</span> <span class="mb-label mb-label-amber">Manufacturing</span> |  |
 | Road traffic collision | <span class="mb-label mb-label-slate">Any</span> | Log vehicular incidents on public highways with this template. For on-site incidents, use a different template. |
 | Safety improvement opportunity | <span class="mb-label mb-label-slate">Any</span> | This template offers the reporter the opportunity to raise improvements to safety, asking questions such as *"Please describe the opportunity"* and *"Who or what will be impacted positively by this improvement?"* |
 | Safety observation | <span class="mb-label mb-label-slate">Any</span> | Use this template to report **potential** workplace hazards, such as damaged equipment or PPE non-compliance. Remember, a Safety Observation identifies something that **could cause harm**, while a Near miss (in the Incident form) records an incident that occurred but caused no harm. |
 | Security incident | <span class="mb-label mb-label-slate">Any</span> | Log security incidents including theft, damage and trespass. |
 | Something positive | <span class="mb-label mb-label-slate">Any</span> |  |
-| Spillage | <span class="mb-label mb-label-orange">Merchants</span>, <span class="mb-label mb-label-amber">Manufacturing</span> | Designed for recording spillages of substances. This could be particularly beneficial for clients who are <span class="mb-label mb-label-mauve">ISO 14001</span> accredited and require detailed spillage documentation. |
+| Spillage | <span class="mb-label mb-label-orange">Merchants</span> <span class="mb-label mb-label-amber">Manufacturing</span> | Designed for recording spillages of substances. This could be particularly beneficial for clients who are <span class="mb-label mb-label-mauve">ISO 14001</span> accredited and require detailed spillage documentation. |
 | Task observation | <span class="mb-label mb-label-slate">Any</span> | This template is used to observe tasks as part of a spot check to ensure correct procedures are being observed. |
 | Visitor on site | <span class="mb-label mb-label-slate">Any</span> |  |
