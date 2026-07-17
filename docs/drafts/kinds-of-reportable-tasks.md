@@ -8,6 +8,11 @@ hide:
 <span data-uuid="62c629f8-55ba-42db-8258-125785a486fb" style="display:none"></span>
 
 
+!!! outline "Report types"
+
+    <span data-uuid="add38bdd-85d5-4bf3-bc54-2d9f63b75264" style="display:none"></span>
+    Report types are available to you behind the blue Report something button on your site inbox. This is where you go to report events such as Incidents. There are many more report types available to be enabled for you beyond the default ones available to you.
+
 <span data-uuid="2f0945ed-759f-4dca-af16-05cb9fb85f43" style="display:none"></span>
 
 | Report type | Often used by sector | Description |
