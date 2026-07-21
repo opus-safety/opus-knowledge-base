@@ -10,6 +10,16 @@
 
     <span data-uuid="1e61c573-3a86-4636-adee-a184c3df77a5" style="display:none"></span>
 
+    <span data-uuid="0070de4b-ba0d-4c77-b2c1-fb89d74600c7" style="display:none"></span>
+
+    | Status | Description |
+    | :--- | :--- |
+    |  | The permit is being created or amended. |
+    |  | One or more responses to the permit's fields or questions have been deemed unsatisfactory. The permit must be reopened and amended, or a new permit submitted. |
+    |  | All responses to the permit's fields and questions have been deemed satisfactory, and the permit is active. |
+    |  | The permit is not yet valid, as the current date and time before its validity period. The permit will automatically update to valid when it reaches the defined `valid from` date/time. |
+    |  | The permit was previously valid but has since expired, as the current date and time are now beyond its validity period. |
+
 === "Logic graph"
 
     <span data-uuid="ed295a0e-519f-4f4c-b7a9-c92c0d696797" style="display:none"></span>
