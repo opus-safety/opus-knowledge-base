@@ -13,4 +13,4 @@
 |  | At least one requirement for the Contractor has not yet been fulfilled. |
 |  | All requirements for the Contractor have been fulfilled previously, but at least one requirement is now out of date and needs renewing. |
 |  | All requirements for the Contractor have been fulfilled and are currently up to date. The Contractor is ready for use. |
-| <span data-uuid="8f45e36e-187c-433b-a403-d5fc67903b01" style="display:none"></span>![](../assets/media/occ-captures/admin/sites/uuid/archived-light-mode.png#only-light){ style="height: 30px" loading=lazy } ![](../assets/media/occ-captures/admin/sites/uuid/archived-dark-mode.png#only-dark){ style="height: 30px" loading=lazy } | The Contractor has been archived from the Contractor's edit page. Any existing open requirement tasks for this Contractor will have been resolved, and no new tasks will be generated for outstanding requirements. |
+|  | The Contractor has been archived from the Contractor's edit page. Any existing open requirement tasks for this Contractor will have been resolved, and no new tasks will be generated for outstanding requirements. |
