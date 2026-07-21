@@ -14,11 +14,11 @@
 
     | Status | Description |
     | :--- | :--- |
-    |  | The permit is being created or amended. |
-    |  | One or more responses to the permit's fields or questions have been deemed unsatisfactory. The permit must be reopened and amended, or a new permit submitted. |
-    |  | All responses to the permit's fields and questions have been deemed satisfactory, and the permit is active. |
-    |  | The permit is not yet valid, as the current date and time before its validity period. The permit will automatically update to valid when it reaches the defined `valid from` date/time. |
-    |  | The permit was previously valid but has since expired, as the current date and time are now beyond its validity period. |
+    | <span class="mb-label mb-label-amber">In-progress</span> | The permit is being created or amended. |
+    | <span class="mb-label mb-label-red">Invalid</span> | One or more responses to the permit's fields or questions have been deemed unsatisfactory. The permit must be reopened and amended, or a new permit submitted. |
+    | <span class="mb-label mb-label-emerald">Valid</span> | All responses to the permit's fields and questions have been deemed satisfactory, and the permit is active. |
+    | <span class="mb-label mb-label-orange">Future</span> | The permit is not yet valid, as the current date and time before its validity period. The permit will automatically update to valid when it reaches the defined `valid from` date/time. |
+    | <span class="mb-label mb-label-slate">Expired</span> | The permit was previously valid but has since expired, as the current date and time are now beyond its validity period. |
 
 === "Logic graph"
 
