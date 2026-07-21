@@ -14,7 +14,7 @@
 
     | Status | Description |
     | :--- | :--- |
-    | <span data-uuid="ce265914-e200-45b7-91e4-569ec7b7952a" style="display:none"></span>![](../assets/media/occ-captures/todos/uuid/permit-to-work-in-progress-light-mode.png#only-light){ style="height: 20px" loading=lazy } ![](../assets/media/occ-captures/todos/uuid/permit-to-work-in-progress-dark-mode.png#only-dark){ style="height: 20px" loading=lazy } | The permit is being created or amended. |
+    |  | The permit is being created or amended. |
     |  | One or more responses to the permit's fields or questions have been deemed unsatisfactory. The permit must be reopened and amended, or a new permit submitted. |
     |  | All responses to the permit's fields and questions have been deemed satisfactory, and the permit is active. |
     |  | The permit is not yet valid, as the current date and time before its validity period. The permit will automatically update to valid when it reaches the defined `valid from` date/time. |
