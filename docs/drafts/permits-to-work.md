@@ -14,6 +14,33 @@
 
     <span data-uuid="ed295a0e-519f-4f4c-b7a9-c92c0d696797" style="display:none"></span>
 
+    <span data-uuid="488b855f-cc9b-4f01-baa8-26b8eef09609" style="display:none"></span>
+    ```mermaid
+    ---
+    config:
+      layout: dagre
+    ---
+    stateDiagram
+      direction TB
+      classDef inProgress stroke:#facc15,fill:#fefce8;
+      classDef invalid stroke:#f87171,fill:#fef2f2;
+      classDef future stroke:#fb923c,fill:#fff7ed;
+      classDef valid stroke:#4ade80,fill:#f0fdf4;
+      classDef expired stroke:#9ca3af,fill:#f3f4f6;
+      [*] --> InProgress:Permit created
+      InProgress --> Invalid:Unsatisfactory responses
+      InProgress --> Future:Satisfactory, before validity period
+      InProgress --> Valid:Satisfactory, within validity period
+      Future --> Valid:Valid from date/time reached
+      Valid --> Expired:Valid to date/time passed
+      InProgress:In progress
+      class InProgress inProgress
+      class Invalid invalid
+      class Future future
+      class Valid valid
+      class Expired expired
+    ```
+
 <span data-uuid="5d26ba61-8382-49c4-af7c-b6ddb3249ae6" style="display:none"></span>
 
 | Status | Description |
