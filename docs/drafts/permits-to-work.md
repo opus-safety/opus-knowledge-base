@@ -9,8 +9,8 @@
 
 | Status | Description |
 | :--- | :--- |
-|  | This Contractor is configured to not be required to be kept up to date while not in use. Its requirements are due; however, the Contractor is not currently being used. test |
-|  | At least one requirement for the Contractor has not yet been fulfilled. |
-|  | All requirements for the Contractor have been fulfilled previously, but at least one requirement is now out of date and needs renewing. |
-|  | All requirements for the Contractor have been fulfilled and are currently up to date. The Contractor is ready for use. |
-|  | The Contractor has been archived from the Contractor's edit page. Any existing open requirement tasks for this Contractor will have been resolved, and no new tasks will be generated for outstanding requirements. |
+|  | The permit is being created or amended. |
+|  | One or more responses to the permit's fields or questions have been deemed unsatisfactory. The permit must be reopened and amended, or a new permit submitted. |
+|  | All responses to the permit's fields and questions have been deemed satisfactory, and the current date and time fall within the permit's validity period. |
+|  | The permit will become valid when the permit's validity period begins. |
+|  | The permit was previously valid but has since expired, as the current date and time are now beyond its validity period. |
