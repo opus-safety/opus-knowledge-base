@@ -20,7 +20,7 @@
     | <span class="mb-label mb-label-orange">Future</span> | The permit is not yet valid, as the current date and time before its validity period. The permit will automatically update to valid when it reaches the defined `valid from` date/time. |
     | <span class="mb-label mb-label-slate">Expired</span> | The permit was previously valid but has since expired, as the current date and time are now beyond its validity period. |
 
-=== "Logic graph"
+=== "Logic diagram"
 
     <span data-uuid="ed295a0e-519f-4f4c-b7a9-c92c0d696797" style="display:none"></span>
 
