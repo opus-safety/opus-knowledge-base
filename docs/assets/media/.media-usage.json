@@ -275,6 +275,10 @@
     "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png",
     "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png"
   ],
+  "docs/pages/employees-overview.md": [
+    "docs/assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png"
+  ],
   "docs/pages/exporting-a-rams-project.md": [
     "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/manage-rams-dark-mode.png",
     "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/manage-rams-light-mode.png",
