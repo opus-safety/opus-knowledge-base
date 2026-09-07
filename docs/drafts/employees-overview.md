@@ -86,7 +86,7 @@ Employee records are digital representations of employees that contain relevant 
 
 </div>
 
-<div style="align-self: center" markdown>
+<div markdown>
 
 <span data-uuid="9112db24-bb12-4bff-a34f-88b872e994ad" style="display:none"></span>
 
