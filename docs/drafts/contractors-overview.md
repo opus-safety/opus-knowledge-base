@@ -83,6 +83,10 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
 Easily add your contractors, their assigned type(s) and their contact information, making them quickly accessible across your organisation.
 
+<span data-uuid="f3d767cd-6a13-4910-b8b1-242f9068c142" style="display:none"></span>
+<video src="../assets/media/videos/contractor-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+<video src="../assets/media/videos/contractor-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+
 !!! outline "<span class="mb-label mb-label-mist">Creating your contractors</span>"
 
     <span data-uuid="b0cf363b-f1e5-42ed-ac18-ce218d97bbac" style="display:none"></span>
