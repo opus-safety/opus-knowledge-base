@@ -60,6 +60,24 @@ Employees are records that you create within Opus Compliance Cloud to represent 
 
 Employee records are digital representations of employees that contain relevant information about the individual, such as:
 
+<span data-uuid="a874edd3-0897-489e-80ee-395827eef4cf" style="display:none"></span>
+
+<div class="grid" markdown>
+
+<div markdown>
+
+<span data-uuid="f529cd4e-90ab-43b5-b66b-a126202bcd5f" style="display:none"></span>
+
+</div>
+
+<div markdown>
+
+<span data-uuid="9112db24-bb12-4bff-a34f-88b872e994ad" style="display:none"></span>
+
+</div>
+
+</div>
+
 <span data-uuid="0f48743b-eb14-4b14-b8a3-b91217202308" style="display:none"></span>
 
 <div class="nowrap-first" markdown>
