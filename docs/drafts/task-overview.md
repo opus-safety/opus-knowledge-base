@@ -1,5 +1,5 @@
 ---
-icon: lucide/list-checks
+icon: lucide/layout-dashboard
 search:
   exclude: true
 ---
