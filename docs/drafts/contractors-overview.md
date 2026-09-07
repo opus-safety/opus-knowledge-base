@@ -115,15 +115,6 @@ View and manage your contractors with ease using our colour-coded status indicat
 
 Just like with your contractors, projects have statuses too! Easily see the state of your project and see which requirements are still outstanding.
 
-!!! outline "<span class="mb-label mb-label-mist">Manage your Projects and their status</span>"
-
-    <span data-uuid="f077060c-9517-4d5f-90a6-67af523e1856" style="display:none"></span>
-    Just like with your contractors, projects have statuses too! Easily see the state of your project and see which requirements are still outstanding.
-
-    <span data-uuid="c9be4d62-f1ae-434c-a04a-2da581dce925" style="display:none"></span>
-    <video src="../assets/media/videos/project-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-    <video src="../assets/media/videos/project-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-
 </div>
 
 </div>
