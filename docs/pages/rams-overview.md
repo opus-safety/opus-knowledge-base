@@ -70,63 +70,61 @@ Opus RAMS is primarily intended for contractors preparing site-specific safety p
 
 
 <span data-uuid="449db2dd-315b-4774-94d6-99417723dfa1" style="display:none"></span>
+
 <div class="grid" markdown>
 
-<div markdown>
+<div class="card" markdown>
 
 <span data-uuid="aaac8e8f-5c8d-471b-8795-e2acc23395f4" style="display:none"></span>
+<span class="mb-label mb-label-mist">RAMS Sections</span>
 
-!!! outline "<span class="mb-label mb-label-mist">RAMS Sections</span>"
+---
 
-    <span data-uuid="3525f2cf-857d-4f54-a7a3-d08eeccdc6ec" style="display:none"></span>
-    The Opus RAMS Sections include:
-
-    - Site information: description of the works, site photo, dates, and insurance certificate
-    - Staff members, with selected training certificates
-    - Health and safety policy statement of intent
-    - Work activity information
-    - Emergency procedures
-    - Site induction and rules
-    - Site induction register
-    - Plant and equipment, with selected inspection certificates
-    - Risk assessments
-    - Manual handling assessments
-    - COSHH assessments
-    - Vibration assessments
-    - Method statements
-    - Weekly toolbox talks
+- Site information: description of the works, site photo, dates, and insurance certificate
+- Staff members, with selected training certificates
+- Health and safety policy statement of intent
+- Work activity information
+- Emergency procedures
+- Site induction and rules
+- Site induction register
+- Plant and equipment, with selected inspection certificates
+- Risk assessments
+- Manual handling assessments
+- COSHH assessments
+- Vibration assessments
+- Method statements
+- Weekly toolbox talks
 
 </div>
 
-<div markdown>
+<div class="card" markdown>
 
 <span data-uuid="4b7cfd2c-a85b-4b2b-b83f-51f3fd1d185c" style="display:none"></span>
+<span class="mb-label mb-label-mist">RAMS Example</span>
 
-!!! outline "<span class="mb-label mb-label-mist">RAMS Example</span>"
+---
 
-    <span data-uuid="3cdc5d80-8664-408c-89a6-72953ac5d7dd" style="display:none"></span>
-
-    <span data-uuid="1bc93f84-2287-4384-bbe8-dd0e48fbb4e4" style="display:none"></span>
-    <video src="../assets/media/videos/rams-example.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+<span data-uuid="273a0c96-5097-4ba2-b2cd-e0b7dc7b7960" style="display:none"></span>
+<video src="../assets/media/videos/rams-example.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
 </div>
 
-<div markdown>
+<div class="card" markdown>
 
 <span data-uuid="547301ea-d051-4a5f-b0fd-624286c8149b" style="display:none"></span>
+<span class="mb-label mb-label-mist">Customisation and Flexibility</span>
 
-!!! outline "<span class="mb-label mb-label-mist">Customisation and Flexibility</span>"
+---
 
-    <span data-uuid="0d7bf6c2-7145-41fa-9b97-9d1599b37807" style="display:none"></span>
-    You have the freedom to use standard Opus templates, edit them to build a tailored library, or create your own custom document library from scratch.
+You have the freedom to use standard Opus templates, edit them to build a tailored library, or create your own custom document library from scratch.
 
-    <span data-uuid="95ec39dd-9017-4a89-bc51-4e37b1d78d38" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/rams/settings/as-light-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/rams/settings/as-dark-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+<span data-uuid="e2556be4-cb04-48d4-b0f7-ae1a3ca26865" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/rams/settings/as-light-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/rams/settings/as-dark-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
 
-    <span data-uuid="6c7ecabb-d7bc-4417-8790-0a3305eea09f" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/rams/method-statements/new/rt-light-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/rams/method-statements/new/rt-dark-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+<span data-uuid="79ff6427-1986-40e6-8b66-7f4b29f9ae1d" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/rams/method-statements/new/rt-light-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/rams/method-statements/new/rt-dark-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
 
 </div>
 
