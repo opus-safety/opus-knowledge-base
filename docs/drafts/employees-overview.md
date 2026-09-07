@@ -68,6 +68,22 @@ Employee records are digital representations of employees that contain relevant 
 
 <span data-uuid="f529cd4e-90ab-43b5-b66b-a126202bcd5f" style="display:none"></span>
 
+<span data-uuid="6668945f-2a32-4acf-a277-fe6ea62ff209" style="display:none"></span>
+
+<div class="nowrap-first" markdown>
+
+| Information | Description |
+| :--- | :--- |
+| <span class="mb-label mb-label-olive">:lucide-text-cursor-input: Name</span> | Full name of the employee. |
+| <span class="mb-label mb-label-olive">:lucide-camera: Photo</span> | Optional photograph of the employee to assist with identification. |
+| <span class="mb-label mb-label-olive">:lucide-calendar-check: Start & End Date</span> | Defined start and end of employment, allowing you to add future starters or schedule leavers ahead of time. |
+| <span class="mb-label mb-label-olive">:lucide-square-asterisk: Requirements</span> | Required e-learning, training, checklists and more can be installed on employee records to allow them to complete employee compliance requirements. |
+| <span class="mb-label mb-label-olive">:lucide-tags: Role(s)</span> | Roles allow you to easily manage and apply requirements to employee records in bulk. They can be tailored to suit your organisation’s specific needs. |
+| <span class="mb-label mb-label-olive">:lucide-building-2: Location</span> | Employees can be assigned to specific locations or sites within the system, allowing you to organise them by region, location, department, or other organisational structures. |
+| <span class="mb-label mb-label-olive">:lucide-key-round: Access & Authorisations</span> | Specific access permissions and authorisations can also be granted to employees. For example, you can provide access to particular regions or sites, or authorise employees to view specific types of sensitive data. |
+
+</div>
+
 </div>
 
 <div markdown>
