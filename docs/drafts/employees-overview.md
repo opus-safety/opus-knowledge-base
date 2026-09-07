@@ -64,5 +64,6 @@ Employee records are digital representations of employees that contain relevant 
 <span class="mb-label mb-label-olive">:lucide-camera: Photo</span>
 <span class="mb-label mb-label-olive">:lucide-calendar-check: Start & End Date</span>
 <span class="mb-label mb-label-olive">:lucide-tags: Role(s)</span>
+<span class="mb-label mb-label-olive">:lucide-square-asterisk: Requirements</span>
 <span class="mb-label mb-label-olive">:lucide-building-2: Location</span>
 <span class="mb-label mb-label-olive">:lucide-key-round: Access & Authorisations</span>
