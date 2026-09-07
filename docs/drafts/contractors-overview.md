@@ -99,15 +99,6 @@ Easily add your contractors, their assigned type(s) and their contact informatio
 
 View and manage your contractors with ease using our colour-coded status indicators, which automatically update based on the state of the contractor's requirements.
 
-!!! outline "<span class="mb-label mb-label-mist">Manage your Contractors and their status</span>"
-
-    <span data-uuid="3736bc78-ddae-460c-aafe-b5f136e6bbbc" style="display:none"></span>
-    View and manage your contractors with ease using our colour-coded status indicators, which automatically update based on the state of the contractor's requirements.
-
-    <span data-uuid="ffa95018-a5fc-43ee-b2f1-3d875e4a486f" style="display:none"></span>
-    <video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-    <video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-
 <span data-uuid="93ae3f2c-66ba-46fc-a7ac-8d98c8449f5d" style="display:none"></span>
 <video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 <video src="../assets/media/videos/contractor-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
