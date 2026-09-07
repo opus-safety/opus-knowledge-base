@@ -74,7 +74,7 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
 <div class="grid" markdown>
 
-<div style="align-self: start" markdown>
+<div class="card" style="align-self: start" markdown>
 
 <span data-uuid="83dcee82-9bbd-45ec-b0f0-a9f56f3d778a" style="display:none"></span>
 <span class="mb-label mb-label-mist">Creating your contractors</span>
@@ -89,7 +89,7 @@ Easily add your contractors, their assigned type(s) and their contact informatio
 
 </div>
 
-<div style="align-self: start" markdown>
+<div class="card" style="align-self: start" markdown>
 
 <span data-uuid="7b5da763-207c-4804-b5cc-a423ba8b27af" style="display:none"></span>
 <span class="mb-label mb-label-mist">Manage your Contractors and their status</span>
@@ -105,7 +105,7 @@ View and manage your contractors with ease using our colour-coded status indicat
 
 </div>
 
-<div markdown>
+<div class="card" markdown>
 
 <span data-uuid="1919e76e-3758-430e-9bc2-aeada4d370bb" style="display:none"></span>
 <span class="mb-label mb-label-mist">Manage your Projects and their status</span>
