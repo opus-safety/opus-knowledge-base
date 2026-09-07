@@ -87,15 +87,6 @@ Easily add your contractors, their assigned type(s) and their contact informatio
 <video src="../assets/media/videos/contractor-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 <video src="../assets/media/videos/contractor-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
-!!! outline "<span class="mb-label mb-label-mist">Creating your contractors</span>"
-
-    <span data-uuid="b0cf363b-f1e5-42ed-ac18-ce218d97bbac" style="display:none"></span>
-    Easily add your contractors, their assigned type(s) and their contact information, making them quickly accessible across your organisation.
-
-    <span data-uuid="6850c650-2331-4be1-ae5f-184521572d7b" style="display:none"></span>
-    <video src="../assets/media/videos/contractor-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-    <video src="../assets/media/videos/contractor-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
-
 </div>
 
 <div style="align-self: start" markdown>
