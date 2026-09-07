@@ -95,7 +95,7 @@ Easily add your contractors, their assigned type(s) and their contact informatio
 ---
 
 
-View and manage your contractors with ease using our colour-coded status indicators, which automatically update based on the state of the contractor's requirements.
+Manage your contractors using our colour-coded status indicators, which update based on the state of the contractor's requirements.
 
 <span data-uuid="93ae3f2c-66ba-46fc-a7ac-8d98c8449f5d" style="display:none"></span>
 <video src="../assets/media/videos/contractor-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
