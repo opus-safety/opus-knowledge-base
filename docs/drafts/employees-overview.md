@@ -58,9 +58,17 @@ Employees are records that you create within Opus Compliance Cloud to represent 
 ## What do employee records do?
 <span data-uuid="fbac45cf-8440-4ff0-802f-74bb2cb4525c" style="display:none"></span>
 
-Employee records can hold information about the employee it represents. Such as:
+Employee records are digital representations of employees that contain relevant information about the individual, such as:
+
+<span class="mb-label mb-label-olive">:lucide-text-cursor-input: Name</span>
+<span class="mb-label mb-label-olive">:lucide-camera: Photo</span>
+<span class="mb-label mb-label-olive">:lucide-calendar-check: Start & End Date</span>
+<span class="mb-label mb-label-olive">:lucide-tags: Role(s)</span>
+<span class="mb-label mb-label-olive">:lucide-building-2: Location</span>
+<span class="mb-label mb-label-olive">:lucide-key-round: Access & Authorisations</span>
 
 <span data-uuid="6657ccbc-e42d-4068-85dd-e6a4756388c7" style="display:none"></span>
+
 <div class="grid" markdown>
 
 <div markdown>
