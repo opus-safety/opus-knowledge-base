@@ -92,6 +92,12 @@ Easily add your contractors, their assigned type(s) and their contact informatio
 <div style="align-self: start" markdown>
 
 <span data-uuid="7b5da763-207c-4804-b5cc-a423ba8b27af" style="display:none"></span>
+<span class="mb-label mb-label-mist">Manage your Contractors and their status</span>
+
+---
+
+
+View and manage your contractors with ease using our colour-coded status indicators, which automatically update based on the state of the contractor's requirements.
 
 !!! outline "<span class="mb-label mb-label-mist">Manage your Contractors and their status</span>"
 
