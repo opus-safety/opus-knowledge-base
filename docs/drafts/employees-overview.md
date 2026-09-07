@@ -78,3 +78,25 @@ Employee records are digital representations of employees that contain relevant 
 
 ## Learn more
 <span data-uuid="a028ea15-fb01-4f23-ac5d-d70c2f84a2cd" style="display:none"></span>
+
+
+<span data-uuid="762a9558-7fac-4ac3-9249-02a24e6faa3a" style="display:none"></span>
+
+<div class="grid" markdown>
+
+<div markdown>
+
+<span data-uuid="c9474da3-7252-4549-89ff-55f9041c5f49" style="display:none"></span>
+
+<span data-uuid="a2dba41a-359e-4150-9eaf-58ef0144acc1" style="display:none"></span>
+<div class="mb-nav-links" data-nav-path="guides/employees"></div>
+
+</div>
+
+<div markdown>
+
+<span data-uuid="1a62ea68-8297-431f-871e-433d2aab4cc1" style="display:none"></span>
+
+</div>
+
+</div>
