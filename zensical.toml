@@ -124,9 +124,6 @@ draft_nav = [
     {"Reporting" = [
       {"Training & Gaps" = "drafts/training-and-gaps.md"},
       {"Snapshot" = "drafts/snapshot.md"}
-    ]},
-    {"Rams" = [
-      {"RAMS Overview" = "drafts/rams-overview.md"}
     ]}
   ]}
 ]
