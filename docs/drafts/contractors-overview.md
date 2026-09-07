@@ -71,11 +71,17 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 
 
 <span data-uuid="78c9aa24-9756-423e-9850-b59bbeaf9489" style="display:none"></span>
+
 <div class="grid" markdown>
 
 <div style="align-self: start" markdown>
 
 <span data-uuid="83dcee82-9bbd-45ec-b0f0-a9f56f3d778a" style="display:none"></span>
+<span class="mb-label mb-label-mist">Creating your contractors</span>
+
+---
+
+Easily add your contractors, their assigned type(s) and their contact information, making them quickly accessible across your organisation.
 
 !!! outline "<span class="mb-label mb-label-mist">Creating your contractors</span>"
 
