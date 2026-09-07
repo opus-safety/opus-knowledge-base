@@ -75,3 +75,6 @@ Employee records are digital representations of employees that contain relevant 
 | <span class="mb-label mb-label-olive">:lucide-key-round: Access & Authorisations</span> | Specific access permissions and authorisations can also be granted to employees. For example, you can provide access to particular regions or sites, or authorise employees to view specific types of sensitive data. |
 
 </div>
+
+## Learn more
+<span data-uuid="a028ea15-fb01-4f23-ac5d-d70c2f84a2cd" style="display:none"></span>
