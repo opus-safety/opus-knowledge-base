@@ -120,6 +120,14 @@ Opus RAMS is primarily intended for contractors preparing site-specific safety p
 
 You have the freedom to use standard Opus templates, edit them to build a tailored library, or create your own custom document library from scratch.
 
+<span data-uuid="e2556be4-cb04-48d4-b0f7-ae1a3ca26865" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/rams/settings/as-light-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/rams/settings/as-dark-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+
+<span data-uuid="79ff6427-1986-40e6-8b66-7f4b29f9ae1d" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/rams/method-statements/new/rt-light-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/rams/method-statements/new/rt-dark-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+
 !!! outline "<span class="mb-label mb-label-mist">Customisation and Flexibility</span>"
 
     <span data-uuid="0d7bf6c2-7145-41fa-9b97-9d1599b37807" style="display:none"></span>
