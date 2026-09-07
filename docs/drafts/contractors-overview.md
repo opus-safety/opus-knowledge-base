@@ -108,7 +108,7 @@ Manage your contractors using our colour-coded status indicators, which update b
 <div class="card" markdown>
 
 <span data-uuid="1919e76e-3758-430e-9bc2-aeada4d370bb" style="display:none"></span>
-<span class="mb-label mb-label-mist">Manage your Projects and their status</span>
+<span class="mb-label mb-label-slate">Manage your Projects and their status</span>
 
 ---
 
