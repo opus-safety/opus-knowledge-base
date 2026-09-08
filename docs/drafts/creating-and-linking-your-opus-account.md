@@ -87,14 +87,13 @@ tags:
     !!! step
 
         <span data-uuid="97baf590-d93f-4830-ba2d-732953ed55e5" style="display:none"></span>
-
         After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
 
         **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
         <span data-uuid="0db8f3ac-ddf9-4e8a-9a68-960a43a9bade" style="display:none"></span>
-        ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
-        ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
     !!! step
 
