@@ -158,7 +158,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     ![](../assets/media/occ-captures/my/subscriptions/wizard/automatic-subscription-management-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
     ![](../assets/media/occ-captures/my/subscriptions/wizard/automatic-subscription-management-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
-    !!! question "What are Subscriptions?"
+    ??? question "What are Subscriptions?"
 
         <span data-uuid="1cdc899b-5a53-47ff-b862-f5697e79b02a" style="display:none"></span>
         Subscriptions are an account configuration that allows you to receive in-system and email notifications about events that happen in Opus Compliance Cloud, such as reminders when your e-learning is due or notifications when incidents occur.
