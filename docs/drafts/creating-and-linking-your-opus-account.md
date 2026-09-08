@@ -98,12 +98,11 @@ tags:
     !!! step
 
         <span data-uuid="2752594a-37e3-42ac-8c3d-16ca1bc44248" style="display:none"></span>
-
         Click **Sign in**
 
         <span data-uuid="54333388-d9e2-4087-83de-7659ff4db1d9" style="display:none"></span>
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
     !!! step
 
