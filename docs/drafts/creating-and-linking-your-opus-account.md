@@ -40,12 +40,11 @@ tags:
     !!! step
 
         <span data-uuid="d2a3a4da-db56-41c6-a5be-66821f86ffea" style="display:none"></span>
-
         Create your Opus account using an email and password.
 
         <span data-uuid="70c7e336-aed8-44af-b7d1-25706ab4b3f5" style="display:none"></span>
-        ![](../assets/media/occ-captures/users/sign-up/email-address-light-mode.png#only-light){ width="400" loading=lazy }
-        ![](../assets/media/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ width="400" loading=lazy }
+        ![](../assets/media/occ-captures/users/sign-up/email-address-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
     !!! step
 
