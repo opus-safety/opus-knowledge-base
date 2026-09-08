@@ -177,6 +177,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 !!! step
 
     <span data-uuid="9131a8e4-a955-4907-a756-00d35dd850f7" style="display:none"></span>
+    Configure your notification preferences, including the **daily digest**.
 
     <span data-uuid="f02f8661-9c0f-4050-a847-09484a653672" style="display:none"></span>
     ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribe-when-assigned-and-more-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
