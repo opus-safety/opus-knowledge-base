@@ -173,3 +173,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     <span data-uuid="d5228203-c985-4c0d-b5b2-9ad538335932" style="display:none"></span>
     ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
     ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+!!! step
+
+    <span data-uuid="9131a8e4-a955-4907-a756-00d35dd850f7" style="display:none"></span>
