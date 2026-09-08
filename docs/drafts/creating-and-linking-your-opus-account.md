@@ -183,7 +183,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribe-when-assigned-and-more-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
     ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribe-when-assigned-and-more-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
-    !!! question "What is the Digest Email?"
+    ??? question "What is the Digest Email?"
 
         <span data-uuid="577d307a-04d1-4866-8ee1-27186510d652" style="display:none"></span>
         The digest email brings together all your unread in-system notifications and sends them to you in a single daily or weekly email, making them easier to review.
