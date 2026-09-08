@@ -170,7 +170,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
     ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
-    !!! step
+    !!! warning
 
         <span data-uuid="e1ef8423-5afb-4b47-8f21-5ce983d527df" style="display:none"></span>
         It may be an employment contract **requirement** to turn this on.
