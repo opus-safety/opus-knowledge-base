@@ -107,12 +107,11 @@ tags:
     !!! step
 
         <span data-uuid="1cb25564-f63a-4303-9b54-3101956e070a" style="display:none"></span>
-
         Sign in with your existing Opus account.
 
         <span data-uuid="a1ae4c27-e452-4cc5-b11f-659e41bea91a" style="display:none"></span>
-        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png#only-light){ width="400" loading=lazy }
-        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-dark-mode.png#only-dark){ width="400" loading=lazy }
+        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
         !!! question "Forgot your password?"
 
