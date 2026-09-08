@@ -159,3 +159,6 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
 ## Configuring your subscriptions
 <span data-uuid="a6d65d10-078c-4a38-a27b-1bea3ca56da0" style="display:none"></span>
+
+## Email confirmation
+<span data-uuid="59369148-bd12-487b-b553-4c5f0c78a291" style="display:none"></span>
