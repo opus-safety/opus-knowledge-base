@@ -107,8 +107,7 @@ draft_nav = [
       {"The Onboarding Process" = "drafts/onboarding-process.md"},
       {"Guidebooks" = [
         {"Feature Overviews" = "drafts/feature-overviews.md"}
-      ]},
-      {"Creating & linking your Opus Account" = "drafts/creating-and-linking-your-opus-account.md"}
+      ]}
     ]},
     {"Tasks" = [
       {"Reporting And Logging" = [
