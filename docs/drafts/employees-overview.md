@@ -90,10 +90,6 @@ Employee records are digital representations of employees that contain relevant 
 
 <span data-uuid="9112db24-bb12-4bff-a34f-88b872e994ad" style="display:none"></span>
 
-<span data-uuid="f0f207cf-6fba-4595-a3c3-4cc038924913" style="display:none"></span>
-![](../assets/media/occ-captures/admin/sites/uuid/dashboard/aston-dixon-light-mode.png#only-dark){ style="border-radius: 8px" width="391" loading=lazy }
-![](../assets/media/occ-captures/admin/sites/uuid/dashboard/aston-dixon-dark-mode.png#only-light){ style="border-radius: 8px" width="391" loading=lazy }
-
 </div>
 
 </div>
