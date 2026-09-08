@@ -29,11 +29,11 @@
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/export/print-or-export-light-mode.png": {
+  "docs/assets/media/system-update-captures/print-or-export-ba71b436-light-mode.png": {
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/export/tom-baverstock-light-mode.png": {
+  "docs/assets/media/system-update-captures/tom-baverstock-1334909d-light-mode.png": {
     "padding": 20
   },
   "docs/assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png": {
@@ -125,18 +125,18 @@
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/employees/located-at-light-mode.png": {
+  "docs/assets/media/system-update-captures/located-at-8b842657-light-mode.png": {
     "padding": 20
   },
   "docs/assets/media/occ-captures/admin/sites/uuid/snapshot/overview/site-snapshot-light-mode.png": {
     "resized": true
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/snapshot/overview/site-snapshot-download-csv-a-light-mode.png": {
+  "docs/assets/media/system-update-captures/site-snapshot-download-csv-a-4ccbe391-light-mode.png": {
     "resized": true,
     "padding": 6,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/compliance-reports/demo-company-sub-sites-a-light-mode.png": {
+  "docs/assets/media/system-update-captures/demo-company-sub-sites-a-6dc84781-light-mode.png": {
     "padding": 20,
     "annotated": true
   },
@@ -202,16 +202,16 @@
   "docs/assets/media/occ-captures/todos/uuid/system-message-light-mode.png": {
     "padding": 10
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/reports/recency/measurements/id/what-is-the-vehicle-s-mileage-light-mode.png": {
+  "docs/assets/media/system-update-captures/what-is-the-vehicle-s-mileage-64745556-light-mode.png": {
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/templates/checklists/id/questions-a-cross-site-answers-light-mode.png": {
+  "docs/assets/media/system-update-captures/questions-a-cross-site-answers-e1d3ae0a-light-mode.png": {
     "resized": true,
     "padding": 20,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/checklists/id/submissions/uuid/full-page-a-checklist-actions-light-mode.png": {
+  "docs/assets/media/system-update-captures/full-page-a-checklist-actions-8483c643-light-mode.png": {
     "resized": true,
     "annotated": true
   },
@@ -359,29 +359,29 @@
   "docs/assets/media/occ-captures/todos/uuid/todo-messages-missing-information-light-mode.png": {
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/sidebar-system-update-light-mode.png": {
+  "docs/assets/media/system-update-captures/sidebar-c3009af4-light-mode.png": {
     "resized": true
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/system-update-light-mode.png": {
+  "docs/assets/media/system-update-captures/dashboard-9c2aee2a-light-mode.png": {
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/employees/employee-records-system-update-light-mode.png": {
+  "docs/assets/media/system-update-captures/employee-records-a99b248a-light-mode.png": {
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/alerts/breadcrumb-system-updates-light-mode.png": {
+  "docs/assets/media/system-update-captures/breadcrumb-b322f660-light-mode.png": {
     "resized": true
   },
-  "docs/assets/media/occ-captures/my/subscriptions/wizard/automatic-subscription-management-light-mode.png": {
+  "docs/assets/media/system-update-captures/automatic-subscription-management-91570c74-light-mode.png": {
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/aston-dixon-a-change-location-system-update-light-mode.png": {
+  "docs/assets/media/system-update-captures/aston-dixon-a-change-location-586c4f12-light-mode.png": {
     "resized": true,
     "padding": 20,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/air-compressor-a-change-location-light-mode.png": {
+  "docs/assets/media/system-update-captures/air-compressor-a-change-location-033ce859-light-mode.png": {
     "padding": 20,
     "annotated": true
   },
@@ -402,16 +402,16 @@
   "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/training-and-gaps-light-mode.png": {
     "zapped": true
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/subscriptions/table-light-mode.png": {
+  "docs/assets/media/system-update-captures/table-713bd650-light-mode.png": {
     "resized": true,
     "padding": 10,
     "zapped": true
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/reports/trainings/training-template-compliance-system-update-light-mode.png": {
+  "docs/assets/media/system-update-captures/training-template-compliance-8fa1ba86-light-mode.png": {
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/reports/trainings/overdue-training-system-update-light-mode.png": {
+  "docs/assets/media/system-update-captures/overdue-training-0ee80e52-light-mode.png": {
     "resized": true,
     "padding": 5
   },
