@@ -116,12 +116,9 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
             Use the [Forgot your password?](https://cloud.opus-safety.co.uk/users/password/new) link and follow the instructions to reset your password.
 
-    !!! step
+    !!! step "<span class="meta">:lucide-triangle-alert: Important! Do not skip.</span>"
 
         <span data-uuid="85bf54f6-9570-4a4f-b31f-17d70dd3b516" style="display:none"></span>
-        <span class="mb-label mb-label-amber">:lucide-triangle-alert: Don't skip this step!</span>
-
-
         You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
 
         <span data-uuid="d2a9a955-6140-4a80-a311-5c76529918a8" style="display:none"></span>
