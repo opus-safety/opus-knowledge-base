@@ -45,7 +45,8 @@ nav = [
   {"Guides" = [
     {"Getting started" = [
       {"Overview" = "pages/overview.md"},
-      {"The Onboarding Process" = "pages/onboarding-process.md"}
+      {"The Onboarding Process" = "pages/onboarding-process.md"},
+      {"Creating & linking your Opus Account" = "pages/creating-and-linking-your-opus-account.md"}
     ]},
     {"Tasks" = [
       {"Types of task" = "pages/types-of-task.md"},
@@ -137,8 +138,7 @@ unlisted_nav = [
         {"Managing Opus Compliance Cloud" = "pages/managing-opus-compliance-cloud.md"},
         {"Administering Opus Compliance Cloud" = "pages/administering-opus-compliance-cloud.md"},
         {"Feature Overviews" = "pages/feature-overviews.md"}
-      ]},
-      {"Creating & linking your Opus Account" = "pages/creating-and-linking-your-opus-account.md"}
+      ]}
     ]},
     {"Tasks" = [
       {"Reporting And Logging" = [
