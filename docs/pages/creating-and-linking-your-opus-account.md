@@ -200,3 +200,12 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
         <span data-uuid="3db1af06-f1a4-4512-9942-16221d6eb1d6" style="display:none"></span>
         The **System Updates** option is particularly useful if you want to stay up to date with the latest changes, features and updates to Opus Compliance Cloud.
+
+!!! step
+
+    <span data-uuid="a954dfbe-fa3f-4bbc-ac26-c162e385ce89" style="display:none"></span>
+    Finally at the bottom, select **Save choices & continue**.
+
+    <span data-uuid="8539709e-4e02-4e9b-a1d5-77875fbe0f5d" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/save-choices-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/save-choices-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
