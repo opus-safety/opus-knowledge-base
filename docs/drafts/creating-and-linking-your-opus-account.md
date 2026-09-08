@@ -125,7 +125,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
         ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
         ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
 
-## Configuring your subscriptions
+## Configuring your profile, subscriptions and notifications.
 <span data-uuid="a6d65d10-078c-4a38-a27b-1bea3ca56da0" style="display:none"></span>
 
 
