@@ -2,8 +2,6 @@
 icon: lucide/user-check
 tags:
   - Using OCC
-search:
-  exclude: true
 ---
 
 # Creating & linking your Opus Account
