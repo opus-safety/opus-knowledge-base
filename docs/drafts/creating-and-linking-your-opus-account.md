@@ -129,14 +129,6 @@ Follow this guide to help you with creating and/or linking your Opus Account.
         ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
         ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
 
-        !!! warning
-
-            <span data-uuid="e5686c1e-a7c9-42d3-9ec5-531a8f04d78c" style="display:none"></span>
-
-            Don't skip this step! 
-
-            If the employee skips this step, they'll have an Opus account without an associated employee record. See [Incomplete Registration](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/troubleshooting-log-in-registration-problems#:~:text=Locked%20Account-,Incomplete%20Registration%20%2D%20when%20an%20employee%20lands%20on%20a%20page%20that%20says%20%27Cannot%20find%20what%20you%20are%20looking%20for%27,-If%20a%20user) in the Troubleshooting Login / Registration Problems guide.
-
         !!! note "Registration links are one-time use"
 
             <span data-uuid="22559472-23c4-4d83-ae25-64ae4f8be10c" style="display:none"></span>
