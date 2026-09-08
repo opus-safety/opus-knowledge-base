@@ -31,12 +31,11 @@ tags:
     !!! step
 
         <span data-uuid="29e50a05-503f-4e48-8a55-4639ff5c8241" style="display:none"></span>
-
         Click **Sign up**
 
         <span data-uuid="e4ed8dfc-4421-4497-a62a-bf9abac8e938" style="display:none"></span>
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
     !!! step
 
