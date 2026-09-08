@@ -164,10 +164,9 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 <span data-uuid="59369148-bd12-487b-b553-4c5f0c78a291" style="display:none"></span>
 
 
-!!! step
+!!! info
 
     <span data-uuid="7cf3150b-9198-43a7-a6bd-d2222cbb4a14" style="display:none"></span>
-
     After registering, you will receive an email confirmation. Click the **Confirm my email** button in your email.
 
     <span data-uuid="8ca41918-c68a-48dd-bde9-cb65164d7c94" style="display:none"></span>
