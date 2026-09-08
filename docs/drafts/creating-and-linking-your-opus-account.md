@@ -11,7 +11,7 @@ tags:
 
 Follow this guide to help you with creating and/or linking your Opus Account. 
 
-*:lucide-info: This guide assumes you have already received a registration link or QR code provided the relevant manager.*
+*:lucide-info: This guide assumes you have already received a registration link or QR code from the relevant manager. If you have not received one, please refer them to [this guide](registering-an-employee.md) for instructions on how to provide it to you.*
 
 <span data-uuid="85c04cbb-ed48-4ce4-b140-932c3ac75d63" style="display:none"></span>
 === "New Opus User"
