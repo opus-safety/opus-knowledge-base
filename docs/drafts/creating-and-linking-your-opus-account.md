@@ -73,11 +73,10 @@ tags:
     !!! step
 
         <span data-uuid="d6f85347-5313-42a4-86f3-1fd69dfd2831" style="display:none"></span>
-
         After registering, you will receive an email confirmation. Click the **Confirm my email** button in your email.
 
         <span data-uuid="fe2f4f96-b078-43ff-a454-ab4d29da5257" style="display:none"></span>
-        ![](../assets/media/other/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png)
+        ![](../assets/media/other/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png){ style="border-radius: 8px" loading=lazy }
 
 === "Existing Opus User"
 
