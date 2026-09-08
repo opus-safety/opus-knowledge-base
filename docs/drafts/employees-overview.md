@@ -91,8 +91,8 @@ Employee records are digital representations of employees that contain relevant 
 <span data-uuid="9112db24-bb12-4bff-a34f-88b872e994ad" style="display:none"></span>
 
 <span data-uuid="6f6acf7c-0a74-48d7-acc3-ef5be24bd6ef" style="display:none"></span>
-![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-information-light-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
-![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-information-dark-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-information-light-mode.png#only-dark)
+![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-information-dark-mode.png#only-light)
 
 </div>
 
