@@ -149,7 +149,3 @@ tags:
             <span data-uuid="3c946c86-8a21-4fe5-a9c4-24d1252fee7f" style="display:none"></span>
 
             Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
-
-## Creating and/or linking your account
-<span data-uuid="7d92ecf8-9b1a-4a15-a81e-adfff0735aba" style="display:none"></span>
-
