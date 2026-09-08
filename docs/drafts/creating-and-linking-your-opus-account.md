@@ -122,6 +122,8 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     !!! step
 
         <span data-uuid="85bf54f6-9570-4a4f-b31f-17d70dd3b516" style="display:none"></span>
+        <span class="mb-label mb-label-amber">:lucide-triangle-alert: Don't skip this step!</span>
+
 
         You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
 
