@@ -166,8 +166,6 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     <span data-uuid="ce4fc732-c022-4657-9c24-5b857ed62ac9" style="display:none"></span>
     Choose whether you wish to share your subscription configuration with your manager(s).
 
-    ***:lucide-alert-circle: Note that it may be an employment contract requirement to turn this on.***
-
     <span data-uuid="d5228203-c985-4c0d-b5b2-9ad538335932" style="display:none"></span>
     ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
     ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
