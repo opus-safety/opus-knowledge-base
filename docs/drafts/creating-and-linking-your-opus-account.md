@@ -21,7 +21,6 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 === "New Opus User"
 
     <span data-uuid="52c84df8-6b59-4cdb-be5a-6cccd2617225" style="display:none"></span>
-
     **Follow the steps below to create a new Opus account and complete registration.**
 
     !!! step
@@ -79,6 +78,15 @@ Follow this guide to help you with creating and/or linking your Opus Account.
             <span data-uuid="d32cc427-b1e4-4503-853e-aab10c179dbe" style="display:none"></span>
 
             Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
+
+    !!! step
+
+        <span data-uuid="21e39c04-8e79-4c5c-bf90-bf6ec86c04c4" style="display:none"></span>
+
+        After registering, you will receive an email confirmation. Click the **Confirm my email** button in your email.
+
+        <span data-uuid="2b3dbf64-efc4-42b2-a5c4-ab9499968713" style="display:none"></span>
+        ![](../assets/media/other/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png){ style="border-radius: 8px" loading=lazy }
 
 === "Existing Opus User"
 
