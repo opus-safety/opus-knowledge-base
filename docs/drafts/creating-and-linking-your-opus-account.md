@@ -92,12 +92,11 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     !!! step
 
         <span data-uuid="45faedec-35e9-4b15-9e59-9e6cfcb1059b" style="display:none"></span>
-
         Click **Sign in**
 
         <span data-uuid="9dbe5653-7d91-442c-a35a-54e1930830cd" style="display:none"></span>
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark)
 
     !!! step
 
