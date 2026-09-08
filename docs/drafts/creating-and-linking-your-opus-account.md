@@ -15,3 +15,144 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
 ## Account setup
 <span data-uuid="c772b843-1475-4143-a36b-cc0159285e08" style="display:none"></span>
+
+
+<span data-uuid="a9398ff7-9a16-4369-8523-7c043f4dea4c" style="display:none"></span>
+=== "New Opus User"
+
+    <span data-uuid="52c84df8-6b59-4cdb-be5a-6cccd2617225" style="display:none"></span>
+
+    **Follow the steps below to create a new Opus account and complete registration.**
+
+    !!! step
+
+        <span data-uuid="2171aa52-2563-40d2-8814-0f33d3879c92" style="display:none"></span>
+
+        After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
+
+        **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
+
+        <span data-uuid="0fb8cabd-101d-41be-8947-b46f26122c54" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="7353b8fe-c583-4f41-9f93-a556031cad8b" style="display:none"></span>
+
+        Click **Sign up**
+
+        <span data-uuid="ab137c20-0365-40cd-8919-30af1c7de998" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="42832d68-6039-4061-93eb-f0409528b3f0" style="display:none"></span>
+
+        Create your Opus account using an email and password.
+
+        <span data-uuid="2467748f-680c-4148-8807-1e219ee10fd5" style="display:none"></span>
+        ![](../assets/media/occ-captures/users/sign-up/email-address-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="fd7eabe7-fdc3-4002-b341-32049a58b43e" style="display:none"></span>
+
+        You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
+
+        <span data-uuid="1eec12eb-6f26-496e-8609-05edad8adf4e" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
+
+        !!! warning
+
+            <span data-uuid="d928524c-13fa-40d9-b6aa-a3125aea27e5" style="display:none"></span>
+
+            Don't skip this step! 
+
+            If the employee skips this step, they'll have an Opus account without an associated employee record. See [Incomplete Registration](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/troubleshooting-log-in-registration-problems#:~:text=Locked%20Account-,Incomplete%20Registration%20%2D%20when%20an%20employee%20lands%20on%20a%20page%20that%20says%20%27Cannot%20find%20what%20you%20are%20looking%20for%27,-If%20a%20user) in the Troubleshooting Login / Registration Problems guide.
+
+        !!! note "Registration links are one-time use"
+
+            <span data-uuid="d32cc427-b1e4-4503-853e-aab10c179dbe" style="display:none"></span>
+
+            Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
+
+    !!! step
+
+        <span data-uuid="e919658c-9587-469e-9b5f-3000690fbbda" style="display:none"></span>
+
+        After registering, you will receive an email confirmation. Click the **Confirm my email** button in your email.
+
+        <span data-uuid="69a2d418-393e-4f6c-97e8-51e46e88987f" style="display:none"></span>
+        ![](../assets/media/other/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png){ style="border-radius: 8px" loading=lazy }
+
+=== "Existing Opus User"
+
+    <span data-uuid="0cde8ca4-0c02-449d-b0b1-7554b7d15eb3" style="display:none"></span>
+
+    **Follow the steps below to complete registration with an existing Opus account.**
+
+    !!! step
+
+        <span data-uuid="41c14044-c1c0-4464-97c0-0a2248fc73d5" style="display:none"></span>
+
+        After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
+
+        **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
+
+        <span data-uuid="07b99002-a794-4cb5-b64b-71fbc4a3e8f9" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="45faedec-35e9-4b15-9e59-9e6cfcb1059b" style="display:none"></span>
+
+        Click **Sign in**
+
+        <span data-uuid="9dbe5653-7d91-442c-a35a-54e1930830cd" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="2333b35b-2370-4294-b94f-f6ce7192937f" style="display:none"></span>
+
+        Sign in with your existing Opus account.
+
+        <span data-uuid="6d892f34-6bda-49f9-8a8b-2f4c5c5040ed" style="display:none"></span>
+        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+        !!! question "Forgot your password?"
+
+            <span data-uuid="e370e182-0ae8-4941-b90c-74d0c19f261d" style="display:none"></span>
+
+            Use the [Forgot your password?](https://cloud.opus-safety.co.uk/users/password/new) link and follow the instructions to reset your password.
+
+    !!! step
+
+        <span data-uuid="85bf54f6-9570-4a4f-b31f-17d70dd3b516" style="display:none"></span>
+
+        You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
+
+        <span data-uuid="d2a9a955-6140-4a80-a311-5c76529918a8" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
+
+        !!! warning
+
+            <span data-uuid="e5686c1e-a7c9-42d3-9ec5-531a8f04d78c" style="display:none"></span>
+
+            Don't skip this step! 
+
+            If the employee skips this step, they'll have an Opus account without an associated employee record. See [Incomplete Registration](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/troubleshooting-log-in-registration-problems#:~:text=Locked%20Account-,Incomplete%20Registration%20%2D%20when%20an%20employee%20lands%20on%20a%20page%20that%20says%20%27Cannot%20find%20what%20you%20are%20looking%20for%27,-If%20a%20user) in the Troubleshooting Login / Registration Problems guide.
+
+        !!! note "Registration links are one-time use"
+
+            <span data-uuid="22559472-23c4-4d83-ae25-64ae4f8be10c" style="display:none"></span>
+
+            Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
