@@ -156,3 +156,6 @@ Follow this guide to help you with creating and/or linking your Opus Account.
             <span data-uuid="22559472-23c4-4d83-ae25-64ae4f8be10c" style="display:none"></span>
 
             Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
+
+## Configuring your subscriptions
+<span data-uuid="a6d65d10-078c-4a38-a27b-1bea3ca56da0" style="display:none"></span>
