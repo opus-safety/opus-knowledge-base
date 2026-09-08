@@ -9,6 +9,9 @@ tags:
 # Creating & linking your Opus Account
 <span data-uuid="7329797e-cd0c-458f-a323-856194a4d2da" style="display:none"></span>
 
+Follow this guide to help you with creating and/or linking your Opus Account. 
+
+The guide assumes you have already received a registration link or QR code provided the relevant manager.
 
 <span data-uuid="85c04cbb-ed48-4ce4-b140-932c3ac75d63" style="display:none"></span>
 === "New Opus User"
