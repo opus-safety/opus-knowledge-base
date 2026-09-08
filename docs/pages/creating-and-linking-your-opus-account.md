@@ -13,142 +13,192 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
 *:lucide-info: This guide assumes you have already received a registration link or QR code from the relevant manager. If you have not received one, please refer them to [this guide](registering-an-employee.md) for instructions on how to provide it to you.*
 
-<span data-uuid="85c04cbb-ed48-4ce4-b140-932c3ac75d63" style="display:none"></span>
+## Account setup
+<span data-uuid="c772b843-1475-4143-a36b-cc0159285e08" style="display:none"></span>
+
+
+<span data-uuid="a9398ff7-9a16-4369-8523-7c043f4dea4c" style="display:none"></span>
 === "New Opus User"
 
-    <span data-uuid="b5a6eded-f326-4bfa-bb4b-684cbb3210e4" style="display:none"></span>
-
+    <span data-uuid="52c84df8-6b59-4cdb-be5a-6cccd2617225" style="display:none"></span>
     **Follow the steps below to create a new Opus account and complete registration.**
 
     !!! step
 
-        <span data-uuid="4623f7d2-308f-4d96-88f5-af5061a80919" style="display:none"></span>
+        <span data-uuid="2171aa52-2563-40d2-8814-0f33d3879c92" style="display:none"></span>
 
         After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
 
         **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
-        <span data-uuid="525201a4-8683-4607-a2a5-01122bc9a26b" style="display:none"></span>
+        <span data-uuid="0fb8cabd-101d-41be-8947-b46f26122c54" style="display:none"></span>
         ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
         ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
     !!! step
 
-        <span data-uuid="207893e0-79a5-4cf3-ae24-5f807f0d4044" style="display:none"></span>
-
+        <span data-uuid="7353b8fe-c583-4f41-9f93-a556031cad8b" style="display:none"></span>
         Click **Sign up**
 
-        <span data-uuid="86e1d11e-a89d-40ab-a55d-8d9389452824" style="display:none"></span>
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+        <span data-uuid="ab137c20-0365-40cd-8919-30af1c7de998" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark)
 
     !!! step
 
-        <span data-uuid="913ecae2-a7d6-4c76-9448-2be11dad2410" style="display:none"></span>
+        <span data-uuid="42832d68-6039-4061-93eb-f0409528b3f0" style="display:none"></span>
 
         Create your Opus account using an email and password.
 
-        <span data-uuid="59ca5a89-514e-46c9-b684-f8ba4c7d2934" style="display:none"></span>
+        <span data-uuid="2467748f-680c-4148-8807-1e219ee10fd5" style="display:none"></span>
         ![](../assets/media/occ-captures/users/sign-up/email-address-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
         ![](../assets/media/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
-    !!! step
+    !!! step "<span class="meta">:lucide-triangle-alert: Important! Do not skip.</span>"
 
-        <span data-uuid="c7a4ad89-77cb-4829-b9b4-fd61187ef368" style="display:none"></span>
-
+        <span data-uuid="fd7eabe7-fdc3-4002-b341-32049a58b43e" style="display:none"></span>
         You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
 
-        <span data-uuid="c757e8dc-18b3-4a0b-ad0f-9f969cbd1c1e" style="display:none"></span>
+        <span data-uuid="1eec12eb-6f26-496e-8609-05edad8adf4e" style="display:none"></span>
         ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
         ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
 
-        !!! warning
-
-            <span data-uuid="a09a5195-83b1-4b7d-9867-c948a428a9ef" style="display:none"></span>
-
-            Don't skip this step! 
-
-            If the employee skips this step, they'll have an Opus account without an associated employee record. See [Incomplete Registration](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/troubleshooting-log-in-registration-problems#:~:text=Locked%20Account-,Incomplete%20Registration%20%2D%20when%20an%20employee%20lands%20on%20a%20page%20that%20says%20%27Cannot%20find%20what%20you%20are%20looking%20for%27,-If%20a%20user) in the Troubleshooting Login / Registration Problems guide.
-
-        !!! note "Registration links are one-time use"
-
-            <span data-uuid="f55e25b5-85a6-40c1-b6bf-02b13ff72781" style="display:none"></span>
-
-            Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
-
     !!! step
 
-        <span data-uuid="06c59936-ef0d-4180-91c9-fe299fb9a089" style="display:none"></span>
-
+        <span data-uuid="21e39c04-8e79-4c5c-bf90-bf6ec86c04c4" style="display:none"></span>
         After registering, you will receive an email confirmation. Click the **Confirm my email** button in your email.
 
-        <span data-uuid="9e592f24-8467-4060-88d1-bfd66ae871d7" style="display:none"></span>
-        ![](../assets/media/other/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png){ style="border-radius: 8px" loading=lazy }
+        <span data-uuid="2b3dbf64-efc4-42b2-a5c4-ab9499968713" style="display:none"></span>
+        ![](../assets/media/other/screenshots/APaQ0SR9R6Za6ct00tU0NNdVeMD_nXDc1WtfqOtK_3afa428c.png){ style="border-radius: 8px" width="400" loading=lazy }
 
 === "Existing Opus User"
 
-    <span data-uuid="39501da0-029a-4de5-83e0-e7e017d524c6" style="display:none"></span>
+    <span data-uuid="0cde8ca4-0c02-449d-b0b1-7554b7d15eb3" style="display:none"></span>
 
     **Follow the steps below to complete registration with an existing Opus account.**
 
     !!! step
 
-        <span data-uuid="963394d1-47f9-47ac-bba4-edab12b4fda1" style="display:none"></span>
+        <span data-uuid="41c14044-c1c0-4464-97c0-0a2248fc73d5" style="display:none"></span>
 
         After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
 
         **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
-        <span data-uuid="a5336fc1-b069-4c42-9002-955d7b560d08" style="display:none"></span>
+        <span data-uuid="07b99002-a794-4cb5-b64b-71fbc4a3e8f9" style="display:none"></span>
         ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
         ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
     !!! step
 
-        <span data-uuid="4c11f437-99fb-415d-b51c-7317945e8bdb" style="display:none"></span>
-
+        <span data-uuid="45faedec-35e9-4b15-9e59-9e6cfcb1059b" style="display:none"></span>
         Click **Sign in**
 
-        <span data-uuid="87a69f69-05d3-4640-a474-f64b7b61c380" style="display:none"></span>
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+        <span data-uuid="9dbe5653-7d91-442c-a35a-54e1930830cd" style="display:none"></span>
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-in-dark-mode.png#only-dark)
 
     !!! step
 
-        <span data-uuid="d52503da-07c2-4d34-8a6d-db9a447f2d09" style="display:none"></span>
+        <span data-uuid="2333b35b-2370-4294-b94f-f6ce7192937f" style="display:none"></span>
 
         Sign in with your existing Opus account.
 
-        <span data-uuid="32a14a7c-8e3d-4e87-9582-a3c77be6e4ab" style="display:none"></span>
+        <span data-uuid="6d892f34-6bda-49f9-8a8b-2f4c5c5040ed" style="display:none"></span>
         ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
         ![](../assets/media/occ-captures/users/sign-in/sign-in-to-your-opus-account-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
         !!! question "Forgot your password?"
 
-            <span data-uuid="6b1ec9e7-5c70-4172-ad60-05815f5e58eb" style="display:none"></span>
+            <span data-uuid="e370e182-0ae8-4941-b90c-74d0c19f261d" style="display:none"></span>
 
             Use the [Forgot your password?](https://cloud.opus-safety.co.uk/users/password/new) link and follow the instructions to reset your password.
 
-    !!! step
+    !!! step "<span class="meta">:lucide-triangle-alert: Important! Do not skip.</span>"
 
-        <span data-uuid="8585fec3-c86d-4fe4-9b57-643a948ea0f7" style="display:none"></span>
-
+        <span data-uuid="85bf54f6-9570-4a4f-b31f-17d70dd3b516" style="display:none"></span>
         You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
 
-        <span data-uuid="6fdada23-4a16-4596-9abd-844366e51000" style="display:none"></span>
+        <span data-uuid="d2a9a955-6140-4a80-a311-5c76529918a8" style="display:none"></span>
         ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-light-mode.png#only-light)
         ![](../assets/media/occ-captures/employees/uuid/link/id/link-my-opus-account-dark-mode.png#only-dark)
 
-        !!! warning
+## Configuring your profile, subscriptions and notifications.
+<span data-uuid="a6d65d10-078c-4a38-a27b-1bea3ca56da0" style="display:none"></span>
 
-            <span data-uuid="537e4a52-e23d-430a-b64f-d158194e8efd" style="display:none"></span>
 
-            Don't skip this step! 
+!!! step
 
-            If the employee skips this step, they'll have an Opus account without an associated employee record. See [Incomplete Registration](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/troubleshooting-log-in-registration-problems#:~:text=Locked%20Account-,Incomplete%20Registration%20%2D%20when%20an%20employee%20lands%20on%20a%20page%20that%20says%20%27Cannot%20find%20what%20you%20are%20looking%20for%27,-If%20a%20user) in the Troubleshooting Login / Registration Problems guide.
+    <span data-uuid="4e2520c8-52c9-47bf-b1b7-10577a697fc8" style="display:none"></span>
+    Set your **Display name**.
 
-        !!! note "Registration links are one-time use"
+    *This is the name associated with your account as seen by your colleagues.*
 
-            <span data-uuid="3c946c86-8a21-4fe5-a9c4-24d1252fee7f" style="display:none"></span>
+    <span data-uuid="363c19da-6c57-4289-9c00-30030da7506f" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/display-name-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/display-name-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
-            Users should bookmark the Opus system web address or visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and click **Log in** at the top right to access the system in future.
+!!! step "<span class="meta">(optional)</span>"
+
+    <span data-uuid="ad2efcab-fe13-4f0a-bf5e-28790f1e7d85" style="display:none"></span>
+    Change your **Avatar**.
+
+    <span data-uuid="9e6c1b1e-dcac-4f4f-ae26-09b9cf56be18" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/avatar-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/avatar-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+!!! step
+
+    <span data-uuid="62b248c1-6bf8-4926-b49e-ab5d3bee199d" style="display:none"></span>
+    Configure your subscriptions using one of our presets. Based on your configured access, the system will **recommend** the most suitable preset for you.
+
+    <span data-uuid="0f3749a4-73dc-4466-a8da-67447b9b1b3d" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/automatic-subscription-management-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/automatic-subscription-management-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+    ??? question "What are Subscriptions?"
+
+        <span data-uuid="1cdc899b-5a53-47ff-b862-f5697e79b02a" style="display:none"></span>
+        Subscriptions are an account configuration that allows you to receive in-system and email notifications about events that happen in Opus Compliance Cloud, such as reminders when your e-learning is due or notifications when incidents occur.
+
+!!! step
+
+    <span data-uuid="ce4fc732-c022-4657-9c24-5b857ed62ac9" style="display:none"></span>
+    Choose whether you wish to share your subscription configuration with your manager(s).
+
+    <span data-uuid="d5228203-c985-4c0d-b5b2-9ad538335932" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+    !!! warning
+
+        <span data-uuid="e1ef8423-5afb-4b47-8f21-5ce983d527df" style="display:none"></span>
+        It may be an employment contract **requirement** to turn this on.
+
+!!! step
+
+    <span data-uuid="9131a8e4-a955-4907-a756-00d35dd850f7" style="display:none"></span>
+    Configure your notification preferences, including the **digest email**.
+
+    <span data-uuid="f02f8661-9c0f-4050-a847-09484a653672" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribe-when-assigned-and-more-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribe-when-assigned-and-more-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+    ??? question "What is the Digest Email?"
+
+        <span data-uuid="577d307a-04d1-4866-8ee1-27186510d652" style="display:none"></span>
+        The digest email brings together all your unread in-system notifications and sends them to you in a single daily or weekly email, making them easier to review.
+
+!!! step "<span class="meta">(optional, but recommended)</span>"
+
+    <span data-uuid="51c80bf5-3c98-4e77-8ecc-b869a85fcf00" style="display:none"></span>
+    Subscribe to our newsletters to **stay informed** about the listed topics.
+
+    <span data-uuid="cc6a2604-9bb8-4ca4-bde9-d7f07d958c88" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribable-newsletters-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribable-newsletters-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+    !!! tip
+
+        <span data-uuid="3db1af06-f1a4-4512-9942-16221d6eb1d6" style="display:none"></span>
+        The **System Updates** option is particularly useful if you want to stay up to date with the latest changes, features and updates to Opus Compliance Cloud.
