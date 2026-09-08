@@ -115,3 +115,6 @@ Please follow the steps below to register employees as users on the system.
 <span data-uuid="e47349ff-854c-47a6-80ae-56d8113ebf98" style="display:none"></span>
 
 The user can follow the steps in the guide below to create their Opus Account.
+
+<span data-uuid="5d8700c0-428e-4f0d-a662-044a440f0095" style="display:none"></span>
+[Creating & linking your Opus Account :lucide-arrow-up-right:](creating-and-linking-your-opus-account.md){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
