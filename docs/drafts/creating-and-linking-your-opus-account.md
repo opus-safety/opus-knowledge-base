@@ -206,3 +206,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 !!! step
 
     <span data-uuid="a954dfbe-fa3f-4bbc-ac26-c162e385ce89" style="display:none"></span>
+
+    <span data-uuid="8539709e-4e02-4e9b-a1d5-77875fbe0f5d" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/save-choices-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/my/subscriptions/wizard/save-choices-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
