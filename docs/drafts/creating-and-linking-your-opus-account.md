@@ -187,3 +187,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
         <span data-uuid="577d307a-04d1-4866-8ee1-27186510d652" style="display:none"></span>
         The digest email brings together all your unread in-system notifications and sends them to you in a single daily or weekly email, making them easier to review.
+
+!!! step
+
+    <span data-uuid="51c80bf5-3c98-4e77-8ecc-b869a85fcf00" style="display:none"></span>
