@@ -202,3 +202,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
         <span data-uuid="3db1af06-f1a4-4512-9942-16221d6eb1d6" style="display:none"></span>
         The **System Updates** option is particularly useful if you want to stay up to date with the latest changes, features and updates to Opus Compliance Cloud.
+
+!!! step
+
+    <span data-uuid="a954dfbe-fa3f-4bbc-ac26-c162e385ce89" style="display:none"></span>
