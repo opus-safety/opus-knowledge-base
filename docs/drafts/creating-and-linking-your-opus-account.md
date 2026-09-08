@@ -38,12 +38,11 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     !!! step
 
         <span data-uuid="7353b8fe-c583-4f41-9f93-a556031cad8b" style="display:none"></span>
-
         Click **Sign up**
 
         <span data-uuid="ab137c20-0365-40cd-8919-30af1c7de998" style="display:none"></span>
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-light-mode.png#only-light)
+        ![](../assets/media/occ-captures/employees/uuid/link/id/sign-up-dark-mode.png#only-dark)
 
     !!! step
 
