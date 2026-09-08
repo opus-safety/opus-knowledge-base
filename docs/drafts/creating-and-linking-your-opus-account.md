@@ -55,12 +55,9 @@ Follow this guide to help you with creating and/or linking your Opus Account.
         ![](../assets/media/occ-captures/users/sign-up/email-address-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
         ![](../assets/media/occ-captures/users/sign-up/email-address-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
-    !!! step
+    !!! step "<span class="meta">:lucide-triangle-alert: Important! Do not skip.</span>"
 
         <span data-uuid="fd7eabe7-fdc3-4002-b341-32049a58b43e" style="display:none"></span>
-        <span class="mb-label mb-label-amber">:lucide-triangle-alert: Don't skip this step!</span>
-
-
         You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
 
         <span data-uuid="1eec12eb-6f26-496e-8609-05edad8adf4e" style="display:none"></span>
