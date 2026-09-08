@@ -191,8 +191,6 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     <span data-uuid="51c80bf5-3c98-4e77-8ecc-b869a85fcf00" style="display:none"></span>
     Subscribe to our newsletters to **stay informed** about the listed topics.
 
-    *:lucide-lightbulb:The System Updates option is particularly useful if you want to stay up to date with the latest changes, features and updates to Opus Compliance Cloud.*
-
     <span data-uuid="cc6a2604-9bb8-4ca4-bde9-d7f07d958c88" style="display:none"></span>
     ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribable-newsletters-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
     ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribable-newsletters-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
