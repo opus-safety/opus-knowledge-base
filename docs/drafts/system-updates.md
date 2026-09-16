@@ -30,3 +30,7 @@ search:
         <span data-uuid="d1c0c48a-7f4e-42f9-a5e2-1425b91ef89a" style="display:none"></span>
         Assigning is now easier than ever. We now categorise potential assignee's by access level and have also added a searchbar.
 
+        <span data-uuid="d13bc63c-ca69-4299-84c3-da51ed695615" style="display:none"></span>
+        ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+        ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+
