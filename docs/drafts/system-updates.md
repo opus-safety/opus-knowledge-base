@@ -12,3 +12,7 @@ search:
 
     Here are the highlights:
 
+    ??? outline "<span class="mb-label mb-label-mauve">Redesigned floating header</span>"
+
+        <span data-uuid="fa3ee4dc-3640-4b10-a2c0-aefbb49d29a5" style="display:none"></span>
+
