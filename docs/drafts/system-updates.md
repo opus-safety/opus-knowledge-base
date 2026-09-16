@@ -12,9 +12,14 @@ search:
 
     Here are the highlights:
 
-    ??? outline "<span class="mb-label mb-label-mauve">Redesigned floating header</span>"
+    ??? outline "<span class="mb-label mb-label-mauve">Redesigned header</span>"
 
         <span data-uuid="fa3ee4dc-3640-4b10-a2c0-aefbb49d29a5" style="display:none"></span>
+        The header at the top of the page has been redesigned and will now stick to the top of the screen, meaning it will always be visible.
+
+        Task actions (such as moving, printing or creating subtasks) can now be found via the new More options button.
+
+        The breadcrumb has also been improved, aligning more with the design found on manage mode.
 
         <span data-uuid="163c2fa9-d386-450e-ac71-53573876bac1" style="display:none"></span>
         ![](../assets/media/system-update-captures/open-a-breadcrumbs-z-420d05cd-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
