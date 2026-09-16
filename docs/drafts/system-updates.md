@@ -16,3 +16,7 @@ search:
 
         <span data-uuid="fa3ee4dc-3640-4b10-a2c0-aefbb49d29a5" style="display:none"></span>
 
+        <span data-uuid="163c2fa9-d386-450e-ac71-53573876bac1" style="display:none"></span>
+        ![](../assets/media/system-update-captures/open-a-breadcrumbs-z-420d05cd-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/open-a-breadcrumbs-z-420d05cd-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
