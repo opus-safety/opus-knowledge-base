@@ -174,15 +174,6 @@ Sometimes you need to update a document when there is no reminder task for it. *
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
-    !!! step
-
-        <span data-uuid="b3a504a7-d52b-4822-9641-65d41f5a991f" style="display:none"></span>
-        Find the document you wish to revise and click on it to open it.
-
-        <span data-uuid="663db633-d3ad-4506-9037-25879c7f591f" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/documents/search-document-by-file-name-or-title-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/documents/search-document-by-file-name-or-title-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
-
 === ":lucide-package: Assets"
 
     <span data-uuid="cbf72202-570d-41c9-8d1e-e54c426035f6" style="display:none"></span>
