@@ -517,5 +517,8 @@
   "docs/assets/media/occ-captures/todos/uuid/example-document-reminder-task-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/admin/sites/uuid/documents/id/revisions/new/new-document-revision-light-mode.png": {
+    "padding": 20
   }
 }
