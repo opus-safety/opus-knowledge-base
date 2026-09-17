@@ -23,7 +23,7 @@ Follow this guide to learn how to upload a document revision.
 ## Revising a due document
 <span data-uuid="ea3c2eec-c310-413c-bbc7-466a923019b3" style="display:none"></span>
 
-When a document is due for revision, the system creates a **reminder task** for it in the site inbox. This is the quickest route to the document.
+When a document is due for revision, the system creates a **reminder task** for it in the site inbox. This is often the best way to revise documents as you can take advantage of the site inbox and its prioritisation.
 
 !!! step
 
