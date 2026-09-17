@@ -43,7 +43,7 @@ When a document is due for revision, the system creates a **reminder task** for 
 ## Revising a document via Manage Mode
 <span data-uuid="d1fe2286-59fc-4b34-b0bd-3c578b0f12f9" style="display:none"></span>
 
-Sometimes you need to update a document when there is no reminder task for it. **Pick the tab that matches where the document belongs**, then continue with the upload steps below the tabs.
+Sometimes you need to update a document when there is no reminder task for it. **Pick the tab that matches where the document belongs**, then continue with the upload steps below.
 
 <span data-uuid="0373cc20-6947-4a2e-8c35-fd58612fa7fd" style="display:none"></span>
 === ":lucide-building: Sites"
