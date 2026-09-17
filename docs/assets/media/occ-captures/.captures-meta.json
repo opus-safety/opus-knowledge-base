@@ -513,5 +513,9 @@
     "resized": true,
     "padding": 20,
     "annotated": true
+  },
+  "docs/assets/media/occ-captures/todos/uuid/example-document-reminder-task-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
