@@ -175,7 +175,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
 === ":lucide-users: Employees"
 
     <span data-uuid="24e42ab1-1adb-4c7d-b846-0232705ffad1" style="display:none"></span>
-    Use this route when the document belongs to an employee, such as a personal risk assessment.
+    Use this route when the document belongs to an employee, such as a personal records or a driving licence.
 
     !!! step
 
