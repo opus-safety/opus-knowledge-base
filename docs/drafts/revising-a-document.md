@@ -73,7 +73,7 @@ When a document is due for revision, the system creates a **reminder task** for 
 !!! step
 
     <span data-uuid="14bacac3-bdc2-4e4a-8101-0356f40f8280" style="display:none"></span>
-    Upload the revised file and enter the **Date of document**.
+    Upload the file and enter the **Date of document**.
 
     <span data-uuid="16e93522-c2d2-42a1-ae49-1ffb5f63ce3e" style="display:none"></span>
     ![](../assets/media/occ-captures/sites/uuid/documents/id/document-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
