@@ -70,6 +70,22 @@ When a document is due for revision, the system creates a **reminder task** for 
     ![](../assets/media/occ-captures/todos/uuid/example-document-reminder-task-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
     ![](../assets/media/occ-captures/todos/uuid/example-document-reminder-task-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+!!! step
+
+    <span data-uuid="14bacac3-bdc2-4e4a-8101-0356f40f8280" style="display:none"></span>
+
+    Upload the revised file and enter the **Date of document**.
+
+    <span data-uuid="16e93522-c2d2-42a1-ae49-1ffb5f63ce3e" style="display:none"></span>
+    ![](../assets/media/occ-captures/sites/uuid/documents/id/document-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/sites/uuid/documents/id/document-dark-mode.png#only-dark)
+
+    !!! warning
+
+        <span data-uuid="0d007270-33d7-464e-b600-b597de46e065" style="display:none"></span>
+
+        **Date of document (authoring date)** is the date the file, service, or certificate was completed, authored or became valid. Entering an inaccurate date may result in unnecessary early re-submission or cause non-compliance to go unnoticed.
+
 ## Revising a document via Manage Mode
 <span data-uuid="d1fe2286-59fc-4b34-b0bd-3c578b0f12f9" style="display:none"></span>
 
