@@ -27,6 +27,16 @@ When a document is due for revision, the system creates a **reminder task** for 
 
 !!! step
 
+    <span data-uuid="ef3e900d-be5e-4332-83fc-91c014d9908b" style="display:none"></span>
+
+    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the document (or asset/employee that holds the document) exists.
+
+    <span data-uuid="977aeac3-7cda-4eb6-89e1-c8c3e6c14725" style="display:none"></span>
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
     <span data-uuid="54a10d55-ea11-4c59-a910-449d6c324eeb" style="display:none"></span>
     Open the reminder task from the site inbox, or from **My assigned tasks** on [My Dashboard](https://cloud.opus-safety.co.uk/dashboard).
 
