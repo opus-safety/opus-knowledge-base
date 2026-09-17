@@ -272,6 +272,10 @@ Sometimes you need to update a document when there is no reminder task for it. *
         <span data-uuid="59492525-c3c9-40bb-b66e-77f3ee67dee5" style="display:none"></span>
         Or if a file has never been provided before, it will say **+Add file**.
 
+        <span data-uuid="7429caf5-876e-4a32-aebe-3f6af645aa3a" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/documents/id/add-file-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/documents/id/add-file-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
     <span data-uuid="997a7e8c-84e6-4772-a700-3417872c50e5" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/documents/id/add-file-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/documents/id/add-file-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
