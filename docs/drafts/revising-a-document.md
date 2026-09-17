@@ -57,6 +57,10 @@ When a document is due for revision, the system creates a **reminder task** for 
         ![](../assets/media/occ-captures/sites/uuid/site-inbox-a-all-tasks-for-demo-company-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/occ-captures/sites/uuid/site-inbox-a-all-tasks-for-demo-company-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+        <span data-uuid="933a7650-eab6-490f-8673-1d2e1bee54da" style="display:none"></span>
+        ![](../assets/media/occ-captures/sites/uuid/todos/demo-site-1-tasks-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/sites/uuid/todos/demo-site-1-tasks-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
 !!! step
 
     <span data-uuid="936edba5-5c40-49b1-9253-4118745eeb1e" style="display:none"></span>
