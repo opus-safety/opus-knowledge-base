@@ -243,7 +243,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
     !!! warning
 
         <span data-uuid="a6c3f298-e6c8-482c-9b35-b25a5900ed04" style="display:none"></span>
-        **Date of document (authoring date)** is the date the requirement was completed, such as the servicing date or the training date. It is **not** the revision date or the date you upload the file. Entering an inaccurate date may result in unnecessary early re-submission or cause non-compliance to go unnoticed.
+        **Date of document (authoring date)** is the date the file, service, or certificate was completed, authored or became valid. Entering an inaccurate date may result in unnecessary early re-submission or cause non-compliance to go unnoticed.
 
 !!! step
 
