@@ -38,7 +38,9 @@ When a document is due for revision, the system creates a **reminder task** for 
 !!! step
 
     <span data-uuid="54a10d55-ea11-4c59-a910-449d6c324eeb" style="display:none"></span>
-    Open the reminder task from the site inbox, or from **My assigned tasks** on [My Dashboard](https://cloud.opus-safety.co.uk/dashboard).
+    Find the task from the site inbox
+
+    :lucide-info: *If you've been assigned the task, it will appear under My Tasks at the top of the page or can be found via the dedicated **[My assigned tasks](https://cloud.opus-safety.co.uk/my/todos)** page.*
 
     <span data-uuid="d87b617d-386e-4e4a-9cee-6061d90ed313" style="display:none"></span>
     ![](../assets/media/occ-captures/sites/uuid/site-inbox-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
