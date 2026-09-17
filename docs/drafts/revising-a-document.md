@@ -96,6 +96,12 @@ When a document is due for revision, the system creates a **reminder task** for 
     ![](../assets/media/occ-captures/sites/uuid/documents/id/store-document-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/sites/uuid/documents/id/store-document-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
+!!! success "Complete!"
+
+    <span data-uuid="97af8ebc-620e-444b-b8fa-9fffc98381cf" style="display:none"></span>
+
+    You've now uploaded a new revision against the document!
+
 ## Revising a document via Manage Mode
 <span data-uuid="d1fe2286-59fc-4b34-b0bd-3c578b0f12f9" style="display:none"></span>
 
