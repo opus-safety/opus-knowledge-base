@@ -289,4 +289,4 @@ Sometimes you need to update a document when there is no reminder task for it. *
 !!! success "Complete!"
 
     <span data-uuid="e9bc37df-b577-4009-b0c8-f66e62b38510" style="display:none"></span>
-    The new file is now the current revision of the document, and the previous files remain in its history. If a reminder task was open for this document, it resolves automatically and the next reminder is scheduled from the date you entered.
+    You've now uploaded a new revision against the document!
