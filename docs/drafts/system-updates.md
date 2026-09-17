@@ -30,6 +30,6 @@ search:
         Assigning tasks is now easier than ever. Potential assignees are now grouped by access level, and we’ve also added a search bar to make finding the right person quicker and easier.
 
         <span data-uuid="d13bc63c-ca69-4299-84c3-da51ed695615" style="display:none"></span>
-        ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
-        ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+        ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
