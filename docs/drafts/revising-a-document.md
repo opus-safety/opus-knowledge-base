@@ -64,7 +64,7 @@ When a document is due for revision, the system creates a **reminder task** for 
 !!! step
 
     <span data-uuid="936edba5-5c40-49b1-9253-4118745eeb1e" style="display:none"></span>
-    Click the button or blue link in the initial task message. This takes you straight to the document that needs revising, where you can upload the new file with **+Add file**, as described at the end of the next section.
+    Click the button or blue link in the document reminder task.
 
     <span data-uuid="3d71eaaf-27ce-434e-a78a-ce296edddbcc" style="display:none"></span>
     ![](../assets/media/occ-captures/todos/uuid/example-document-reminder-task-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
