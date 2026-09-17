@@ -275,11 +275,6 @@ Sometimes you need to update a document when there is no reminder task for it. *
         <span data-uuid="a6c3f298-e6c8-482c-9b35-b25a5900ed04" style="display:none"></span>
         **Date of document (authoring date)** is the date the file, service, or certificate was completed, authored or became valid. Entering an inaccurate date may result in unnecessary early re-submission or cause non-compliance to go unnoticed.
 
-!!! step
-
-    <span data-uuid="da7cf85b-1e19-4de5-9799-1088891d35aa" style="display:none"></span>
-    Click **Store document revision**.
-
 !!! success "Complete!"
 
     <span data-uuid="e9bc37df-b577-4009-b0c8-f66e62b38510" style="display:none"></span>
