@@ -131,47 +131,6 @@ Sometimes you need to update a document when there is no reminder task for it. *
         ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
         ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-=== ":lucide-users: Employees"
-
-    <span data-uuid="24e42ab1-1adb-4c7d-b846-0232705ffad1" style="display:none"></span>
-    Use this route when the document belongs to an employee, such as a personal risk assessment.
-
-    !!! step
-
-        <span data-uuid="e206388b-25f7-494e-b7f4-2cc71818ea97" style="display:none"></span>
-        From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
-
-        <span data-uuid="c32f09d5-1bd5-4d1b-a851-2c0a6d9dd485" style="display:none"></span>
-        ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-    !!! step
-
-        <span data-uuid="351ceb89-2e16-4cce-83c9-88b423ffed97" style="display:none"></span>
-        From the site inbox, click the **Switch to Manage Mode** button.
-
-        <span data-uuid="1a22f320-85aa-4753-bd48-2d3f2580cf83" style="display:none"></span>
-        ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-    !!! step
-
-        <span data-uuid="9086265c-e1ce-4a91-86fd-221ceaf672cf" style="display:none"></span>
-        Click **Employee records** on the manage sidebar.
-
-        <span data-uuid="d5f9b839-8678-4787-a141-7c1d4db75ded" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-    !!! step
-
-        <span data-uuid="a373525b-4cc7-464e-96bc-bb91e8e5f550" style="display:none"></span>
-        Find the employee from the list and click on their name.
-
-        <span data-uuid="75c59316-b45d-4d44-93b0-f5442555789c" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
-
 === ":lucide-package: Assets"
 
     <span data-uuid="cbf72202-570d-41c9-8d1e-e54c426035f6" style="display:none"></span>
@@ -212,6 +171,47 @@ Sometimes you need to update a document when there is no reminder task for it. *
         <span data-uuid="676d9fc4-6c51-4c78-92c4-f8b367af05e0" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/equipments/list-light-mode.png#only-light)
         ![](../assets/media/occ-captures/admin/sites/uuid/equipments/list-dark-mode.png#only-dark)
+
+=== ":lucide-users: Employees"
+
+    <span data-uuid="24e42ab1-1adb-4c7d-b846-0232705ffad1" style="display:none"></span>
+    Use this route when the document belongs to an employee, such as a personal risk assessment.
+
+    !!! step
+
+        <span data-uuid="e206388b-25f7-494e-b7f4-2cc71818ea97" style="display:none"></span>
+        From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
+
+        <span data-uuid="c32f09d5-1bd5-4d1b-a851-2c0a6d9dd485" style="display:none"></span>
+        ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="351ceb89-2e16-4cce-83c9-88b423ffed97" style="display:none"></span>
+        From the site inbox, click the **Switch to Manage Mode** button.
+
+        <span data-uuid="1a22f320-85aa-4753-bd48-2d3f2580cf83" style="display:none"></span>
+        ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="9086265c-e1ce-4a91-86fd-221ceaf672cf" style="display:none"></span>
+        Click **Employee records** on the manage sidebar.
+
+        <span data-uuid="d5f9b839-8678-4787-a141-7c1d4db75ded" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="a373525b-4cc7-464e-96bc-bb91e8e5f550" style="display:none"></span>
+        Find the employee from the list and click on their name.
+
+        <span data-uuid="75c59316-b45d-4d44-93b0-f5442555789c" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
