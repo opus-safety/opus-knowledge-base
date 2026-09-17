@@ -111,7 +111,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
 === ":lucide-building: Sites"
 
     <span data-uuid="cd8c2b74-ff91-4f36-9209-2d6fc85035f2" style="display:none"></span>
-    Use this route when the document belongs to the site itself, such as a company policy or risk assessment.
+    Use this route when the document belongs to the site itself, such as a risk assessment.
 
     !!! step
 
@@ -134,7 +134,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
 === ":lucide-package: Assets"
 
     <span data-uuid="cbf72202-570d-41c9-8d1e-e54c426035f6" style="display:none"></span>
-    Use this route when the document belongs to an asset, such as a service certificate or inspection reports.
+    Use this route when the document belongs to an asset, such as a service certificate.
 
     !!! step
 
@@ -175,7 +175,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
 === ":lucide-users: Employees"
 
     <span data-uuid="24e42ab1-1adb-4c7d-b846-0232705ffad1" style="display:none"></span>
-    Use this route when the document belongs to an employee, such as a personal records or a driving licence.
+    Use this route when the document belongs to an employee, such as personal records.
 
     !!! step
 
