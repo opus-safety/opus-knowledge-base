@@ -240,6 +240,10 @@ Sometimes you need to update a document when there is no reminder task for it. *
     <span data-uuid="24fbdc8b-3a66-4658-b696-cfc35507c79b" style="display:none"></span>
     Upload the revised file and enter the **Date of document**.
 
+    <span data-uuid="a4c46ea1-e3a0-4981-ba28-63f5e129792c" style="display:none"></span>
+    ![](../assets/media/occ-captures/sites/uuid/documents/id/document-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/sites/uuid/documents/id/document-dark-mode.png#only-dark)
+
     !!! warning
 
         <span data-uuid="a6c3f298-e6c8-482c-9b35-b25a5900ed04" style="display:none"></span>
