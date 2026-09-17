@@ -266,6 +266,10 @@ Sometimes you need to update a document when there is no reminder task for it. *
         <span data-uuid="d4e692d6-6fa7-41f4-9c9a-4e6e5785f9b1" style="display:none"></span>
         Find the document you wish to revise and click on it to open it.
 
+        <span data-uuid="ce9a7798-851e-4fe0-ae88-c7799bbc8e77" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/documents/search-document-by-file-name-or-title-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/documents/search-document-by-file-name-or-title-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
 !!! step
 
     <span data-uuid="4fd98fc0-c0da-42ba-8c0f-457ff7e8e754" style="display:none"></span>
