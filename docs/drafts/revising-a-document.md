@@ -236,15 +236,6 @@ Sometimes you need to update a document when there is no reminder task for it. *
 
     !!! step
 
-        <span data-uuid="de38b4ae-d17d-4f33-ab92-a92da983662d" style="display:none"></span>
-        In the sidebar, click **Documents**.
-
-        <span data-uuid="ff64df98-d699-4f65-bc8b-7be5221e949e" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/documents-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/documents-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-    !!! step
-
         <span data-uuid="d4e692d6-6fa7-41f4-9c9a-4e6e5785f9b1" style="display:none"></span>
         Find the document you wish to revise and click on it to open it.
 
