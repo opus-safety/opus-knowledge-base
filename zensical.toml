@@ -118,7 +118,8 @@ draft_nav = [
     ]},
     {"Requirements" = [
       {"Documents" = [
-        {"Revising a document" = "drafts/revising-a-document.md"}
+        {"Revising a document" = "drafts/revising-a-document.md"},
+        {"Adding a new document" = "drafts/adding-a-new-document.md"}
       ]}
     ]},
     {"Contractors" = [
