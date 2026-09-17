@@ -70,12 +70,6 @@ When a document is due for revision, the system creates a **reminder task** for 
     ![](../assets/media/occ-captures/todos/uuid/example-document-reminder-task-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
     ![](../assets/media/occ-captures/todos/uuid/example-document-reminder-task-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
-    !!! note
-
-        <span data-uuid="ea4dc41a-6c9c-4147-9246-deca229a0a7b" style="display:none"></span>
-
-        You cannot resolve a document reminder task with the **Resolve** button. It resolves automatically once the revision has been stored.
-
 ## Revising a document via Manage Mode
 <span data-uuid="d1fe2286-59fc-4b34-b0bd-3c578b0f12f9" style="display:none"></span>
 
