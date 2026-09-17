@@ -53,6 +53,10 @@ When a document is due for revision, the system creates a **reminder task** for 
 
         This gives you the ability to search and filter to find specific tasks more easily.
 
+        <span data-uuid="85af9b60-cf05-4f08-9b73-54c64c48d129" style="display:none"></span>
+        ![](../assets/media/occ-captures/sites/uuid/site-inbox-a-all-tasks-for-demo-company-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/sites/uuid/site-inbox-a-all-tasks-for-demo-company-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
 !!! step
 
     <span data-uuid="936edba5-5c40-49b1-9253-4118745eeb1e" style="display:none"></span>
