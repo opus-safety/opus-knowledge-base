@@ -253,7 +253,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
 !!! step
 
     <span data-uuid="24fbdc8b-3a66-4658-b696-cfc35507c79b" style="display:none"></span>
-    Upload the revised file and enter the **Date of document**.
+    Upload the file and enter the **Date of document**.
 
     <span data-uuid="7c8b9b4a-0264-4ff8-817d-751440b10e5d" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/documents/id/revisions/new/new-document-revision-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
