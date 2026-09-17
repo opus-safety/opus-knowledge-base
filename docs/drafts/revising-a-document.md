@@ -8,9 +8,7 @@ search:
 # Revising a document
 <span data-uuid="6d65c9fa-0907-46d2-b7dc-e02f90456ae9" style="display:none"></span>
 
-Every document requirement in **Opus Compliance Cloud** holds a history of uploaded files, known as **revisions**. When a document is due, or has simply been updated, you revise it by uploading the new file against the existing requirement rather than creating a new document.
-
-**If a reminder task is prompting you, start with the first section.** Otherwise, use the second section to find the document through Manage Mode.
+Every document requirement in **Opus Compliance Cloud** holds a history of uploaded files, known as **revisions**. Follow this guide to learn how to upload a document revision.
 
 !!! info "Document doesn't exist yet?"
 
