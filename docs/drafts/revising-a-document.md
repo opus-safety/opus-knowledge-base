@@ -144,7 +144,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
     !!! step
 
         <span data-uuid="c1cffea1-ca1e-4a0f-8bc0-f00d16e09422" style="display:none"></span>
-        Find the document you wish to revise, either with the search bar or by browsing the directory, and click on it to open it.
+        Find the document you wish to revise and click on it to open it.
 
 === ":lucide-users: Employees"
 
