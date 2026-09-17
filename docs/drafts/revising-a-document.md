@@ -166,7 +166,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
     !!! step
 
         <span data-uuid="9b0b0cad-8ad3-4489-beee-2dc74c30fd2d" style="display:none"></span>
-        Find and select the asset from the list. Use the search filters to narrow it down.
+        Find and select the asset from the list.
 
         <span data-uuid="676d9fc4-6c51-4c78-92c4-f8b367af05e0" style="display:none"></span>
         ![](../assets/media/occ-captures/admin/sites/uuid/equipments/list-light-mode.png#only-light)
