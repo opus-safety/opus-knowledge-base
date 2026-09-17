@@ -13,7 +13,7 @@ Every document requirement in **Opus Compliance Cloud** holds a history of uploa
 
 Follow this guide to learn how to upload a document revision.
 
-!!! info "Document doesn't exist yet?"
+!!! question "Document doesn't exist yet?"
 
     <span data-uuid="03d0223e-e3ff-4369-b191-42a4a5765af5" style="display:none"></span>
     Revising only applies to a document requirement that already exists. If there is nothing to revise, follow our guide on adding a new document instead.
