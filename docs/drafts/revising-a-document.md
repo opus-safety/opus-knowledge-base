@@ -111,7 +111,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
 === ":lucide-building: Sites"
 
     <span data-uuid="cd8c2b74-ff91-4f36-9209-2d6fc85035f2" style="display:none"></span>
-    Use this route when the document belongs to the site itself, such as a risk assessment.
+    Use this route when the document belongs to the site itself, such as risk assessments.
 
     !!! step
 
