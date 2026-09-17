@@ -134,7 +134,7 @@ Sometimes you need to update a document when there is no reminder task for it. *
 === ":lucide-package: Assets"
 
     <span data-uuid="cbf72202-570d-41c9-8d1e-e54c426035f6" style="display:none"></span>
-    Use this route when the document belongs to an asset, such as a service certificate.
+    Use this route when the document belongs to an asset, such as a service certificate or inspection reports.
 
     !!! step
 
