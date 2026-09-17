@@ -278,14 +278,9 @@ Sometimes you need to update a document when there is no reminder task for it. *
 !!! step
 
     <span data-uuid="e6ca2486-84bd-411e-8d3f-651a7caa464f" style="display:none"></span>
-
     Click **Store document**.
 
     *The open reminder task will automatically resolve itself, assuming the provided file/document date satisfies the requirement.*
-
-    <span data-uuid="8c145b01-80ec-40df-8100-8cebc06519f2" style="display:none"></span>
-    ![](../assets/media/occ-captures/sites/uuid/documents/id/store-document-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/sites/uuid/documents/id/store-document-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! success "Complete!"
 
