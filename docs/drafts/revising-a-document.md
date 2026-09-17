@@ -46,7 +46,7 @@ When a document is due for revision, the system creates a **reminder task** for 
     ![](../assets/media/occ-captures/sites/uuid/site-inbox-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
     ![](../assets/media/occ-captures/sites/uuid/site-inbox-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
-    !!! tip "Still can't find the task?"
+    ??? tip "Still can't find the task?"
 
         <span data-uuid="4c127c97-7000-4dc7-9728-2c27f5242edf" style="display:none"></span>
         Follow the link at the top of the site inbox to **All tasks**.
