@@ -276,10 +276,6 @@ Sometimes you need to update a document when there is no reminder task for it. *
         ![](../assets/media/occ-captures/admin/sites/uuid/documents/id/add-file-light-mode.png#only-light){ style="height: 50px" loading=lazy }
         ![](../assets/media/occ-captures/admin/sites/uuid/documents/id/add-file-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-    <span data-uuid="997a7e8c-84e6-4772-a700-3417872c50e5" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/documents/id/add-file-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/documents/id/add-file-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
 !!! step
 
     <span data-uuid="24fbdc8b-3a66-4658-b696-cfc35507c79b" style="display:none"></span>
