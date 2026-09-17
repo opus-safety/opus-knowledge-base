@@ -508,5 +508,10 @@
   },
   "docs/assets/media/system-update-captures/change-assigned-user-z-250f57e5-light-mode.png": {
     "zapped": true
+  },
+  "docs/assets/media/occ-captures/sites/uuid/site-inbox-a-all-tasks-for-demo-company-light-mode.png": {
+    "resized": true,
+    "padding": 20,
+    "annotated": true
   }
 }
