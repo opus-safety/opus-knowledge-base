@@ -10,7 +10,7 @@ search:
 
 Every document requirement in **Opus Compliance Cloud** holds a history of uploaded files, known as **revisions**. When a document is due, or has simply been updated, you revise it by uploading the new file against the existing requirement rather than creating a new document.
 
-**Start from the tab that matches how you are getting to the document**, then continue with the common steps below.
+**If a reminder task is prompting you, start with the first section.** Otherwise, use the second section to find the document through Manage Mode.
 
 !!! info "Document doesn't exist yet?"
 
@@ -20,33 +20,37 @@ Every document requirement in **Opus Compliance Cloud** holds a history of uploa
     <span data-uuid="74638114-df90-41fb-99c6-a3ccc3fb4911" style="display:none"></span>
     [Adding a new document :lucide-arrow-up-right:](https://support.opus-safety.co.uk/pages/adding-a-new-document/){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
 
+## Revising a due document
+<span data-uuid="ea3c2eec-c310-413c-bbc7-466a923019b3" style="display:none"></span>
+
+When a document is due for revision, the system creates a **reminder task** for it in the site inbox. This is the quickest route to the document.
+
+!!! step
+
+    <span data-uuid="54a10d55-ea11-4c59-a910-449d6c324eeb" style="display:none"></span>
+    Open the reminder task from the site inbox, or from **My assigned tasks** on [My Dashboard](https://cloud.opus-safety.co.uk/dashboard).
+
+!!! step
+
+    <span data-uuid="936edba5-5c40-49b1-9253-4118745eeb1e" style="display:none"></span>
+    Click the button or blue link in the initial task message. This takes you straight to the document that needs revising, where you can upload the new file with **+Add file**, as described at the end of the next section.
+
+!!! note
+
+    <span data-uuid="13d3a60b-d9fc-4eb0-9ce1-914d5228d1ce" style="display:none"></span>
+    You cannot resolve a document reminder task with the **Resolve** button. It resolves automatically once the revision has been stored.
+
+## Revising a document via Manage Mode
+<span data-uuid="d1fe2286-59fc-4b34-b0bd-3c578b0f12f9" style="display:none"></span>
+
+Sometimes you need to update a document when there is no reminder task for it. **Pick the tab that matches where the document belongs**, then continue with the upload steps below the tabs.
+
 <span data-uuid="0373cc20-6947-4a2e-8c35-fd58612fa7fd" style="display:none"></span>
-=== ":lucide-bell: Reminder task"
-
-    <span data-uuid="39727cd9-aa70-4be7-9ff9-9e22a80d2452" style="display:none"></span>
-
-    When a document is due for revision, the system creates a **reminder task** for it in the site inbox. This is the quickest route.
-
-    !!! step
-
-        <span data-uuid="54a10d55-ea11-4c59-a910-449d6c324eeb" style="display:none"></span>
-        Open the reminder task from the site inbox, or from **My assigned tasks** on [My Dashboard](https://cloud.opus-safety.co.uk/dashboard).
-
-    !!! step
-
-        <span data-uuid="936edba5-5c40-49b1-9253-4118745eeb1e" style="display:none"></span>
-        Click the button or blue link in the initial task message. This takes you straight to the document that needs revising.
-
-    !!! note
-
-        <span data-uuid="13d3a60b-d9fc-4eb0-9ce1-914d5228d1ce" style="display:none"></span>
-        You cannot resolve a document reminder task with the **Resolve** button. It resolves automatically once the revision has been stored.
-
 === ":lucide-building: Sites"
 
     <span data-uuid="cd8c2b74-ff91-4f36-9209-2d6fc85035f2" style="display:none"></span>
 
-    Use this route when there is no reminder task and the document belongs to the site itself.
+    Use this route when the document belongs to the site itself.
 
     !!! step
 
@@ -84,7 +88,7 @@ Every document requirement in **Opus Compliance Cloud** holds a history of uploa
 
     <span data-uuid="24e42ab1-1adb-4c7d-b846-0232705ffad1" style="display:none"></span>
 
-    Use this route when there is no reminder task and the document belongs to an employee, such as a training certificate.
+    Use this route when the document belongs to an employee, such as a training certificate.
 
     !!! step
 
@@ -140,7 +144,7 @@ Every document requirement in **Opus Compliance Cloud** holds a history of uploa
 
     <span data-uuid="cbf72202-570d-41c9-8d1e-e54c426035f6" style="display:none"></span>
 
-    Use this route when there is no reminder task and the document belongs to an asset, such as a service certificate.
+    Use this route when the document belongs to an asset, such as a service certificate.
 
     !!! step
 
