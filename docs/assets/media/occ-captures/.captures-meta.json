@@ -521,5 +521,9 @@
   "docs/assets/media/occ-captures/admin/sites/uuid/documents/id/revisions/new/new-document-revision-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/sites/uuid/documents/id/document-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
