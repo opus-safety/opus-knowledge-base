@@ -85,6 +85,10 @@ When a document is due for revision, the system creates a **reminder task** for 
 
         **Date of document (authoring date)** is the date the file, service, or certificate was completed, authored or became valid. Entering an inaccurate date may result in unnecessary early re-submission or cause non-compliance to go unnoticed.
 
+!!! step
+
+    <span data-uuid="e5858b9f-a90a-4fd0-b773-64f6e7170b67" style="display:none"></span>
+
 ## Revising a document via Manage Mode
 <span data-uuid="d1fe2286-59fc-4b34-b0bd-3c578b0f12f9" style="display:none"></span>
 
