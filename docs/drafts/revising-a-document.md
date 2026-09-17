@@ -1,8 +1,9 @@
 ---
-tags:
-  - Managing OCC
+icon: lucide/file-up
 search:
   exclude: true
+tags:
+  - Managing OCC
 ---
 
 # Revising a document
