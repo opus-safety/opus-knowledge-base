@@ -89,6 +89,10 @@ When a document is due for revision, the system creates a **reminder task** for 
 
     <span data-uuid="e5858b9f-a90a-4fd0-b773-64f6e7170b67" style="display:none"></span>
 
+    <span data-uuid="c65ce513-53a1-46e6-8078-5e56af3b7980" style="display:none"></span>
+    ![](../assets/media/occ-captures/sites/uuid/documents/id/store-document-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/documents/id/store-document-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
 ## Revising a document via Manage Mode
 <span data-uuid="d1fe2286-59fc-4b34-b0bd-3c578b0f12f9" style="display:none"></span>
 
