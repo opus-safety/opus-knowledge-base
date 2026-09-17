@@ -272,6 +272,16 @@ Sometimes you need to update a document when there is no reminder task for it. *
 
 !!! step
 
+    <span data-uuid="463ca752-0a42-4edb-a332-37d2433bf0c3" style="display:none"></span>
+
+    In the sidebar, click **Documents**.
+
+    <span data-uuid="c489e9e4-cefd-44a0-b224-3f6c62836250" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/documents-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/documents-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
     <span data-uuid="4fd98fc0-c0da-42ba-8c0f-457ff7e8e754" style="display:none"></span>
     On the manage document page, click **+Revise (upload file)**.
 
