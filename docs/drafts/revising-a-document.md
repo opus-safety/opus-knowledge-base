@@ -228,6 +228,16 @@ Sometimes you need to update a document when there is no reminder task for it. *
 
 !!! step
 
+    <span data-uuid="228e4cbf-5cda-4519-9d70-837a32e0dea8" style="display:none"></span>
+
+    Find the document you wish to revise and click on it to open it.
+
+    <span data-uuid="6f550bee-90b4-4bb7-8ff1-08c80b5fa4c7" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/documents/search-document-by-file-name-or-title-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/documents/search-document-by-file-name-or-title-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
+!!! step
+
     <span data-uuid="4fd98fc0-c0da-42ba-8c0f-457ff7e8e754" style="display:none"></span>
     On the manage document page, click **+Revise (upload file)**.
 
