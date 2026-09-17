@@ -76,11 +76,6 @@ When a document is due for revision, the system creates a **reminder task** for 
 
         You cannot resolve a document reminder task with the **Resolve** button. It resolves automatically once the revision has been stored.
 
-!!! note
-
-    <span data-uuid="13d3a60b-d9fc-4eb0-9ce1-914d5228d1ce" style="display:none"></span>
-    You cannot resolve a document reminder task with the **Resolve** button. It resolves automatically once the revision has been stored.
-
 ## Revising a document via Manage Mode
 <span data-uuid="d1fe2286-59fc-4b34-b0bd-3c578b0f12f9" style="display:none"></span>
 
