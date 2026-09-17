@@ -75,7 +75,8 @@ nav = [
     ]},
     {"Requirements" = [
       {"Documents" = [
-        {"Adding a new document" = "pages/adding-a-new-document.md"}
+        {"Adding a new document" = "pages/adding-a-new-document.md"},
+        {"Revising a document" = "pages/revising-a-document.md"}
       ]},
       {"Intervals & Lead Times" = "pages/intervals-and-lead-times.md"}
     ]},
@@ -118,7 +119,6 @@ draft_nav = [
     ]},
     {"Requirements" = [
       {"Documents" = [
-        {"Revising a document" = "drafts/revising-a-document.md"},
         {"Adding a new document" = "drafts/adding-a-new-document.md"}
       ]}
     ]},
