@@ -116,6 +116,11 @@ draft_nav = [
       ]},
       {"Task Overview" = "drafts/task-overview.md"}
     ]},
+    {"Requirements" = [
+      {"Documents" = [
+        {"Revising a document" = "drafts/revising-a-document.md"}
+      ]}
+    ]},
     {"Contractors" = [
       {"Permits to Work" = "drafts/permits-to-work.md"}
     ]},
