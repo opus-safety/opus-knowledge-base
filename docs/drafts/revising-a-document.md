@@ -8,7 +8,9 @@ search:
 # Revising a document
 <span data-uuid="6d65c9fa-0907-46d2-b7dc-e02f90456ae9" style="display:none"></span>
 
-Every document requirement in **Opus Compliance Cloud** holds a history of uploaded files, known as **revisions**. Follow this guide to learn how to upload a document revision.
+Every document requirement in **Opus Compliance Cloud** holds a history of uploaded files, known as **revisions**.
+
+Follow this guide to learn how to upload a document revision.
 
 !!! info "Document doesn't exist yet?"
 
