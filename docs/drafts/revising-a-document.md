@@ -88,6 +88,9 @@ When a document is due for revision, the system creates a **reminder task** for 
 !!! step
 
     <span data-uuid="e5858b9f-a90a-4fd0-b773-64f6e7170b67" style="display:none"></span>
+    Click **Store document**.
+
+    *The open reminder task will automatically resolve itself, assuming the provided file/document date satisfies the requirement.*
 
     <span data-uuid="c65ce513-53a1-46e6-8078-5e56af3b7980" style="display:none"></span>
     ![](../assets/media/occ-captures/sites/uuid/documents/id/store-document-light-mode.png#only-light){ style="height: 50px" loading=lazy }
