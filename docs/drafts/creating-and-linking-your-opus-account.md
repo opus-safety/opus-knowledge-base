@@ -126,6 +126,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 ## Configuring your profile, subscriptions and notifications.
 <span data-uuid="a6d65d10-078c-4a38-a27b-1bea3ca56da0" style="display:none"></span>
 
+If you’re a new user, you’ll be guided through the subscription wizard below immediately after linking. If you're an existing user, you can retake the subscription wizard at any time from [your subscriptions page](https://cloud.opus-safety.co.uk/my/subscriptions).
 
 !!! step
 
