@@ -36,7 +36,7 @@ search:
     ??? outline "<span class="mb-label mb-label-mauve">Better required field visibility</span>"
 
         <span data-uuid="12aa1efd-d289-4d80-a9f2-692dd03c37a5" style="display:none"></span>
-        Fields marked as required now have a red :lucide-asterisk: icon, making it easier to see what needs filling in.
+        Fields marked as required now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
 
     ??? outline "<span class="mb-label mb-label-mauve">New missing information flow</span>"
 
