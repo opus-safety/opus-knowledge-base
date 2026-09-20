@@ -58,7 +58,7 @@ search:
 
         | Input Type | Before | After |
         | :--- | :--- | :--- |
-        | Employee | <span data-uuid="458baba3-8b25-4f13-a904-3660ccdabdb0" style="display:none"></span>![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-light-mode.png#only-light){ width="200" loading=lazy } ![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-dark-mode.png#only-dark){ width="200" loading=lazy } | <span data-uuid="61c001a8-8b44-4636-a96f-b468a319c499" style="display:none"></span>![](../assets/media/system-update-captures/pick-employee-z-71d7d17d-light-mode.png#only-light){ width="250" loading=lazy } ![](../assets/media/system-update-captures/pick-employee-z-71d7d17d-dark-mode.png#only-dark){ width="250" loading=lazy } |
+        | Employee | <span data-uuid="458baba3-8b25-4f13-a904-3660ccdabdb0" style="display:none"></span>![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-light-mode.png#only-light){ width="200" loading=lazy } ![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-dark-mode.png#only-dark){ width="200" loading=lazy } |  |
         | Site | <span data-uuid="792f17b3-47c6-4c9b-97d6-ed2d26efafea" style="display:none"></span>![](../assets/media/system-update-captures/against-which-site-should-this-be-logged-ce84e794-light-mode.png#only-light){ width="200" loading=lazy } ![](../assets/media/system-update-captures/against-which-site-should-this-be-logged-ce84e794-dark-mode.png#only-dark){ width="200" loading=lazy } |  |
         |  |  |  |
 
