@@ -33,7 +33,7 @@ search:
         ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
         ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
-    ??? outline "<span class="mb-label mb-label-mauve">Better required field visibility</span>"
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-eye: Better required field visibility</span>"
 
         <span data-uuid="12aa1efd-d289-4d80-a9f2-692dd03c37a5" style="display:none"></span>
         Fields marked as required now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
