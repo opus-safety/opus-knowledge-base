@@ -38,3 +38,9 @@ search:
         <span data-uuid="12aa1efd-d289-4d80-a9f2-692dd03c37a5" style="display:none"></span>
         Fields marked as required now have a red :lucide-asterisk: icon.
 
+    ??? outline "<span class="mb-label mb-label-mauve">New missing information flow</span>"
+
+        <span data-uuid="030980e5-3a5e-43f1-96ff-01990d597fe8" style="display:none"></span>
+
+        If attempting to resolve a task, where there is missing required information, a new popup warning will appear. The warning lists all required fields that have missing information and are links
+
