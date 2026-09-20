@@ -56,9 +56,9 @@ search:
 
         <span data-uuid="7dcbdb57-0a6a-4c12-aa06-39316674f3fe" style="display:none"></span>
 
-        | Input Type | Examples of usage | Before | After |
-        | :--- | :--- | :--- | :--- |
-        | Employee | Used in many forms - such as the incident form for selecting injured employees | <span data-uuid="458baba3-8b25-4f13-a904-3660ccdabdb0" style="display:none"></span>![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-light-mode.png#only-light){ width="100" loading=lazy } ![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-dark-mode.png#only-dark){ width="100" loading=lazy } | <span data-uuid="61c001a8-8b44-4636-a96f-b468a319c499" style="display:none"></span>![](../assets/media/system-update-captures/pick-employee-z-71d7d17d-light-mode.png#only-light){ width="150" loading=lazy } ![](../assets/media/system-update-captures/pick-employee-z-71d7d17d-dark-mode.png#only-dark){ width="150" loading=lazy } |
-        | Site | Used in many forms - such as the incident form for selecting occurance site |  |  |
-        |  |  |  |  |
+        | Input Type | Before | After |
+        | :--- | :--- | :--- |
+        | Employee | <span data-uuid="458baba3-8b25-4f13-a904-3660ccdabdb0" style="display:none"></span>![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-light-mode.png#only-light){ width="100" loading=lazy } ![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-dark-mode.png#only-dark){ width="100" loading=lazy } | <span data-uuid="61c001a8-8b44-4636-a96f-b468a319c499" style="display:none"></span>![](../assets/media/system-update-captures/pick-employee-z-71d7d17d-light-mode.png#only-light){ width="150" loading=lazy } ![](../assets/media/system-update-captures/pick-employee-z-71d7d17d-dark-mode.png#only-dark){ width="150" loading=lazy } |
+        | Site |  |  |
+        |  |  |  |
 
