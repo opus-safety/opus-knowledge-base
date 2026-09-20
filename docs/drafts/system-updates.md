@@ -54,3 +54,11 @@ search:
         <span data-uuid="47981c41-2559-4636-b236-e9f4b07bd22a" style="display:none"></span>
         The following field types have been improved:
 
+        <span data-uuid="7dcbdb57-0a6a-4c12-aa06-39316674f3fe" style="display:none"></span>
+
+        | Input Type | Examples of usage | Before | After |
+        | :--- | :--- | :--- | :--- |
+        | Employee | Used in many forms - such as the incident form for selecting injured employees |  |  |
+        | Site | Used in many forms - such as the incident form for selecting occurance site |  |  |
+        |  |  |  |  |
+
