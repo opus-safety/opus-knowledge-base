@@ -41,6 +41,5 @@ search:
     ??? outline "<span class="mb-label mb-label-mauve">New missing information flow</span>"
 
         <span data-uuid="030980e5-3a5e-43f1-96ff-01990d597fe8" style="display:none"></span>
-
-        If attempting to resolve a task, where there is missing required information, a new popup warning will appear. The warning lists all required fields that have missing information and are links
+        When attempting to resolve a task with missing required information, a new warning popup will appear. The warning lists links to all required fields that are incomplete. Clicking on the link will take focus and highlight the relevant field(s) in red.
 
