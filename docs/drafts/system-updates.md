@@ -38,7 +38,7 @@ search:
         <span data-uuid="12aa1efd-d289-4d80-a9f2-692dd03c37a5" style="display:none"></span>
         Fields marked as required now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
 
-    ??? outline "<span class="mb-label mb-label-mauve">New missing information flow</span>"
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-triangle-alert: New missing information flow</span>"
 
         <span data-uuid="030980e5-3a5e-43f1-96ff-01990d597fe8" style="display:none"></span>
         When attempting to resolve a task with missing required information, a new warning popup will appear. The warning lists links to all required fields that are incomplete. Clicking on the link will take focus and highlight the relevant field(s) in red.
