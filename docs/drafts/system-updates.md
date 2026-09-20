@@ -36,5 +36,5 @@ search:
     ??? outline "<span class="mb-label mb-label-mauve">Better required field visibility</span>"
 
         <span data-uuid="12aa1efd-d289-4d80-a9f2-692dd03c37a5" style="display:none"></span>
-        Assigning tasks is now easier than ever. Potential assignees are now grouped by access level, and we’ve also added a search bar to make finding the right person quicker and easier.
+        Fields marked as required now have a red :lucide-asterisk: icon.
 
