@@ -533,5 +533,10 @@
   "docs/assets/media/system-update-captures/who-is-investigating-9679ad5a-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/system-update-captures/pick-employee-z-71d7d17d-light-mode.png": {
+    "resized": true,
+    "padding": 20,
+    "zapped": true
   }
 }
