@@ -33,3 +33,9 @@ search:
         ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
         ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
+    ??? outline "<span class="mb-label mb-label-mauve">Improved required field visibility</span>"
+
+        <span data-uuid="12aa1efd-d289-4d80-a9f2-692dd03c37a5" style="display:none"></span>
+
+        Assigning tasks is now easier than ever. Potential assignees are now grouped by access level, and we’ve also added a search bar to make finding the right person quicker and easier.
+
