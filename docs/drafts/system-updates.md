@@ -52,6 +52,5 @@ search:
     ??? outline "<span class="mb-label mb-label-mauve">Improvements to existing field types</span>"
 
         <span data-uuid="47981c41-2559-4636-b236-e9f4b07bd22a" style="display:none"></span>
-
-        The following existing field types have been improved:
+        The following field types have been improved:
 
