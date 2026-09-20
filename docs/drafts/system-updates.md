@@ -24,7 +24,7 @@ search:
         ![](../assets/media/system-update-captures/open-a-breadcrumbs-z-420d05cd-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/open-a-breadcrumbs-z-420d05cd-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
-    ??? outline "<span class="mb-label mb-label-mauve">Improved assigning</span>"
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-user-check: Improved assigning</span>"
 
         <span data-uuid="d1c0c48a-7f4e-42f9-a5e2-1425b91ef89a" style="display:none"></span>
         Assigning tasks is now easier than ever. Potential assignees are now grouped by access level, and we’ve also added a search bar to make finding the right person quicker and easier.
