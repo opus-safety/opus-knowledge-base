@@ -60,5 +60,4 @@ search:
         | :--- | :--- | :--- |
         | Employee | <span data-uuid="458baba3-8b25-4f13-a904-3660ccdabdb0" style="display:none"></span>![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-light-mode.png#only-light){ width="150" loading=lazy } ![](../assets/media/system-update-captures/who-is-investigating-9679ad5a-dark-mode.png#only-dark){ width="150" loading=lazy } | <span data-uuid="a7f07dcd-e8ae-4fe8-89de-a7d6ee32e8e9" style="display:none"></span>![](../assets/media/system-update-captures/pick-employee-z-1f28efe9-light-mode.png#only-light){ width="300" loading=lazy } ![](../assets/media/system-update-captures/pick-employee-z-1f28efe9-dark-mode.png#only-dark){ width="300" loading=lazy } |
         | Site | <span data-uuid="792f17b3-47c6-4c9b-97d6-ed2d26efafea" style="display:none"></span>![](../assets/media/system-update-captures/against-which-site-should-this-be-logged-ce84e794-light-mode.png#only-light){ width="150" loading=lazy } ![](../assets/media/system-update-captures/against-which-site-should-this-be-logged-ce84e794-dark-mode.png#only-dark){ width="150" loading=lazy } |  |
-        |  |  |  |
 
