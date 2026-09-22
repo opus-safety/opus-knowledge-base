@@ -38,6 +38,10 @@ search:
         <span data-uuid="12aa1efd-d289-4d80-a9f2-692dd03c37a5" style="display:none"></span>
         Fields marked as required now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
 
+        <span data-uuid="4ba8716e-ac73-4122-bcc0-0906e2a9f7d3" style="display:none"></span>
+        ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-triangle-alert: New missing information flow</span>"
 
         <span data-uuid="030980e5-3a5e-43f1-96ff-01990d597fe8" style="display:none"></span>
