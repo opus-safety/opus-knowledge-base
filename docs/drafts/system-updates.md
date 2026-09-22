@@ -53,6 +53,10 @@ search:
 
         [img of red input highlight]
 
+        <span data-uuid="eff81847-9f42-491f-bc52-c7fc6529ae4c" style="display:none"></span>
+        ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-arrow-up-circle: Improvements to existing field types</span>"
 
         <span data-uuid="47981c41-2559-4636-b236-e9f4b07bd22a" style="display:none"></span>
