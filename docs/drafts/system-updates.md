@@ -50,9 +50,6 @@ search:
 
         [img of popup warning]
 
-
-        [img of red input highlight]
-
         <span data-uuid="eff81847-9f42-491f-bc52-c7fc6529ae4c" style="display:none"></span>
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
