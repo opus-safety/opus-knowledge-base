@@ -52,6 +52,7 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 ## The Snapshot overview page
 <span data-uuid="e2dc7af4-0752-40d8-aa8c-45098a3a6a65" style="display:none"></span>
 
+The overview page provides a series of "due counts" across a range of different requirement/task types.
 
 <span data-uuid="2d8fecf8-b21b-46f0-9896-da7617c7287d" style="display:none"></span>
 ![](../assets/media/occ-captures/admin/sites/uuid/snapshot/overview/site-snapshot-a-sites-assets-employees-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
