@@ -80,8 +80,8 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 
 | Highlighted element | Description |
 | :--- | :--- |
-| <span class="mb-label mb-label-yellow">Search bar</span> | The search bar can be used to find or filter results. |
-| <span class="mb-label mb-label-blue">Overdue date range</span> | Modify the overdue date to tailor the report. By default it is set to show anything overdue before tomorrow (i.e. everything currently overdue). Clear this date range to show all possible results. |
-| <span class="mb-label mb-label-green">Results table</span> | All relevant results, taking into account any applied filters, will appear in this table. |
-| <span class="mb-label mb-label-orange">More filters</span> | You can apply more kinds of filters via this section. Filter by role/type, site, employee/asset and more! |
-| <span class="mb-label mb-label-pink">CSV Export</span> | Export the data in the results table to a CSV file containing a more detailed breakdown. These CSV's are commonly used for evidencing submissions across a range of employees/assets. |
+| <span class="mb-label mb-label-yellow">Search bar</span> | Use the search bar to find or filter for specific results. |
+| <span class="mb-label mb-label-blue">Overdue date range</span> | Adjust the overdue date range to customise the results shown. By default, this is set to show anything overdue before tomorrow (i.e. everything currently overdue). :lucide-lightbulb: Clear the date range to show all available results. |
+| <span class="mb-label mb-label-green">Results table</span> | All relevant results, based on the filters you have applied, will be displayed in this table. |
+| <span class="mb-label mb-label-orange">More filters</span> | Apply additional filters using this section, including filters for role/type, site, employee/asset and more. |
+| <span class="mb-label mb-label-pink">CSV Export</span> | Export the results table as a CSV file containing a more detailed breakdown of the data. :lucide-lightbulb: These CSV exports are commonly used to provide evidence for submissions across a range of employees and assets. |
