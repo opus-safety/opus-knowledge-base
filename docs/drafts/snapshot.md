@@ -49,7 +49,7 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
     ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/snapshot-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/snapshot-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-## Explanation of the Snapshot overview
+## The Snapshot overview page
 <span data-uuid="e2dc7af4-0752-40d8-aa8c-45098a3a6a65" style="display:none"></span>
 
 
