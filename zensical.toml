@@ -80,6 +80,9 @@ nav = [
       ]},
       {"Intervals & Lead Times" = "pages/intervals-and-lead-times.md"}
     ]},
+    {"Reporting" = [
+      {"Snapshot" = "pages/snapshot.md"}
+    ]},
     {"Contractors" = [
       {"Contractors Overview" = "pages/contractors-overview.md"},
       {"Contractor & Project statuses" = "pages/contractor-and-project-statuses.md"},
@@ -94,9 +97,6 @@ nav = [
     {"Other" = [
       {"FAQs" = "pages/faqs.md"},
       {"Data security" = "pages/data-security.md"}
-    ]},
-    {"Reporting" = [
-      {"Snapshot" = "pages/snapshot.md"}
     ]}
   ]},
   {"System" = [
@@ -120,11 +120,11 @@ draft_nav = [
       ]},
       {"Task Overview" = "drafts/task-overview.md"}
     ]},
-    {"Contractors" = [
-      {"Permits to Work" = "drafts/permits-to-work.md"}
-    ]},
     {"Reporting" = [
       {"Training & Gaps" = "drafts/training-and-gaps.md"}
+    ]},
+    {"Contractors" = [
+      {"Permits to Work" = "drafts/permits-to-work.md"}
     ]}
   ]}
 ]
