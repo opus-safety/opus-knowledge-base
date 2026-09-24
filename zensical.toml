@@ -94,6 +94,9 @@ nav = [
     {"Other" = [
       {"FAQs" = "pages/faqs.md"},
       {"Data security" = "pages/data-security.md"}
+    ]},
+    {"Reporting" = [
+      {"Snapshot" = "pages/snapshot.md"}
     ]}
   ]},
   {"System" = [
@@ -121,8 +124,7 @@ draft_nav = [
       {"Permits to Work" = "drafts/permits-to-work.md"}
     ]},
     {"Reporting" = [
-      {"Training & Gaps" = "drafts/training-and-gaps.md"},
-      {"Snapshot" = "drafts/snapshot.md"}
+      {"Training & Gaps" = "drafts/training-and-gaps.md"}
     ]}
   ]}
 ]
