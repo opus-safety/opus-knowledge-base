@@ -77,6 +77,7 @@ The overview page provides a series of “due counts” across a range of requir
 ## The Snapshot report page
 <span data-uuid="b8c29132-042f-4ac3-8a3a-d2f32caa1278" style="display:none"></span>
 
+The report page is displayed after selecting a tile from the overview page. By default, it lists all currently overdue items within the selected category, however provides additional filters and options to refine the results further.
 
 <span data-uuid="66d442d2-51d2-40ee-a9a4-f61a8f0aeeef" style="display:none"></span>
 ![](../assets/media/occ-captures/admin/sites/uuid/reports/due/employees/elearning/search-or-filter-a-overdue-after-name-employee-due-from-overdue-at-generate-csv-export-z-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
