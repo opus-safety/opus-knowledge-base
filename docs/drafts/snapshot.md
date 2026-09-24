@@ -80,9 +80,8 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 
 | Highlighted element | Description |
 | :--- | :--- |
-| <span class="mb-label mb-label-blue">Include sub-sites toggle</span> | Toggle this option to enable or disable the inclusion of data from sites beneath the current site. |
-| <span class="mb-label mb-label-rose">Sites section</span> | This section displays different categories of site-related requirements and tasks, along with their corresponding due counts. |
-| <span class="mb-label mb-label-amber">Assets section</span> | This section displays different categories of asset-related requirements and tasks, along with their corresponding due counts. |
-| <span class="mb-label mb-label-emerald">Employees section</span> | This section displays different categories of employee-related requirements and tasks, along with their corresponding due counts. |
-| <span class="mb-label mb-label-purple">Asset type / Employee role filters</span> | Use these options to filter the due counts by selected asset types and/or employee roles. |
-| <span class="mb-label mb-label-cyan">CSV export</span> | Export the data to a CSV file containing a detailed breakdown of the Snapshot figures for each individual site. |
+| <span class="mb-label mb-label-yellow">Search bar</span> | The search bar can be used to find or filter results. |
+| <span class="mb-label mb-label-blue">Overdue date range</span> | Modify the overdue date to tailor the report. By default it is set to show anything overdue before tomorrow (i.e. everything currently overdue). Clear this date range to show all possible results. |
+| <span class="mb-label mb-label-green">Results table</span> | All relevant results, taking into account any applied filters, will appear in this table. |
+| <span class="mb-label mb-label-orange">More filters</span> | You can apply more kinds of filters via this section. Filter by role/type, site, employee/asset and more! |
+| <span class="mb-label mb-label-pink">CSV Export</span> | Export the data in the results table to a CSV file containing a more detailed breakdown. These CSV's are commonly used for evidencing submissions across a range of employees/assets. |
