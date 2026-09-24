@@ -54,11 +54,6 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 
 The overview page provides a series of “due counts” across a range of requirement and task types, giving you a good summary of outstanding items.
 
-!!! warning
-
-    <span data-uuid="dd447ecb-181b-4450-854d-5632b5476680" style="display:none"></span>
-    While this page provides a useful “helicopter view” across a site, region or company, it should be used alongside the Site Inbox rather than as a replacement for it. Unlike [The Site Inbox](task-inboxing.md), the Snapshot does not prioritise tasks or include every type of task/requirement available.
-
 <span data-uuid="2d8fecf8-b21b-46f0-9896-da7617c7287d" style="display:none"></span>
 ![](../assets/media/occ-captures/admin/sites/uuid/snapshot/overview/site-snapshot-a-sites-assets-employees-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
 ![](../assets/media/occ-captures/admin/sites/uuid/snapshot/overview/site-snapshot-a-sites-assets-employees-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
