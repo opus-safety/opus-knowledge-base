@@ -87,7 +87,7 @@ The overview page provides a series of “due counts” across a range of requir
 | Highlighted element | Description |
 | :--- | :--- |
 | <span class="mb-label mb-label-yellow">Search bar</span> | Use the search bar to find or filter for specific results. |
-| <span class="mb-label mb-label-blue">Overdue date range</span> | Adjust the overdue date range to customise the results shown. By default, this is set to show anything overdue before tomorrow (i.e. everything currently overdue). :lucide-lightbulb: Clear the date range to show all available results. |
+| <span class="mb-label mb-label-blue">Overdue date range</span> | Adjust the overdue date range to customise the results shown. By default, this is set to show anything overdue before tomorrow (i.e. everything currently overdue). <span class="mb-label mb-label-emerald">:lucide-lightbulb: Tip</span> Clear the date range to show all available results. |
 | <span class="mb-label mb-label-green">Results table</span> | All relevant results, based on the filters you have applied, will be displayed in this table. |
 | <span class="mb-label mb-label-orange">More filters</span> | Apply additional filters using this section, including filters for role/type, site, employee/asset and more. |
-| <span class="mb-label mb-label-pink">CSV Export</span> | Export the results table as a CSV file containing a more detailed breakdown of the data. :lucide-lightbulb: These CSV exports are commonly used to provide evidence for submissions across a range of employees and assets. |
+| <span class="mb-label mb-label-pink">CSV Export</span> | Export the results table as a CSV file containing a more detailed breakdown of the data. <span class="mb-label mb-label-emerald">:lucide-lightbulb: Tip</span> These CSV exports are commonly used to provide evidence for submissions across a range of employees and assets. |
