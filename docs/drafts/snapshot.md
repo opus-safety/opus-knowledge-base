@@ -52,7 +52,7 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 ## The Snapshot overview page
 <span data-uuid="e2dc7af4-0752-40d8-aa8c-45098a3a6a65" style="display:none"></span>
 
-The overview page provides a series of "due counts" across a range of different requirement/task types.
+The overview page provides a series of “due counts” across a range of requirement and task types, giving you a good summary of outstanding items.
 
 !!! warning
 
