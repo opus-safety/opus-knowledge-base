@@ -70,3 +70,8 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 
 ## The Snapshot report page
 <span data-uuid="b8c29132-042f-4ac3-8a3a-d2f32caa1278" style="display:none"></span>
+
+
+<span data-uuid="66d442d2-51d2-40ee-a9a4-f61a8f0aeeef" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/reports/due/employees/elearning/search-or-filter-a-overdue-after-name-employee-due-from-overdue-at-generate-csv-export-z-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/reports/due/employees/elearning/search-or-filter-a-overdue-after-name-employee-due-from-overdue-at-generate-csv-export-z-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
