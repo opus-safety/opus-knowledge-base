@@ -75,3 +75,14 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 <span data-uuid="66d442d2-51d2-40ee-a9a4-f61a8f0aeeef" style="display:none"></span>
 ![](../assets/media/occ-captures/admin/sites/uuid/reports/due/employees/elearning/search-or-filter-a-overdue-after-name-employee-due-from-overdue-at-generate-csv-export-z-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
 ![](../assets/media/occ-captures/admin/sites/uuid/reports/due/employees/elearning/search-or-filter-a-overdue-after-name-employee-due-from-overdue-at-generate-csv-export-z-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
+<span data-uuid="71544a40-3e10-4deb-a1c7-694cace84eb9" style="display:none"></span>
+
+| Highlighted element | Description |
+| :--- | :--- |
+| <span class="mb-label mb-label-blue">Include sub-sites toggle</span> | Toggle this option to enable or disable the inclusion of data from sites beneath the current site. |
+| <span class="mb-label mb-label-rose">Sites section</span> | This section displays different categories of site-related requirements and tasks, along with their corresponding due counts. |
+| <span class="mb-label mb-label-amber">Assets section</span> | This section displays different categories of asset-related requirements and tasks, along with their corresponding due counts. |
+| <span class="mb-label mb-label-emerald">Employees section</span> | This section displays different categories of employee-related requirements and tasks, along with their corresponding due counts. |
+| <span class="mb-label mb-label-purple">Asset type / Employee role filters</span> | Use these options to filter the due counts by selected asset types and/or employee roles. |
+| <span class="mb-label mb-label-cyan">CSV export</span> | Export the data to a CSV file containing a detailed breakdown of the Snapshot figures for each individual site. |
