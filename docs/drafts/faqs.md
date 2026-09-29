@@ -105,6 +105,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 ## Employees and accounts
 <span data-uuid="72950f72-5a36-4d48-8a81-00e4eb2ae88c" style="display:none"></span>
 
+
 ??? outline "How do I register employees who don't have company email addresses?"
 
     <span data-uuid="49772e07-8d08-4c5f-b4da-4dbe2bef34eb" style="display:none"></span>
@@ -163,6 +164,15 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 
     <span data-uuid="e9227edb-302d-4cc5-aa32-2e6370664554" style="display:none"></span>
     [Registering an employee :lucide-arrow-up-right:](registering-an-employee.md){ .md-button .custom-button-olive .custom-button--slim target="_blank" rel="noopener" }
+
+??? outline "Why don’t an employee’s open corrective action tasks automatically resolve when they leave?"
+
+    <span data-uuid="b3159448-7fe2-449f-9592-20eaf50fae91" style="display:none"></span>
+    Open employee corrective actions, such as those raised following Health Surveillance or DSE assessments, **will not automatically resolve** when an employee is archived. These actions will remain open and must be manually resolved for the following reasons:
+
+    - **:lucide-search: Maintaining a clear evidence trail:** This ensures there is a complete record of any outstanding issues and follow-up actions should they need to be reviewed after the employee has left, which is particularly important in the case of contentious leavers.
+    - **:lucide-trending-up: Identifying wider trends:** Corrective actions may contain information that contributes to broader trends or recurring issues across the existing workforce.
+    - **:lucide-triangle-alert: Informative on working environment:** Corrective actions may indicate potential issues with the workplace environment that could affect other employees and may require further investigation or action.
 
 ## E-learning
 <span data-uuid="51af82ca-08cc-43f7-b70d-dcedea623081" style="display:none"></span>
