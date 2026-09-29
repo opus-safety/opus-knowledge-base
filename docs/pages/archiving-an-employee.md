@@ -124,8 +124,11 @@ After archiving an employee, you may still have open tasks linked to their recor
 !!! warning "Raised actions"
 
     <span data-uuid="2ac3d969-b5ba-48d4-af73-cdc96fecd131" style="display:none"></span>
+    Open employee corrective actions, such as those raised following Health Surveillance or DSE assessments, **will not automatically resolve** when an employee is archived. These actions will remain open and must be manually resolved for the following reasons:
 
-    These remain open and must be manually updated and resolved, including details of how the issue was addressed. This ensures there's a clear evidence trail if any follow-up action is needed after the employee has left, which is particularly important in the case of contentious leavers.
+    - **:lucide-search: Maintaining a clear evidence trail:** This ensures there is a complete record of any outstanding issues and follow-up actions should they need to be reviewed after the employee has left, which is particularly important in the case of contentious leavers.
+    - **:lucide-trending-up: Identifying wider trends:** Corrective actions may contain information that contributes to broader trends or recurring issues across the existing workforce.
+    - **:lucide-triangle-alert: Informative on working environment:** Corrective actions may indicate potential issues with the workplace environment that could affect other employees and may require further investigation or action.
 
 !!! danger "Assigned tasks"
 
