@@ -303,9 +303,9 @@ mb_status_banner = ""
 # Next maintenance window (empty when none) — managed by the more-buttons
 # extension; local ISO with UTC offset, revealed client-side from 7 days
 # before start by assets/javascripts/status-banner.js.
-mb_maintenance_start = ""
-mb_maintenance_end = ""
-mb_maintenance_services = ""
+mb_maintenance_start = "2026-09-30T18:00+01:00"
+mb_maintenance_end = "2026-09-30T18:15+01:00"
+mb_maintenance_services = "API, File Storage"
 # "Written for" audience registry — CUSTOM capability, not a zensical feature.
 # ORDERED. overrides/partials/content.html renders a line of mb-label pills
 # directly under the page h1: the page's audience is the first entry whose
