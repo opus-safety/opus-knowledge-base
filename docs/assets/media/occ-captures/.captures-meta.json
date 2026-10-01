@@ -556,5 +556,9 @@
     "padding": 10,
     "annotated": true,
     "zapped": true
+  },
+  "docs/assets/media/system-update-captures/pick-site-3f288417-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
