@@ -64,7 +64,7 @@ search:
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-arrow-up-circle: Improved selector style inputs</span>"
 
         <span data-uuid="47981c41-2559-4636-b236-e9f4b07bd22a" style="display:none"></span>
-        We've improved the inputs that require you to select a site or an employee.
+        We've improved the inputs that require you to select sites or employees, making it easier for you to find and select.
 
         <span data-uuid="7dcbdb57-0a6a-4c12-aa06-39316674f3fe" style="display:none"></span>
 
