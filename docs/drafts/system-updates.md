@@ -70,6 +70,10 @@ search:
 
         ---
 
+        <span data-uuid="d8027f08-d2a4-4aef-b8e4-b69f50904053" style="display:none"></span>
+        ![](../assets/media/system-update-captures/against-which-site-should-this-be-logged-ce84e794-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/against-which-site-should-this-be-logged-ce84e794-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
         </div>
 
         <div class="card" markdown>
