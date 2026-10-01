@@ -33,7 +33,7 @@ search:
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
-??? feature-release "Feature release: New task features & improvements<span class="meta">16th September 2026</span>"
+??? feature-release "Feature release: New task features & improvements<span class="meta">1st October 2026</span>"
 
     <span data-uuid="afccf694-a60b-4386-a870-331ab1166f37" style="display:none"></span>
     Following on from the research and work carried out on redesigning the Manage side of Opus Compliance Cloud, we have now released a refreshed Task page.
