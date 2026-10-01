@@ -8,8 +8,17 @@ search:
 ??? improvement "Improvement: Overhauled incident form<span class="meta">1st October 2026</span>"
 
     <span data-uuid="2a5e1583-d1a5-4018-b85d-6881cc6a14c3" style="display:none"></span>
-
     We have overhauled the incident form to include some of the new features released as part of task updates. See a summary of the main changes below.
+
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-eye: Better required field visibility</span>"
+
+        <span data-uuid="654cbefb-bef3-4456-8b03-ea895963575a" style="display:none"></span>
+
+        Fields marked as required now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
+
+        <span data-uuid="e64b0690-0cd2-4d51-997f-7664a6564cc1" style="display:none"></span>
+        ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 ??? feature-release "Feature release: New task features & improvements<span class="meta">16th September 2026</span>"
 
