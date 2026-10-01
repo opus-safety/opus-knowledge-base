@@ -75,9 +75,10 @@ This page highlights the main user-facing improvements, additions and feature re
 
         </div>
 
-    ??? outline "<span class="mb-label mb-label-mauve">:lucide-user-check: Improvements to existing report types</span>"
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-more-horizontal: More to come</span>"
 
         <span data-uuid="862829cf-e2d4-4d3b-a53f-c3a06fa5b95e" style="display:none"></span>
+        There’s more to come! This update includes many more new features and improvements behind the scenes, laying the groundwork for a wider overhaul of existing forms, including Incidents, Enforcement Officer Visits, and more.
 
 ### August 2026
 
