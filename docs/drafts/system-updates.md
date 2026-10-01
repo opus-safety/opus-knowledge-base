@@ -54,10 +54,10 @@ search:
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
-    ??? outline "<span class="mb-label mb-label-mauve">:lucide-arrow-up-circle: Improvements to existing field types</span>"
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-arrow-up-circle: Improvements selector style inputs</span>"
 
         <span data-uuid="47981c41-2559-4636-b236-e9f4b07bd22a" style="display:none"></span>
-        The following field types have been improved:
+        We've improved the inputs that require you to select a site or an employee.
 
         <span data-uuid="7dcbdb57-0a6a-4c12-aa06-39316674f3fe" style="display:none"></span>
 
