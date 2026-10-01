@@ -66,6 +66,9 @@ search:
         <div class="card" markdown>
 
         <span data-uuid="89d7fcec-c93c-44e0-a3b3-68fa85d298b9" style="display:none"></span>
+        <span class="mb-label mb-label-mauve">Before</span>
+
+        ---
 
         </div>
 
