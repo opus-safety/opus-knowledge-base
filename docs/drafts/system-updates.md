@@ -5,6 +5,12 @@ search:
 
 # System update drafts
 
+??? improvement "Improvement: Overhauled incident form<span class="meta">1st October 2026</span>"
+
+    <span data-uuid="2a5e1583-d1a5-4018-b85d-6881cc6a14c3" style="display:none"></span>
+
+    We have overhauled the incident form to include some of the new features released as part of task updates. See a summary of the main changes below.
+
 ??? feature-release "Feature release: New task features & improvements<span class="meta">16th September 2026</span>"
 
     <span data-uuid="afccf694-a60b-4386-a870-331ab1166f37" style="display:none"></span>
