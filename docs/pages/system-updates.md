@@ -75,6 +75,10 @@ This page highlights the main user-facing improvements, additions and feature re
 
         </div>
 
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-user-check: Improvements to existing report types</span>"
+
+        <span data-uuid="862829cf-e2d4-4d3b-a53f-c3a06fa5b95e" style="display:none"></span>
+
 ### August 2026
 
 ??? improvement "Improvement: SCORM 1.2 e-learning support<span class="meta">25th August 2026</span>"
