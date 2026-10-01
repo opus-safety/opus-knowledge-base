@@ -75,6 +75,9 @@ search:
         <div class="card" markdown>
 
         <span data-uuid="27e42527-9990-4872-8ae2-9c1465518b30" style="display:none"></span>
+        <span class="mb-label mb-label-mauve">After</span>
+
+        ---
 
         </div>
 
