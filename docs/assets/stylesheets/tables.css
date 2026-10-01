@@ -11,9 +11,11 @@
 }
 
 /* Let an image in the first column keep its natural width instead of being
-   squished to fit the column. The column then sizes to the image. */
-.md-typeset table:not([class]) td:first-child img,
-.md-typeset table:not([class]) th:first-child img {
+   squished to fit the column. The column then sizes to the image. Images
+   with an explicit width attribute ({ width="210" }) are left alone, since
+   width: auto would override the attribute and blow them up to full size. */
+.md-typeset table:not([class]) td:first-child img:not([width]),
+.md-typeset table:not([class]) th:first-child img:not([width]) {
   max-width: none;
   width: auto;
   height: auto;
