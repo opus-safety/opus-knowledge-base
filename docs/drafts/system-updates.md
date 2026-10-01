@@ -48,18 +48,6 @@ search:
         ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
         ![](../assets/media/system-update-captures/change-assigned-user-z-250f57e5-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
-    ??? outline "<span class="mb-label mb-label-mauve">:lucide-triangle-alert: New missing information flow</span>"
-
-        <span data-uuid="030980e5-3a5e-43f1-96ff-01990d597fe8" style="display:none"></span>
-        When attempting to resolve a task with missing required information, a new warning popup will appear. The warning lists links to all required fields that are incomplete. Clicking on the link will focus and highlight the relevant field(s) in red.
-
-
-        [img of popup warning]
-
-        <span data-uuid="eff81847-9f42-491f-bc52-c7fc6529ae4c" style="display:none"></span>
-        ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
-
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-arrow-up-circle: Improved selector style inputs</span>"
 
         <span data-uuid="47981c41-2559-4636-b236-e9f4b07bd22a" style="display:none"></span>
