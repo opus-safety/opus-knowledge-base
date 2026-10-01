@@ -59,34 +59,6 @@ search:
         <span data-uuid="47981c41-2559-4636-b236-e9f4b07bd22a" style="display:none"></span>
         We've improved the inputs that require you to select a site or an employee.
 
-        <span data-uuid="b97a5be6-a8e5-46f2-950d-c0407418937c" style="display:none"></span>
-
-        <div class="grid" markdown>
-
-        <div class="card" markdown>
-
-        <span data-uuid="89d7fcec-c93c-44e0-a3b3-68fa85d298b9" style="display:none"></span>
-        <span class="mb-label mb-label-mauve">Before</span>
-
-        ---
-
-        <span data-uuid="d8027f08-d2a4-4aef-b8e4-b69f50904053" style="display:none"></span>
-        ![](../assets/media/system-update-captures/against-which-site-should-this-be-logged-ce84e794-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/system-update-captures/against-which-site-should-this-be-logged-ce84e794-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
-
-        </div>
-
-        <div class="card" markdown>
-
-        <span data-uuid="27e42527-9990-4872-8ae2-9c1465518b30" style="display:none"></span>
-        <span class="mb-label mb-label-mauve">After</span>
-
-        ---
-
-        </div>
-
-        </div>
-
         <span data-uuid="7dcbdb57-0a6a-4c12-aa06-39316674f3fe" style="display:none"></span>
 
         <div class="nowrap-first" markdown>
