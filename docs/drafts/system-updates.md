@@ -23,11 +23,7 @@ search:
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-triangle-alert: New missing information flow</span>"
 
         <span data-uuid="7b4ceb8c-b4fa-4942-808d-ad1eb6e34bd1" style="display:none"></span>
-
         When attempting to resolve a task with missing required information, a new warning popup will appear. The warning lists links to all required fields that are incomplete. Clicking on the link will focus and highlight the relevant field(s) in red.
-
-
-        [img of popup warning]
 
         <span data-uuid="cd42644f-6f4b-4a6a-a5ff-18ca99dc2596" style="display:none"></span>
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
