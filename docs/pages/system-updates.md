@@ -39,7 +39,7 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-eye: Better required field visibility</span>"
 
         <span data-uuid="654cbefb-bef3-4456-8b03-ea895963575a" style="display:none"></span>
-        Fields marked as required now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
+        Required fields now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
 
         <span data-uuid="e64b0690-0cd2-4d51-997f-7664a6564cc1" style="display:none"></span>
         ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
