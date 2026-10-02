@@ -45,6 +45,5 @@ search:
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-tags: Labels are now in form</span>"
 
         <span data-uuid="3a7ed88f-b1a6-43ba-b284-2a7db9107fce" style="display:none"></span>
-
-        Labels are now selectable directly in the form!
+        Tasks will now display helpful status banners to provide clearer feedback when specific actions are performed.
 
