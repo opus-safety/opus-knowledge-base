@@ -36,7 +36,7 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="2a5e1583-d1a5-4018-b85d-6881cc6a14c3" style="display:none"></span>
     We have overhauled the incident form to include some of the new features released as part of the task update yesterday. See a summary of the main changes below.
 
-    ??? outline "<span class="mb-label mb-label-mauve">:lucide-eye: Better required field visibility</span>"
+    ??? outline "<span class="mb-label mb-label-slate">:lucide-eye: Better required field visibility</span>"
 
         <span data-uuid="654cbefb-bef3-4456-8b03-ea895963575a" style="display:none"></span>
         Required fields now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
