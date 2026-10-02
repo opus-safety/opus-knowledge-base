@@ -47,3 +47,7 @@ search:
         <span data-uuid="3a7ed88f-b1a6-43ba-b284-2a7db9107fce" style="display:none"></span>
         Tasks will now display helpful status banners to provide clearer feedback when specific actions are performed.
 
+        <span data-uuid="5947af83-63e7-4d19-840e-38ae9b8ba321" style="display:none"></span>
+        ![](../assets/media/system-update-captures/thank-you-your-report-has-been-created-and-stored-3bd70cfb-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/thank-you-your-report-has-been-created-and-stored-3bd70cfb-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
