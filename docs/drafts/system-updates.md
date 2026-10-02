@@ -38,8 +38,8 @@ search:
         Required labels are now selectable directly in the task! This should improve the flow of filling out the incident form.
 
         <span data-uuid="89a05cce-49ed-4c20-ae4b-258d230a5e26" style="display:none"></span>
-        ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-        ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
+        ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
 
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-megaphone: Status banners</span>"
 
