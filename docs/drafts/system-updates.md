@@ -42,3 +42,9 @@ search:
         ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
         ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
 
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-tags: Labels are now in form</span>"
+
+        <span data-uuid="3a7ed88f-b1a6-43ba-b284-2a7db9107fce" style="display:none"></span>
+
+        Labels are now selectable directly in the form!
+
