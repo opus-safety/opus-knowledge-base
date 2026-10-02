@@ -55,3 +55,8 @@ search:
         ![](../assets/media/system-update-captures/the-task-has-been-reopened-by-automation-adffd1b4-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/the-task-has-been-reopened-by-automation-adffd1b4-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+    !!! info "Other report types"
+
+        <span data-uuid="656bee30-bdb7-42c6-90d6-b8060c10c4b4" style="display:none"></span>
+        Our **Enforcement Officer Visit** report type has already been updated with these improvements, and similar functionality will be introduced across most other report types in the system over time.
+
