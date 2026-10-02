@@ -51,3 +51,7 @@ search:
         ![](../assets/media/system-update-captures/thank-you-your-report-has-been-created-and-stored-3bd70cfb-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/thank-you-your-report-has-been-created-and-stored-3bd70cfb-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+        <span data-uuid="b2c86c14-67ab-4241-b492-3d1674d9818e" style="display:none"></span>
+        ![](../assets/media/system-update-captures/the-task-has-been-reopened-by-automation-adffd1b4-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/the-task-has-been-reopened-by-automation-adffd1b4-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
