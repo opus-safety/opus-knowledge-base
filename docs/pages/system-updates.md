@@ -45,7 +45,7 @@ This page highlights the main user-facing improvements, additions and feature re
         ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
         ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
 
-    ??? outline "<span class="mb-label mb-label-mauve">:lucide-triangle-alert: New missing information flow</span>"
+    ??? outline "<span class="mb-label mb-label-slate">:lucide-triangle-alert: New missing information flow</span>"
 
         <span data-uuid="7b4ceb8c-b4fa-4942-808d-ad1eb6e34bd1" style="display:none"></span>
         When attempting to resolve a task with missing required information, a warning popup will now appear. The warning lists links to all incomplete required fields. Clicking a link will automatically focus on and highlight the relevant field(s) in red.
