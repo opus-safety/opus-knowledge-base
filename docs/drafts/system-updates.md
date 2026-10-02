@@ -42,7 +42,7 @@ search:
         ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
         ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
 
-    ??? outline "<span class="mb-label mb-label-mauve">:lucide-tags: Action banners</span>"
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-megaphone: Status banners</span>"
 
         <span data-uuid="3a7ed88f-b1a6-43ba-b284-2a7db9107fce" style="display:none"></span>
         Tasks will now display helpful status banners to provide clearer feedback when specific actions are performed.
