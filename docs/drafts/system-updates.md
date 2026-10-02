@@ -13,12 +13,11 @@ search:
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-eye: Better required field visibility</span>"
 
         <span data-uuid="654cbefb-bef3-4456-8b03-ea895963575a" style="display:none"></span>
-
         Fields marked as required now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
 
         <span data-uuid="e64b0690-0cd2-4d51-997f-7664a6564cc1" style="display:none"></span>
-        ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-        ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
+        ![](../assets/media/system-update-captures/was-somebody-injured-dbcaa069-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
 
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-triangle-alert: New missing information flow</span>"
 
