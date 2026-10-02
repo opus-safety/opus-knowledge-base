@@ -36,5 +36,5 @@ search:
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-tags: Labels are now in form</span>"
 
         <span data-uuid="239600cf-ad1b-4808-a6bc-9b73edd1770b" style="display:none"></span>
-        Labels are now listed directly in the form
+        Labels are now selectable directly in the form!
 
