@@ -38,3 +38,7 @@ search:
         <span data-uuid="239600cf-ad1b-4808-a6bc-9b73edd1770b" style="display:none"></span>
         Labels are now selectable directly in the form!
 
+        <span data-uuid="89a05cce-49ed-4c20-ae4b-258d230a5e26" style="display:none"></span>
+        ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
+        ![](../assets/media/system-update-captures/outcome-of-incident-fe899bb9-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
+
