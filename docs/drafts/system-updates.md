@@ -33,14 +33,10 @@ search:
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
-    ??? outline "<span class="mb-label mb-label-mauve">:lucide-triangle-alert: New missing information flow</span>"
+    ??? outline "<span class="mb-label mb-label-mauve">:lucide-tags: Labels are now in form</span>"
 
         <span data-uuid="239600cf-ad1b-4808-a6bc-9b73edd1770b" style="display:none"></span>
-
-        When attempting to resolve a task with missing required information, a new warning popup will appear. The warning lists links to all required fields that are incomplete. Clicking on the link will focus and highlight the relevant field(s) in red.
-
-
-        [img of popup warning]
+        Labels are now listed directly in the form
 
         <span data-uuid="8f2de7de-ea72-471c-bfd1-02853505dd0f" style="display:none"></span>
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
