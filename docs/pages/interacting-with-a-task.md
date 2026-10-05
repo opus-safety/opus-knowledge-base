@@ -18,8 +18,8 @@ The system automatically creates a reminder task when a requirement is due. Thes
 Reminder tasks include a button / blue link in the initial task message, allowing direct access to complete the requirement.
 
 <span data-uuid="418fee33-4807-45a7-8f71-924120a662ae" style="display:none"></span>
-![](../assets/media/occ-captures/todos/uuid/system-message-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-![](../assets/media/occ-captures/todos/uuid/system-message-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/system-message-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/system-message-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! warning
 
@@ -36,16 +36,16 @@ You can post comments in the task log by using the comment section, which is loc
     <span data-uuid="3437015f-e24b-4e27-a580-93bf3ff1e89a" style="display:none"></span>
 
     <span data-uuid="299a2b40-4680-4b12-bdec-56aa81fdc141" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/todo-messages-z-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/todo-messages-z-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-messages-z-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-messages-z-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 ??? example "Example 2 - Uploading CCTV Footage for Incidents"
 
     <span data-uuid="242529d5-2e81-431e-8ceb-952f1d4b88cc" style="display:none"></span>
 
     <span data-uuid="34fc0bb0-33e1-47dd-ac2a-d6c3b80e2681" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/todo-messages-cctv-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/todo-messages-cctv-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-messages-cctv-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-messages-cctv-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 ## Creating sub tasks
 <span data-uuid="086aa064-7bf0-4607-8197-419524b11e9d" style="display:none"></span>
@@ -53,8 +53,8 @@ You can post comments in the task log by using the comment section, which is loc
 You can add sub-tasks to a task by clicking the button in the task actions list. They are a useful way to break large or complex pieces of work into smaller, more manageable parts.
 
 <span data-uuid="18d7db20-bbfc-42ff-9f85-28c1b2f79985" style="display:none"></span>
-![](../assets/media/occ-captures/todos/uuid/todo-actions-a-add-sub-task-z-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-![](../assets/media/occ-captures/todos/uuid/todo-actions-a-add-sub-task-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-add-sub-task-z-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-add-sub-task-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 ??? example "Example - Using Sub Tasks with Incidents"
 
@@ -62,8 +62,8 @@ You can add sub-tasks to a task by clicking the button in the task actions list.
     For managers handling incidents, sub tasks can be a useful way to create and allocate relevant work.
 
     <span data-uuid="1ea7b2d4-aab6-4940-8982-c5901bcf1518" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/sub-tasks-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/sub-tasks-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/sub-tasks-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/sub-tasks-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 ## Snoozing tasks
 <span data-uuid="991647ca-b013-4539-b8bf-382edc17dca3" style="display:none"></span>
@@ -73,8 +73,8 @@ Tasks can be snoozed for up to 14 days via the button at the bottom of the task 
 Snoozing is useful when you’re unable to complete a task for reasons such as waiting on a delivery or a booked service.
 
 <span data-uuid="d48e149d-ff33-4ce7-a83d-61c25a6510fd" style="display:none"></span>
-![](../assets/media/occ-captures/todos/uuid/snooze-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-![](../assets/media/occ-captures/todos/uuid/snooze-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/snooze-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/snooze-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! warning
 
@@ -98,8 +98,8 @@ Snoozing is useful when you’re unable to complete a task for reasons such as w
 Tasks can be manually marked as resolved using the button at the bottom of the task page.
 
 <span data-uuid="00dd3f1e-16e1-4450-b5d0-ed5a03929afd" style="display:none"></span>
-![](../assets/media/occ-captures/todos/uuid/mark-resolved-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-![](../assets/media/occ-captures/todos/uuid/mark-resolved-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/mark-resolved-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/mark-resolved-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! warning
 
@@ -114,5 +114,5 @@ You may encounter tasks that cannot be resolved and instead display a “Missing
 This occurs when a task has required inputs or conditions that have not yet been met. The message will describe the information that is missing and what is required to resolve the task.
 
 <span data-uuid="2ceabfad-dbe8-44b4-801b-0324edfbae64" style="display:none"></span>
-![](../assets/media/occ-captures/todos/uuid/todo-messages-missing-information-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-![](../assets/media/occ-captures/todos/uuid/todo-messages-missing-information-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/todo-messages-missing-information-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/todo-messages-missing-information-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }

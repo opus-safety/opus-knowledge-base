@@ -41,8 +41,8 @@ Has an asset been sold or left your site? You can easily update this in the syst
     Click **Assets** on the manage sidebar.
 
     <span data-uuid="51dbcaf1-841a-4638-b192-24b2065d129b" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 

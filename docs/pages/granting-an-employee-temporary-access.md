@@ -43,8 +43,8 @@ Follow this guide to grant an employee temporary access.
     Click **Employee records** on the manage sidebar.
 
     <span data-uuid="d261e01c-6b94-4a84-9140-250334855cd3" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
@@ -61,8 +61,8 @@ Follow this guide to grant an employee temporary access.
     Select the :lucide-qr-code: **Temporary access** button on their record.
 
     <span data-uuid="7710f797-c051-458b-84cc-e40711b5f482" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/grant-temporary-access-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/grant-temporary-access-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/grant-temporary-access-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/grant-temporary-access-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 

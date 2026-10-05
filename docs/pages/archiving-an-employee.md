@@ -46,8 +46,8 @@ Follow the guide below on how to do this.
     Click **Employee records** on the manage sidebar.
 
     <span data-uuid="4ec28fc4-d362-494b-96c8-38d42450f901" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
@@ -71,8 +71,8 @@ Follow the guide below on how to do this.
     Click **Edit employee** on the record
 
     <span data-uuid="5dee5733-d00b-4207-9f39-16ca71d7a700" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/edit-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/edit-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/edit-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/edit-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 

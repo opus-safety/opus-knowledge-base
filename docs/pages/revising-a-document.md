@@ -66,8 +66,8 @@ When a document is due for revision, the system creates a **reminder task** for 
     Click the button or blue link in the document reminder task.
 
     <span data-uuid="3d71eaaf-27ce-434e-a78a-ce296edddbcc" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/example-document-reminder-task-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/example-document-reminder-task-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/example-document-reminder-task-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/example-document-reminder-task-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
@@ -159,8 +159,8 @@ Sometimes you need to update a document when there is no reminder task for it. *
         Click **Assets** on the manage sidebar.
 
         <span data-uuid="086b6672-eb1c-4d58-b329-81916bbe6be4" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
     !!! step
 
@@ -200,8 +200,8 @@ Sometimes you need to update a document when there is no reminder task for it. *
         Click **Employee records** on the manage sidebar.
 
         <span data-uuid="d5f9b839-8678-4787-a141-7c1d4db75ded" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
     !!! step
 

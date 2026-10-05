@@ -100,8 +100,8 @@ View the Diagram / Table below to view the different kinds of reminder tasks you
         This is an example of a reminder to complete a <span class="mb-label mb-label-sky">Site Checklist</span> task. As this is a reminder task to fulfil a **requirement**, you must complete the checklist to resolve it.
 
         <span data-uuid="52e6832f-3cb1-436b-9aa1-1e203a41f87c" style="display:none"></span>
-        ![](../assets/media/occ-captures/todos/uuid/example-reminder-task-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/occ-captures/todos/uuid/example-reminder-task-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/tasks/uuid/example-reminder-task-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/tasks/uuid/example-reminder-task-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 ## Corrective Actions
 <span data-uuid="3d3ea63d-3b52-45bd-a004-4aadb6ff8fed" style="display:none"></span>
@@ -161,8 +161,8 @@ View the Diagram / Table below to view the different kinds of Corrective Actions
         - The question and the answer that triggered the action also on the right panel.
 
         <span data-uuid="c6392e63-b052-4e9c-8f53-c2e1b41e680e" style="display:none"></span>
-        ![](../assets/media/occ-captures/todos/uuid/example-corrective-action-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/occ-captures/todos/uuid/example-corrective-action-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/tasks/uuid/example-corrective-action-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/tasks/uuid/example-corrective-action-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 ## Reported Events
 <span data-uuid="50f1bbeb-1764-41cb-aa0c-66dcff9c578a" style="display:none"></span>
@@ -199,5 +199,5 @@ View the Diagram / Table below to view the different kinds of Reported Events yo
     This is an example of a Reported Event task - specifically an <span class="mb-label mb-label-yellow">Incident</span> with <span class="mb-label mb-label-pink">Injury</span>. Reported Event tasks will typically have certain fields that need to be filled in to complete the task.
 
     <span data-uuid="d232200e-ec59-4976-87ee-2cf42906194b" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/example-reported-event-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/todos/uuid/example-reported-event-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/tasks/uuid/example-reported-event-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/tasks/uuid/example-reported-event-dark-mode.png#only-dark)

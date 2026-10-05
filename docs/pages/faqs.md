@@ -97,8 +97,8 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     If you need footage reformatted into a compatible format, <a href="#" onclick="event.preventDefault(); window.groove.widget.open();">contact us</a> for assistance.
 
     <span data-uuid="fabdf6ee-da3e-4703-9c07-45c2f3afa9ed" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/todo-messages-cctv-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/todo-messages-cctv-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-messages-cctv-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-messages-cctv-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 ## Employees and accounts
 <span data-uuid="72950f72-5a36-4d48-8a81-00e4eb2ae88c" style="display:none"></span>
@@ -385,8 +385,8 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     See [Interacting with a task](https://support.opus-safety.co.uk/pages/interacting-with-a-task/) for more on snoozing.
 
     <span data-uuid="13861085-adee-42e2-9d81-ef0e3dfaf801" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/snooze-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/snooze-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/snooze-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/snooze-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 ??? outline "How can administrators snooze tasks for longer periods?"
 

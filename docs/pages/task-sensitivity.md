@@ -94,8 +94,8 @@ Authorisations can be assigned to employees to grant access to specific types of
         Click **Employee records** on the manage sidebar.
 
         <span data-uuid="24ed3407-cfcb-4827-a4eb-1845543aef09" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
     !!! step
 
@@ -157,8 +157,8 @@ The form requires you to provide the following information:
     You will be asked to provide a reason for requesting access to this data. This reason will be recorded in the system logs and visible to others who access the task, supporting transparency and accountability.
 
     <span data-uuid="8e883a75-ebc2-43e5-beba-00c21941748f" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/sensitive/access-reason-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/sensitive/access-reason-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/sensitive/access-reason-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/sensitive/access-reason-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
 
     !!! failure "Important"
 
@@ -171,8 +171,8 @@ The form requires you to provide the following information:
     This allows you to specify how long you would like to retain access to the data before you are required to complete another exception form.
 
     <span data-uuid="16071a6a-8c76-4177-b59a-c028a2f20f03" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/sensitive/access-expiration-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/sensitive/access-expiration-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/sensitive/access-expiration-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/sensitive/access-expiration-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
 
 ??? outline "<span class="mb-label mb-label-slate">Access scope</span>"
 
@@ -180,8 +180,8 @@ The form requires you to provide the following information:
     Define the access scope of this exception.
 
     <span data-uuid="082c5fd0-529c-422f-8d2f-b2afd75c0dc5" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/sensitive/access-scope-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/sensitive/access-scope-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/sensitive/access-scope-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/sensitive/access-scope-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
 
     !!! tip
 

@@ -31,8 +31,8 @@ tags:
     Click **Assets** on the manage sidebar.
 
     <span data-uuid="9cf48810-5a51-45fd-9ff1-df5e61c08fee" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
