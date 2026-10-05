@@ -14,4 +14,4 @@ In Opus Compliance Cloud, you can configure your account to be notified when cer
 ## How do subscriptions work?
 <span data-uuid="d60b9714-c931-402b-8655-c2db053d693f" style="display:none"></span>
 
-When a task is generated, either automatically by the system or as a result of user reporting, such as an incident, you can choose to be notified of its occurrence.
+When a task is generated, either automatically by the system or as a result of user reporting, such as an incident, you can choose to be notified of its occurrence via subscribing.
