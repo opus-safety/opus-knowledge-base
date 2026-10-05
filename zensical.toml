@@ -127,7 +127,6 @@ draft_nav = [
       {"Permits to Work" = "drafts/permits-to-work.md"}
     ]},
     {"Profile And Settings" = [
-      {"Subscriptions & Notifications" = "drafts/subscriptions-and-notifications.md"},
       {"Subscriptions And Notifications" = [
         {"Subscription wizard" = "drafts/subscription-wizard.md"}
       ]}
