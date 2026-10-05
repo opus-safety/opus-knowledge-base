@@ -36,8 +36,8 @@ If an asset has moved to another site, you can easily update it in the system - 
     Click **Assets** on the manage sidebar.
 
     <span data-uuid="e02b19e7-8715-42b9-a01e-86290bf08409" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 

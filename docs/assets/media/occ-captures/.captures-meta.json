@@ -40,7 +40,7 @@
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/e-learning-light-mode.png": {
+  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/e-learning-light-mode.png": {
     "resized": true,
     "padding": 20
   },
@@ -57,7 +57,7 @@
     "padding": 20,
     "zapped": true
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/contractor-and-projects-light-mode.png": {
+  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/contractor-and-projects-light-mode.png": {
     "resized": true,
     "padding": 20
   },
@@ -65,7 +65,7 @@
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/contractor-manage-mode-light-mode.png": {
+  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/contractor-manage-mode-light-mode.png": {
     "resized": true,
     "padding": 20
   },
@@ -73,7 +73,7 @@
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/project-manage-mode-light-mode.png": {
+  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/project-manage-mode-light-mode.png": {
     "resized": true,
     "padding": 20
   },
@@ -101,7 +101,7 @@
     "padding": 20,
     "zapped": true
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/site-access-light-mode.png": {
+  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/site-access-light-mode.png": {
     "resized": true,
     "padding": 20
   },
@@ -109,19 +109,19 @@
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/admin/sites/uuid/site-access-custom-1-light-mode.png": {
+  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/site-access-custom-1-light-mode.png": {
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/example-reminder-task-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/example-reminder-task-light-mode.png": {
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/example-corrective-action-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/example-corrective-action-light-mode.png": {
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/example-reported-event-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/example-reported-event-light-mode.png": {
     "resized": true,
     "padding": 20
   },
@@ -150,23 +150,23 @@
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/edit/title-a-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/edit/title-a-light-mode.png": {
     "padding": 15,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/edit/severity-a-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/edit/severity-a-light-mode.png": {
     "padding": 15,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/edit/save-a-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/edit/save-a-light-mode.png": {
     "padding": 15,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/assigned-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/assigned-light-mode.png": {
     "resized": true,
     "padding": 10
   },
-  "docs/assets/media/occ-captures/todos/uuid/assigned-warning-a-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/assigned-warning-a-light-mode.png": {
     "resized": true,
     "padding": 10,
     "annotated": true
@@ -194,12 +194,12 @@
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/labels-a-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/labels-a-light-mode.png": {
     "resized": true,
     "padding": 5,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/system-message-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/system-message-light-mode.png": {
     "padding": 10
   },
   "docs/assets/media/system-update-captures/what-is-the-vehicle-s-mileage-64745556-light-mode.png": {
@@ -311,52 +311,52 @@
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/export/system-a-6mo-ago-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/export/system-a-6mo-ago-light-mode.png": {
     "padding": 20,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/export/hide-messages-written-after-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/export/hide-messages-written-after-light-mode.png": {
     "padding": 10
   },
-  "docs/assets/media/occ-captures/todos/uuid/export/display-options-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/export/display-options-light-mode.png": {
     "resized": true,
     "padding": 15
   },
-  "docs/assets/media/occ-captures/todos/uuid/export/system-a-exclude-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/export/system-a-exclude-light-mode.png": {
     "padding": 20,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/todo-actions-a-add-sub-task-z-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/todo-actions-a-add-sub-task-z-light-mode.png": {
     "padding": 5,
     "annotated": true,
     "zapped": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/todo-actions-a-move-task-z-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/todo-actions-a-move-task-z-light-mode.png": {
     "padding": 5,
     "annotated": true,
     "zapped": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/open-a-confidential-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/open-a-confidential-light-mode.png": {
     "resized": true,
     "padding": 15,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/todo-actions-a-remove-confidential-flag-z-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-light-mode.png": {
     "padding": 5,
     "annotated": true,
     "zapped": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/todo-messages-z-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/todo-messages-z-light-mode.png": {
     "padding": 20,
     "zapped": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/todo-messages-cctv-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/todo-messages-cctv-light-mode.png": {
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/sub-tasks-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/sub-tasks-light-mode.png": {
     "resized": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/todo-messages-missing-information-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/todo-messages-missing-information-light-mode.png": {
     "padding": 20
   },
   "docs/assets/media/system-update-captures/sidebar-c3009af4-light-mode.png": {
@@ -418,14 +418,14 @@
   "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/authorisations-and-tags-a-health-related-data-light-mode.png": {
     "annotated": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/sensitive/access-reason-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/sensitive/access-reason-light-mode.png": {
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/sensitive/access-expiration-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/sensitive/access-expiration-light-mode.png": {
     "resized": true,
     "padding": 20
   },
-  "docs/assets/media/occ-captures/todos/uuid/sensitive/access-scope-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/sensitive/access-scope-light-mode.png": {
     "padding": 20,
     "zapped": true
   },
@@ -514,7 +514,7 @@
     "padding": 20,
     "annotated": true
   },
-  "docs/assets/media/occ-captures/todos/uuid/example-document-reminder-task-light-mode.png": {
+  "docs/assets/media/occ-captures/tasks/uuid/example-document-reminder-task-light-mode.png": {
     "resized": true,
     "padding": 20
   },

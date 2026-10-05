@@ -34,8 +34,8 @@ tags:
     Click **Contractors** on the manage sidebar.
 
     <span data-uuid="a8b75252-32f6-4db7-b21e-98e5e2207263" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/contractors-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/contractors-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/contractors-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/contractors-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 

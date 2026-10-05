@@ -48,8 +48,8 @@ Please follow the steps below to register employees as users on the system.
     Click **Employee records** on the manage sidebar.
 
     <span data-uuid="ca5b1666-388b-43a5-84ef-7004d13fcffa" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 

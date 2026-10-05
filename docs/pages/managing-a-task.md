@@ -20,8 +20,8 @@ As a manager, you can edit the title or the severity of an individual task by fo
     When on a task, click the **Edit** button in the top right-hand side of the page.
 
     <span data-uuid="56b45fd0-d029-41e9-869d-ffe31097eb61" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/edit-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/edit-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/edit-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/edit-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
@@ -29,8 +29,8 @@ As a manager, you can edit the title or the severity of an individual task by fo
     You can now change the **title** of the task.
 
     <span data-uuid="7649e87d-76a3-460c-ade2-494243c61da9" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/edit/title-a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/edit/title-a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/edit/title-a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/edit/title-a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
@@ -38,8 +38,8 @@ As a manager, you can edit the title or the severity of an individual task by fo
     Click the drop-down box on the left to change the **severity**.
 
     <span data-uuid="ea3d5eb6-a6b5-4e11-9f15-7f02b98b77c6" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/edit/severity-a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/edit/severity-a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/edit/severity-a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/edit/severity-a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
@@ -47,8 +47,8 @@ As a manager, you can edit the title or the severity of an individual task by fo
     Click **Save** after making your changes.
 
     <span data-uuid="18fbddf7-c35f-4a92-8954-736b0ffc9f37" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/edit/save-a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/edit/save-a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/edit/save-a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/edit/save-a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 ## Assigning Tasks
 <span data-uuid="59cbf97a-5863-4785-8be2-ddef47d18c6e" style="display:none"></span>
@@ -56,8 +56,8 @@ As a manager, you can edit the title or the severity of an individual task by fo
 As a manager, you can assign tasks to others using the assignment feature. The assignee will receive a notification and the task will appear in their `My assigned tasks` / `My tasks` lists.
 
 <span data-uuid="142f3653-ae90-4761-9c1e-a345a1b7fb0c" style="display:none"></span>
-![](../assets/media/occ-captures/todos/uuid/assigned-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-![](../assets/media/occ-captures/todos/uuid/assigned-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/assigned-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/assigned-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 !!! note
 
@@ -76,8 +76,8 @@ As a manager, you can assign tasks to others using the assignment feature. The a
     You may see a warning icon next to an assigned user. This indicates that the user may not be able to complete or resolve the task - for example, if the task relates to another user's e-learning or requires permissions they do not have.
 
     <span data-uuid="91142a89-3f48-48ea-8fa9-addc84a311b8" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/assigned-warning-a-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/assigned-warning-a-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/assigned-warning-a-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/assigned-warning-a-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 ## Task Labels
 <span data-uuid="9b470798-664c-459d-8fc8-189c16faa6d9" style="display:none"></span>
@@ -102,8 +102,8 @@ Labels are a way of tagging tasks with information which can be used when search
     To add a label manually, select the edit button in the **Labels** section.
 
     <span data-uuid="0a80ce15-beae-427d-8662-4c3381237bd6" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/labels-a-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/labels-a-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/labels-a-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/labels-a-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 ## Exporting Tasks
 <span data-uuid="b8b6bffe-006e-4fb7-b82b-e4502a2968c0" style="display:none"></span>
@@ -118,8 +118,8 @@ This feature allows you to create a tailored, filtered view of the task, which e
     When on a task, click the **Export** button in the top right-hand side of the page.
 
     <span data-uuid="b087cafe-3bc1-4aed-84f0-4c2b020e41e7" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/export-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step "<span class="meta">(optional)</span>"
 
@@ -127,8 +127,8 @@ This feature allows you to create a tailored, filtered view of the task, which e
     Hide comments or messages that were written after a specific date by using the date filter.
 
     <span data-uuid="a47dd2cf-8b2b-45a8-8852-10697b20f8b5" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/export/hide-messages-written-after-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/todos/uuid/export/hide-messages-written-after-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/tasks/uuid/export/hide-messages-written-after-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/tasks/uuid/export/hide-messages-written-after-dark-mode.png#only-dark)
 
     !!! tip
 
@@ -136,8 +136,8 @@ This feature allows you to create a tailored, filtered view of the task, which e
         To find the exact date a comment was created, hover your mouse pointer over the relative timestamp.
 
         <span data-uuid="0118d216-1b2d-4bdd-9352-a2c62b3fd299" style="display:none"></span>
-        ![](../assets/media/occ-captures/todos/uuid/export/system-a-6mo-ago-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-        ![](../assets/media/occ-captures/todos/uuid/export/system-a-6mo-ago-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/tasks/uuid/export/system-a-6mo-ago-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/tasks/uuid/export/system-a-6mo-ago-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step "<span class="meta">(optional)</span>"
 
@@ -145,8 +145,8 @@ This feature allows you to create a tailored, filtered view of the task, which e
     Select any additional display options you would like to add to your export.
 
     <span data-uuid="da323297-df95-4afd-aa85-c43ceccd0688" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/export/display-options-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/export/display-options-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 !!! step "<span class="meta">(optional)</span>"
 
@@ -154,8 +154,8 @@ This feature allows you to create a tailored, filtered view of the task, which e
     Select the **Exclude** option on any message to hide it from the export.
 
     <span data-uuid="9301abe3-4f65-455e-9e2a-3862a54b6202" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/export/system-a-exclude-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/export/system-a-exclude-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/system-a-exclude-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/system-a-exclude-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
@@ -163,8 +163,8 @@ This feature allows you to create a tailored, filtered view of the task, which e
     Once you're happy with your choices, select **Apply options and excludes**.
 
     <span data-uuid="696a12aa-1a70-496a-a7f6-f3d44320bea4" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/export/apply-options-excludes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/export/apply-options-excludes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/apply-options-excludes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/apply-options-excludes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
@@ -172,8 +172,8 @@ This feature allows you to create a tailored, filtered view of the task, which e
     Click the **Print this page** button to open the print menu, where you can print the task or save it as a PDF.
 
     <span data-uuid="73a8740b-b7b5-410c-88d0-077e448b4c4f" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/export/print-this-page-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/export/print-this-page-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/print-this-page-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/print-this-page-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 ## Moving Tasks
 <span data-uuid="ff756a4f-fe0d-4ea5-a122-e1ffd4922a15" style="display:none"></span>
@@ -181,8 +181,8 @@ This feature allows you to create a tailored, filtered view of the task, which e
 Managers/administrators have the ability to move tasks to another site. This is useful if a task has been reported in the wrong location.
 
 <span data-uuid="851a3bb2-c5ae-4e6c-b4f5-ce27794e5ef6" style="display:none"></span>
-![](../assets/media/occ-captures/todos/uuid/todo-actions-a-move-task-z-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-![](../assets/media/occ-captures/todos/uuid/todo-actions-a-move-task-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-move-task-z-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-move-task-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 !!! note
 
@@ -204,8 +204,8 @@ Tasks can be marked as confidential. Many reported events, such as incidents, ar
 Confidential tasks are identified by the slashed-eye icon.
 
 <span data-uuid="4d25ba58-829e-4309-a835-e1d7b6d5b242" style="display:none"></span>
-![](../assets/media/occ-captures/todos/uuid/open-a-confidential-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-![](../assets/media/occ-captures/todos/uuid/open-a-confidential-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/open-a-confidential-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/open-a-confidential-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 !!! tip
 
@@ -213,8 +213,8 @@ Confidential tasks are identified by the slashed-eye icon.
     You can manually add or remove the confidential flag from any task using the option in the Actions panel.
 
     <span data-uuid="d19d9243-dc95-45cf-abe8-f007c97a6b75" style="display:none"></span>
-    ![](../assets/media/occ-captures/todos/uuid/todo-actions-a-remove-confidential-flag-z-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/todos/uuid/todo-actions-a-remove-confidential-flag-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 ## Sensitive Tasks
 <span data-uuid="288bfa91-c0e5-49a5-875c-d5629a2fd148" style="display:none"></span>

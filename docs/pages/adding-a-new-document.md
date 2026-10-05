@@ -63,8 +63,8 @@ tags:
         Click **Employee records** on the manage sidebar.
 
         <span data-uuid="0c50dcec-daa0-4123-ab57-d282eb6abc38" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
     !!! step
 
@@ -107,8 +107,8 @@ tags:
         Click **Assets** on the manage sidebar.
 
         <span data-uuid="8924cda0-e8a8-4532-9954-64d16ff39e06" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/assets-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
     !!! step
 

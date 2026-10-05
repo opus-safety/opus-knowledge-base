@@ -39,8 +39,8 @@ If an employee changes site, you'll need to **move their employee record** to th
     Click **Employee records** on the manage sidebar.
 
     <span data-uuid="964962a2-dd08-4de7-82ad-90780e1b5436" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
 !!! step
 
