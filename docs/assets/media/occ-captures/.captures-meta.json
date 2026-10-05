@@ -155,7 +155,8 @@
     "annotated": true
   },
   "docs/assets/media/occ-captures/tasks/uuid/edit/severity-a-light-mode.png": {
-    "padding": 15,
+    "resized": true,
+    "padding": 20,
     "annotated": true
   },
   "docs/assets/media/occ-captures/tasks/uuid/edit/save-a-light-mode.png": {
