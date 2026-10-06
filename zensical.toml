@@ -128,9 +128,6 @@ draft_nav = [
     ]},
     {"Profile And Settings" = [
       {"Subscriptions" = "drafts/subscriptions.md"}
-    ]},
-    {"Employees" = [
-      {"Registering an employee" = "drafts/registering-an-employee.md"}
     ]}
   ]}
 ]
