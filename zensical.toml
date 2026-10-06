@@ -62,7 +62,7 @@ nav = [
     {"Employees" = [
       {"Employees Overview" = "pages/employees-overview.md"},
       {"Adding a new employee" = "pages/adding-a-new-employee.md"},
-      {"Registering an employee" = "pages/registering-an-employee.md"},
+      {"Registering an Employee" = "pages/registering-an-employee.md"},
       {"Granting an employee temporary access" = "pages/granting-an-employee-temporary-access.md"},
       {"Archiving an employee" = "pages/archiving-an-employee.md"},
       {"Moving an employee" = "pages/moving-an-employee.md"},
@@ -130,7 +130,7 @@ draft_nav = [
       {"Subscriptions" = "drafts/subscriptions.md"}
     ]},
     {"Employees" = [
-      {"Registering an employee" = "drafts/registering-an-employee.md"}
+      {"Registering an Employee" = "drafts/registering-an-employee.md"}
     ]}
   ]}
 ]
