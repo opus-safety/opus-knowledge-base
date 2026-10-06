@@ -4,7 +4,7 @@ tags:
   - Managing OCC
 ---
 
-# Registering an Employee with an Opus Account
+# Registering an employee
 <span data-uuid="c777efce-ef08-442c-8a90-ebc859bdd9f2" style="display:none"></span>
 
 Follow this guide to register an employee in Opus Compliance Cloud using their own Opus account. **This guide assumes that the employee record already exists.**
