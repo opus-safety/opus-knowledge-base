@@ -21,3 +21,7 @@ search:
         ![](../assets/media/system-update-captures/linked-resources-1de19747-light-mode.png#only-light){ width="350" loading=lazy }
         ![](../assets/media/system-update-captures/linked-resources-1de19747-dark-mode.png#only-dark){ width="350" loading=lazy }
 
+        <span data-uuid="e5b8b136-45e9-4bdd-8136-fc3a4e1068e0" style="display:none"></span>
+        ![](../assets/media/system-update-captures/related-tasks-fb18b48e-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/related-tasks-fb18b48e-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
