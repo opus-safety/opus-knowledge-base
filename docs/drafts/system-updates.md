@@ -18,8 +18,8 @@ search:
         <span data-uuid="83352628-3e3b-4ba6-b0ac-98a2f2341b01" style="display:none"></span>
 
         <span data-uuid="05df84a9-e67b-4928-8f8c-caa1ea13bc89" style="display:none"></span>
-        ![](../assets/media/system-update-captures/linked-resources-1de19747-light-mode.png#only-light){ width="350" loading=lazy }
-        ![](../assets/media/system-update-captures/linked-resources-1de19747-dark-mode.png#only-dark){ width="350" loading=lazy }
+        ![](../assets/media/system-update-captures/linked-resources-1de19747-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
+        ![](../assets/media/system-update-captures/linked-resources-1de19747-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
 
         <span data-uuid="e5b8b136-45e9-4bdd-8136-fc3a4e1068e0" style="display:none"></span>
         ![](../assets/media/system-update-captures/related-tasks-fb18b48e-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
