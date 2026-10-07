@@ -31,7 +31,7 @@ This page highlights the main user-facing improvements, additions and feature re
 ---
 ### October 2026
 
-??? new-addition "New addition: Issuing employee equipment logging<span class="meta">7th October 2026</span>"
+??? new-addition "New addition: Issue equipment to an employee log<span class="meta">7th October 2026</span>"
 
     <span data-uuid="552310ed-a50d-4255-a4e0-1f7bead51142" style="display:none"></span>
     A new optional report type is now available, allowing you to record equipment issued to employees.
