@@ -31,6 +31,13 @@ search:
         ![](../assets/media/system-update-captures/related-tasks-fb18b48e-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/related-tasks-fb18b48e-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+    ??? outline "<span class="mb-label mb-label-olive">:lucide-tag: Bespoke equipment labels</span>"
+
+        <span data-uuid="c8df847f-d791-4f50-a15f-f9ca94a64b56" style="display:none"></span>
+        The list of equipment can be completely tailored to your organisation. Use this report type to record the issuing of anything from PPE and workwear to IT equipment.
+
+        Selected equipment is also automatically added as labels to the task. This makes it easy to search for or export tasks relating to specific items.
+
     !!! question "Interested in enabling this feature?"
 
         <span data-uuid="e8288b41-2e08-41d5-9cc6-00ce41ce883a" style="display:none"></span>
