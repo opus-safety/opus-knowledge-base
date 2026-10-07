@@ -31,3 +31,8 @@ search:
         ![](../assets/media/system-update-captures/related-tasks-fb18b48e-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/related-tasks-fb18b48e-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+    !!! question "Interested in enabling this feature?"
+
+        <span data-uuid="e8288b41-2e08-41d5-9cc6-00ce41ce883a" style="display:none"></span>
+        If you're interested in enabling this report type please contact us below.
+
