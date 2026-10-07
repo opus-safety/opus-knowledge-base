@@ -13,3 +13,7 @@ search:
     ![](../assets/media/system-update-captures/employee-equipment-issue-a1052752-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
     ![](../assets/media/system-update-captures/employee-equipment-issue-a1052752-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+    !!! info "Equipment issue gets logged against the employee record"
+
+        <span data-uuid="83352628-3e3b-4ba6-b0ac-98a2f2341b01" style="display:none"></span>
+
