@@ -15,8 +15,8 @@ search:
     See the screenshots and further details about the feature below:
 
     <span data-uuid="a9904731-7397-48a5-a22f-2d50895ba937" style="display:none"></span>
-    ![](../assets/media/system-update-captures/employee-equipment-issue-a1052752-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/system-update-captures/employee-equipment-issue-a1052752-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/system-update-captures/employee-equipment-issue-a1052752-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/system-update-captures/employee-equipment-issue-a1052752-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
 
     !!! info "Logged against the employee record"
 
