@@ -28,3 +28,19 @@
     max-width: none;
   }
 }
+
+/* ----------------------------------------------------------------------------
+ * Nested grids — keep two columns inside nested admonitions/details.
+ *
+ * Material's .grid is repeat(auto-fit, minmax(16rem, 1fr)): two columns need
+ * ~32.4rem of width. Each admonition/details level pads the content by ~0.85rem
+ * a side, so a grid two levels deep (e.g. an outline sub-block inside a system
+ * update) is only ~31rem wide and auto-fit collapses it to a single stacked
+ * column, whatever the cells hold. Lower the per-column minimum for grids that
+ * sit two or more levels deep so they still lay out 2-up; below 60em the normal
+ * single-column stacking still applies via the min(100%, …) clamp.
+ * -------------------------------------------------------------------------- */
+
+.md-typeset :is(details, .admonition) :is(details, .admonition) .grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+}
