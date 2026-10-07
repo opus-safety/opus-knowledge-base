@@ -36,3 +36,6 @@ search:
         <span data-uuid="e8288b41-2e08-41d5-9cc6-00ce41ce883a" style="display:none"></span>
         If you're interested in enabling this report type please contact us below.
 
+        <span data-uuid="04f08803-fb10-46bc-86f0-0585f08d4452" style="display:none"></span>
+        [Contact us :lucide-send:](#){ .md-button .custom-button-emerald .custom-button--force-dark .custom-button--borderless onclick="event.preventDefault(); window.groove.widget.open();" }
+
