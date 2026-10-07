@@ -5,9 +5,14 @@ search:
 
 # System update drafts
 
-??? new-addition "New addition: Employee equipment issue<span class="meta">7th October 2026</span>"
+??? new-addition "New addition: Issuing employee equipment logging<span class="meta">7th October 2026</span>"
 
     <span data-uuid="552310ed-a50d-4255-a4e0-1f7bead51142" style="display:none"></span>
+    A new optional report type is now available, allowing you to record equipment issued to employees. This can be useful for tracking which items have been issued to employees across your organisation.
+
+    By default, this report type is restricted to **Managers only**. Please <a href="#" onclick="event.preventDefault(); window.groove.widget.open();">contact us</a> if you're interested in enabling this report type.
+
+    See the screenshots and further details about the feature below:
 
     <span data-uuid="a9904731-7397-48a5-a22f-2d50895ba937" style="display:none"></span>
     ![](../assets/media/system-update-captures/employee-equipment-issue-a1052752-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
