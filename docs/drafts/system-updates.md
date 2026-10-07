@@ -38,6 +38,24 @@ search:
 
         Selected equipment is also automatically added as labels to the task. This makes it easy to search for or export tasks relating to specific items.
 
+        <span data-uuid="777ae65b-c58e-4686-bcf1-8549a173a2ee" style="display:none"></span>
+
+        <div class="grid" markdown>
+
+        <div markdown>
+
+        <span data-uuid="5a746677-552d-4f2b-af30-5dba853158fa" style="display:none"></span>
+
+        </div>
+
+        <div markdown>
+
+        <span data-uuid="26566545-22d6-42ad-ae51-55f8117ba4e5" style="display:none"></span>
+
+        </div>
+
+        </div>
+
         <span data-uuid="433fdc52-740e-4c1e-8b3d-4894aa95c86c" style="display:none"></span>
         ![](../assets/media/system-update-captures/what-equipment-was-issued-c6af9b6a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/system-update-captures/what-equipment-was-issued-c6af9b6a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
