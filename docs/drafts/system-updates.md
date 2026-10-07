@@ -10,7 +10,7 @@ search:
     <span data-uuid="552310ed-a50d-4255-a4e0-1f7bead51142" style="display:none"></span>
     A new optional report type is now available, allowing you to record equipment issued to employees.
 
-    *:lucide-info: By default, this report type is restricted to **Managers only**.*
+    ***:lucide-info: This report type is designed to be used by Managers***
 
     <span data-uuid="a9904731-7397-48a5-a22f-2d50895ba937" style="display:none"></span>
     ![](../assets/media/system-update-captures/employee-equipment-issue-a1052752-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
