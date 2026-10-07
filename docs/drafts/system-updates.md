@@ -38,6 +38,10 @@ search:
 
         Selected equipment is also automatically added as labels to the task. This makes it easy to search for or export tasks relating to specific items.
 
+        <span data-uuid="433fdc52-740e-4c1e-8b3d-4894aa95c86c" style="display:none"></span>
+        ![](../assets/media/system-update-captures/what-equipment-was-issued-c6af9b6a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/what-equipment-was-issued-c6af9b6a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
     !!! question "Interested in enabling this feature?"
 
         <span data-uuid="e8288b41-2e08-41d5-9cc6-00ce41ce883a" style="display:none"></span>
