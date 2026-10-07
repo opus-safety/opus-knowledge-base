@@ -56,6 +56,10 @@ search:
 
         <span data-uuid="26566545-22d6-42ad-ae51-55f8117ba4e5" style="display:none"></span>
 
+        <span data-uuid="8ee61f7b-dbb8-4cb3-9cc5-63882d6be67b" style="display:none"></span>
+        ![](../assets/media/system-update-captures/labels-a6c890fb-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/labels-a6c890fb-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
         </div>
 
         </div>
