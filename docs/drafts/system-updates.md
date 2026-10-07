@@ -46,6 +46,10 @@ search:
 
         <span data-uuid="5a746677-552d-4f2b-af30-5dba853158fa" style="display:none"></span>
 
+        <span data-uuid="53269489-8206-4d3b-bf44-9f3fb4b58930" style="display:none"></span>
+        ![](../assets/media/system-update-captures/what-equipment-was-issued-c6af9b6a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/what-equipment-was-issued-c6af9b6a-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
         </div>
 
         <div markdown>
