@@ -8,9 +8,9 @@ search:
 ??? new-addition "New addition: Issuing employee equipment logging<span class="meta">7th October 2026</span>"
 
     <span data-uuid="552310ed-a50d-4255-a4e0-1f7bead51142" style="display:none"></span>
-    A new optional report type is now available, allowing you to record equipment issued to employees. This can be useful for tracking which items have been issued to employees across your organisation.
+    A new optional report type is now available, allowing you to record equipment issued to employees.
 
-    By default, this report type is restricted to **Managers only**.
+    *:lucide-info: By default, this report type is restricted to **Managers only**.*
 
     See the screenshots and further details about the feature below:
 
