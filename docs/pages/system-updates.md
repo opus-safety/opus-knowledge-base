@@ -116,8 +116,8 @@ This page highlights the main user-facing improvements, additions and feature re
         When attempting to resolve a task with missing required information, a warning popup will now appear. The warning lists links to all incomplete required fields. Clicking a link will automatically focus on and highlight the relevant field(s) in red.
 
         <span data-uuid="41ebc1e0-f577-470b-9bae-eb600716c398" style="display:none"></span>
-        ![](../assets/media/system-update-captures/at-least-one-required-answer-is-missing-z-ccacc760-light-mode.png#only-light){ style="height: 350px; border-radius: 8px" loading=lazy }
-        ![](../assets/media/system-update-captures/at-least-one-required-answer-is-missing-z-ccacc760-dark-mode.png#only-dark){ style="height: 350px; border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/at-least-one-required-answer-is-missing-z-ccacc760-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
+        ![](../assets/media/system-update-captures/at-least-one-required-answer-is-missing-z-ccacc760-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
 
         <span data-uuid="cd42644f-6f4b-4a6a-a5ff-18ca99dc2596" style="display:none"></span>
         ![](../assets/media/system-update-captures/who-is-investigating-5d30da5a-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
