@@ -106,3 +106,6 @@ flowchart RL
 
     <span data-uuid="9b6b3a47-c110-4370-8030-25337b2f4eaf" style="display:none"></span>
     The account has now been successfully unlinked from the record. If needed, you can now re-register/link this employee following our **Registering an employee** guide below.
+
+    <span data-uuid="fb55c4b5-9a39-487b-8038-6a9a8d0e4758" style="display:none"></span>
+    [Registering an employee :lucide-arrow-right:](registering-an-employee.md){ .md-button .custom-button-slate .custom-button--slim }
