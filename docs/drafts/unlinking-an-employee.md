@@ -36,16 +36,6 @@ flowchart RL
 
 !!! step
 
-    <span data-uuid="96dc6c76-8ba3-493d-8164-b9e2e4003a22" style="display:none"></span>
-
-    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
-
-    <span data-uuid="af6dec9a-4a2e-4d6a-a648-b7f5ccd91aad" style="display:none"></span>
-    ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-!!! step
-
     <span data-uuid="5d922a37-2415-4221-9604-5108138c491a" style="display:none"></span>
 
     From the site inbox, click the **Switch to Manage Mode** button.
