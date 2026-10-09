@@ -189,10 +189,6 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 
     **Solutions in order of recommendation:**
 
-    <span data-uuid="860a3e0b-05a6-4d96-98de-cca6745ee03c" style="display:none"></span>
-    ![](../assets/media/occ-captures/users/sign-in/microsoft-often-silently-blocks-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
-    ![](../assets/media/occ-captures/users/sign-in/microsoft-often-silently-blocks-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
-
     ??? blank "<span class="mb-label mb-label-slate">Solution 1</span><span class="meta">User changes their email address</span>"
 
         <span data-uuid="edc030e9-41f3-429f-8b80-f80ba8cbceac" style="display:none"></span>
