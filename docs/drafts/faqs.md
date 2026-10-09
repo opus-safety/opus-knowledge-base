@@ -189,12 +189,6 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 
     **Solutions in order of recommendation:**
 
-    Option 2: Delete and re-register the account
-
-    If the user is still linked to the system, contact Opus Support with the user's name so that their existing Opus account can be deleted. You can then register them again as a new employee, allowing them to create a new account using the same email address.
-
-    Please note that the email delivery issue is likely to persist if the user continues to use the same email address.
-
     ??? blank "<span class="mb-label mb-label-slate">Solution 1</span><span class="meta">User changes their email address</span>"
 
         <span data-uuid="edc030e9-41f3-429f-8b80-f80ba8cbceac" style="display:none"></span>
