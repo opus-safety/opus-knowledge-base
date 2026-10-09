@@ -199,9 +199,10 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
         <span data-uuid="06d13140-94e9-4ba4-9003-ba25ae9c5aeb" style="display:none"></span>
         [Opus Compliance Cloud: Profile & Settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/profile){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
 
-    !!! failure
+    !!! failure "User unable to access account?"
 
         <span data-uuid="06a696df-2d0d-496a-851e-07b4df7f1a9a" style="display:none"></span>
+        If the user has forgotten their password and on attempting to reset their password, they have received this error message, please continue to <span class="mb-label mb-label-slate">Solution 2</span> / <span class="mb-label mb-label-slate">Solution 3</span>.
 
         <span data-uuid="a22980c5-fe0d-4e01-8730-8182d13ce9bc" style="display:none"></span>
         ![](../assets/media/occ-captures/users/sign-in/microsoft-often-silently-blocks-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
