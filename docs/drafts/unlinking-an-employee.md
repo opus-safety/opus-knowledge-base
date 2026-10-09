@@ -24,9 +24,9 @@ Follow the steps below:
       layout: elk
     ---
     flowchart RL
-        n3["Their site(s)"] --- n2["Employee record"]
-        n4["Their e-learning"] --- n2
-        n5["Their checklists"] --- n2
+        n3["Site(s)"] --- n2["Employee record"]
+        n4["E-learning"] --- n2
+        n5["Checklists"] --- n2
         n2 -. ✄ Unlink .- n1["Opus account"]
 
         n3@{ shape: rect}
