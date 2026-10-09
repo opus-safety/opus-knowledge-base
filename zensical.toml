@@ -66,8 +66,8 @@ nav = [
       {"Granting an employee temporary access" = "pages/granting-an-employee-temporary-access.md"},
       {"Archiving an employee" = "pages/archiving-an-employee.md"},
       {"Moving an employee" = "pages/moving-an-employee.md"},
-      {"Access & Authorisations" = "pages/access-and-authorisations.md"},
-      {"Unlinking an employee" = "pages/unlinking-an-employee.md"}
+      {"Unlinking an employee" = "pages/unlinking-an-employee.md"},
+      {"Access & Authorisations" = "pages/access-and-authorisations.md"}
     ]},
     {"Assets" = [
       {"Adding an asset" = "pages/adding-an-asset.md"},
@@ -121,20 +121,20 @@ draft_nav = [
       ]},
       {"Task Overview" = "drafts/task-overview.md"}
     ]},
+    {"Employees" = [
+      {"Archiving an employee" = "drafts/archiving-an-employee.md"}
+    ]},
     {"Reporting" = [
       {"Training & Gaps" = "drafts/training-and-gaps.md"}
     ]},
     {"Contractors" = [
       {"Permits to Work" = "drafts/permits-to-work.md"}
     ]},
-    {"Profile And Settings" = [
-      {"Subscriptions" = "drafts/subscriptions.md"}
-    ]},
     {"Other" = [
       {"FAQs" = "drafts/faqs.md"}
     ]},
-    {"Employees" = [
-      {"Archiving an employee" = "drafts/archiving-an-employee.md"}
+    {"Profile And Settings" = [
+      {"Subscriptions" = "drafts/subscriptions.md"}
     ]}
   ]}
 ]
