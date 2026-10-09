@@ -11,30 +11,26 @@ Sometimes you may need to unlink an employee record from its linked account.
 
 Follow the steps below:
 
-!!! blank
+<span data-uuid="c04532b8-017b-41b9-9971-d872097aaf3b" style="display:none"></span>
+```mermaid
+---
+config:
+  layout: elk
+---
+flowchart RL
+    n3["Site(s)"] --- n2["Employee record"]
+    n4["E-learning"] --- n2
+    n5["Checklists"] --- n2
+    n2 -. ✄ Unlink .- n1["Opus account"]
 
-    <span data-uuid="d59b5479-740c-47ac-9660-393d201f1dad" style="display:none"></span>
-
-    <span data-uuid="ce368bf0-3697-486b-869c-581f27870c72" style="display:none"></span>
-    ```mermaid
-    ---
-    config:
-      layout: elk
-    ---
-    flowchart RL
-        n3["Site(s)"] --- n2["Employee record"]
-        n4["E-learning"] --- n2
-        n5["Checklists"] --- n2
-        n2 -. ✄ Unlink .- n1["Opus account"]
-
-        n3@{ shape: rect}
-        n2@{ shape: rect}
-        n4@{ shape: rect}
-        n5@{ shape: rect}
-        n1@{ shape: rect}
-        classDef question stroke:#6b7280,fill:#f3f4f6,stroke-width:2px
-        classDef action stroke:#16a34a,fill:#dcfce7,stroke-width:2px
-    ```
+    n3@{ shape: rect}
+    n2@{ shape: rect}
+    n4@{ shape: rect}
+    n5@{ shape: rect}
+    n1@{ shape: rect}
+    classDef question stroke:#6b7280,fill:#f3f4f6,stroke-width:2px
+    classDef action stroke:#16a34a,fill:#dcfce7,stroke-width:2px
+```
 
 !!! step
 
