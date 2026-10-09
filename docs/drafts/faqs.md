@@ -188,14 +188,6 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     - as well as other Microsoft email domains.
     **Solutions in order of recommendation:**
 
-    What if the user has forgotten their password?
-
-    There are two possible solutions:
-
-    Option 1: Unlink and re-register using a different email address (recommended)
-
-    Unlink the user's existing account and register them again using a different, non-Microsoft email address. This is the recommended approach, as it helps reduce the likelihood of future email delivery issues and allows the user to receive password reset emails and system notifications more reliably.
-
     Option 2: Delete and re-register the account
 
     If the user is still linked to the system, contact Opus Support with the user's name so that their existing Opus account can be deleted. You can then register them again as a new employee, allowing them to create a new account using the same email address.
