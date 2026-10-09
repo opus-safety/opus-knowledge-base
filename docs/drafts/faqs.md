@@ -210,7 +210,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
         Unlink the user's existing account and register them again using a different, non-Microsoft email address. This is a recommended approach, as it helps reduce the likelihood of future email delivery issues and allows the user to receive password reset emails and system notifications more reliably.
 
         <span data-uuid="c765eaa5-3ab9-492e-9c4b-b4e536400017" style="display:none"></span>
-        [Opus Compliance Cloud: Profile & Settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/profile){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
+        [Unlinking an employee :lucide-arrow-up-right:](unlinking-an-employee.md){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
 
 ## E-learning
 <span data-uuid="51af82ca-08cc-43f7-b70d-dcedea623081" style="display:none"></span>
