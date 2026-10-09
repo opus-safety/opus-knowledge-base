@@ -219,6 +219,9 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 
         :lucide-triangle-alert:**Please note:** This is the least recommended option, as the user is likely to continue experiencing issues receiving system-generated emails if they re-register using the same Microsoft email address.
 
+        <span data-uuid="85ee1e0d-b7b8-4ea8-bc25-1979044c3445" style="display:none"></span>
+        [Contact us :lucide-send:](#){ .md-button .custom-button-slate onclick="event.preventDefault(); window.groove.widget.open();" }
+
 ## E-learning
 <span data-uuid="51af82ca-08cc-43f7-b70d-dcedea623081" style="display:none"></span>
 
