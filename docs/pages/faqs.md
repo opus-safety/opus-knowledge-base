@@ -172,6 +172,54 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     - **:lucide-trending-up: Identifying wider trends:** Corrective actions may contain information that contributes to broader trends or recurring issues across the existing workforce.
     - **:lucide-triangle-alert: Informative on working environment:** Corrective actions may indicate potential issues with the workplace environment that could affect other employees and may require further investigation or action.
 
+??? outline "Why aren't Microsoft email addresses receiving Opus emails?"
+
+    <span data-uuid="d0d7d1cf-0bed-4c71-926c-b1187dcb5f49" style="display:none"></span>
+    Due to Microsoft's email filtering and whitelisting policies, system-generated emails from Opus Compliance Cloud, such as password reset emails and notifications, may not be delivered reliably to email addresses provided by **Microsoft**.
+
+    This includes email addresses ending in:
+
+    - <span class="mb-label mb-label-slate">@hotmail.com</span>
+    - <span class="mb-label mb-label-slate">@outlook.com</span>
+    - <span class="mb-label mb-label-slate">@live.com</span>
+    - <span class="mb-label mb-label-slate">@msn.com</span>
+    - as well as other Microsoft email domains.
+    **Solutions in order of recommendation:**
+
+    Option 2: Delete and re-register the account
+
+    If the user is still linked to the system, contact Opus Support with the user's name so that their existing Opus account can be deleted. You can then register them again as a new employee, allowing them to create a new account using the same email address.
+
+    Please note that the email delivery issue is likely to persist if the user continues to use the same email address.
+
+    ??? blank "<span class="mb-label mb-label-slate">Solution 1</span><span class="meta">User changes their email address</span>"
+
+        <span data-uuid="edc030e9-41f3-429f-8b80-f80ba8cbceac" style="display:none"></span>
+        We recommend changing the email address associated with the user's account to a non-Microsoft email address, such as their work email, gmail, or similar.
+
+        Users can update their email address here via their profile settings below.
+
+        <span data-uuid="06d13140-94e9-4ba4-9003-ba25ae9c5aeb" style="display:none"></span>
+        [Opus Compliance Cloud: Profile & Settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/profile){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
+
+    ??? blank "<span class="mb-label mb-label-slate">Solution 2</span><span class="meta">Unlink and re-register using a different email address.</span>"
+
+        <span data-uuid="d3d9bc18-1cf0-41fb-8339-49a355086358" style="display:none"></span>
+        Unlink the user's existing account and register them again using a different, non-Microsoft email address. This is a recommended approach, as it helps reduce the likelihood of future email delivery issues and allows the user to receive password reset emails and system notifications more reliably.
+
+        <span data-uuid="c765eaa5-3ab9-492e-9c4b-b4e536400017" style="display:none"></span>
+        [Unlinking an employee :lucide-arrow-up-right:](unlinking-an-employee.md){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
+
+    ??? blank "<span class="mb-label mb-label-slate">Solution 3</span><span class="meta">Opus deletes the user account</span>"
+
+        <span data-uuid="5b5e9170-4ef4-4c35-91aa-983768ba1cc7" style="display:none"></span>
+        If the user has forgotten their password and you do not wish to proceed with <span class="mb-label mb-label-slate">Solution 2</span>, Opus Support can delete their existing account, allowing them to create a new one during registration.
+
+        :lucide-triangle-alert:**Please note:** This is the least recommended option, as the user is likely to continue experiencing issues receiving system-generated emails if they re-register using the same Microsoft email address.
+
+        <span data-uuid="85ee1e0d-b7b8-4ea8-bc25-1979044c3445" style="display:none"></span>
+        [Contact us :lucide-send:](#){ .md-button .custom-button-slate onclick="event.preventDefault(); window.groove.widget.open();" }
+
 ## E-learning
 <span data-uuid="51af82ca-08cc-43f7-b70d-dcedea623081" style="display:none"></span>
 
