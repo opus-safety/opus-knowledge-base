@@ -23,7 +23,7 @@ flowchart RL
     n3["Their site(s)"] --- n2["Employee record"]
     n4["Their e-learning"] --- n2
     n5["Their checklists"] --- n2
-    n2 -. ✂️ Unlink .-> n1["Opus account"]
+    n2 -. ✄ Unlink .- n1["Opus account"]
 
     n3@{ shape: rect}
     n2@{ shape: rect}
