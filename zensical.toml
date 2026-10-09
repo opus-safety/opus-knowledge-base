@@ -121,9 +121,6 @@ draft_nav = [
       ]},
       {"Task Overview" = "drafts/task-overview.md"}
     ]},
-    {"Employees" = [
-      {"Archiving an employee" = "drafts/archiving-an-employee.md"}
-    ]},
     {"Reporting" = [
       {"Training & Gaps" = "drafts/training-and-gaps.md"}
     ]},
