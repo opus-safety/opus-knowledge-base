@@ -188,12 +188,6 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     - as well as other Microsoft email domains.
     **Solutions in order of recommendation:**
 
-    Recommended solution
-
-    We recommend changing the email address associated with the user's account to a non-Microsoft email address, such as their work email or a personal Gmail account.
-
-    Users can update their email address here: [insert link].
-
     What if the user has forgotten their password?
 
     There are two possible solutions:
