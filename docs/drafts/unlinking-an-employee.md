@@ -36,16 +36,6 @@ flowchart RL
 
 !!! step
 
-    <span data-uuid="5d922a37-2415-4221-9604-5108138c491a" style="display:none"></span>
-
-    From the site inbox, click the **Switch to Manage Mode** button.
-
-    <span data-uuid="9924e31d-26ea-48a2-b2e0-227427438d56" style="display:none"></span>
-    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-!!! step
-
     <span data-uuid="bb502839-a7e2-4a1f-8ae4-3c9e901f61e4" style="display:none"></span>
 
     Click **Employee records** on the manage sidebar.
