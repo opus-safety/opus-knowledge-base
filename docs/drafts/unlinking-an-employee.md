@@ -97,3 +97,7 @@ flowchart RL
     On the confirmation page, read the information and warnings carefully to ensure you understand the implications of unlinking the record.
 
     If you’re happy to proceed, select **Confirm unlinking**
+
+    <span data-uuid="9cd03495-f1a6-45a5-b7eb-4603451b61a8" style="display:none"></span>
+    ![](../assets/media/occ-captures/employees/uuid/unlink/confirm-unlinking-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/unlink/confirm-unlinking-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
