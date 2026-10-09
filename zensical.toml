@@ -129,9 +129,6 @@ draft_nav = [
     ]},
     {"Profile And Settings" = [
       {"Subscriptions" = "drafts/subscriptions.md"}
-    ]},
-    {"Employees" = [
-      {"Unlinking an employee" = "drafts/unlinking-an-employee.md"}
     ]}
   ]}
 ]
