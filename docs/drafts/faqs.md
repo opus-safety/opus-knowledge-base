@@ -208,9 +208,12 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 
     Please note that the email delivery issue is likely to persist if the user continues to use the same email address.
 
-    !!! blank "<span class="mb-label mb-label-slate">Solution 1</span>"
+    !!! blank "<span class="mb-label mb-label-slate">Solution 1 - User changes their email address</span>"
 
         <span data-uuid="edc030e9-41f3-429f-8b80-f80ba8cbceac" style="display:none"></span>
+        We recommend changing the email address associated with the user's account to a non-Microsoft email address, such as their work email, gmail, or similar.
+
+        Users can update their email address here via their profile settings below.
 
 ## E-learning
 <span data-uuid="51af82ca-08cc-43f7-b70d-dcedea623081" style="display:none"></span>
