@@ -36,24 +36,6 @@ flowchart RL
 
 !!! step
 
-    <span data-uuid="d454b58d-7f01-4252-a90a-383d3eda7ecb" style="display:none"></span>
-
-    Find the employee from the list and click on their name
-
-    <span data-uuid="ee14fad1-f4d5-4aef-85b8-3d8e84c420f4" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
-
-    !!! tip "Shortcut!<span class="meta">(optional)</span>"
-
-        <span data-uuid="048798b1-730e-449f-9b74-f35d83288789" style="display:none"></span>
-
-        If you see the red Remove button next to the employee’s name in the list, you can click this instead to schedule the employee to be archived at the end of the day. You can then skip the remaining steps.
-
-        If you need to set a specific end date for the employee (for example, if their leaving date is in the future or was in the past), continue with the steps below.
-
-!!! step
-
     <span data-uuid="62f06645-9360-456a-8fa2-1d359337d3a3" style="display:none"></span>
     Click **Unlink user account** on the record
 
