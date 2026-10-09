@@ -174,6 +174,39 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     - **:lucide-trending-up: Identifying wider trends:** Corrective actions may contain information that contributes to broader trends or recurring issues across the existing workforce.
     - **:lucide-triangle-alert: Informative on working environment:** Corrective actions may indicate potential issues with the workplace environment that could affect other employees and may require further investigation or action.
 
+??? outline "Why aren't Microsoft email addresses receiving Opus emails?"
+
+    <span data-uuid="d0d7d1cf-0bed-4c71-926c-b1187dcb5f49" style="display:none"></span>
+    Due to Microsoft's email filtering and whitelisting policies, system-generated emails from Opus Compliance Cloud, such as password reset emails and notifications, may not be delivered reliably to email addresses provided by <span class="mb-label mb-label-slate">Microsoft</span>.
+
+    This includes email addresses ending in:
+
+    - @hotmail.com
+    - @outlook.com
+    - @live.com
+    - @msn.com
+    - as well as other Microsoft email domains.
+
+    Recommended solution
+
+    We recommend changing the email address associated with the user's account to a non-Microsoft email address, such as their work email or a personal Gmail account.
+
+    Users can update their email address here: [insert link].
+
+    What if the user has forgotten their password?
+
+    There are two possible solutions:
+
+    Option 1: Unlink and re-register using a different email address (recommended)
+
+    Unlink the user's existing account and register them again using a different, non-Microsoft email address. This is the recommended approach, as it helps reduce the likelihood of future email delivery issues and allows the user to receive password reset emails and system notifications more reliably.
+
+    Option 2: Delete and re-register the account
+
+    If the user is still linked to the system, contact Opus Support with the user's name so that their existing Opus account can be deleted. You can then register them again as a new employee, allowing them to create a new account using the same email address.
+
+    Please note that the email delivery issue is likely to persist if the user continues to use the same email address.
+
 ## E-learning
 <span data-uuid="51af82ca-08cc-43f7-b70d-dcedea623081" style="display:none"></span>
 
