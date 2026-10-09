@@ -101,3 +101,8 @@ flowchart RL
     <span data-uuid="9cd03495-f1a6-45a5-b7eb-4603451b61a8" style="display:none"></span>
     ![](../assets/media/occ-captures/employees/uuid/unlink/confirm-unlinking-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/employees/uuid/unlink/confirm-unlinking-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! success "Complete!"
+
+    <span data-uuid="9b6b3a47-c110-4370-8030-25337b2f4eaf" style="display:none"></span>
+    The account has now been successfully unlinked from the record. If needed, you can now re-register/link this employee following our **Registering an employee** guide below.
