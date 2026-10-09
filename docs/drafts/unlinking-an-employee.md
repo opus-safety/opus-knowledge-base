@@ -85,9 +85,4 @@ flowchart RL
 !!! step
 
     <span data-uuid="62f06645-9360-456a-8fa2-1d359337d3a3" style="display:none"></span>
-
     Click **Unlink user account** on the record
-
-    <span data-uuid="f97c98ba-81b7-4bca-804f-902b0e866c5d" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/edit-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/edit-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
