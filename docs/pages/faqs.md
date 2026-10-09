@@ -187,12 +187,6 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 
     **Solutions in order of recommendation:**
 
-    Option 2: Delete and re-register the account
-
-    If the user is still linked to the system, contact Opus Support with the user's name so that their existing Opus account can be deleted. You can then register them again as a new employee, allowing them to create a new account using the same email address.
-
-    Please note that the email delivery issue is likely to persist if the user continues to use the same email address.
-
     ??? blank "<span class="mb-label mb-label-slate">Solution 1</span><span class="meta">User changes their email address</span>"
 
         <span data-uuid="edc030e9-41f3-429f-8b80-f80ba8cbceac" style="display:none"></span>
@@ -202,6 +196,16 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 
         <span data-uuid="06d13140-94e9-4ba4-9003-ba25ae9c5aeb" style="display:none"></span>
         [Opus Compliance Cloud: Profile & Settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/profile){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
+
+        !!! failure "User unable to access account?"
+
+            <span data-uuid="302f0b89-577c-4bdc-8d8f-28c8916143e6" style="display:none"></span>
+
+            If the user has forgotten their password and on attempting to reset their password, they have received this error message, please continue to <span class="mb-label mb-label-slate">Solution 2</span> / <span class="mb-label mb-label-slate">Solution 3</span>.
+
+            <span data-uuid="b4e77ad0-bdb9-43c7-8741-c877d42c87e3" style="display:none"></span>
+            ![](../assets/media/occ-captures/users/sign-in/microsoft-often-silently-blocks-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
+            ![](../assets/media/occ-captures/users/sign-in/microsoft-often-silently-blocks-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
 
     ??? blank "<span class="mb-label mb-label-slate">Solution 2</span><span class="meta">Unlink and re-register using a different email address.</span>"
 
