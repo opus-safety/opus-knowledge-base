@@ -134,8 +134,7 @@ draft_nav = [
       {"FAQs" = "drafts/faqs.md"}
     ]},
     {"Employees" = [
-      {"Archiving an employee" = "drafts/archiving-an-employee.md"},
-      {"Unlinking an employee" = "drafts/unlinking-an-employee.md"}
+      {"Archiving an employee" = "drafts/archiving-an-employee.md"}
     ]}
   ]}
 ]
