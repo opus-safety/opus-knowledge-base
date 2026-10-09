@@ -33,3 +33,6 @@ flowchart RL
     classDef question stroke:#6b7280,fill:#f3f4f6,stroke-width:2px
     classDef action stroke:#16a34a,fill:#dcfce7,stroke-width:2px
 ```
+
+## Steps
+<span data-uuid="57c6b82a-7543-4cd9-b6ba-a07402f9905b" style="display:none"></span>
