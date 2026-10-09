@@ -36,16 +36,6 @@ flowchart RL
 
 !!! step
 
-    <span data-uuid="bb502839-a7e2-4a1f-8ae4-3c9e901f61e4" style="display:none"></span>
-
-    Click **Employee records** on the manage sidebar.
-
-    <span data-uuid="6681a3e0-1115-4737-a059-ffd9144e8313" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-!!! step
-
     <span data-uuid="d454b58d-7f01-4252-a90a-383d3eda7ecb" style="display:none"></span>
 
     Find the employee from the list and click on their name
