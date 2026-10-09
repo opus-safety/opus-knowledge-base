@@ -66,7 +66,8 @@ nav = [
       {"Granting an employee temporary access" = "pages/granting-an-employee-temporary-access.md"},
       {"Archiving an employee" = "pages/archiving-an-employee.md"},
       {"Moving an employee" = "pages/moving-an-employee.md"},
-      {"Access & Authorisations" = "pages/access-and-authorisations.md"}
+      {"Access & Authorisations" = "pages/access-and-authorisations.md"},
+      {"Unlinking an employee" = "pages/unlinking-an-employee.md"}
     ]},
     {"Assets" = [
       {"Adding an asset" = "pages/adding-an-asset.md"},
@@ -133,8 +134,7 @@ draft_nav = [
       {"FAQs" = "drafts/faqs.md"}
     ]},
     {"Employees" = [
-      {"Archiving an employee" = "drafts/archiving-an-employee.md"},
-      {"Unlinking an employee" = "drafts/unlinking-an-employee.md"}
+      {"Archiving an employee" = "drafts/archiving-an-employee.md"}
     ]}
   ]}
 ]
