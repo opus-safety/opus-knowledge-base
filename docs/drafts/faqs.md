@@ -186,6 +186,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     - <span class="mb-label mb-label-slate">@live.com</span>
     - <span class="mb-label mb-label-slate">@msn.com</span>
     - as well as other Microsoft email domains.
+
     **Solutions in order of recommendation:**
 
     Option 2: Delete and re-register the account
