@@ -36,15 +36,6 @@ flowchart RL
 
 !!! step
 
-    <span data-uuid="62f06645-9360-456a-8fa2-1d359337d3a3" style="display:none"></span>
-    Click **Unlink user account** on the record
-
-    <span data-uuid="e45dcd0a-cf70-4dd4-b951-3605e18b6fc0" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/unlink-user-account-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/unlink-user-account-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-!!! step
-
     <span data-uuid="b34d9a9b-91ff-402a-957d-d43b137c93f9" style="display:none"></span>
     On the confirmation page, read the information and warnings carefully to ensure you understand the implications of unlinking the record.
 
