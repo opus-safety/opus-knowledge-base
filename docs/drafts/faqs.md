@@ -215,6 +215,9 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 
         Users can update their email address here via their profile settings below.
 
+        <span data-uuid="06d13140-94e9-4ba4-9003-ba25ae9c5aeb" style="display:none"></span>
+        [Profile & Settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/profile){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
+
 ## E-learning
 <span data-uuid="51af82ca-08cc-43f7-b70d-dcedea623081" style="display:none"></span>
 
