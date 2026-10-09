@@ -131,9 +131,6 @@ draft_nav = [
     ]},
     {"Other" = [
       {"FAQs" = "drafts/faqs.md"}
-    ]},
-    {"Employees" = [
-      {"Registering an employee" = "drafts/registering-an-employee.md"}
     ]}
   ]}
 ]
