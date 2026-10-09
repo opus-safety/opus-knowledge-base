@@ -177,15 +177,16 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 ??? outline "Why aren't Microsoft email addresses receiving Opus emails?"
 
     <span data-uuid="d0d7d1cf-0bed-4c71-926c-b1187dcb5f49" style="display:none"></span>
-    Due to Microsoft's email filtering and whitelisting policies, system-generated emails from Opus Compliance Cloud, such as password reset emails and notifications, may not be delivered reliably to email addresses provided by <span class="mb-label mb-label-slate">Microsoft</span>.
+    Due to Microsoft's email filtering and whitelisting policies, system-generated emails from Opus Compliance Cloud, such as password reset emails and notifications, may not be delivered reliably to email addresses provided by **Microsoft**.
 
     This includes email addresses ending in:
 
-    - @hotmail.com
-    - @outlook.com
-    - @live.com
-    - @msn.com
+    - <span class="mb-label mb-label-slate">@hotmail.com</span>
+    - <span class="mb-label mb-label-slate">@outlook.com</span>
+    - <span class="mb-label mb-label-slate">@live.com</span>
+    - <span class="mb-label mb-label-slate">@msn.com</span>
     - as well as other Microsoft email domains.
+    **Solutions in order of recommendation:**
 
     Recommended solution
 
