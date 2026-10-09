@@ -81,3 +81,13 @@ flowchart RL
         If you see the red Remove button next to the employee’s name in the list, you can click this instead to schedule the employee to be archived at the end of the day. You can then skip the remaining steps.
 
         If you need to set a specific end date for the employee (for example, if their leaving date is in the future or was in the past), continue with the steps below.
+
+!!! step
+
+    <span data-uuid="62f06645-9360-456a-8fa2-1d359337d3a3" style="display:none"></span>
+
+    Click **Unlink user account** on the record
+
+    <span data-uuid="f97c98ba-81b7-4bca-804f-902b0e866c5d" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/edit-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/edit-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
