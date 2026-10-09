@@ -34,17 +34,6 @@ flowchart RL
     classDef action stroke:#16a34a,fill:#dcfce7,stroke-width:2px
 ```
 
-!!! step
-
-    <span data-uuid="b34d9a9b-91ff-402a-957d-d43b137c93f9" style="display:none"></span>
-    On the confirmation page, read the information and warnings carefully to ensure you understand the implications of unlinking the record.
-
-    If you’re happy to proceed, select **Confirm unlinking**
-
-    <span data-uuid="9cd03495-f1a6-45a5-b7eb-4603451b61a8" style="display:none"></span>
-    ![](../assets/media/occ-captures/employees/uuid/unlink/confirm-unlinking-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/employees/uuid/unlink/confirm-unlinking-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
 !!! success "Complete!"
 
     <span data-uuid="9b6b3a47-c110-4370-8030-25337b2f4eaf" style="display:none"></span>
