@@ -212,6 +212,12 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
         <span data-uuid="c765eaa5-3ab9-492e-9c4b-b4e536400017" style="display:none"></span>
         [Unlinking an employee :lucide-arrow-up-right:](unlinking-an-employee.md){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
 
+    ??? blank "<span class="mb-label mb-label-slate">Solution 3</span><span class="meta">Opus deletes user account</span>"
+
+        <span data-uuid="5b5e9170-4ef4-4c35-91aa-983768ba1cc7" style="display:none"></span>
+
+        If the user has forgotten their password, and you do not wish to pursue Solution 2, Opus support can delete accounts, allowing them to re-create their account during registration. This option is our least recommended, as they will still not recieve system emails after recreation.
+
 ## E-learning
 <span data-uuid="51af82ca-08cc-43f7-b70d-dcedea623081" style="display:none"></span>
 
