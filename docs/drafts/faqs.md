@@ -179,7 +179,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     <span data-uuid="d0d7d1cf-0bed-4c71-926c-b1187dcb5f49" style="display:none"></span>
     Due to Microsoft's email filtering and whitelisting policies, system-generated emails from Opus Compliance Cloud, such as password reset emails and notifications, may not be delivered reliably to personal email addresses provided by **Microsoft**.
 
-    This includes email addresses ending in:
+    This includes the following domains:
 
     - <span class="mb-label mb-label-slate">@hotmail.com</span>
     - <span class="mb-label mb-label-slate">@outlook.com</span>
