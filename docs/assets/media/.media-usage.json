@@ -19,9 +19,7 @@
     "docs/assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png",
     "docs/assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png",
     "docs/assets/media/occ-captures/employees/uuid/unlink/confirm-unlinking-dark-mode.png",
-    "docs/assets/media/occ-captures/employees/uuid/unlink/confirm-unlinking-light-mode.png",
-    "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png",
-    "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png"
+    "docs/assets/media/occ-captures/employees/uuid/unlink/confirm-unlinking-light-mode.png"
   ],
   "docs/pages/adding-a-contractor.md": [
     "docs/assets/media/occ-captures/admin/sites/uuid/contractors/new-dark-mode.png",
