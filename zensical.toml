@@ -129,6 +129,9 @@ draft_nav = [
     ]},
     {"Profile And Settings" = [
       {"Subscriptions" = "drafts/subscriptions.md"}
+    ]},
+    {"Other" = [
+      {"FAQs" = "drafts/faqs.md"}
     ]}
   ]}
 ]
