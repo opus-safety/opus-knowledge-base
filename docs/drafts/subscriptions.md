@@ -28,6 +28,33 @@ When a task is generated, either automatically by the system or as a result of u
 
     <span data-uuid="67eb3710-a0d1-43be-9d7a-11af18a8ad46" style="display:none"></span>
 
+    <span data-uuid="7c4b312e-1d7c-4107-970e-019961706396" style="display:none"></span>
+    ```mermaid
+    ---
+    config:
+      layout: elk
+    ---
+    stateDiagram
+      direction TB
+      classDef trigger stroke:#d97706,fill:#f59e0b26,stroke-width:2px;
+      classDef question stroke:#7d8590,fill:#9ca3af26,stroke-width:2px;
+      classDef action stroke:#16a34a,fill:#22c55e26,stroke-width:2px;
+      s1 --> s2:<br>
+      s2 --> s4:<br>
+      s4 --> s6:Subscribed (in-system)?
+      s6 --> s9:Digest enabled?
+      s6 --> s8:Subscribed (email)?
+      s1:Incident occurs
+      s2:Incident reported on OCC
+      s4:Incident task created
+      s6:In-system notification sent
+      s9:Notification included in next digest email (if unread)
+      s8:Instant email notification sent
+      class s1 trigger
+      class s2,s4 question
+      class s6,s9,s8 action
+    ```
+
     </div>
 
     <div markdown>
