@@ -73,7 +73,7 @@ When a task is generated, either automatically by the system or as a result of u
 
     <div class="grid" markdown>
 
-    <div markdown>
+    <div class="card" markdown>
 
     <span data-uuid="065ffc3e-6806-4e93-a353-8d871a1656dc" style="display:none"></span>
 
@@ -102,7 +102,7 @@ When a task is generated, either automatically by the system or as a result of u
 
     </div>
 
-    <div markdown>
+    <div class="card" markdown>
 
     <span data-uuid="a30550e5-15cf-4496-95c2-9c7d08fa0cd8" style="display:none"></span>
 
