@@ -347,8 +347,8 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
         ---
         stateDiagram
           direction TB
-          classDef question stroke:#6b7280,fill:#f3f4f6,stroke-width:2px;
-          classDef action stroke:#16a34a,fill:#dcfce7,stroke-width:2px;
+          classDef question stroke:#7d8590,fill:#9ca3af26,stroke-width:2px;
+          classDef action stroke:#16a34a,fill:#22c55e26,stroke-width:2px;
           s1 --> s2:✅ Yes
           s1 --> s3:❌ No
           s2 --> s4:✅ Yes
