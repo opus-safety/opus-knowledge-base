@@ -47,7 +47,7 @@ When a task is generated, either automatically by the system or as a result of u
       class s6,s9,s8 action
     ```
 
-??? example "Example 1 - Your own e-learning"
+??? example "Example 2 - Your own e-learning"
 
     <span data-uuid="83d0c528-2195-4436-98a8-80d2d91050b0" style="display:none"></span>
 
