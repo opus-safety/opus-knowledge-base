@@ -77,6 +77,29 @@ When a task is generated, either automatically by the system or as a result of u
 
     <span data-uuid="065ffc3e-6806-4e93-a353-8d871a1656dc" style="display:none"></span>
 
+    <span data-uuid="6fea9534-a77d-4695-ae0c-5f403df19c9a" style="display:none"></span>
+    ```mermaid
+    ---
+    config:
+      layout: elk
+    ---
+    stateDiagram
+      direction TB
+      classDef trigger stroke:#d97706,fill:#f59e0b26,stroke-width:2px;
+      classDef question stroke:#7d8590,fill:#9ca3af26,stroke-width:2px;
+      classDef action stroke:#16a34a,fill:#22c55e26,stroke-width:2px;
+      s4 --> s6:Subscribed (in-system)?
+      s6 --> s9:Digest enabled?
+      s1 --> s4
+      s4:E-learning reminder task generates automatically
+      s6:In-system notification sent
+      s9:Notification included in next digest email (if unread)
+      s1:E-learning becomes due
+      class s1 trigger
+      class s4 question
+      class s6,s9 action
+    ```
+
     </div>
 
     <div markdown>
