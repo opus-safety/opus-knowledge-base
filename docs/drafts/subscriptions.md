@@ -27,7 +27,7 @@ When a task is generated, either automatically by the system or as a result of u
       layout: elk
     ---
     stateDiagram
-      direction LR
+      direction TB
       classDef trigger stroke:#d97706,fill:#f59e0b26,stroke-width:2px;
       classDef question stroke:#7d8590,fill:#9ca3af26,stroke-width:2px;
       classDef action stroke:#16a34a,fill:#22c55e26,stroke-width:2px;
