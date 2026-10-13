@@ -20,6 +20,24 @@ When a task is generated, either automatically by the system or as a result of u
 
     <span data-uuid="52143830-ca9d-473d-8d83-007bbca75d77" style="display:none"></span>
 
+    <span data-uuid="f4588f41-7113-44da-91e8-d702061dfb8e" style="display:none"></span>
+
+    <div class="grid" markdown>
+
+    <div markdown>
+
+    <span data-uuid="67eb3710-a0d1-43be-9d7a-11af18a8ad46" style="display:none"></span>
+
+    </div>
+
+    <div markdown>
+
+    <span data-uuid="edd5a8ec-c22e-466e-b2b1-6261f453496c" style="display:none"></span>
+
+    </div>
+
+    </div>
+
     <span data-uuid="9f43b4a6-6306-4718-aae5-5585758e3a36" style="display:none"></span>
     ```mermaid
     ---
