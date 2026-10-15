@@ -128,7 +128,8 @@ draft_nav = [
       {"Permits to Work" = "drafts/permits-to-work.md"}
     ]},
     {"My Opus Account" = [
-      {"Subscriptions" = "drafts/subscriptions.md"}
+      {"Subscriptions" = "drafts/subscriptions.md"},
+      {"MFA" = "drafts/mfa.md"}
     ]}
   ]}
 ]
