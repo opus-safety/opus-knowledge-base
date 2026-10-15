@@ -51,8 +51,8 @@ If mandated by your organisation, skip to step 4
     Make sure your mobile device has an authentication app installed. ***Your organisation may require you to only use certain authentication apps***.
 
     <span data-uuid="28e48484-4ca1-439c-8b3e-ee4ed8b6491c" style="display:none"></span>
-    ![](../assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
 
 !!! step
 
