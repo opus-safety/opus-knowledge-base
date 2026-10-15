@@ -607,5 +607,11 @@
   },
   "docs/assets/media/system-update-captures/assigned-4ab2c683-light-mode.png": {
     "padding": 10
+  },
+  "docs/assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-light-mode.png": {
+    "resized": true,
+    "padding": 15,
+    "annotated": true,
+    "zapped": true
   }
 }
