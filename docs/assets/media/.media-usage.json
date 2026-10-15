@@ -415,6 +415,24 @@
     "docs/assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-dark-mode.png",
     "docs/assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-light-mode.png"
   ],
+  "docs/pages/mfa.md": [
+    "docs/assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-dark-mode.png",
+    "docs/assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-light-mode.png",
+    "docs/assets/media/occ-captures/my/profile/security-dark-mode.png",
+    "docs/assets/media/occ-captures/my/profile/security-light-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/backups/i-have-stored-them-dark-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/backups/i-have-stored-them-light-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-dark-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-light-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/rfc6238/element-svg-dark-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/rfc6238/element-svg-light-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/rfc6238/one-time-code-a-confirm-dark-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/rfc6238/one-time-code-a-confirm-light-mode.png",
+    "docs/assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-dark-mode.png",
+    "docs/assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-light-mode.png",
+    "docs/assets/media/occ-captures/sites/uuid/otp-required/set-up-dark-mode.png",
+    "docs/assets/media/occ-captures/sites/uuid/otp-required/set-up-light-mode.png"
+  ],
   "docs/pages/moving-an-asset.md": [
     "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/assets-dark-mode.png",
     "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/assets-light-mode.png",
