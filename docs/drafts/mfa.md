@@ -33,3 +33,8 @@ If mandated by your organisation, skip to step 4
     <span data-uuid="6514de1e-6363-485c-8f3e-cec8a6941b4c" style="display:none"></span>
     ![](../assets/media/occ-captures/my/profile/security-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/my/profile/security-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="c7fc0cfa-0c09-4c8a-9997-c60a11ab98c6" style="display:none"></span>
+    In the **Require MFA** section, select **Turn on (always required)**.
