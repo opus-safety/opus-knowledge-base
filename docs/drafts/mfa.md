@@ -92,6 +92,7 @@ If mandated by your organisation, skip to step 4
     ![](../assets/media/occ-captures/my/second-factors/backups/i-have-stored-them-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/my/second-factors/backups/i-have-stored-them-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-!!! step
+!!! success "Complete!"
 
     <span data-uuid="8c225242-896d-49f8-82f0-1ff638cbc9e4" style="display:none"></span>
+    You've now setup MFA/2FA on your Opus account.
