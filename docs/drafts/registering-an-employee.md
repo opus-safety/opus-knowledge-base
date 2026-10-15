@@ -112,7 +112,7 @@ Please follow the steps below to register employees as users on the system.
     ??? tip "Registering many employees? Here's a shortcut!"
 
         <span data-uuid="c86d2a9d-de93-4e81-9e67-fee744d9b8b9" style="display:none"></span>
-        Rather than repeating the steps above for each employee, you can export an employee report as a CSV file, which includes the registration link for every employee.
+        Rather than repeating the steps above for each employee, you can generate an employee report as a CSV file, which includes the registration link for every employee.
 
         To download the CSV, go to the Employee records page in manage mode, click the  :lucide-more-horizontal: button, and select **Generate employee report**.
 
