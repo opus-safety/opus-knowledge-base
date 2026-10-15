@@ -14,7 +14,7 @@ Multi-factor authentication (MFA) adds an extra verification step when you sign 
 ## Setting up MFA/2FA
 <span data-uuid="532fcfde-8242-4d7f-a072-3126a1f45849" style="display:none"></span>
 
-If mandated by your organisation, skip to step 4
+If mandated by your organisation, skip to step 4.
 
 !!! step
 
