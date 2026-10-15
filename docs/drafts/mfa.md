@@ -38,3 +38,7 @@ If mandated by your organisation, skip to step 4
 
     <span data-uuid="c7fc0cfa-0c09-4c8a-9997-c60a11ab98c6" style="display:none"></span>
     In the **Require MFA** section, select **Turn on (always required)** and then **Save changes**.
+
+    <span data-uuid="3f917070-c5a4-4a66-818e-ae7051488ade" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
