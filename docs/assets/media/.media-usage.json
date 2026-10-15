@@ -3,7 +3,9 @@
     "docs/assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-dark-mode.png",
     "docs/assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-light-mode.png",
     "docs/assets/media/occ-captures/my/profile/security-dark-mode.png",
-    "docs/assets/media/occ-captures/my/profile/security-light-mode.png"
+    "docs/assets/media/occ-captures/my/profile/security-light-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-dark-mode.png",
+    "docs/assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-light-mode.png"
   ],
   "docs/drafts/task-overview.md": [
     "docs/assets/media/occ-captures/sites/uuid/inbox-coach-2-dark-mode.png",
