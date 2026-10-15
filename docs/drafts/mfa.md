@@ -42,3 +42,7 @@ If mandated by your organisation, skip to step 4
     <span data-uuid="3f917070-c5a4-4a66-818e-ae7051488ade" style="display:none"></span>
     ![](../assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
     ![](../assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
+
+!!! step
+
+    <span data-uuid="68c54328-4b60-4c9a-b662-fb62e9f9169b" style="display:none"></span>
