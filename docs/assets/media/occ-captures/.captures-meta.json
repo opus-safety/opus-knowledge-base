@@ -595,5 +595,10 @@
     "resized": true,
     "padding": 20,
     "annotated": true
+  },
+  "docs/assets/media/system-update-captures/status-z-ca5c72dd-light-mode.png": {
+    "resized": true,
+    "padding": 20,
+    "zapped": true
   }
 }
