@@ -98,6 +98,9 @@ nav = [
     {"Other" = [
       {"FAQs" = "pages/faqs.md"},
       {"Data security" = "pages/data-security.md"}
+    ]},
+    {"My Opus Account" = [
+      {"MFA" = "pages/mfa.md"}
     ]}
   ]},
   {"System" = [
@@ -128,8 +131,7 @@ draft_nav = [
       {"Permits to Work" = "drafts/permits-to-work.md"}
     ]},
     {"My Opus Account" = [
-      {"Subscriptions" = "drafts/subscriptions.md"},
-      {"MFA" = "drafts/mfa.md"}
+      {"Subscriptions" = "drafts/subscriptions.md"}
     ]}
   ]}
 ]
