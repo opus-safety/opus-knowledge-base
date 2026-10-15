@@ -20,3 +20,7 @@ If mandated by your organisation, skip to step 4
 
     <span data-uuid="d871b503-7e57-405f-810a-7e7fd845ea66" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), select your profile icon in the top right.
+
+    <span data-uuid="5b459b7c-7f14-42fb-af9e-352661cf399f" style="display:none"></span>
+    ![](../assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
