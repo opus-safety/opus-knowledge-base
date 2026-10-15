@@ -76,3 +76,7 @@ If mandated by your organisation, skip to step 4
 
     <span data-uuid="6f335cf8-9e13-4e8f-bde6-ed0f73b8f9e8" style="display:none"></span>
     Enter the code shown in your authenticator app and select **Confirm**.
+
+    <span data-uuid="ed9c2791-ab6f-4078-b959-c816edb4d370" style="display:none"></span>
+    ![](../assets/media/occ-captures/my/second-factors/rfc6238/one-time-code-a-confirm-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/rfc6238/one-time-code-a-confirm-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
