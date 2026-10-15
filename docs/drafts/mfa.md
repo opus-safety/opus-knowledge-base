@@ -15,3 +15,8 @@ Multi-factor authentication (MFA) adds an extra verification step when you sign 
 <span data-uuid="532fcfde-8242-4d7f-a072-3126a1f45849" style="display:none"></span>
 
 If mandated by your organisation, skip to step 4
+
+!!! step
+
+    <span data-uuid="d871b503-7e57-405f-810a-7e7fd845ea66" style="display:none"></span>
+    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), select your profile icon in the top right.
