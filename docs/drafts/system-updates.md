@@ -28,6 +28,10 @@ search:
 
     <span data-uuid="93b71124-3379-4e67-9ee6-0101b09884b4" style="display:none"></span>
 
+    <span data-uuid="c1aa0629-4d94-4ebe-bd9c-303ebd8de617" style="display:none"></span>
+    ![](../assets/media/system-update-captures/ollie-41262520-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/system-update-captures/ollie-41262520-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
+
     </div>
 
     </div>
