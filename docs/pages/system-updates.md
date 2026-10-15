@@ -48,6 +48,10 @@ This page highlights the main user-facing improvements, additions and feature re
     ![](../assets/media/system-update-captures/status-z-ca5c72dd-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
     ![](../assets/media/system-update-captures/status-z-ca5c72dd-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+    <span data-uuid="0f0139c7-4c86-4753-a280-8c1e5c22a8fe" style="display:none"></span>
+    ![](../assets/media/system-update-captures/assigned-4ab2c683-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/system-update-captures/assigned-4ab2c683-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
     </div>
 
     <div markdown>
