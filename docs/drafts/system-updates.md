@@ -36,7 +36,3 @@ search:
 
     </div>
 
-    <span data-uuid="1653c18a-ea23-4d6a-bc49-351f2e4b7143" style="display:none"></span>
-    ![](../assets/media/system-update-captures/status-z-ca5c72dd-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
-    ![](../assets/media/system-update-captures/status-z-ca5c72dd-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
-
