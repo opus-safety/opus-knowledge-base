@@ -36,10 +36,10 @@ search:
 
     </div>
 
-    !!! info
+    !!! question "How to set a status."
 
         <span data-uuid="dbb9449b-db73-4ed3-a9f4-4b90eeac5463" style="display:none"></span>
-        Statuses can be set via the Profile & Settings page
+        Statuses can be set via the Profile & Settings page.
 
         <span data-uuid="02ef2eef-5167-4e1b-ba6a-f043c7e23484" style="display:none"></span>
         [Opus Compliance Cloud: Profile & Settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/profile){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
