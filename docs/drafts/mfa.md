@@ -62,3 +62,8 @@ If mandated by your organisation, skip to step 4
     <span data-uuid="a088c500-fe35-4470-ace2-6d9089907ae6" style="display:none"></span>
     ![](../assets/media/occ-captures/sites/uuid/otp-required/set-up-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/sites/uuid/otp-required/set-up-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="fdf3f45c-4cc8-4d10-8d2d-befd721afda2" style="display:none"></span>
+    Scan the QR code that appears using your mobile device, or select **Configure on this device** if you're setting up MFA on the device you're currently using.
