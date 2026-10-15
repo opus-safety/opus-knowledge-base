@@ -623,5 +623,8 @@
     "resized": true,
     "padding": 20,
     "annotated": true
+  },
+  "docs/assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-light-mode.png": {
+    "resized": true
   }
 }
