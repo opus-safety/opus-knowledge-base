@@ -28,7 +28,7 @@ If mandated by your organisation, skip to step 4
 !!! step
 
     <span data-uuid="96658df3-ba4c-4d05-912d-7b9f0a14931b" style="display:none"></span>
-    Select the **Security** tab.
+    Select the **Security** tab at the top.
 
     <span data-uuid="6514de1e-6363-485c-8f3e-cec8a6941b4c" style="display:none"></span>
     ![](../assets/media/occ-captures/my/profile/security-light-mode.png#only-light){ style="height: 50px" loading=lazy }
