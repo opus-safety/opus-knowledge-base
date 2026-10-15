@@ -19,8 +19,8 @@ search:
     <span data-uuid="1c68722a-304c-48cb-a901-b3ec3d52ad76" style="display:none"></span>
 
     <span data-uuid="c12c3ca7-2af8-463e-b5df-f035dfadc749" style="display:none"></span>
-    ![](../assets/media/system-update-captures/status-z-ca5c72dd-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
-    ![](../assets/media/system-update-captures/status-z-ca5c72dd-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/system-update-captures/status-z-ca5c72dd-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/system-update-captures/status-z-ca5c72dd-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
     </div>
 
