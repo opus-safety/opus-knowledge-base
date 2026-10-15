@@ -91,3 +91,7 @@ If mandated by your organisation, skip to step 4
     <span data-uuid="6c0125d9-09fe-4c7f-a657-912381bd37f4" style="display:none"></span>
     ![](../assets/media/occ-captures/my/second-factors/backups/i-have-stored-them-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/my/second-factors/backups/i-have-stored-them-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="8c225242-896d-49f8-82f0-1ff638cbc9e4" style="display:none"></span>
