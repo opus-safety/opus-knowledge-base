@@ -107,7 +107,7 @@ Please follow the steps below to register employees as users on the system.
 
         You can also include any additional information or context you think is necessary for your staff — such as company-specific instructions or a personalised message from a senior manager. This can make for a much warmer and more engaging interaction than a generic system email.
 
-    ??? tip "Registering many employees? Here's a shortcut!"
+    ??? tip "Have lots of employees to register? Here's a shortcut!"
 
         <span data-uuid="c86d2a9d-de93-4e81-9e67-fee744d9b8b9" style="display:none"></span>
         Rather than repeating the steps above for each employee, you can generate an employee report as a CSV file, which includes the registration link for every employee.
