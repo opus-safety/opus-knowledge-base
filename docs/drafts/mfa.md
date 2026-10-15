@@ -46,3 +46,4 @@ If mandated by your organisation, skip to step 4
 !!! step
 
     <span data-uuid="68c54328-4b60-4c9a-b662-fb62e9f9169b" style="display:none"></span>
+    Navigating back to [My Dashboard](https://cloud.opus-safety.co.uk/dashboard) will prompt you to setup 2FA/MFA.
