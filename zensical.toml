@@ -127,7 +127,7 @@ draft_nav = [
     {"Contractors" = [
       {"Permits to Work" = "drafts/permits-to-work.md"}
     ]},
-    {"Profile And Settings" = [
+    {"My Opus Account" = [
       {"Subscriptions" = "drafts/subscriptions.md"}
     ]}
   ]}
