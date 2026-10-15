@@ -590,5 +590,10 @@
   "docs/assets/media/system-update-captures/what-equipment-was-issued-c6af9b6a-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/admin/sites/uuid/employees/demo-company-employees-a-more-actions-generate-employee-report-light-mode.png": {
+    "resized": true,
+    "padding": 20,
+    "annotated": true
   }
 }
