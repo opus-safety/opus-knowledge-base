@@ -71,3 +71,8 @@ If mandated by your organisation, skip to step 4
     <span data-uuid="18bfe66f-3e12-45ad-9e37-6644c2af94d0" style="display:none"></span>
     ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
     ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
+
+!!! step
+
+    <span data-uuid="6f335cf8-9e13-4e8f-bde6-ed0f73b8f9e8" style="display:none"></span>
+    Enter the code shown in your authenticator app and select **Confirm**.
