@@ -107,6 +107,19 @@ Please follow the steps below to register employees as users on the system.
 
         You can also include any additional information or context you think is necessary for your staff — such as company-specific instructions or a personalised message from a senior manager. This can make for a much warmer and more engaging interaction than a generic system email.
 
+    ??? tip "Registering many employees? Here's a shortcut!"
+
+        <span data-uuid="c86d2a9d-de93-4e81-9e67-fee744d9b8b9" style="display:none"></span>
+        Rather than repeating the steps above for each employee, you can generate an employee report as a CSV file, which includes the registration link for every employee.
+
+        To download the CSV, go to the Employee records page in manage mode, click the  :lucide-more-horizontal: button, and select **Generate employee report**.
+
+        *Registration links are included in the generated CSV under the column header <span class="mb-label mb-label-slate">employee link url</span>.*
+
+        <span data-uuid="f9d7b811-c8b2-46df-bbde-423f69e9e560" style="display:none"></span>
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/demo-company-employees-a-more-actions-generate-employee-report-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/demo-company-employees-a-more-actions-generate-employee-report-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+
 ---
 
 ## User Steps
