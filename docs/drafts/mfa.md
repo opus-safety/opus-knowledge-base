@@ -84,7 +84,7 @@ If mandated by your organisation, skip to step 4
 !!! step
 
     <span data-uuid="9563c83a-3f94-452c-850e-254747e2bf6a" style="display:none"></span>
-    A series of backup codes will be displayed. Please store these somewhere safe.
+    A series of backup codes will be displayed. **Please store these somewhere safe**.
 
     *:lucide-info: Each backup code can only be used once to authenticate. These can be used to regain access to your Opus account if you lose/reset your authentication device.*
 
