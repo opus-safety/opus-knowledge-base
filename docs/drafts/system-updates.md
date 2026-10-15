@@ -36,3 +36,8 @@ search:
 
     </div>
 
+    !!! info
+
+        <span data-uuid="dbb9449b-db73-4ed3-a9f4-4b90eeac5463" style="display:none"></span>
+        Statuses can be set via the Profile & Settings page
+
