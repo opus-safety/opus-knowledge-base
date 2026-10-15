@@ -24,3 +24,8 @@ If mandated by your organisation, skip to step 4
     <span data-uuid="5b459b7c-7f14-42fb-af9e-352661cf399f" style="display:none"></span>
     ![](../assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
     ![](../assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
+
+!!! step
+
+    <span data-uuid="96658df3-ba4c-4d05-912d-7b9f0a14931b" style="display:none"></span>
+    Select the **Security** tab.
