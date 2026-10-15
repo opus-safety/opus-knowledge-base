@@ -626,5 +626,9 @@
   },
   "docs/assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-light-mode.png": {
     "resized": true
+  },
+  "docs/assets/media/occ-captures/my/second-factors/rfc6238/element-svg-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
