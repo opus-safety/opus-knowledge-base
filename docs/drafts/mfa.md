@@ -88,6 +88,8 @@ If mandated by your organisation, skip to step 4.
 
     *:lucide-info: Each backup code can only be used once to authenticate. These can be used to regain access to your Opus account if you lose/reset your authentication device.*
 
+    Once stored, click **I have stored them**.
+
     <span data-uuid="6c0125d9-09fe-4c7f-a657-912381bd37f4" style="display:none"></span>
     ![](../assets/media/occ-captures/my/second-factors/backups/i-have-stored-them-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/my/second-factors/backups/i-have-stored-them-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
