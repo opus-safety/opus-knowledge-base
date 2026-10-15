@@ -69,8 +69,8 @@ If mandated by your organisation, skip to step 4
     Scan the QR code that appears using your mobile device, or select **Configure on this device** if you're setting up MFA on the device you're currently using.
 
     <span data-uuid="18bfe66f-3e12-45ad-9e37-6644c2af94d0" style="display:none"></span>
-    ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
 
 !!! step
 
