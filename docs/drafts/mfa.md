@@ -58,3 +58,7 @@ If mandated by your organisation, skip to step 4
 
     <span data-uuid="6f743fed-c494-4ccb-8a63-4e1e49211da6" style="display:none"></span>
     Click **Set up**.
+
+    <span data-uuid="a088c500-fe35-4470-ace2-6d9089907ae6" style="display:none"></span>
+    ![](../assets/media/occ-captures/sites/uuid/otp-required/set-up-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/otp-required/set-up-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
