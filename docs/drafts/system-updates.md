@@ -42,5 +42,5 @@ search:
         Statuses can be set via the Profile & Settings page.
 
         <span data-uuid="02ef2eef-5167-4e1b-ba6a-f043c7e23484" style="display:none"></span>
-        [Opus Compliance Cloud: Profile & Settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/profile){ .md-button .custom-button-slate .custom-button--slim target="_blank" rel="noopener" }
+        [Opus Compliance Cloud: Profile & Settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/profile){ .md-button .custom-button-olive .custom-button--slim target="_blank" rel="noopener" }
 
