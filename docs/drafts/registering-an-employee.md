@@ -119,8 +119,8 @@ Please follow the steps below to register employees as users on the system.
         *Registration links are included in the generated CSV under the column header <span class="mb-label mb-label-slate">employee link url</span>.*
 
         <span data-uuid="f9d7b811-c8b2-46df-bbde-423f69e9e560" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/demo-company-employees-a-more-actions-generate-employee-report-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/demo-company-employees-a-more-actions-generate-employee-report-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/demo-company-employees-a-more-actions-generate-employee-report-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/demo-company-employees-a-more-actions-generate-employee-report-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 ---
 
