@@ -51,7 +51,7 @@ To ensure full functionality of Opus Compliance Cloud, the following domains and
     | `*.storage.opus-safety.delftsolutions.nl` | File storage |
     | `sites.google.com` | Old knowledge base (applicable during our knowledge base migration period) |
     | `support.opus-safety.co.uk` | New knowledge base |
-    | `*.groovehq.com` | Support request form |
+    | `*.helpscout.net` | Support request form |
     | `app.screencastify.com` | Support video hosting |
     | `www.youtube.com` | Training video hosting |
     | `meet.google.com` | Google Meet (used for support / training) |
@@ -243,4 +243,4 @@ This phase is focused on helping you get the most from the work completed during
 
 After completing all 4 phases, your onboarding is now complete!
 
-However our help doesn't end here ... <a href="#" onclick="event.preventDefault(); window.groove.widget.open();">the support team are always available</a> to assist you maintaining and improving your setup on Opus Compliance Cloud.
+However our help doesn't end here ... <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">the support team are always available</a> to assist you maintaining and improving your setup on Opus Compliance Cloud.

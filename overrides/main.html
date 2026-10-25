@@ -103,9 +103,10 @@
   {% if page.meta and page.meta['status-page'] %}
     <script src="{{ 'assets/javascripts/system-status.js' | url }}" defer></script>
   {% endif %}
-  {# Groove support widget loads on every page so any link can trigger it via
-     window.groove.widget.open(); deferred so it never blocks rendering. #}
-  <script src="{{ 'assets/javascripts/groove.js' | url }}" defer></script>
+  {# Support widget (Help Scout Beacon behind a vendor-neutral shim) loads on
+     every page so any link can trigger it via window.supportWidget.open();
+     deferred so it never blocks rendering. #}
+  <script src="{{ 'assets/javascripts/support-widget.js' | url }}" defer></script>
   {# Anchor links: surfaces each admonition's hidden data-uuid as the element
      id (so /page/#<uuid> works, auto-opening collapsed ??? blocks and content
      tabs) and adds copy-link buttons — over the type icon on admonitions,

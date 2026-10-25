@@ -1,0 +1,42 @@
+/* ============================================================================
+   Support widget (Help Scout Beacon) — centred panel + backdrop
+   Loaded by assets/javascripts/support-widget.js (see overrides/main.html).
+   ============================================================================ */
+
+/* Blurred backdrop behind the open panel. Toggled by Beacon open/close events
+   in support-widget.js; sits just under Beacon's own z-index (1050). */
+.support-widget-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  z-index: 1049;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+.support-widget-overlay.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Beacon's gradient wash behind the launcher corner — pointless without a
+   launcher and wrong once the panel is centred. */
+#beacon-container .ContainerGradient-sc-62zoy-0,
+#beacon-container [class^="ContainerGradient"] {
+  display: none !important;
+}
+
+/* Centre the panel. Beacon anchors it bottom-left/right by config; on phones
+   (Beacon adds .is-mobile from the user agent) it goes full-screen via its own
+   inset values, so leave it alone there. */
+#beacon-container .BeaconContainer:not(.is-mobile) {
+  left: 50% !important;
+  right: auto !important;
+  top: 50% !important;
+  bottom: auto !important;
+  transform: translate(-50%, -50%) !important;
+  max-width: calc(100vw - 16px) !important;
+  max-height: calc(100vh - 2rem) !important;
+}
