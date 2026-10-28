@@ -78,14 +78,6 @@ flowchart RL
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
-    !!! tip "Shortcut!<span class="meta">(optional)</span>"
-
-        <span data-uuid="1b489189-578d-4ba5-963b-7342a5993994" style="display:none"></span>
-
-        If you see the red Remove button next to the employee’s name in the list, you can click this instead to schedule the employee to be archived at the end of the day. You can then skip the remaining steps.
-
-        If you need to set a specific end date for the employee (for example, if their leaving date is in the future or was in the past), continue with the steps below.
-
 !!! step
 
     <span data-uuid="b4c446b1-a541-414f-bb2b-8d732f35b99a" style="display:none"></span>
