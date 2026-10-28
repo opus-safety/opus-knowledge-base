@@ -13,7 +13,7 @@
 // No floating launcher bubble: the widget only opens from links/buttons.
 // (Also set to "hidden" in the Help Scout dashboard; this makes it explicit.)
 window.Beacon('config', { display: { style: 'manual' } });
-window.Beacon('init', 'eabb738c-79f6-4095-a68d-1e4761647955');
+window.Beacon('init', '9eb5b2bd-8c01-43c9-a5f7-a0846e9f5e14');
 
 // ── Vendor-neutral API used by page content ──────────────────────────────────
 window.supportWidget = {
