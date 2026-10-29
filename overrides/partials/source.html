@@ -1,0 +1,11 @@
+{#-
+  Overrides the theme's partials/source.html (the GitHub-style repo link in the
+  header's top-right slot, also rendered into the mobile nav drawer). Instead
+  of linking to a repository it opens the support widget via the vendor-neutral
+  shim in assets/javascripts/support-widget.js. The theme only includes this
+  partial when repo_url is set, hence the placeholder in zensical.toml.
+  Styling: assets/stylesheets/ask-ai-button.css
+-#}
+<a href="#" class="md-source ask-ai-button" data-md-component="source" title="Ask Opus AI" onclick="event.preventDefault(); window.supportWidget.toggle();">
+  Ask Opus AI
+</a>

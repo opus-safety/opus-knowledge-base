@@ -7,6 +7,11 @@
 # ----------------------------------------------------------------------------
 [project]
 site_name        = "Opus Knowledge Base"
+# Placeholder only: the theme renders the header's top-right "source" slot (and
+# its copy in the mobile nav drawer) only when repo_url is set. The slot's
+# content is overridden in overrides/partials/source.html with the Ask Opus AI
+# button, so this URL is never shown or followed.
+repo_url         = "#"
 site_description = "A knowledge repository for Opus Compliance Cloud"
 site_author      = "Opus Support"
 copyright        = "Copyright &copy; 2026 Opus Safety Ltd"
@@ -25,6 +30,7 @@ extra_css = [
   "assets/stylesheets/image-borders.css",
   "assets/stylesheets/labels.css",
   "assets/stylesheets/buttons.css",
+  "assets/stylesheets/ask-ai-button.css",
   "assets/stylesheets/nav-links.css",
   "assets/stylesheets/status-banner.css",
   "assets/stylesheets/written-for.css",
