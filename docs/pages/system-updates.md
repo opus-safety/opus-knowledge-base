@@ -41,6 +41,10 @@ This page highlights the main user-facing improvements, additions and feature re
 
     These additional options will allow you to filter your task report further than before!
 
+    <span data-uuid="48e87feb-7748-4b64-9c43-fcc234c47b16" style="display:none"></span>
+    ![](../assets/media/system-update-captures/reported-at-a-resolved-at-1f7f4eb4-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/system-update-captures/reported-at-a-resolved-at-1f7f4eb4-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
     <span data-uuid="afd18b7e-46bf-4e17-a049-b127a153003f" style="display:none"></span>
 
     <div class="grid" markdown>
