@@ -220,9 +220,9 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     ??? blank "<span class="mb-label mb-label-slate">Solution 3</span><span class="meta">Opus deletes the user account</span>"
 
         <span data-uuid="5b5e9170-4ef4-4c35-91aa-983768ba1cc7" style="display:none"></span>
-        If the user has forgotten their password and you do not wish to proceed with <span class="mb-label mb-label-slate">Solution 2</span>, Opus Support can delete their existing account, allowing them to create a new one during registration.
+        If the user has forgotten their password and you do not wish to proceed with <span class="mb-label mb-label-slate">Solution 2</span>, Opus Support can delete their existing Opus account, allowing them to create a new one during registration (this **does not** delete their employee record, just the account linked to the record).
 
-        :lucide-triangle-alert:**Please note:** This is the least recommended option, as the user is likely to continue experiencing issues receiving system-generated emails if they re-register using the same Microsoft email address.
+        :lucide-triangle-alert:** Please note:** This is the least recommended option, as the user is likely to continue experiencing issues receiving system-generated emails if they re-register using the same Microsoft email address.
 
         <span data-uuid="85ee1e0d-b7b8-4ea8-bc25-1979044c3445" style="display:none"></span>
         [Access support :lucide-send:](#){ .md-button .custom-button-slate onclick="event.preventDefault(); window.supportWidget.open();" }
