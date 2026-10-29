@@ -643,5 +643,10 @@
   "docs/assets/media/system-update-captures/resolved-at-toggle-e3194831-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/system-update-captures/reported-at-a-resolved-at-1f7f4eb4-light-mode.png": {
+    "resized": true,
+    "padding": 20,
+    "annotated": true
   }
 }
