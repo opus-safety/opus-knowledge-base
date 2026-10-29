@@ -16,7 +16,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     We'd love to hear from you!
 
-    [Contact us :lucide-send:](#){ .md-button .custom-button-emerald .custom-button--force-dark .custom-button--borderless onclick="event.preventDefault(); window.supportWidget.open();" }
+    [Let us know :lucide-send:](#){ .md-button .custom-button-emerald .custom-button--force-dark .custom-button--borderless onclick="event.preventDefault(); window.supportWidget.open();" }
 
 !!! info "Stay in the loop"
     <span data-uuid="274f372d-f2c3-4518-9827-68ffbe23260c" style="display:none"></span>
@@ -174,10 +174,10 @@ This page highlights the main user-facing improvements, additions and feature re
     !!! question "Interested in enabling this feature?"
 
         <span data-uuid="e8288b41-2e08-41d5-9cc6-00ce41ce883a" style="display:none"></span>
-        If you're interested in enabling this report type please contact us below.
+        If you're interested in enabling this report type please let us know below.
 
         <span data-uuid="04f08803-fb10-46bc-86f0-0585f08d4452" style="display:none"></span>
-        [Contact us :lucide-send:](#){ .md-button .custom-button-emerald .custom-button--force-dark .custom-button--borderless onclick="event.preventDefault(); window.supportWidget.open();" }
+        [Let us know :lucide-send:](#){ .md-button .custom-button-emerald .custom-button--force-dark .custom-button--borderless onclick="event.preventDefault(); window.supportWidget.open();" }
 
 ??? improvement "Improvement: Overhauled incident form<span class="meta">2nd October 2026</span>"
 
@@ -586,7 +586,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
         To ensure no disruption, all Managers are now Administrators (as of Sat 21st Feb 2026).
 
-    If you would like to bulk reduce any employee's access to the new Manager level, please contact us or submit <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">a support request.</a>
+    If you would like to bulk reduce any employee's access to the new Manager level, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">support is available here</a> to help.
 
     ![Animation](../assets/media/system-update-captures/legacy-d332eb71.gif){ width="300" loading=lazy }
 ??? improvement "Improvement: Streamlined Process for Adding New Employees<span class="meta">23rd February 2026</span>"

@@ -12,7 +12,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
 !!! tip "Can't find your question?"
 
     <span data-uuid="7e4674f5-b5ab-4375-9b07-f0a7ce6d0069" style="display:none"></span>
-    If your question isn't covered here, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> and we'll be happy to help.
+    If your question isn't covered here, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">support is always available</a> to help.
 
 ## Getting around Opus Compliance Cloud
 <span data-uuid="6cbcd7f1-c7ee-46bf-8720-08cc06322514" style="display:none"></span>
@@ -22,7 +22,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     <span data-uuid="3522abf5-cb89-434a-8b03-10920b788f09" style="display:none"></span>
     In some areas - such as checklists, roles and e-learning - you'll see an **Override** button where you might expect **Edit**. It appears when the item comes from a template managed at company level or by Opus centrally: clicking **Override** changes your local copy without affecting the original template.
 
-    If you're not sure whether to override, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> and we'll talk it through with you.
+    If you're not sure whether to override, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">support is available here</a> to talk it through with you.
 
     <span data-uuid="488e01d0-3e72-4dec-948e-55bb4196b81b" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/checklists/id/override-light-mode.png#only-light){ style="height: 50px" loading=lazy }
@@ -94,7 +94,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     <span data-uuid="6dd07b1c-393b-433e-9f9d-adfd1676a93d" style="display:none"></span>
     Some files exported from CCTV systems aren't fully compatible with the web, so they may look as though they should play but won't. For instance, footage in the `h265` codec plays well on Microsoft Edge and mobile devices, but not on Chrome, due to licencing issues.
 
-    If you need footage reformatted into a compatible format, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">contact us</a> for assistance.
+    If you need footage reformatted into a compatible format, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">support is available here</a> to assist.
 
     <span data-uuid="fabdf6ee-da3e-4703-9c07-45c2f3afa9ed" style="display:none"></span>
     ![](../assets/media/occ-captures/tasks/uuid/todo-messages-cctv-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
@@ -223,7 +223,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
         :lucide-triangle-alert:**Please note:** This is the least recommended option, as the user is likely to continue experiencing issues receiving system-generated emails if they re-register using the same Microsoft email address.
 
         <span data-uuid="85ee1e0d-b7b8-4ea8-bc25-1979044c3445" style="display:none"></span>
-        [Contact us :lucide-send:](#){ .md-button .custom-button-slate onclick="event.preventDefault(); window.supportWidget.open();" }
+        [Access support :lucide-send:](#){ .md-button .custom-button-slate onclick="event.preventDefault(); window.supportWidget.open();" }
 
 ## E-learning
 <span data-uuid="51af82ca-08cc-43f7-b70d-dcedea623081" style="display:none"></span>
@@ -256,7 +256,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     !!! note
 
         <span data-uuid="f57f17b0-e29a-42c8-ae50-0f1fc1de815c" style="display:none"></span>
-        If there's no certificate option, the course was either completed **before the function was added in March 2025**, or the record was imported from another system, so we cannot certify it. <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">Get in touch</a> if this affects you.
+        If there's no certificate option, the course was either completed **before the function was added in March 2025**, or the record was imported from another system, so we cannot certify it. <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">Support is available here</a> if this affects you.
 
 ## Checklists
 <span data-uuid="3585f1fb-094b-49f1-8632-616e2171c992" style="display:none"></span>
@@ -273,7 +273,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     !!! info "Multi-choice responses"
 
         <span data-uuid="3bf0c705-c910-4a94-81a8-b135ff71f308" style="display:none"></span>
-        As of **Spring 2026**, checklists support multi-choice responses. We can configure bespoke options, such as `Equipment not installed on this machine`, to not trigger an action. If your site or asset checklists have genuine exceptions, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">speak to the Opus team</a> and we'll customise them.
+        As of **Spring 2026**, checklists support multi-choice responses. We can configure bespoke options, such as `Equipment not installed on this machine`, to not trigger an action. If your site or asset checklists have genuine exceptions, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">access support here</a> and we'll customise them for you.
 
 ??? outline "How do daily checklist lead times work?"
 
@@ -305,7 +305,7 @@ The questions below come up most often about **Opus Compliance Cloud**. Many of 
     - **Weaker audit trail.** Users enter their name manually when submitting, which allows inaccuracies or deliberate misuse, such as entering someone else's name.
     - **Public access.** If a QR code is used to access the checklist, **anyone with access to the code - not just employees - could complete it**.
 
-    We recommend weighing these trade-offs carefully before enabling it. <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">Speak to Opus</a> to find out more.
+    We recommend weighing these trade-offs carefully before enabling it. To find out more, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">support is available here</a>.
 
 ## Requirements and assets
 <span data-uuid="1f00b1a4-e7c9-4422-a261-fb7f796e3e60" style="display:none"></span>
