@@ -32,6 +32,10 @@ search:
 
     <span data-uuid="c4548ce4-45c1-4f64-bf74-98f81fa6ac20" style="display:none"></span>
 
+    <span data-uuid="2e801b04-ce0b-4eae-ba5a-ea0cbbee5996" style="display:none"></span>
+    ![](../assets/media/system-update-captures/resolved-at-toggle-e3194831-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/system-update-captures/resolved-at-toggle-e3194831-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
     </div>
 
     </div>
