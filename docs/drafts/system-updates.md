@@ -12,5 +12,5 @@ search:
 
     1. **:lucide-megaphone: Reported at** - When the task was reported/created
     2. **:lucide-check-circle-2: Resolved at** - When the task was last resolved
-    These will allow you to fine tune your report further for specific
+    These additional options will allow you to filter your task report further than before!
 
