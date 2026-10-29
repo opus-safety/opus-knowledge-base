@@ -65,6 +65,17 @@
   [dir=rtl] .md-header__source { margin-right: .2rem; }
 }
 
+/* Placeholder on pages that opt out (hide: - ask-ai): invisible and inert in
+   the header so the search box keeps its position; removed from the drawer. */
+[data-md-color-scheme] .md-source.ask-ai-button--placeholder {
+  visibility: hidden;
+  pointer-events: none;
+  animation: none;
+}
+.md-nav__source .ask-ai-button--placeholder {
+  display: none;
+}
+
 /* Mobile nav drawer copy: drop the theme's bordered box, go full width. */
 .md-nav__source {
   border: 0;

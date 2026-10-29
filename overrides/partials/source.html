@@ -10,10 +10,17 @@
   of the header setup (the palette toggle never un-hides).
 
   Opt out per page via the standard hide list:  hide: - ask-ai
-  (the homepage does, since its hero already carries the same button).
+  (the homepage does, since its hero already carries the same button). An
+  opted-out page still renders the button as an invisible, inert placeholder
+  so the search box sits in the same place on every page; the nav-drawer copy
+  is dropped entirely (ask-ai-button.css).
   Styling: assets/stylesheets/ask-ai-button.css
 -#}
-{% if not (page.meta and page.meta.hide and 'ask-ai' in page.meta.hide) %}
+{% if page.meta and page.meta.hide and 'ask-ai' in page.meta.hide %}
+<span class="md-source ask-ai-button ask-ai-button--placeholder" aria-hidden="true">
+  Ask Opus AI
+</span>
+{% else %}
 <a href="#" class="md-source ask-ai-button" title="Ask Opus AI" onclick="event.preventDefault(); window.supportWidget.toggle();">
   Ask Opus AI
 </a>
