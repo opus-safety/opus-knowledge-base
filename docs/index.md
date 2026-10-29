@@ -16,7 +16,7 @@ hide:
 
 [Get started](pages/overview.md#get-started){ .md-button .md-button--primary }
 [Learn more](pages/overview.md){ .md-button }
-[Submit a support ticket](#){ .md-button onclick="window.supportWidget.toggle(); return false;" }
+[Ask AI](#){ .md-button onclick="window.supportWidget.toggle(); return false;" }
 
 </div>
 
