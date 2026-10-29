@@ -16,7 +16,7 @@ hide:
 
 [Get started](pages/overview.md#get-started){ .md-button .md-button--primary }
 [Learn more](pages/overview.md){ .md-button }
-[Ask AI](#){ .md-button .home-hero-ai onclick="window.supportWidget.toggle(); return false;" }
+[Ask Opus AI](#){ .md-button .home-hero-ai onclick="window.supportWidget.toggle(); return false;" }
 
 </div>
 
