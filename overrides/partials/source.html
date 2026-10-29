@@ -4,8 +4,17 @@
   of linking to a repository it opens the support widget via the vendor-neutral
   shim in assets/javascripts/support-widget.js. The theme only includes this
   partial when repo_url is set, hence the placeholder in zensical.toml.
+
+  Deliberately NOT data-md-component="source": that would make the theme's JS
+  try to fetch repository facts for the placeholder URL, which aborts the rest
+  of the header setup (the palette toggle never un-hides).
+
+  Opt out per page via the standard hide list:  hide: - ask-ai
+  (the homepage does, since its hero already carries the same button).
   Styling: assets/stylesheets/ask-ai-button.css
 -#}
-<a href="#" class="md-source ask-ai-button" data-md-component="source" title="Ask Opus AI" onclick="event.preventDefault(); window.supportWidget.toggle();">
+{% if not (page.meta and page.meta.hide and 'ask-ai' in page.meta.hide) %}
+<a href="#" class="md-source ask-ai-button" title="Ask Opus AI" onclick="event.preventDefault(); window.supportWidget.toggle();">
   Ask Opus AI
 </a>
+{% endif %}

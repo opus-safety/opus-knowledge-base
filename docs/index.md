@@ -6,6 +6,7 @@ hide:
   - toc
   - footer
   - anchor-links
+  - ask-ai
 ---
 
 <div class="home-hero" data-force-dark markdown>
