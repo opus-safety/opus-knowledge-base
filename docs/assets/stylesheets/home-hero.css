@@ -106,8 +106,7 @@ body.neural-active .md-footer {
 
 /* ── Ask AI hero button ──────────────────────────────────────────────────────
    The one "special" button: purple→pink gradient that drifts slowly, a soft
-   breathing glow, a shine sweep every few seconds and a twinkling sparkles
-   icon. Scoped by [data-md-color-scheme] so it out-cascades the light-mode
+   breathing glow, a shine sweep every few seconds. Scoped by [data-md-color-scheme] so it out-cascades the light-mode
    secondary-button override above in both schemes (the homepage is
    force-dark anyway). All motion is switched off under reduced-motion. */
 [data-md-color-scheme] .home-hero .md-button.home-hero-ai {
@@ -142,12 +141,6 @@ body.neural-active .md-footer {
   pointer-events: none;
 }
 
-[data-md-color-scheme] .home-hero .md-button.home-hero-ai .twemoji {
-  display: inline-block;
-  animation: hero-ai-twinkle 2.4s ease-in-out infinite;
-  transform-origin: 50% 50%;
-}
-
 [data-md-color-scheme] .home-hero .md-button.home-hero-ai:hover,
 [data-md-color-scheme] .home-hero .md-button.home-hero-ai:focus {
   color: #fff;
@@ -173,15 +166,10 @@ body.neural-active .md-footer {
   0%, 55%   { background-position: 150% 0; }
   85%, 100% { background-position: -50% 0; }
 }
-@keyframes hero-ai-twinkle {
-  0%, 100% { transform: scale(1) rotate(0deg); opacity: 1; }
-  50%      { transform: scale(1.18) rotate(12deg); opacity: 0.85; }
-}
 
 @media (prefers-reduced-motion: reduce) {
   [data-md-color-scheme] .home-hero .md-button.home-hero-ai,
-  [data-md-color-scheme] .home-hero .md-button.home-hero-ai::after,
-  [data-md-color-scheme] .home-hero .md-button.home-hero-ai .twemoji {
+  [data-md-color-scheme] .home-hero .md-button.home-hero-ai::after {
     animation: none;
   }
   [data-md-color-scheme] .home-hero .md-button.home-hero-ai::after {
