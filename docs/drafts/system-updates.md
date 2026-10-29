@@ -22,6 +22,10 @@ search:
 
     <span data-uuid="def78a64-7d14-419d-80a4-b23ef9ffabbf" style="display:none"></span>
 
+    <span data-uuid="9d14413a-f6b6-4c78-b37b-b8578484fe65" style="display:none"></span>
+    ![](../assets/media/system-update-captures/reported-at-toggle-41136e6e-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/system-update-captures/reported-at-toggle-41136e6e-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
     </div>
 
     <div markdown>
