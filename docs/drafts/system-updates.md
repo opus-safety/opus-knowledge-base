@@ -33,19 +33,19 @@ search:
 
     <div markdown>
 
-    <span data-uuid="e59abf3c-b67c-4d8d-a418-5e4f306ba5d0" style="display:none"></span>
+    <span data-uuid="594c0b4c-d860-4a8d-90ba-d3a8d143f3e4" style="display:none"></span>
 
-    <span data-uuid="00d350fe-6765-40ed-adcb-c85600111a71" style="display:none"></span>
-    [Learn more :lucide-arrow-right:](contractors-overview.md){ .md-button .custom-button-mauve .custom-button--slim }
+    <span data-uuid="c5a96352-19b6-4cd9-8091-7e0d8c357108" style="display:none"></span>
+    [Contact us :lucide-send:](https://www.opus-safety.co.uk/contact){ .md-button .custom-button-pink .custom-button--force-dark .custom-button--borderless .custom-button--slim target="_blank" rel="noopener" }
 
     </div>
 
     <div markdown>
 
-    <span data-uuid="594c0b4c-d860-4a8d-90ba-d3a8d143f3e4" style="display:none"></span>
+    <span data-uuid="e59abf3c-b67c-4d8d-a418-5e4f306ba5d0" style="display:none"></span>
 
-    <span data-uuid="c5a96352-19b6-4cd9-8091-7e0d8c357108" style="display:none"></span>
-    [Contact us :lucide-send:](https://www.opus-safety.co.uk/contact){ .md-button .custom-button-pink .custom-button--force-dark .custom-button--borderless .custom-button--slim target="_blank" rel="noopener" }
+    <span data-uuid="00d350fe-6765-40ed-adcb-c85600111a71" style="display:none"></span>
+    [Learn more :lucide-arrow-right:](contractors-overview.md){ .md-button .custom-button-mauve .custom-button--slim }
 
     </div>
 
