@@ -656,6 +656,7 @@
   },
   "docs/assets/media/occ-captures/tasks/uuid/element-section-light-mode.png": {
     "resized": true,
-    "padding": 20
+    "padding": 20,
+    "zapped": true
   }
 }
