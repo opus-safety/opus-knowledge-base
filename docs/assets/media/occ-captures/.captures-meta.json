@@ -648,5 +648,10 @@
     "resized": true,
     "padding": 20,
     "annotated": true
+  },
+  "docs/assets/media/system-update-captures/list-331755ae-light-mode.png": {
+    "resized": true,
+    "padding": 20,
+    "zapped": true
   }
 }
