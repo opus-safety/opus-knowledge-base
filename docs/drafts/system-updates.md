@@ -12,6 +12,10 @@ search:
 
     This feature has been in early access for the past few months, and we'd like to thank everyone who has been using it and sharing their feedback. Please don't hesitate to <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> if you have any further feedback or suggestions!
 
+    <span data-uuid="f67bd022-a9be-4f61-b93c-e76bd00a2e16" style="display:none"></span>
+    ![](../assets/media/system-update-captures/list-331755ae-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/system-update-captures/list-331755ae-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
     !!! outline "<span class="mb-label mb-label-mauve">Feature summary</span>"
 
         <span data-uuid="ab24fe2f-b349-4219-8aa4-fc633f387bb3" style="display:none"></span>
@@ -46,10 +50,6 @@ search:
     </div>
 
     </div>
-
-    <span data-uuid="f67bd022-a9be-4f61-b93c-e76bd00a2e16" style="display:none"></span>
-    ![](../assets/media/system-update-captures/list-331755ae-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/system-update-captures/list-331755ae-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 ??? new-addition "New addition: Line management<span class="meta">29th October 2026</span>"
 
