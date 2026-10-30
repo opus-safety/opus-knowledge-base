@@ -17,7 +17,7 @@ search:
     ![](../assets/media/system-update-captures/list-331755ae-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
     <span data-uuid="f33c16b2-231f-439e-bf91-8ec26c0953b2" style="display:none"></span>
-    [Learn more :lucide-arrow-right:](contractors-overview.md){ .md-button .custom-button-fuchsia .custom-button--slim }
+    [Learn more :lucide-arrow-right:](contractors-overview.md){ .md-button .custom-button-mauve .custom-button--slim }
 
 ??? new-addition "New addition: Line management<span class="meta">29th October 2026</span>"
 
