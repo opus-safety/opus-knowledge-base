@@ -23,7 +23,7 @@ search:
         - **:lucide-folder-kanban: Project management:** Organise and manage the projects your contractors are involved in.
         - **:lucide-badge-check: Automated compliance statuses:** Easily see contractor and project compliance status, giving you a clear, at-a-glance view of which contractors/projects are ready to work.
         - **:lucide-file-clock: Permit to Work:** Create and manage Permits to Work directly within the system.
-        - **:lucide-network: Multi-site management:** Manage contractors and projects across multiple sites, ideal for larger organisations.
+        - **:lucide-network: Multi-site management:** Manage contractors and projects across multiple sites, making this feature ideal for larger organisations.
 
 
         *This feature has been in early access for the past few months, and we'd like to thank everyone who has been using it and sharing their feedback. Please don't hesitate to <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch with support</a> if you have any further feedback or suggestions!*
