@@ -137,7 +137,8 @@ draft_nav = [
       {"Training & Gaps" = "drafts/training-and-gaps.md"}
     ]},
     {"Contractors" = [
-      {"Permits to Work" = "drafts/permits-to-work.md"}
+      {"Permits to Work" = "drafts/permits-to-work.md"},
+      {"Contractors Overview" = "drafts/contractors-overview.md"}
     ]},
     {"Other" = [
       {"FAQs" = "drafts/faqs.md"}
