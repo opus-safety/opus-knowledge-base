@@ -145,6 +145,15 @@ Just like with your contractors, projects have statuses too! Easily see the stat
 
 <span data-uuid="db120445-d336-417d-b87c-09231e6bafb7" style="display:none"></span>
 
+!!! question "Interested in using Opus Contractor Management?"
+
+    <span data-uuid="57bc1299-6878-411e-a20d-e05007186cf5" style="display:none"></span>
+
+    View our overview article below!
+
+    <span data-uuid="9e86548d-4019-46b9-b537-2563d15d43bd" style="display:none"></span>
+    [Contractors Overview :lucide-arrow-right:](contractors-overview.md){ .md-button .custom-button-green .custom-button--force-dark .custom-button--borderless }
+
 </div>
 
 </div>
