@@ -136,6 +136,9 @@ Just like with your contractors, projects have statuses too! Easily see the stat
     <span data-uuid="6f51a29f-9bfd-45ef-bb8d-27da88163e31" style="display:none"></span>
     View our overview article below!
 
+    <span data-uuid="b8810cc3-9eb5-4bd6-873f-a54af4ee4c09" style="display:none"></span>
+    [Contractors Overview :lucide-arrow-right:](contractors-overview.md){ .md-button .custom-button-green .custom-button--force-dark .custom-button--borderless }
+
 </div>
 
 <div markdown>
