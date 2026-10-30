@@ -25,6 +25,9 @@ search:
         - **:lucide-file-clock: Permit to Work:** Create and manage Permits to Work directly within the system.
         - **:lucide-network: Multi-site management:** Manage contractors and projects across multiple sites, ideal for larger organisations.
 
+
+        *This feature has been in early access for the past few months, and we'd like to thank everyone who has been using it and sharing their feedback. Please don't hesitate to <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch with support</a> if you have any further feedback or suggestions!*
+
     <span data-uuid="4b510b01-dcea-4574-86e6-df23313a1bc8" style="display:none"></span>
 
     <div class="grid" markdown>
