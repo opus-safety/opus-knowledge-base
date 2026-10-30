@@ -8,14 +8,7 @@ search:
 ??? feature-release "Feature release: Contractor Management (Official Release)<span class="meta">30th October 2026</span>"
 
     <span data-uuid="d5f1a692-3738-4524-a763-4d609ec896df" style="display:none"></span>
-    Opus Contractor Management is a powerful new add-on that enables you to manage contractors directly through Opus Compliance Cloud. The feature includes:
-
-    - **:lucide-plus-circle: Simple contractor management:** Add and manage your contractors in a familiar, intuitive way.
-    - **:lucide-shield-check: Contractor compliance:** Oversee and manage contractor requirements, including insurance documentation and compliance checks.
-    - **:lucide-folder-kanban: Project management:** Organise and manage the projects your contractors are involved in.
-    - **:lucide-badge-check: Automated compliance statuses:** Easily see contractor and project compliance status, giving you a clear, at-a-glance view of which contractors/projects are ready to work.
-    - **:lucide-file-clock: Permit to Work:** Create and manage Permits to Work directly within the system.
-    - **:lucide-network: Multi-site management:** Manage contractors and projects across multiple sites, ideal for larger organisations.
+    Opus Contractor Management is a powerful new add-on that enables you to manage contractors directly through Opus Compliance Cloud.
 
     This feature has been in early access for the past few months, and we'd like to thank everyone who has been using it and sharing their feedback. Please don't hesitate to <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> if you have any further feedback or suggestions!
 
