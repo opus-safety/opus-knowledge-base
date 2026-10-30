@@ -121,6 +121,22 @@ Just like with your contractors, projects have statuses too! Easily see the stat
 
 </div>
 
+<div class="card" markdown>
+
+<span data-uuid="be33acc7-9ff4-4117-ab10-e05d23897bf5" style="display:none"></span>
+<span class="mb-label mb-label-slate">Manage your Projects and their status</span>
+
+---
+
+
+Just like with your contractors, projects have statuses too! Easily see the state of your project and see which requirements are still outstanding.
+
+<span data-uuid="426c167b-0ec5-4c1d-8f32-f56e1f412a5c" style="display:none"></span>
+<video src="../assets/media/videos/project-status-tile-light-mode.mp4#only-dark" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+<video src="../assets/media/videos/project-status-tile-dark-mode.mp4#only-light" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+
+</div>
+
 </div>
 
 ## Learn more
