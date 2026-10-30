@@ -123,6 +123,24 @@ Just like with your contractors, projects have statuses too! Easily see the stat
 
 </div>
 
+<span data-uuid="036fb98c-0482-411b-b71b-821eae4d8e56" style="display:none"></span>
+
+<div class="grid" markdown>
+
+<div markdown>
+
+<span data-uuid="1077ca88-32df-4357-8eb9-91c33d59a441" style="display:none"></span>
+
+</div>
+
+<div markdown>
+
+<span data-uuid="db120445-d336-417d-b87c-09231e6bafb7" style="display:none"></span>
+
+</div>
+
+</div>
+
 ## Learn more
 <span data-uuid="10b67109-1d1e-4a73-a8ad-343f05f94e49" style="display:none"></span>
 
