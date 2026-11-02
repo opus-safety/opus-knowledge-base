@@ -101,6 +101,9 @@ tags:
     <span data-uuid="60c84834-ac94-447b-8b77-93283857557b" style="display:none"></span>
     Under the **Site access** section, modify the employees access to your site(s).
 
+    <span data-uuid="5d23596b-d01a-4493-a448-c5e10084a978" style="display:none"></span>
+    ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
+
 !!! step
 
     <span data-uuid="628c1f4f-825c-431c-99c1-71d3321272c5" style="display:none"></span>
