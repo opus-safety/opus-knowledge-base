@@ -86,7 +86,7 @@ tags:
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="5461081e-c0d3-479d-8b91-4144f851b59d" style="display:none"></span>
-    Modify whether this employee can manage their own record.
+    Under the **Own employee record access** section, modify whether this employee can manage their own record.
 
     - <span class="mb-label mb-label-blue">:lucide-user: User</span> - Can fulfil employee-scoped tasks such as their own e-learning completion. Cannot open their own confidential tasks unless assigned.
     - <span class="mb-label mb-label-purple">:lucide-user-shield: Manager</span> - Can change their own requirements and deal with their own confidential tasks even when not assigned.
