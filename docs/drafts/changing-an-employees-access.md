@@ -69,7 +69,7 @@ tags:
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="9efe8c39-c9e8-4f99-940b-543d3d1457fe" style="display:none"></span>
-    Modify the authorisations for this employee in the **Authorisation & tags** section *(you can only configure this if you possess the authorisation yourself)*.
+    Under the **Authorisation & tags** section, modify the authorisations this employee holds *(you can only configure this if you possess the authorisation yourself)*.
 
     <span class="mb-label mb-label-mauve">authorised/health</span> — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
 
