@@ -141,7 +141,8 @@ draft_nav = [
     ]},
     {"Employees" = [
       {"Changing an employee's access" = "drafts/changing-an-employees-access.md"},
-      {"Adding a new employee" = "drafts/adding-a-new-employee.md"}
+      {"Adding a new employee" = "drafts/adding-a-new-employee.md"},
+      {"Access & Authorisations" = "drafts/access-and-authorisations.md"}
     ]}
   ]}
 ]
