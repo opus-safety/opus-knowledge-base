@@ -52,3 +52,6 @@ tags:
     <span data-uuid="87b67220-0b9c-4fc1-96b7-92b3f756f8ed" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+
+## Changing the employee's access
+<span data-uuid="f6dd80e6-2c6e-49da-8bd2-c66b11ae392b" style="display:none"></span>
