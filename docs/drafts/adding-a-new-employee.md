@@ -107,6 +107,10 @@ search:
     <span data-uuid="8ba98f44-e025-4b13-87a3-833b1c57c99b" style="display:none"></span>
     Under **Own employee record access**, select which level of access the employee should be granted against their own employee record.
 
+    - <span class="mb-label mb-label-blue">:lucide-user: User</span> - Can fulfil employee-scoped tasks such as their own e-learning completion. Cannot open their own confidential tasks unless assigned.
+    - <span class="mb-label mb-label-purple">:lucide-user-shield: Manager</span> - Can change their own requirements and deal with their own confidential tasks even when not assigned.
+    - <span class="mb-label mb-label-pink">:lucide-user-cog: Administrator</span> - Can make administrative-level changes to the employee record, such as adding requirements to their roles.
+
     <span data-uuid="02a69540-67bf-4b56-bad2-ff29a4547d6c" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-dark-mode.png#only-dark)
