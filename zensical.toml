@@ -76,7 +76,8 @@ nav = [
       {"Moving an employee" = "pages/moving-an-employee.md"},
       {"Archiving an employee" = "pages/archiving-an-employee.md"},
       {"Unlinking an employee" = "pages/unlinking-an-employee.md"},
-      {"Access & Authorisations" = "pages/access-and-authorisations.md"}
+      {"Access & Authorisations" = "pages/access-and-authorisations.md"},
+      {"Changing an employee's access" = "pages/changing-an-employees-access.md"}
     ]},
     {"Assets" = [
       {"Adding an asset" = "pages/adding-an-asset.md"},
@@ -140,7 +141,6 @@ draft_nav = [
       {"Permits to Work" = "drafts/permits-to-work.md"}
     ]},
     {"Employees" = [
-      {"Changing an employee's access" = "drafts/changing-an-employees-access.md"},
       {"Access & Authorisations" = "drafts/access-and-authorisations.md"}
     ]}
   ]}
