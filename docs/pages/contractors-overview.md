@@ -119,6 +119,22 @@ Just like with your contractors, projects have statuses too! Easily see the stat
 
 </div>
 
+<div class="card" markdown>
+
+<span data-uuid="be33acc7-9ff4-4117-ab10-e05d23897bf5" style="display:none"></span>
+<span class="mb-label mb-label-slate">In-system Permits to Work</span>
+
+---
+
+
+In-system Permits to Work can be created against a project, replacing current paper-based solutions.
+
+<span data-uuid="40b3ed37-47ec-47cb-b5ce-89bbe629484b" style="display:none"></span>
+![](../assets/media/occ-captures/tasks/uuid/element-section-light-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/element-section-dark-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+
+</div>
+
 </div>
 
 ## Learn more
