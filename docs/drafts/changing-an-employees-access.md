@@ -112,6 +112,12 @@ tags:
         <span data-uuid="4866e87b-56da-4311-822e-cae574761764" style="display:none"></span>
         ![](../assets/media/other/screenshots/APaQ0SRL-eDqthpF8jrV9xBNKwEhqf67e9IeA91W_d2fe5420.gif)
 
+    !!! tip
+
+        <span data-uuid="580751d5-0da4-4347-a594-ac99da4bd9a6" style="display:none"></span>
+
+        Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
+
 !!! step
 
     <span data-uuid="628c1f4f-825c-431c-99c1-71d3321272c5" style="display:none"></span>
