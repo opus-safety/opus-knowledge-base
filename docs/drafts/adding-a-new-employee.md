@@ -164,16 +164,15 @@ search:
 !!! step
 
     <span data-uuid="34c4a1d3-8da4-4a9f-ac31-49a14ca47b75" style="display:none"></span>
-    Grant the relevant authorisations or tags if the employee needs them (you can only configure this if you possess the tag yourself).
+    Grant the relevant authorisations or tags if the employee needs them *(you can only configure this if you possess the authorisation yourself)*.
 
-    `authorised/health` — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
+    <span class="mb-label mb-label-mauve">authorised/health</span> — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
 
     <span data-uuid="4a54dc3b-46e2-4353-a0a0-38007af9ced8" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-light-mode.png#only-light)
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-dark-mode.png#only-dark)
 
     !!! note
-
 
         <span data-uuid="6e023bcf-5157-4da1-9fca-3a9dca7a52d7" style="display:none"></span>
         By default, all sites will have the `authorised/health` tag available, but depending on your site configuration you may have more.
