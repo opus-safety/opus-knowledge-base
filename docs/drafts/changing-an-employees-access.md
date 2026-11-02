@@ -120,41 +120,6 @@ tags:
 
 !!! step
 
-    <span data-uuid="628c1f4f-825c-431c-99c1-71d3321272c5" style="display:none"></span>
-
-    <span data-uuid="b1b3f678-7a9e-4131-a634-2620dd5b600a" style="display:none"></span>
-    === "Single Site"
-
-        <span data-uuid="72d0e5f9-2243-45d8-a40c-99f6a121b4cf" style="display:none"></span>
-
-        Choose whether the employee should access the site as a **user**, **manager**, or **administrator** using the drop-down menu. To remove access, select the **-** option.
-
-        !!! note
-
-            <span data-uuid="440f84f4-42af-4760-b909-a8ef7d31dfe6" style="display:none"></span>
-
-            Granting user access automatically gives user access to assets, allowing employees to report defects, view asset documentation, and complete checklists where required.
-
-        <span data-uuid="de1e5d3f-319f-4c4b-b39e-b12f103d6615" style="display:none"></span>
-        ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
-
-    === "Multiple Sites"
-
-        <span data-uuid="dfb3f1e7-c894-40db-879f-74de58caccd3" style="display:none"></span>
-
-        Click the double up-arrows next to the site name to give access higher up your organisational hierarchy — across other sites, regions, or your entire organisation.
-
-        !!! tip
-
-            <span data-uuid="509c940b-a3b3-4a29-af2b-0f4b7c038859" style="display:none"></span>
-
-            Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
-
-        <span data-uuid="e5f73685-3da9-4cbb-b7c4-fc80eb94820c" style="display:none"></span>
-        ![](../assets/media/other/screenshots/APaQ0SRL-eDqthpF8jrV9xBNKwEhqf67e9IeA91W_d2fe5420.gif)
-
-!!! step
-
     <span data-uuid="a43e0eac-8187-44c2-a199-10316ff33860" style="display:none"></span>
 
     Once you have made the changes, click **Apply changes**.
