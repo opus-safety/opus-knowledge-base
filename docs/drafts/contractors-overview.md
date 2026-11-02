@@ -124,7 +124,7 @@ Just like with your contractors, projects have statuses too! Easily see the stat
 <div class="card" markdown>
 
 <span data-uuid="be33acc7-9ff4-4117-ab10-e05d23897bf5" style="display:none"></span>
-<span class="mb-label mb-label-slate">In-system Permit to Work logging</span>
+<span class="mb-label mb-label-slate">In-system Permits to Work</span>
 
 ---
 
