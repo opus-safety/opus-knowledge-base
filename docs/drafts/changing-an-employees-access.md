@@ -55,3 +55,9 @@ tags:
 
 ## Changing the employee's access
 <span data-uuid="f6dd80e6-2c6e-49da-8bd2-c66b11ae392b" style="display:none"></span>
+
+
+!!! step
+
+    <span data-uuid="1d281c59-a65e-4592-a21f-8da85846e486" style="display:none"></span>
+    On the employee's record, select **Change access**
