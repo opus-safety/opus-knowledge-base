@@ -61,3 +61,7 @@ tags:
 
     <span data-uuid="1d281c59-a65e-4592-a21f-8da85846e486" style="display:none"></span>
     On the employee's record, select **Change access**
+
+    <span data-uuid="fc067b45-4675-4959-b093-18c24a965684" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
