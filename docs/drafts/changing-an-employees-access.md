@@ -83,20 +83,14 @@ tags:
 
         By default, all sites will have the `authorised/health` tag available, but depending on your site configuration you may have more.
 
-!!! step
+!!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="5461081e-c0d3-479d-8b91-4144f851b59d" style="display:none"></span>
+    Modify whether this employee can manage their own record.
 
-    Configure whether this employee can manage their own record. Defaults to **user**.
-
-    `user`
-    :   Can fulfil employee-scoped tasks such as their own e-learning completion. Cannot open their own confidential tasks unless assigned.
-
-    `manager`
-    :   Can change their own requirements and deal with their own confidential tasks even when not assigned.
-
-    `administrator`
-    :   Can make administrative-level changes to the employee record, such as adding requirements to their roles.
+    - <span class="mb-label mb-label-blue">:lucide-user: User</span> - Can fulfil employee-scoped tasks such as their own e-learning completion. Cannot open their own confidential tasks unless assigned.
+    - <span class="mb-label mb-label-purple">:lucide-user-shield: Manager</span> - Can change their own requirements and deal with their own confidential tasks even when not assigned.
+    - <span class="mb-label mb-label-pink">:lucide-user-cog: Administrator</span> - Can make administrative-level changes to the employee record, such as adding requirements to their roles.
 
     <span data-uuid="c3f67b7a-6e30-4f46-bb2d-395bcdc672ea" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-light-mode.png#only-light)
