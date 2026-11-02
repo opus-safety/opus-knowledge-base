@@ -66,13 +66,12 @@ tags:
     ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-!!! step
+!!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="9efe8c39-c9e8-4f99-940b-543d3d1457fe" style="display:none"></span>
+    Modify the authorisations for this employee in the **Authorisation & tags** section *(you can only configure this if you possess the authorisation yourself)*.
 
-    Grant the relevant authorisations or tags if the employee needs them (you can only configure this if you possess the tag yourself).
-
-    `authorised/health` — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
+    <span class="mb-label mb-label-mauve">authorised/health</span> — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
 
     <span data-uuid="ae1e1ced-aaec-4fbe-ac09-f67e9a0d2560" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-light-mode.png#only-light)
