@@ -1,4 +1,14 @@
 {
+  "docs/drafts/changing-an-employees-access.md": [
+    "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png",
+    "docs/assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png",
+    "docs/assets/media/occ-captures/dashboard/pick-workspace-light-mode.png",
+    "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png",
+    "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png"
+  ],
   "docs/drafts/moving-an-employee.md": [
     "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/change-location-dark-mode.png",
     "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/change-location-light-mode.png",
