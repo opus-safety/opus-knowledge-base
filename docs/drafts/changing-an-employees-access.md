@@ -99,7 +99,7 @@ tags:
 !!! step
 
     <span data-uuid="60c84834-ac94-447b-8b77-93283857557b" style="display:none"></span>
-    Under the **Site access** section, modify the employees access to your site(s).
+    Under the **Site access** section, modify the employee's access to your site(s).
 
     *:lucide-info: Select between **<span class="mb-label mb-label-blue">:lucide-user: User</span>**, **<span class="mb-label mb-label-purple">:lucide-user-shield: Manager</span>** and **<span class="mb-label mb-label-pink">:lucide-user-cog: Administrator</span>** access. To remove access to a site, select the <span class="mb-label mb-label-slate">-</span> option from the dropdown menu.*
 
