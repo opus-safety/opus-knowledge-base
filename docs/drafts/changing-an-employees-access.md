@@ -104,6 +104,11 @@ tags:
     <span data-uuid="5d23596b-d01a-4493-a448-c5e10084a978" style="display:none"></span>
     ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
 
+    !!! info "Multi-sited?"
+
+        <span data-uuid="8206d323-98ef-43cc-ae38-2be4789ca951" style="display:none"></span>
+        If multi-sited, you can navigate up and down your site hierarchy using the <span class="mb-label mb-label-slate">:lucide-chevron-up-square: Up</span> and <span class="mb-label mb-label-slate">:lucide-chevron-down-square: Down</span> arrow buttons
+
 !!! step
 
     <span data-uuid="628c1f4f-825c-431c-99c1-71d3321272c5" style="display:none"></span>
