@@ -65,3 +65,85 @@ tags:
     <span data-uuid="fc067b45-4675-4959-b093-18c24a965684" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="9efe8c39-c9e8-4f99-940b-543d3d1457fe" style="display:none"></span>
+
+    Grant the relevant authorisations or tags if the employee needs them (you can only configure this if you possess the tag yourself).
+
+    `authorised/health` — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
+
+    <span data-uuid="ae1e1ced-aaec-4fbe-ac09-f67e9a0d2560" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-dark-mode.png#only-dark)
+
+    !!! note
+
+        <span data-uuid="8635e257-57b3-45ae-8cd9-f5f8725f4d0c" style="display:none"></span>
+
+        By default, all sites will have the `authorised/health` tag available, but depending on your site configuration you may have more.
+
+!!! step
+
+    <span data-uuid="5461081e-c0d3-479d-8b91-4144f851b59d" style="display:none"></span>
+
+    Configure whether this employee can manage their own record. Defaults to **user**.
+
+    `user`
+    :   Can fulfil employee-scoped tasks such as their own e-learning completion. Cannot open their own confidential tasks unless assigned.
+
+    `manager`
+    :   Can change their own requirements and deal with their own confidential tasks even when not assigned.
+
+    `administrator`
+    :   Can make administrative-level changes to the employee record, such as adding requirements to their roles.
+
+    <span data-uuid="c3f67b7a-6e30-4f46-bb2d-395bcdc672ea" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-light-mode.png#only-light)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-dark-mode.png#only-dark)
+
+!!! step
+
+    <span data-uuid="628c1f4f-825c-431c-99c1-71d3321272c5" style="display:none"></span>
+
+    <span data-uuid="b1b3f678-7a9e-4131-a634-2620dd5b600a" style="display:none"></span>
+    === "Single Site"
+
+        <span data-uuid="72d0e5f9-2243-45d8-a40c-99f6a121b4cf" style="display:none"></span>
+
+        Choose whether the employee should access the site as a **user**, **manager**, or **administrator** using the drop-down menu. To remove access, select the **-** option.
+
+        !!! note
+
+            <span data-uuid="440f84f4-42af-4760-b909-a8ef7d31dfe6" style="display:none"></span>
+
+            Granting user access automatically gives user access to assets, allowing employees to report defects, view asset documentation, and complete checklists where required.
+
+        <span data-uuid="de1e5d3f-319f-4c4b-b39e-b12f103d6615" style="display:none"></span>
+        ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
+
+    === "Multiple Sites"
+
+        <span data-uuid="dfb3f1e7-c894-40db-879f-74de58caccd3" style="display:none"></span>
+
+        Click the double up-arrows next to the site name to give access higher up your organisational hierarchy — across other sites, regions, or your entire organisation.
+
+        !!! tip
+
+            <span data-uuid="509c940b-a3b3-4a29-af2b-0f4b7c038859" style="display:none"></span>
+
+            Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
+
+        <span data-uuid="e5f73685-3da9-4cbb-b7c4-fc80eb94820c" style="display:none"></span>
+        ![](../assets/media/other/screenshots/APaQ0SRL-eDqthpF8jrV9xBNKwEhqf67e9IeA91W_d2fe5420.gif)
+
+!!! step
+
+    <span data-uuid="a43e0eac-8187-44c2-a199-10316ff33860" style="display:none"></span>
+
+    Once you have made the changes, click **Apply changes**.
+
+    <span data-uuid="59fe8787-580a-49d7-952a-815c21b0ee7d" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
