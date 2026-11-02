@@ -98,6 +98,11 @@ tags:
 
 !!! step
 
+    <span data-uuid="60c84834-ac94-447b-8b77-93283857557b" style="display:none"></span>
+    Under the **Site access** section, modify the employees access to your site(s).
+
+!!! step
+
     <span data-uuid="628c1f4f-825c-431c-99c1-71d3321272c5" style="display:none"></span>
 
     <span data-uuid="b1b3f678-7a9e-4131-a634-2620dd5b600a" style="display:none"></span>
