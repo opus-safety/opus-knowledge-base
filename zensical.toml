@@ -119,7 +119,6 @@ nav = [
 draft_nav = [
   {"Guides" = [
     {"Getting started" = [
-      {"The Onboarding Process" = "drafts/onboarding-process.md"},
       {"Guidebooks" = [
         {"Feature Overviews" = "drafts/feature-overviews.md"}
       ]}
