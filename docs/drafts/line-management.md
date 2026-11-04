@@ -101,3 +101,10 @@ Line management allows you to give an employee direct access to manage specific 
 
 ## How line managers access their employees
 <span data-uuid="9681d9b9-692d-4d4d-8b81-e015f4c370c8" style="display:none"></span>
+
+
+!!! step
+
+    <span data-uuid="4359fe26-2e8f-4e0a-bac8-844f44058f56" style="display:none"></span>
+
+    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Line management**
