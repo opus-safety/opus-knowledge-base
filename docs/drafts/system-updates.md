@@ -12,3 +12,7 @@ search:
 
     See our new guide below on how to configure this for an employee.
 
+    <span data-uuid="db3c3ed2-63b5-48bf-858d-c05d68e19469" style="display:none"></span>
+    ![](../assets/media/system-update-captures/line-management-92e2e461-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/system-update-captures/line-management-92e2e461-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
