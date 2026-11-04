@@ -56,3 +56,6 @@ Line management allows you to give an employee direct access to manage specific 
     <span data-uuid="c2482572-8d60-445d-b215-5d4c07d3f813" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+
+## Configuring line management access
+<span data-uuid="12d5e853-9313-4fca-a253-0230fd7c66d3" style="display:none"></span>
