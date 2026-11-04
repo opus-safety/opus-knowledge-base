@@ -90,12 +90,6 @@ Line management allows you to give an employee direct access to manage specific 
         <span data-uuid="7325c727-b8e9-45dc-93f2-7e7a59397e49" style="display:none"></span>
         <video src="../assets/media/videos/site-access-multiple-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
-    !!! tip
-
-        <span data-uuid="0775dfe7-8a1a-4367-8cd6-ba3799fcaae5" style="display:none"></span>
-
-        Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
-
 !!! step
 
     <span data-uuid="8f3217cd-dc31-4d55-99ec-14acee6b346b" style="display:none"></span>
