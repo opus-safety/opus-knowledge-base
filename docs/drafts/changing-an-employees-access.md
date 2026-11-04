@@ -106,7 +106,7 @@ search:
     <span data-uuid="5d23596b-d01a-4493-a448-c5e10084a978" style="display:none"></span>
     <video src="../assets/media/videos/site-access-single-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
-    !!! info "Multi-sited?"
+    ??? info "Multi-sited?"
 
         <span data-uuid="8206d323-98ef-43cc-ae38-2be4789ca951" style="display:none"></span>
         You can navigate up and down your site hierarchy using the <span class="mb-label mb-label-slate">:lucide-chevron-up-square: Up</span> and <span class="mb-label mb-label-slate">:lucide-chevron-down-square: Down</span> arrow buttons to set access to other sites/regions, or your entire organisation.
