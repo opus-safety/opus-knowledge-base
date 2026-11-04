@@ -104,19 +104,19 @@ tags:
     <span data-uuid="5d23596b-d01a-4493-a448-c5e10084a978" style="display:none"></span>
     <video src="../assets/media/videos/site-access-single-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
-    !!! info "Multi-sited?"
+    ??? info "Multi-sited?"
 
         <span data-uuid="8206d323-98ef-43cc-ae38-2be4789ca951" style="display:none"></span>
-        You can navigate up and down your site hierarchy using the <span class="mb-label mb-label-slate">:lucide-chevron-up-square: Up</span> and <span class="mb-label mb-label-slate">:lucide-chevron-down-square: Down</span> arrow buttons to set access to other sites/regions, or your entire organisation.
+        You can navigate up and down your site hierarchy using the <span class="mb-label mb-label-slate">:lucide-chevron-up-square: Up</span> and <span class="mb-label mb-label-slate">:lucide-chevron-down-square: Down</span> arrow buttons next to a site to navigate to other sites/regions, or your entire organisation.
 
         <span data-uuid="4866e87b-56da-4311-822e-cae574761764" style="display:none"></span>
         <video src="../assets/media/videos/site-access-multiple-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
-    !!! tip
+        !!! tip
 
-        <span data-uuid="580751d5-0da4-4347-a594-ac99da4bd9a6" style="display:none"></span>
+            <span data-uuid="a553dd21-4047-400d-b96c-977573cca4bc" style="display:none"></span>
 
-        Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
+            Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
 
 !!! step
 
