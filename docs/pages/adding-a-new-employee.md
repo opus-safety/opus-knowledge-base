@@ -221,7 +221,7 @@ tags:
             Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
 
         <span data-uuid="47a0b240-a56e-486f-a678-c713b23a7017" style="display:none"></span>
-        ![](../assets/media/other/screenshots/APaQ0SRL-eDqthpF8jrV9xBNKwEhqf67e9IeA91W_d2fe5420.gif)
+        <video src="../assets/media/videos/site-access-multiple-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
 !!! step
 

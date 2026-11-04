@@ -110,7 +110,7 @@ tags:
         You can navigate up and down your site hierarchy using the <span class="mb-label mb-label-slate">:lucide-chevron-up-square: Up</span> and <span class="mb-label mb-label-slate">:lucide-chevron-down-square: Down</span> arrow buttons to set access to other sites/regions, or your entire organisation.
 
         <span data-uuid="4866e87b-56da-4311-822e-cae574761764" style="display:none"></span>
-        ![](../assets/media/other/screenshots/APaQ0SRL-eDqthpF8jrV9xBNKwEhqf67e9IeA91W_d2fe5420.gif)
+        <video src="../assets/media/videos/site-access-multiple-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
     !!! tip
 
