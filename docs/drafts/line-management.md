@@ -115,4 +115,4 @@ Line management allows you to give an employee direct access to manage specific 
 !!! step
 
     <span data-uuid="cfab4499-1fed-4b15-b7e2-2b72c9056383" style="display:none"></span>
-    Browse your employees via the provided list
+    The employees you manage will be listed on the page.
