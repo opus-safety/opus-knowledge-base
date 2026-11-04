@@ -76,7 +76,7 @@ Line management allows you to give an employee direct access to manage specific 
     <span data-uuid="14c61e78-c24f-440c-8ac1-57798c6a1dc8" style="display:none"></span>
     Under the **Site access** section, drill down into the employees at a site and configure who this employee can manage.
 
-    *:lucide-info: T**o remove access to an employee, select the <span class="mb-label mb-label-slate">-</span> option from the dropdown menu.*
+    *:lucide-info: To remove access to an employee, select the <span class="mb-label mb-label-slate">-</span> option from the dropdown menu.*
 
     <span data-uuid="422be2a0-04f9-4678-9987-89d35eec4cf2" style="display:none"></span>
     <video src="../assets/media/videos/site-access-line-management.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
