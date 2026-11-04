@@ -81,7 +81,7 @@ Line management allows you to give an employee direct access to manage specific 
     <span data-uuid="55741822-f3bb-466f-8b62-84758612383b" style="display:none"></span>
     <video src="../assets/media/videos/site-access-single-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
-    !!! info "Multi-sited?"
+    ??? info "Multi-sited?"
 
         <span data-uuid="924aca93-2d72-4b38-8db7-ac0d1385b2e4" style="display:none"></span>
         You can navigate up and down your site hierarchy using the <span class="mb-label mb-label-slate">:lucide-chevron-up-square: Up</span> and <span class="mb-label mb-label-slate">:lucide-chevron-down-square: Down</span> arrow buttons next to a site to view other sites/regions, or your entire organisation.
