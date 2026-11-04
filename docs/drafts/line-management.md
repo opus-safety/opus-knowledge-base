@@ -99,7 +99,7 @@ Line management allows you to give an employee direct access to manage specific 
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-## How line managers access their employees
+## How to access the employees you manage
 <span data-uuid="9681d9b9-692d-4d4d-8b81-e015f4c370c8" style="display:none"></span>
 
 
