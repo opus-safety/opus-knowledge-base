@@ -102,7 +102,7 @@ tags:
     *:lucide-info: Select between **<span class="mb-label mb-label-blue">:lucide-user: User</span>**, **<span class="mb-label mb-label-purple">:lucide-user-shield: Manager</span>** and **<span class="mb-label mb-label-pink">:lucide-user-cog: Administrator</span>** access. To remove access to a site, select the <span class="mb-label mb-label-slate">-</span> option from the dropdown menu.*
 
     <span data-uuid="5d23596b-d01a-4493-a448-c5e10084a978" style="display:none"></span>
-    ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
+    <video src="../assets/media/videos/site-access-single-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
     !!! info "Multi-sited?"
 

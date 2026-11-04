@@ -207,7 +207,7 @@ tags:
             Granting user access automatically gives user access to assets, allowing employees to report defects, view asset documentation, and complete checklists where required.
 
         <span data-uuid="a1309cce-75e6-4ba6-8a0a-e789a79278df" style="display:none"></span>
-        ![](../assets/media/other/screenshots/APaQ0ST_UgoGam1x7NuixSy7GtD8fAnNNkSZd6b1_013f3a85.gif)
+        <video src="../assets/media/videos/site-access-single-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
     === "Multiple Sites"
 
