@@ -111,3 +111,8 @@ Line management allows you to give an employee direct access to manage specific 
     <span data-uuid="b9440a60-eaff-4074-9738-66467fd0688d" style="display:none"></span>
     ![](../assets/media/occ-captures/dashboard/line-management-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/dashboard/line-management-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="cfab4499-1fed-4b15-b7e2-2b72c9056383" style="display:none"></span>
+    Browse your employees via the provided list
