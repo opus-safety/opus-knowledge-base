@@ -12,3 +12,6 @@ tags:
 Line management allows you to give an employee direct access to manage specific staff members within your organisation.
 
 **Follow the steps below to set this up for an employee.**
+
+## Finding the employee
+<span data-uuid="d4f6a607-b120-4dad-a0e5-a9930e88859d" style="display:none"></span>
