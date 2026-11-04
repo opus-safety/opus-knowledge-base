@@ -114,6 +114,12 @@ search:
         <span data-uuid="4866e87b-56da-4311-822e-cae574761764" style="display:none"></span>
         <video src="../assets/media/videos/site-access-multiple-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
+        !!! tip
+
+            <span data-uuid="a553dd21-4047-400d-b96c-977573cca4bc" style="display:none"></span>
+
+            Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
+
 !!! step
 
     <span data-uuid="a43e0eac-8187-44c2-a199-10316ff33860" style="display:none"></span>
