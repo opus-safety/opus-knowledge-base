@@ -9,7 +9,7 @@
 site_name        = "Opus Knowledge Base"
 # Placeholder only: the theme renders the header's top-right "source" slot (and
 # its copy in the mobile nav drawer) only when repo_url is set. The slot's
-# content is overridden in overrides/partials/source.html with the Ask Opus AI
+# content is overridden in overrides/partials/source.html with the Ask Opus
 # button, so this URL is never shown or followed.
 repo_url         = "#"
 site_description = "A knowledge repository for Opus Compliance Cloud"

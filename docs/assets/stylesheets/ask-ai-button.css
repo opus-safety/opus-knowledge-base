@@ -1,8 +1,8 @@
 /* ============================================================================
-   Ask Opus AI button — shared purple→pink animated gradient
+   Ask Opus button — shared purple→pink animated gradient
    ----------------------------------------------------------------------------
    Used in two places:
-     • the homepage hero  [Ask Opus AI](#){ .md-button .ask-ai-button … }
+     • the homepage hero  [Ask Opus](#){ .md-button .ask-ai-button … }
        (pill radius comes from .home-hero .md-button in home-hero.css)
      • the header's top-right "source" slot + its mobile nav-drawer copy,
        rendered by overrides/partials/source.html as <a class="md-source

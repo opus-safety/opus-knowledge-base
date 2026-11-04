@@ -104,5 +104,5 @@ body.neural-active .md-footer {
   display: none;
 }
 
-/* The Ask Opus AI hero button's gradient/animation lives in ask-ai-button.css
+/* The Ask Opus hero button's gradient/animation lives in ask-ai-button.css
    (shared with the header button); it inherits the pill radius above. */
