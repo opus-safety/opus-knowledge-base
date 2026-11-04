@@ -59,3 +59,50 @@ Line management allows you to give an employee direct access to manage specific 
 
 ## Configuring line management access
 <span data-uuid="12d5e853-9313-4fca-a253-0230fd7c66d3" style="display:none"></span>
+
+
+!!! step
+
+    <span data-uuid="7509808d-7b68-4b3c-9f7d-5fb0c23c6fa2" style="display:none"></span>
+
+    On the employee's record, select **Change access**
+
+    <span data-uuid="9ac64aff-3661-4ee4-b878-3449dc255595" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="14c61e78-c24f-440c-8ac1-57798c6a1dc8" style="display:none"></span>
+
+    Under the **Site access** section, modify the employee's access to your site(s).
+
+    *:lucide-info: Select between **<span class="mb-label mb-label-blue">:lucide-user: User</span>**, **<span class="mb-label mb-label-purple">:lucide-user-shield: Manager</span>** and **<span class="mb-label mb-label-pink">:lucide-user-cog: Administrator</span>** access. To remove access to a site, select the <span class="mb-label mb-label-slate">-</span> option from the dropdown menu.*
+
+    <span data-uuid="55741822-f3bb-466f-8b62-84758612383b" style="display:none"></span>
+    <video src="../assets/media/videos/site-access-single-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+
+    !!! info "Multi-sited?"
+
+        <span data-uuid="924aca93-2d72-4b38-8db7-ac0d1385b2e4" style="display:none"></span>
+
+        You can navigate up and down your site hierarchy using the <span class="mb-label mb-label-slate">:lucide-chevron-up-square: Up</span> and <span class="mb-label mb-label-slate">:lucide-chevron-down-square: Down</span> arrow buttons to set access to other sites/regions, or your entire organisation.
+
+        <span data-uuid="7325c727-b8e9-45dc-93f2-7e7a59397e49" style="display:none"></span>
+        <video src="../assets/media/videos/site-access-multiple-site.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+
+    !!! tip
+
+        <span data-uuid="0775dfe7-8a1a-4367-8cd6-ba3799fcaae5" style="display:none"></span>
+
+        Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
+
+!!! step
+
+    <span data-uuid="8f3217cd-dc31-4d55-99ec-14acee6b346b" style="display:none"></span>
+
+    Once you have made the changes, click **Apply changes**.
+
+    <span data-uuid="2793eec6-19e2-4d3c-9110-e84a9a461d0c" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
