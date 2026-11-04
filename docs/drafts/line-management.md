@@ -115,7 +115,7 @@ Line management allows you to give an employee direct access to manage specific 
 !!! step
 
     <span data-uuid="cfab4499-1fed-4b15-b7e2-2b72c9056383" style="display:none"></span>
-    The employees you manage will be listed on the page.
+    The employees you manage will be listed on the page and can be found using the search bar.
 
     <span data-uuid="03155449-4653-4753-8aa5-4d6b624c002f" style="display:none"></span>
     ![](../assets/media/occ-captures/my/managed-employees/list-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
