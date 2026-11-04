@@ -377,6 +377,26 @@
     "docs/assets/media/occ-captures/sites/uuid/report-something-dark-mode.png",
     "docs/assets/media/occ-captures/sites/uuid/report-something-light-mode.png"
   ],
+  "docs/pages/line-management.md": [
+    "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-dark-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/change-access-light-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-dark-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/apply-changes-light-mode.png",
+    "docs/assets/media/occ-captures/dashboard/line-management-dark-mode.png",
+    "docs/assets/media/occ-captures/dashboard/line-management-light-mode.png",
+    "docs/assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png",
+    "docs/assets/media/occ-captures/dashboard/pick-workspace-light-mode.png",
+    "docs/assets/media/occ-captures/my/managed-employees/list-dark-mode.png",
+    "docs/assets/media/occ-captures/my/managed-employees/list-light-mode.png",
+    "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png",
+    "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png",
+    "docs/assets/media/videos/site-access-line-management.mp4",
+    "docs/assets/media/videos/site-access-multiple-site.mp4"
+  ],
   "docs/pages/managing-a-rams-project.md": [
     "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/manage-rams-dark-mode.png",
     "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/manage-rams-light-mode.png",
