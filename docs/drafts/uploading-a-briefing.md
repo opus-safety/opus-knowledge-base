@@ -25,8 +25,7 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
 !!! step
 
     <span data-uuid="68540d4b-c86c-4d83-b19c-91174814469c" style="display:none"></span>
-
-    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you want to add the employee.
+    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you wish to create the briefing.
 
     <span data-uuid="3fbd6de1-f184-48a1-89ca-5d6c056aa004" style="display:none"></span>
     ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
