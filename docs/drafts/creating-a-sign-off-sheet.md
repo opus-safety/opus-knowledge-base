@@ -26,8 +26,7 @@ A printable sign-off sheet can be generated in-system which can be used for brie
     !!! tip
 
         <span data-uuid="c39115fa-f669-46bc-aa16-6e3d9abec11f" style="display:none"></span>
-
-        If the intended employees cover multiple sites - select the highest common parent site, such as a regional or company parent.
+        If the employees you wish to include cover multiple sites - select the highest common parent site, such as a regional or company parent.
 
 !!! step
 
