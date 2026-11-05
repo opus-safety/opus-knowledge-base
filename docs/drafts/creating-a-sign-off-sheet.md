@@ -118,15 +118,6 @@ A printable sign-off sheet can be generated in-system which can be used for brie
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/print-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/print-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-## Converting to a briefing
-<span data-uuid="2ec66bf8-563c-4821-b49c-949ea923ee08" style="display:none"></span>
-
-Sign-off sheets can be converted into Briefings within 10 days of creation by selecting **Convert to briefing** on the sign-off sheet page.
-
-<span data-uuid="75bca126-be52-4f76-9a12-08bb0ac604b9" style="display:none"></span>
-![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/convert-to-briefing-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/convert-to-briefing-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
 ## Creating the sign-off sheet
 <span data-uuid="5409ca26-94e6-4045-870d-12d65458a290" style="display:none"></span>
 
@@ -242,3 +233,12 @@ Sign-off sheets can be converted into Briefings within 10 days of creation by se
     <span data-uuid="be2309ff-73a3-4a2b-aee4-d1c25aaf32a2" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/print-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/print-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+## Converting to a briefing
+<span data-uuid="2ec66bf8-563c-4821-b49c-949ea923ee08" style="display:none"></span>
+
+Sign-off sheets can be converted into Briefings within 10 days of creation by selecting **Convert to briefing** on the sign-off sheet page.
+
+<span data-uuid="75bca126-be52-4f76-9a12-08bb0ac604b9" style="display:none"></span>
+![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/convert-to-briefing-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/convert-to-briefing-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
