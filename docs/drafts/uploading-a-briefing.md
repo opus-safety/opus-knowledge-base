@@ -31,7 +31,7 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
     ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
 
-    !!! info
+    !!! tip
 
         <span data-uuid="1796b06d-e668-47f5-870d-d2b002f9d950" style="display:none"></span>
         If the briefed employees cover multiple sites - select the highest common parent site, such as a regional or company parent.
