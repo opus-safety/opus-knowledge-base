@@ -62,9 +62,4 @@ A printable sign-off sheet can be generated in-system which can be used for brie
 !!! step
 
     <span data-uuid="b047dda9-b62d-42d7-9ca5-d042e4b5c9b4" style="display:none"></span>
-
     Click **Continue** under Sign-off sheet.
-
-    <span data-uuid="e72f7e87-af30-4a74-a282-cdd09c8aa446" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/role-requirements/new/briefing-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/role-requirements/new/briefing-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
