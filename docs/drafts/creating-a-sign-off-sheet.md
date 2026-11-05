@@ -15,21 +15,6 @@ A printable sign-off sheet can be generated in-system which can be used for brie
 
 !!! step
 
-    <span data-uuid="231a5aad-7e1f-4220-b0fd-dbf0e12f5893" style="display:none"></span>
-
-    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you wish to create the sign-off sheet.
-
-    <span data-uuid="252fdcd5-0244-411e-87d6-b99571dbc75e" style="display:none"></span>
-    ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-    !!! tip
-
-        <span data-uuid="c39115fa-f669-46bc-aa16-6e3d9abec11f" style="display:none"></span>
-        If the employees you wish to include cover multiple sites - select the highest common parent site, such as a regional or company parent.
-
-!!! step
-
     <span data-uuid="6722fb3b-6409-466e-8ac4-f68fa0fe7ecc" style="display:none"></span>
 
     From the site inbox, click the **Switch to Manage Mode** button.
