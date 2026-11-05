@@ -142,7 +142,8 @@ draft_nav = [
     ]},
     {"Requirements" = [
       {"Briefings And Sign Off Sheets" = [
-        {"Uploading a briefing" = "drafts/uploading-a-briefing.md"}
+        {"Uploading a briefing" = "drafts/uploading-a-briefing.md"},
+        {"Creating a sign-off sheet" = "drafts/creating-a-sign-off-sheet.md"}
       ]}
     ]}
   ]}
