@@ -50,3 +50,7 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
 
     <span data-uuid="fa78e45a-8bd1-48ff-8864-d7be7f49defb" style="display:none"></span>
     Expand the **Employee records** drop-down in the manage sidebar and select **Briefings & Sign-off sheets**.
+
+    <span data-uuid="70bec3fb-7ff2-4cbf-ae9c-fc932fd4bc53" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-a-toggle-briefings-and-sign-off-sheets-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-a-toggle-briefings-and-sign-off-sheets-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
