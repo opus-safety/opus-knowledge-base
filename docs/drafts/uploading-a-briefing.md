@@ -104,3 +104,8 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
     <span data-uuid="c7914d06-03af-4c52-b1dd-f4b7347f9b30" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/role-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/role-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="4d7fa524-c3d6-4081-a447-d8483d748573" style="display:none"></span>
+    Click **Save briefing**
