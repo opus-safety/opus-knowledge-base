@@ -85,6 +85,7 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
 !!! step
 
     <span data-uuid="140294e7-2bdf-44b9-80be-34aa3911fd46" style="display:none"></span>
+    Upload the briefing / training / toolbox talk record and input the date of the training
 
     <span data-uuid="785578e9-dff2-4be8-92ec-715764216116" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/upload-a-file-light-mode.png#only-light){ style="height: 500px; border-radius: 8px" loading=lazy }
