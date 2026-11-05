@@ -75,20 +75,6 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/role-requirements/new/briefing-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/role-requirements/new/briefing-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
-!!! step
-
-    <span data-uuid="140294e7-2bdf-44b9-80be-34aa3911fd46" style="display:none"></span>
-    Upload the briefing / training / toolbox talk record and input the date of the training
-
-    <span data-uuid="785578e9-dff2-4be8-92ec-715764216116" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/upload-a-file-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/upload-a-file-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
-
-    !!! warning "Important!"
-
-        <span data-uuid="4b1c89ec-84f8-40fc-924d-4580c5ce9fdb" style="display:none"></span>
-        **Date of training (completion or certificate date)** is the date the the briefing / training / toolbox talk was given.
-
 ## Configuring the briefing and uploading the record
 <span data-uuid="7948ec66-16b3-4f36-9a81-be8b9db84a0b" style="display:none"></span>
 
