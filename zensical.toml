@@ -64,9 +64,7 @@ nav = [
       {"Interacting with a task" = "pages/interacting-with-a-task.md"},
       {"Managing a task" = "pages/managing-a-task.md"},
       {"Task sensitivity" = "pages/task-sensitivity.md"},
-      {"Reporting And Logging" = [
-        {"Kinds of reportable tasks" = "pages/kinds-of-reportable-tasks.md"}
-      ]}
+      {"Kinds of reportable tasks" = "pages/kinds-of-reportable-tasks.md"}
     ]},
     {"Employees" = [
       {"Employees Overview" = "pages/employees-overview.md"},
