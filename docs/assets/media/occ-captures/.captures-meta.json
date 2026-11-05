@@ -678,5 +678,10 @@
   "docs/assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/title-and-severity-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/new/demo-company-z-light-mode.png": {
+    "resized": true,
+    "padding": 15,
+    "zapped": true
   }
 }
