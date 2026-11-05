@@ -90,10 +90,10 @@ nav = [
         {"Adding a new document" = "pages/adding-a-new-document.md"},
         {"Revising a document" = "pages/revising-a-document.md"}
       ]},
-      {"Intervals & Lead Times" = "pages/intervals-and-lead-times.md"},
       {"Briefings" = [
         {"Creating a sign-off sheet" = "pages/creating-a-sign-off-sheet.md"}
-      ]}
+      ]},
+      {"Intervals & Lead Times" = "pages/intervals-and-lead-times.md"}
     ]},
     {"Reporting" = [
       {"Snapshot" = "pages/snapshot.md"}
