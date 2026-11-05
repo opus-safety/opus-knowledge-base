@@ -93,6 +93,9 @@ A printable sign-off sheet can be generated in-system which can be used for brie
 !!! step
 
     <span data-uuid="0dc6bf45-135b-4ab2-8709-5edfc180ed5e" style="display:none"></span>
+    Select the employees that will be taking part in the briefing / training / toolbox talk and therefore to include on the sign-off sheet.
+
+    *You can select via roles, or per employee.*
 
     <span data-uuid="93bd856a-55de-46b9-8581-2b06773024b6" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/new/role-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
