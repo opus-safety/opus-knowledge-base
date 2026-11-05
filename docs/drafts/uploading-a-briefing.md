@@ -111,3 +111,52 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
 
 ## Configuring the briefing and uploading the record
 <span data-uuid="7948ec66-16b3-4f36-9a81-be8b9db84a0b" style="display:none"></span>
+
+
+!!! step
+
+    <span data-uuid="4b103d08-bdc2-4d85-82d6-5a6e3367cbbd" style="display:none"></span>
+
+    Give the briefing a title and configure the rest of the options.
+
+    <span data-uuid="bc39f969-b220-4a7d-a1d0-e7b662623a05" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/title-and-severity-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/title-and-severity-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+
+!!! step
+
+    <span data-uuid="be3e235d-6e5f-4d7f-a486-489e94109cc4" style="display:none"></span>
+
+    Upload the briefing / training / toolbox talk record and input the date of the training
+
+    <span data-uuid="03c46e4e-6c37-4951-8dcb-8687cf5ddc8e" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/upload-a-file-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/upload-a-file-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+
+    !!! warning "Important!"
+
+        <span data-uuid="071af633-63eb-49af-9b3c-541d1b344fe9" style="display:none"></span>
+
+        **Date of training (completion or certificate date)** is the date the the briefing / training / toolbox talk was given.
+
+!!! step
+
+    <span data-uuid="e1edb1fe-765b-4854-adc9-d2bd6f210061" style="display:none"></span>
+
+    Select the employees that took part in this briefing.
+
+    *You can select via roles, or per employee.*
+
+    <span data-uuid="4a54e1e7-7b5c-4a8e-841f-4e4d38b15897" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/role-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/role-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="e559233c-99c7-43bf-b93a-3b061841bbca" style="display:none"></span>
+
+    Click **Save briefing**
+
+    <span data-uuid="c0137474-d07f-47ce-bcfd-5f9ac4948b67" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/save-briefing-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/save-briefing-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
