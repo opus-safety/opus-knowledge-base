@@ -117,12 +117,3 @@ A printable sign-off sheet can be generated in-system which can be used for brie
     <span data-uuid="536ad129-f837-4069-9b2f-67bcc7bbe8dd" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/print-light-mode.png#only-light){ style="height: 50px" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/print-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
-
-!!! info "Converting to a Briefing"
-
-    <span data-uuid="027efde8-5f9d-4663-b7fe-e979f4b46f9d" style="display:none"></span>
-    Sign-off sheets can also be converted into Briefings within 10 days of creation by selecting **Convert to briefing**
-
-    <span data-uuid="9af13fc4-02d4-407e-9c89-3f6acad7824f" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/convert-to-briefing-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/uuid/convert-to-briefing-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
