@@ -90,8 +90,8 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
     Upload the briefing / training / toolbox talk record and input the date of the training
 
     <span data-uuid="785578e9-dff2-4be8-92ec-715764216116" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/upload-a-file-light-mode.png#only-light){ style="height: 500px; border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/upload-a-file-dark-mode.png#only-dark){ style="height: 500px; border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/upload-a-file-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/upload-a-file-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
 
     !!! warning "Important!"
 
