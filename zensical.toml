@@ -90,7 +90,10 @@ nav = [
         {"Adding a new document" = "pages/adding-a-new-document.md"},
         {"Revising a document" = "pages/revising-a-document.md"}
       ]},
-      {"Intervals & Lead Times" = "pages/intervals-and-lead-times.md"}
+      {"Intervals & Lead Times" = "pages/intervals-and-lead-times.md"},
+      {"Briefings And Sign Off Sheets" = [
+        {"Creating a sign-off sheet" = "pages/creating-a-sign-off-sheet.md"}
+      ]}
     ]},
     {"Reporting" = [
       {"Snapshot" = "pages/snapshot.md"}
@@ -142,8 +145,7 @@ draft_nav = [
     ]},
     {"Requirements" = [
       {"Briefings And Sign Off Sheets" = [
-        {"Uploading a briefing" = "drafts/uploading-a-briefing.md"},
-        {"Creating a sign-off sheet" = "drafts/creating-a-sign-off-sheet.md"}
+        {"Uploading a briefing" = "drafts/uploading-a-briefing.md"}
       ]}
     ]}
   ]}
