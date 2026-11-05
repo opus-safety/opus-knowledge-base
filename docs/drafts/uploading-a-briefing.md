@@ -11,7 +11,7 @@ search:
 
 A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings allow you to upload proof of training (e.g. via a sign-off sheet) in bulk.
 
-**Follow the steps below to upload a briefing.**
+**Follow the steps below to upload a briefing record.**
 
 !!! warning
 
