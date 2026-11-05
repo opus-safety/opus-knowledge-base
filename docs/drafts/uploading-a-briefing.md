@@ -89,17 +89,6 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
         <span data-uuid="4b1c89ec-84f8-40fc-924d-4580c5ce9fdb" style="display:none"></span>
         **Date of training (completion or certificate date)** is the date the the briefing / training / toolbox talk was given.
 
-!!! step
-
-    <span data-uuid="a14bdf85-af2b-4643-901d-61b6389e8ff0" style="display:none"></span>
-    Select the employees that took part in this briefing.
-
-    *You can select via roles, or per employee.*
-
-    <span data-uuid="c7914d06-03af-4c52-b1dd-f4b7347f9b30" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/role-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/templates/trainings/new/role-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
-
 ## Configuring the briefing and uploading the record
 <span data-uuid="7948ec66-16b3-4f36-9a81-be8b9db84a0b" style="display:none"></span>
 
