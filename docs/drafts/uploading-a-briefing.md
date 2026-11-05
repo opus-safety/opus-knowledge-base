@@ -72,3 +72,7 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
     <span data-uuid="f0e9b0f2-b346-46f3-9616-ca8528cc5c1f" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/role-requirements/new/briefing-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/role-requirements/new/briefing-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
+
+!!! step
+
+    <span data-uuid="541a5544-f26b-4ec5-9978-a5a9554f84c1" style="display:none"></span>
