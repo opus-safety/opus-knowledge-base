@@ -20,3 +20,34 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
 
 ## Creating the briefing and uploading the record
 <span data-uuid="ab1cc111-4652-4a6b-9528-4ff6f008eb4f" style="display:none"></span>
+
+
+!!! step
+
+    <span data-uuid="68540d4b-c86c-4d83-b19c-91174814469c" style="display:none"></span>
+
+    From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you want to add the employee.
+
+    <span data-uuid="3fbd6de1-f184-48a1-89ca-5d6c056aa004" style="display:none"></span>
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="a3babbb5-6cb0-4f97-aecf-374e94cc01ed" style="display:none"></span>
+
+    From the site inbox, click the **Switch to Manage Mode** button.
+
+    <span data-uuid="97ca6c3a-25f3-4113-9975-01b0c4dcc147" style="display:none"></span>
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+!!! step
+
+    <span data-uuid="fa78e45a-8bd1-48ff-8864-d7be7f49defb" style="display:none"></span>
+
+    Click **Employee records** on the manage sidebar.
+
+    <span data-uuid="f2f8210d-0605-4a42-9e80-ae6b01906e54" style="display:none"></span>
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
