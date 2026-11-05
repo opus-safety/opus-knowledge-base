@@ -91,7 +91,8 @@ nav = [
         {"Revising a document" = "pages/revising-a-document.md"}
       ]},
       {"Briefings" = [
-        {"Creating a sign-off sheet" = "pages/creating-a-sign-off-sheet.md"}
+        {"Creating a sign-off sheet" = "pages/creating-a-sign-off-sheet.md"},
+        {"Uploading a briefing" = "pages/uploading-a-briefing.md"}
       ]},
       {"Intervals & Lead Times" = "pages/intervals-and-lead-times.md"}
     ]},
@@ -136,11 +137,6 @@ draft_nav = [
         {"Reporting an incident" = "drafts/reporting-an-incident.md"}
       ]},
       {"Task Overview" = "drafts/task-overview.md"}
-    ]},
-    {"Requirements" = [
-      {"Briefings" = [
-        {"Uploading a briefing" = "drafts/uploading-a-briefing.md"}
-      ]}
     ]},
     {"Reporting" = [
       {"Training & Gaps" = "drafts/training-and-gaps.md"}
