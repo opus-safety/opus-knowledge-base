@@ -58,6 +58,7 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
 !!! step
 
     <span data-uuid="dd685bd0-f230-4d41-b58c-906cab2ae5aa" style="display:none"></span>
+    Click **New briefing**.
 
     <span data-uuid="0d0773dd-15f8-48e9-91bc-5279aedccfc3" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/new-briefing-light-mode.png#only-light){ style="height: 50px" loading=lazy }
