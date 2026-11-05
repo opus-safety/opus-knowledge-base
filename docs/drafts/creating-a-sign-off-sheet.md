@@ -82,7 +82,7 @@ A printable sign-off sheet can be generated in-system which can be used for brie
 !!! step
 
     <span data-uuid="894b99a2-f6b2-4b0f-bb20-33f62b33c81c" style="display:none"></span>
-    Provide a title for the sign-off sheet.
+    Enter a title for the sign-off sheet.
 
     *This is typically the name of the briefing / training / toolbox talk you're looking to give.*
 
