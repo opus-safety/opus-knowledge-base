@@ -95,3 +95,7 @@ A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings 
 
         <span data-uuid="4b1c89ec-84f8-40fc-924d-4580c5ce9fdb" style="display:none"></span>
         **Date of training (completion or certificate date)** is the date the the briefing / training / toolbox talk was given.
+
+!!! step
+
+    <span data-uuid="a14bdf85-af2b-4643-901d-61b6389e8ff0" style="display:none"></span>
