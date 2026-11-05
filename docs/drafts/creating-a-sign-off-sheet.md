@@ -104,6 +104,7 @@ A printable sign-off sheet can be generated in-system which can be used for brie
 !!! step
 
     <span data-uuid="b0c19613-565c-4025-a7c7-682c7ceb25d2" style="display:none"></span>
+    Click **Generate sheet**
 
     <span data-uuid="05afe975-2da1-4f0c-9540-082fd1ad44ce" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/safety-briefings/new/generate-sheet-light-mode.png#only-light){ style="height: 50px" loading=lazy }
