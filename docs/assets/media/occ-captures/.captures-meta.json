@@ -669,5 +669,10 @@
     "padding": 20,
     "annotated": true,
     "zapped": true
+  },
+  "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/employee-records-a-toggle-briefings-and-sign-off-sheets-light-mode.png": {
+    "resized": true,
+    "padding": 10,
+    "annotated": true
   }
 }
