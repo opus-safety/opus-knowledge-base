@@ -120,3 +120,5 @@ A printable sign-off sheet can be generated in-system which can be used for brie
 
 ## Converting to a briefing
 <span data-uuid="2ec66bf8-563c-4821-b49c-949ea923ee08" style="display:none"></span>
+
+Sign-off sheets can be converted into Briefings within 10 days of creation by selecting **Convert to briefing**
