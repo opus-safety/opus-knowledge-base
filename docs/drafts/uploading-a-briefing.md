@@ -11,7 +11,7 @@ tags:
 
 A briefing is a record of an ad-hoc training, such as a toolbox talk. Briefings allow you to upload proof of training (e.g. via a sign-off sheet) in bulk.
 
-??? warning
+!!! warning
 
     <span data-uuid="31c84be8-2a73-40b0-b06c-588e11752dee" style="display:none"></span>
     This guide assumes the briefing / toolbox talk has already taken place and explains how to upload the record to Opus Compliance Cloud.
