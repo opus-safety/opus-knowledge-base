@@ -36,8 +36,8 @@ Employees in Opus Compliance Cloud enables you to add, track and manage your wor
 <span data-uuid="ddff248e-b49d-41b2-80b7-8531f3e48923" style="display:none"></span>
 
 <span data-uuid="b51986fd-a5ad-4371-9e12-c8fb3afb6c02" style="display:none"></span>
-![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-dark){ style="height: 600px; border-radius: 8px" loading=lazy }
-![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-light){ style="height: 600px; border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/employees/list-light-mode.png#only-dark){ style="height: 550px; border-radius: 8px" loading=lazy }
+![](../assets/media/occ-captures/admin/sites/uuid/employees/list-dark-mode.png#only-light){ style="height: 550px; border-radius: 8px" loading=lazy }
 
 </div>
 
