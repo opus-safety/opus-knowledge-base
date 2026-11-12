@@ -16,3 +16,7 @@ search:
     ![](../assets/media/system-update-captures/anything-fee2a10b-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
     ![](../assets/media/system-update-captures/anything-fee2a10b-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+    <span data-uuid="264edd1f-4b36-4410-ba5b-7e1b3db306a4" style="display:none"></span>
+    ![](../assets/media/system-update-captures/demo-site-1-tasks-a-subscription-settings-a1d77e01-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/system-update-captures/demo-site-1-tasks-a-subscription-settings-a1d77e01-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
