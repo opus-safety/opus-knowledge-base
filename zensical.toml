@@ -54,7 +54,7 @@ nav = [
       {"The Onboarding Process" = "pages/onboarding-process.md"},
       {"Creating & linking your Opus Account" = "pages/creating-and-linking-your-opus-account.md"}
     ]},
-    {"My Account" = [
+    {"My account" = [
       {"MFA" = "pages/mfa.md"}
     ]},
     {"Tasks" = [
@@ -126,7 +126,7 @@ draft_nav = [
         {"Feature Overviews" = "drafts/feature-overviews.md"}
       ]}
     ]},
-    {"My Account" = [
+    {"My account" = [
       {"Subscriptions" = "drafts/subscriptions.md"}
     ]},
     {"Tasks" = [
