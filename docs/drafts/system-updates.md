@@ -12,3 +12,6 @@ search:
 
     Combined with [the Subscription Wizard feature](https://support.opus-safety.co.uk/pages/system-updates/#697260ae-9b94-4e0c-aab3-b9e8b34876ad), released in August, these improvements make it easier than ever to subscribe to the items you need and configure the relevant notifications.
 
+    <span data-uuid="6597124b-6f2f-4df7-bd60-deaa5ed8206f" style="display:none"></span>
+    <video src="../assets/media/videos/system-updates/subscription-improvement.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
+
