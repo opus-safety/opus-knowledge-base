@@ -31,7 +31,7 @@ This page highlights the main user-facing improvements, additions and feature re
 ---
 ### November 2026
 
-??? improvement "Improvement: Incident report customisation<span class="meta">12th November 2026</span>"
+??? improvement "Improvement: More incident report customisation<span class="meta">12th November 2026</span>"
 
     <span data-uuid="5c58b6ee-cf5d-424e-93d7-392cefbf1f14" style="display:none"></span>
     You can now apply additional filters to the incident report, including labels, locations and custom date ranges, using the new filtering option at the top of the page.
