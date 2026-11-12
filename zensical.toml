@@ -124,7 +124,8 @@ draft_nav = [
     {"Getting started" = [
       {"Guidebooks" = [
         {"Feature Overviews" = "drafts/feature-overviews.md"}
-      ]}
+      ]},
+      {"Overview" = "drafts/overview.md"}
     ]},
     {"My account" = [
       {"Subscriptions" = "drafts/subscriptions.md"}
