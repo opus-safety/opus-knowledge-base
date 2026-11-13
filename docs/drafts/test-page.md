@@ -19,6 +19,3 @@ So we have this <span class="mb-label mb-label-green">Green</span>
 | :--- | :--- |
 | data table | table |
 | table | table |
-
-<span data-uuid="f9ad9c67-6c47-4c48-8f2d-be3ea6edeafa" style="display:none"></span>
-![](../assets/media/other/screenshots/APaQ0SQ4hwJlRv6vstTL2BRly1eB-4vkGv7QQ0xX_3a3e4d83.png){ style="height: 50px" loading=lazy }
