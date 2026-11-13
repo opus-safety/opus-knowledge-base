@@ -19,3 +19,6 @@ So we have this <span class="mb-label mb-label-green">Green</span>
 | :--- | :--- |
 | data table | table |
 | table | table |
+
+<span data-uuid="1d12d1bb-d8c4-434c-93f8-e7fee66f1704" style="display:none"></span>
+test
