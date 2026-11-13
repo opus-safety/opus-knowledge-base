@@ -17,3 +17,10 @@ search:
     <span data-uuid="6597124b-6f2f-4df7-bd60-deaa5ed8206f" style="display:none"></span>
     <video src="../assets/media/videos/system-updates/subscription-improvement.mp4" autoplay loop muted playsinline preload="none" style="border-radius: 8px"></video>
 
+??? improvement "Improvement: Training & Gaps<span class="meta">13th November 2026</span>"
+
+    <span data-uuid="135b7fbc-0c28-4049-9b53-d41d959ac470" style="display:none"></span>
+
+    <span data-uuid="21439bd3-0f7e-46dc-bb3b-6ae0650a987e" style="display:none"></span>
+    The following improvements have been released on the Training & Gaps report.
+    -
