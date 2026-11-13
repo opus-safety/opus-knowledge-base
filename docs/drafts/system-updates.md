@@ -19,6 +19,10 @@ search:
         <span data-uuid="1d4afb79-b618-4e35-a4a3-3f9bb5ae0470" style="display:none"></span>
         Quick links at the top of the page make it easier to jump straight to the sections of the report you're looking for.
 
+        <span data-uuid="b447f65f-f581-400f-af4f-38d452345e73" style="display:none"></span>
+        ![](../assets/media/system-update-captures/jump-to-training-622bd67f-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+        ![](../assets/media/system-update-captures/jump-to-training-622bd67f-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
+
     !!! outline "<span class="mb-label mb-label-slate">Overdue & missing distinction</span>"
 
         <span data-uuid="e9e9a243-7549-4238-87b8-439532be254e" style="display:none"></span>
@@ -29,3 +33,11 @@ search:
         - **Overdue:** The training/e-learning has previously been completed but is now overdue or out of compliance.
         - **Missing:** The training/e-learning has never been completed.
         This distinction makes it easier to filter the report and include or exclude statistics relating to new starters.
+
+        <span data-uuid="4f31160c-6486-4187-9f52-0e834dc34361" style="display:none"></span>
+        ![](../assets/media/system-update-captures/demo-company-training-and-gaps-a-split-overdue-and-missing-rates-71c54282-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/system-update-captures/demo-company-training-and-gaps-a-split-overdue-and-missing-rates-71c54282-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
+        <span data-uuid="2137fcba-b348-40cf-8e80-b55c5df5fcbc" style="display:none"></span>
+        ![](../assets/media/system-update-captures/overdue-role-required-e-learning-1f3bc1d1-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/system-update-captures/overdue-role-required-e-learning-1f3bc1d1-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
