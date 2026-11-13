@@ -23,4 +23,5 @@ search:
 
     <span data-uuid="21439bd3-0f7e-46dc-bb3b-6ae0650a987e" style="display:none"></span>
     The following improvements have been released on the Training & Gaps report.
+
     -
