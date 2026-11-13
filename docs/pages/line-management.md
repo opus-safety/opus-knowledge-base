@@ -7,6 +7,7 @@ tags:
 # Line management
 <span data-uuid="c9f207fa-5216-429a-b0c0-d393fd7e788a" style="display:none"></span>
 
+<span data-uuid="e345fb1d-f655-49c3-870d-d9f5b21d8b2b" style="display:none"></span>
 Line management allows you to give an employee direct access to manage specific staff members within your organisation.
 
 **Follow the steps below to set this up for an employee.**
@@ -14,11 +15,11 @@ Line management allows you to give an employee direct access to manage specific 
 ## Finding the employee
 <span data-uuid="d4f6a607-b120-4dad-a0e5-a9930e88859d" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="a81bd5d4-dbd0-4e4e-96de-66ea7ca8a618" style="display:none"></span>
 
+    <span data-uuid="c2b88ba7-e940-45a5-8c7c-b2a33784eca1" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
 
     <span data-uuid="0badb0cf-c2a4-4fbd-9cec-afdb84025ba4" style="display:none"></span>
@@ -29,6 +30,7 @@ Line management allows you to give an employee direct access to manage specific 
 
     <span data-uuid="15f216f2-fbb6-4bad-a3af-3948efa121f6" style="display:none"></span>
 
+    <span data-uuid="cf1af0f7-8588-4520-8169-afb40bfb6a63" style="display:none"></span>
     From the site inbox page, click the **Switch to Manage Mode** button.
 
     <span data-uuid="d2d6f452-a2ef-4485-b830-d3b7c26d3c55" style="display:none"></span>
@@ -39,6 +41,7 @@ Line management allows you to give an employee direct access to manage specific 
 
     <span data-uuid="021612e0-3345-407a-b1b4-3ebaf7890d74" style="display:none"></span>
 
+    <span data-uuid="c5068038-53ff-44a0-8279-93355480b7ad" style="display:none"></span>
     Click **Employee records** on the manage sidebar.
 
     <span data-uuid="6f63c4be-8305-4fba-b98d-d46ce5f8b127" style="display:none"></span>
@@ -49,6 +52,7 @@ Line management allows you to give an employee direct access to manage specific 
 
     <span data-uuid="1c7e4896-221e-44f4-8fa9-b693ea4b9e63" style="display:none"></span>
 
+    <span data-uuid="a2a8c87a-9313-4730-843f-816ef584ce24" style="display:none"></span>
     Find the employee from the list and click on their name
 
     <span data-uuid="c2482572-8d60-445d-b215-5d4c07d3f813" style="display:none"></span>
@@ -58,11 +62,11 @@ Line management allows you to give an employee direct access to manage specific 
 ## Configuring line management access
 <span data-uuid="12d5e853-9313-4fca-a253-0230fd7c66d3" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="7509808d-7b68-4b3c-9f7d-5fb0c23c6fa2" style="display:none"></span>
 
+    <span data-uuid="c8e05920-f82f-44bd-831d-8f00a3d2729d" style="display:none"></span>
     On the employee's record, select **Change access**
 
     <span data-uuid="9ac64aff-3661-4ee4-b878-3449dc255595" style="display:none"></span>
@@ -72,6 +76,8 @@ Line management allows you to give an employee direct access to manage specific 
 !!! step
 
     <span data-uuid="14c61e78-c24f-440c-8ac1-57798c6a1dc8" style="display:none"></span>
+
+    <span data-uuid="ce6701a1-9ef4-4f48-8386-f6e82315b801" style="display:none"></span>
     Under the **Site access** section, drill down into the employees at a site and configure who this employee can manage.
 
     *:lucide-info: To remove access to an employee, select the <span class="mb-label mb-label-slate">-</span> option from the dropdown menu.*
@@ -82,6 +88,8 @@ Line management allows you to give an employee direct access to manage specific 
     ??? info "Multi-sited?"
 
         <span data-uuid="924aca93-2d72-4b38-8db7-ac0d1385b2e4" style="display:none"></span>
+
+        <span data-uuid="1db3e594-8b74-43d6-8258-f1e0c49f67a2" style="display:none"></span>
         You can navigate up and down your site hierarchy using the <span class="mb-label mb-label-slate">:lucide-chevron-up-square: Up</span> and <span class="mb-label mb-label-slate">:lucide-chevron-down-square: Down</span> arrow buttons next to a site to navigate to other sites/regions, or your entire organisation.
 
         <span data-uuid="7325c727-b8e9-45dc-93f2-7e7a59397e49" style="display:none"></span>
@@ -91,6 +99,7 @@ Line management allows you to give an employee direct access to manage specific 
 
     <span data-uuid="8f3217cd-dc31-4d55-99ec-14acee6b346b" style="display:none"></span>
 
+    <span data-uuid="0056de1c-16e6-4326-8d9c-da121b2c0728" style="display:none"></span>
     Once you have made the changes, click **Apply changes**.
 
     <span data-uuid="2793eec6-19e2-4d3c-9110-e84a9a461d0c" style="display:none"></span>
@@ -100,10 +109,11 @@ Line management allows you to give an employee direct access to manage specific 
 ## How to access the employees you manage
 <span data-uuid="9681d9b9-692d-4d4d-8b81-e015f4c370c8" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="4359fe26-2e8f-4e0a-bac8-844f44058f56" style="display:none"></span>
+
+    <span data-uuid="6b580fdc-9b68-4863-834e-0836937ecf89" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Line management**
 
     <span data-uuid="b9440a60-eaff-4074-9738-66467fd0688d" style="display:none"></span>
@@ -113,6 +123,8 @@ Line management allows you to give an employee direct access to manage specific 
 !!! step
 
     <span data-uuid="cfab4499-1fed-4b15-b7e2-2b72c9056383" style="display:none"></span>
+
+    <span data-uuid="8e2cd5de-cd1f-4381-87ad-6cb4b49e7aeb" style="display:none"></span>
     The employees you manage will be listed on the page and can be found using the search bar.
 
     Select **Manage** on an employee to manage their record.

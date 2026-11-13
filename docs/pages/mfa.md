@@ -7,16 +7,20 @@ tags:
 # MFA
 <span data-uuid="7816cd3b-a1ec-415c-8c8f-4660c84e22dd" style="display:none"></span>
 
+<span data-uuid="c9972b92-d987-44c4-8771-9c1787614341" style="display:none"></span>
 Multi-factor authentication (MFA) adds an extra verification step when you sign in. It may be mandated by your organisation, or something you can enable yourself on your account.
 
 ## Setting up MFA/2FA
 <span data-uuid="532fcfde-8242-4d7f-a072-3126a1f45849" style="display:none"></span>
 
+<span data-uuid="22e6dce4-bec6-47a3-8103-16d78d238d90" style="display:none"></span>
 If mandated by your organisation, skip to step 4.
 
 !!! step
 
     <span data-uuid="d871b503-7e57-405f-810a-7e7fd845ea66" style="display:none"></span>
+
+    <span data-uuid="2fcf15c3-6027-464f-8f54-03ecf0bce060" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), select your profile icon in the top right and select **Profile & settings**.
 
     <span data-uuid="5b459b7c-7f14-42fb-af9e-352661cf399f" style="display:none"></span>
@@ -26,6 +30,8 @@ If mandated by your organisation, skip to step 4.
 !!! step
 
     <span data-uuid="96658df3-ba4c-4d05-912d-7b9f0a14931b" style="display:none"></span>
+
+    <span data-uuid="16c01806-600f-49ef-84a7-c957726868be" style="display:none"></span>
     Select the **Security** tab at the top.
 
     <span data-uuid="6514de1e-6363-485c-8f3e-cec8a6941b4c" style="display:none"></span>
@@ -35,6 +41,8 @@ If mandated by your organisation, skip to step 4.
 !!! step
 
     <span data-uuid="c7fc0cfa-0c09-4c8a-9997-c60a11ab98c6" style="display:none"></span>
+
+    <span data-uuid="f2c228d5-08b8-48b9-8aac-f6c060d646ac" style="display:none"></span>
     In the **Require MFA** section, select **Turn on (always required)** and then **Save changes**.
 
     <span data-uuid="3f917070-c5a4-4a66-818e-ae7051488ade" style="display:none"></span>
@@ -44,6 +52,8 @@ If mandated by your organisation, skip to step 4.
 !!! step
 
     <span data-uuid="68c54328-4b60-4c9a-b662-fb62e9f9169b" style="display:none"></span>
+
+    <span data-uuid="59285f63-b653-44f7-8434-a3896b4fb81d" style="display:none"></span>
     Navigating back to [My Dashboard](https://cloud.opus-safety.co.uk/dashboard) will prompt you to setup 2FA/MFA.
 
     Make sure your mobile device has an authentication app installed. ***Your organisation may require you to only use certain authentication apps***.
@@ -55,6 +65,8 @@ If mandated by your organisation, skip to step 4.
 !!! step
 
     <span data-uuid="6f743fed-c494-4ccb-8a63-4e1e49211da6" style="display:none"></span>
+
+    <span data-uuid="0372bd56-5022-4bf3-8b8e-882188de6e84" style="display:none"></span>
     Click **Set up**.
 
     <span data-uuid="a088c500-fe35-4470-ace2-6d9089907ae6" style="display:none"></span>
@@ -64,6 +76,8 @@ If mandated by your organisation, skip to step 4.
 !!! step
 
     <span data-uuid="fdf3f45c-4cc8-4d10-8d2d-befd721afda2" style="display:none"></span>
+
+    <span data-uuid="6693308b-3625-4735-843e-97e25488105c" style="display:none"></span>
     Scan the QR code that appears using your mobile device, or select **Configure on this device** if you're setting up MFA on the device you're currently using.
 
     <span data-uuid="18bfe66f-3e12-45ad-9e37-6644c2af94d0" style="display:none"></span>
@@ -73,6 +87,8 @@ If mandated by your organisation, skip to step 4.
 !!! step
 
     <span data-uuid="6f335cf8-9e13-4e8f-bde6-ed0f73b8f9e8" style="display:none"></span>
+
+    <span data-uuid="a8152058-b922-4c63-82e6-03af83d13f94" style="display:none"></span>
     Enter the code shown in your authenticator app and select **Confirm**.
 
     <span data-uuid="ed9c2791-ab6f-4078-b959-c816edb4d370" style="display:none"></span>
@@ -82,6 +98,8 @@ If mandated by your organisation, skip to step 4.
 !!! step
 
     <span data-uuid="9563c83a-3f94-452c-850e-254747e2bf6a" style="display:none"></span>
+
+    <span data-uuid="00653be0-cb0a-4aad-8ef1-45bee59e84f3" style="display:none"></span>
     A series of backup codes will be displayed. **Please store these somewhere safe**.
 
     *:lucide-info: Each backup code can only be used once to authenticate. These can be used to regain access to your Opus account if you lose/reset your authentication device.*
@@ -95,4 +113,6 @@ If mandated by your organisation, skip to step 4.
 !!! success "Complete!"
 
     <span data-uuid="8c225242-896d-49f8-82f0-1ff638cbc9e4" style="display:none"></span>
+
+    <span data-uuid="d7515182-ef88-459a-8211-b7d4bac893cc" style="display:none"></span>
     You've now setup MFA/2FA on your Opus account.

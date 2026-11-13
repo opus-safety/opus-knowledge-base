@@ -7,11 +7,13 @@ tags:
 # Access & Authorisations
 <span data-uuid="3606b572-c16f-440b-88ae-08f893b52339" style="display:none"></span>
 
+<span data-uuid="bc31b4c4-7b7f-4a27-8a98-10ffcdd63e1c" style="display:none"></span>
 Employees can be assigned specific levels of access to sites, as well as authorisation to access particular content. This guide explains the different access levels and types of authorisation that can be assigned to employees.
 
 ## Access levels
 <span data-uuid="2aebb6f5-f7dd-42b3-b45f-3ffb7febba22" style="display:none"></span>
 
+<span data-uuid="b77a04fe-2ba0-4f3e-8f34-8f8903eea449" style="display:none"></span>
 Employees can have their access defined on their employee record. Depending on their responsibilities within your organisation, an employee may have access to a single site or multiple sites.
 
 There are three levels of access available, allowing you to assign the appropriate level of access to each employee.
@@ -48,11 +50,14 @@ There are three levels of access available, allowing you to assign the appropria
 !!! info
 
     <span data-uuid="e3858757-a181-4425-9d3f-63f7c522f04f" style="display:none"></span>
+
+    <span data-uuid="24c629fd-b364-41aa-89bd-789f5e1fc0c8" style="display:none"></span>
     <span class="mb-label mb-label-pink">:lucide-user-cog: Administrator</span> access is a relatively new permission level, introduced to provide a clear distinction between site managers and administrators with regional or organisation-wide responsibilities.
 
 ## Authorisations
 <span data-uuid="8d5dfa78-d3ba-4e20-8094-29c7da26e264" style="display:none"></span>
 
+<span data-uuid="6e829267-0ffb-4e4a-88f2-b5c4f98bb9e9" style="display:none"></span>
 Authorisations are separate permissions that can be assigned to employees. Employees with an authorisation can access specific types of sensitive data.
 
 Currently, the system supports a <span class="mb-label mb-label-teal">Sensitive Health</span> authorisation out of the box. This can be assigned to managers who need to view, export, and interact with tasks containing employee sensitive health data, such as corrective actions arising from Health Surveillance.

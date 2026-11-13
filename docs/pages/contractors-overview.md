@@ -17,11 +17,14 @@ hide:
 <style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
 
 <span data-uuid="5c501de1-690a-4aae-b588-6352e7091072" style="display:none"></span>
+
 <div class="grid" markdown>
 
 <div style="align-self: center" markdown>
 
 <span data-uuid="5a79bfb0-aaf2-4811-a436-0b7af6c4f5ec" style="display:none"></span>
+
+<span data-uuid="d2393d24-2e4b-4d35-89a6-e34ed5d4b35f" style="display:none"></span>
 <span class="mb-label mb-label-slate">Smarter management, built for compliance</span>
 
 # Opus Contractor Management
@@ -52,21 +55,24 @@ Stay on top of contractor management with Opus Contractor Management. Gain in-de
 
 <style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
 
+<span data-uuid="af2e0288-023d-43d2-819d-a456ac8e050c" style="display:none"></span>
+
 ---
 
 ## What is Opus Contractor Management?
 <span data-uuid="f54fcb7c-1bdd-437c-b079-81f11cd70208" style="display:none"></span>
 
+<span data-uuid="16dc7fff-238f-45a9-8ea5-f5162bf63f40" style="display:none"></span>
 Opus Contractor Management is a powerful new add-on that enables you to manage contractors directly through Opus Compliance Cloud. The feature allows you to add contractors to the system, oversee their details, and manage the projects they work on.
 
 ## Who is it for?
 <span data-uuid="2defab44-c268-45a0-85fd-5f273498312c" style="display:none"></span>
 
+<span data-uuid="ed42cf67-c6ff-42d9-87dc-08b56c61050b" style="display:none"></span>
 Opus Contractor Management is designed for businesses that regularly engage contractors and need to manage the compliance requirements, documentation, and projects associated with contractors working on their site(s).
 
 ## Features & Abilities
 <span data-uuid="50678988-6cc4-430b-9ed1-7a592128294c" style="display:none"></span>
-
 
 <span data-uuid="78c9aa24-9756-423e-9850-b59bbeaf9489" style="display:none"></span>
 
@@ -75,6 +81,8 @@ Opus Contractor Management is designed for businesses that regularly engage cont
 <div class="card" style="align-self: start" markdown>
 
 <span data-uuid="83dcee82-9bbd-45ec-b0f0-a9f56f3d778a" style="display:none"></span>
+
+<span data-uuid="ebc0e7f7-94f8-45b4-8b40-78520478ba11" style="display:none"></span>
 <span class="mb-label mb-label-slate">Creating your contractors</span>
 
 ---
@@ -90,6 +98,8 @@ Easily add your contractors, their assigned type(s) and their contact informatio
 <div class="card" style="align-self: start" markdown>
 
 <span data-uuid="7b5da763-207c-4804-b5cc-a423ba8b27af" style="display:none"></span>
+
+<span data-uuid="7def9d03-0d09-49e1-84ed-b630e40b22d2" style="display:none"></span>
 <span class="mb-label mb-label-slate">Manage your Contractors and their status</span>
 
 ---
@@ -106,6 +116,8 @@ Manage your contractors using our colour-coded status indicators, which update b
 <div class="card" markdown>
 
 <span data-uuid="1919e76e-3758-430e-9bc2-aeada4d370bb" style="display:none"></span>
+
+<span data-uuid="4a4f5db5-4e2a-4a60-86dc-b51342b912c6" style="display:none"></span>
 <span class="mb-label mb-label-slate">Manage your Projects and their status</span>
 
 ---
@@ -122,6 +134,8 @@ Just like with your contractors, projects have statuses too! Easily see the stat
 <div class="card" markdown>
 
 <span data-uuid="be33acc7-9ff4-4117-ab10-e05d23897bf5" style="display:none"></span>
+
+<span data-uuid="fb3b4044-08a0-45c6-861f-567aa58403f8" style="display:none"></span>
 <span class="mb-label mb-label-slate">Recording Permits to Work</span>
 
 ---
@@ -140,8 +154,8 @@ In-system Permits to Work can be created against a project, replacing any paper-
 ## Learn more
 <span data-uuid="10b67109-1d1e-4a73-a8ad-343f05f94e49" style="display:none"></span>
 
-
 <span data-uuid="a25f7901-ed60-4cfe-be87-71ef3c02a0b1" style="display:none"></span>
+
 <div class="grid" markdown>
 
 <div markdown>

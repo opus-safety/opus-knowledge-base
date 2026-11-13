@@ -7,6 +7,7 @@ tags:
 # Archiving an employee
 <span data-uuid="0b6f8b16-f92c-44f8-8136-71fa79eb42b5" style="display:none"></span>
 
+<span data-uuid="3120d3a8-3a98-4510-8254-4448c9ec22f0" style="display:none"></span>
 If someone's left your workplace, you'll need to **archive their employee record**.
 
 
@@ -15,12 +16,11 @@ Follow the guide below on how to do this.
 ## Steps
 <span data-uuid="eec2a23f-c738-49b8-ba5b-2f834a8fba80" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="f86a6323-3f0e-43e8-a0e8-d37fd3daba5a" style="display:none"></span>
 
-
+    <span data-uuid="1399a50e-e33d-4214-8507-504ee5a3c754" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
 
     <span data-uuid="0267c868-94db-4e1a-980b-09e19f91eaee" style="display:none"></span>
@@ -31,7 +31,7 @@ Follow the guide below on how to do this.
 
     <span data-uuid="95ccc80e-6807-425b-a521-745c69b29273" style="display:none"></span>
 
-
+    <span data-uuid="675fe86b-2429-4be7-808a-0bf5f3fcc879" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
     <span data-uuid="3deee725-33ca-49a7-9216-668546f7cb47" style="display:none"></span>
@@ -42,7 +42,7 @@ Follow the guide below on how to do this.
 
     <span data-uuid="60777f9f-8165-43a2-9e21-b216dabb1f8c" style="display:none"></span>
 
-
+    <span data-uuid="0d9ee717-f647-430f-851f-0a1caec62e04" style="display:none"></span>
     Click **Employee records** on the manage sidebar.
 
     <span data-uuid="4ec28fc4-d362-494b-96c8-38d42450f901" style="display:none"></span>
@@ -52,6 +52,8 @@ Follow the guide below on how to do this.
 !!! step
 
     <span data-uuid="543d3ad3-0862-464c-b724-6d4e3e8c3a4a" style="display:none"></span>
+
+    <span data-uuid="a1ab3a68-710b-4bd6-8389-c0a99329d117" style="display:none"></span>
     Find the employee from the list and click on their name
 
     <span data-uuid="6389ed6b-70ec-4059-8bfb-ac84ae15102f" style="display:none"></span>
@@ -61,6 +63,8 @@ Follow the guide below on how to do this.
     !!! tip "Shortcut!<span class="meta">(optional)</span>"
 
         <span data-uuid="8dd2b997-a364-4d19-a2bf-0da90c0f140f" style="display:none"></span>
+
+        <span data-uuid="5439d8ab-a08c-4812-884a-d895ecff082c" style="display:none"></span>
         If you see the red Remove button next to the employee’s name in the list, you can click this instead to schedule the employee to be archived at the end of the day. You can then skip the remaining steps.
 
         If you need to set a specific end date for the employee (for example, if their leaving date is in the future or was in the past), continue with the steps below.
@@ -68,6 +72,8 @@ Follow the guide below on how to do this.
 !!! step
 
     <span data-uuid="c9aa7863-e62d-4c2d-bc27-a64f4204b629" style="display:none"></span>
+
+    <span data-uuid="6254541e-4d45-4dde-8b24-51faa435383a" style="display:none"></span>
     Click **Edit employee** on the record
 
     <span data-uuid="5dee5733-d00b-4207-9f39-16ca71d7a700" style="display:none"></span>
@@ -77,6 +83,8 @@ Follow the guide below on how to do this.
 !!! step
 
     <span data-uuid="0bc4999c-feac-4c38-acc8-a0ec798918a0" style="display:none"></span>
+
+    <span data-uuid="e67fecf8-db07-45df-84ca-302249b24905" style="display:none"></span>
     Select/type employee's leaving date in the **End day** field.
 
     <span data-uuid="6c330984-b5b5-467c-8143-0debf539394e" style="display:none"></span>
@@ -86,6 +94,8 @@ Follow the guide below on how to do this.
     !!! info
 
         <span data-uuid="efcd1812-0512-4045-a82b-f620a4e01068" style="display:none"></span>
+
+        <span data-uuid="52153433-c380-4196-863a-626d97af07c8" style="display:none"></span>
         The end day is the last day of working - the system will consider them as current up to midnight (UTC).
 
         If you want an employee to be archived and their reminder tasks resolved immediately, set their End Day to yesterday or before.
@@ -95,6 +105,8 @@ Follow the guide below on how to do this.
 !!! step
 
     <span data-uuid="9cedbeba-b917-4bb0-8cf6-446fcce4f161" style="display:none"></span>
+
+    <span data-uuid="b608ee76-3641-4273-8d29-8a050d608600" style="display:none"></span>
     Then click **Save employee** at the bottom of the page.
 
     <span data-uuid="960f18fb-7729-4e56-b6fe-18815332782d" style="display:none"></span>
@@ -104,6 +116,8 @@ Follow the guide below on how to do this.
 !!! info
 
     <span data-uuid="ea308055-a0d5-4980-b91b-5932bd11067e" style="display:none"></span>
+
+    <span data-uuid="dd11ff59-09aa-40de-8e76-66f2cacd0975" style="display:none"></span>
     You will be able to find archived employees in future by changing the filter on the your Employee list page to `Archived` or `All`.
 
     <span data-uuid="afb292ef-6406-497d-bb7d-b83613be1c9c" style="display:none"></span>
@@ -113,17 +127,21 @@ Follow the guide below on how to do this.
 ## Open tasks related to the employee
 <span data-uuid="3aaf3b7d-62ea-4d6f-8014-134382b5c8c8" style="display:none"></span>
 
+<span data-uuid="c0fe3b9b-f630-480d-8f59-45af8997e639" style="display:none"></span>
 After archiving an employee, you may still have open tasks linked to their record.
 
 !!! info "Reminder tasks"
 
     <span data-uuid="b968fd2a-6ee7-4d3c-bfa2-7612b2086d74" style="display:none"></span>
 
+    <span data-uuid="30b6f30f-bedd-4325-83d0-593e6dbb0914" style="display:none"></span>
     These will be handled automatically by the system and will resolve the day after the employee's end date.
 
 !!! warning "Raised actions"
 
     <span data-uuid="2ac3d969-b5ba-48d4-af73-cdc96fecd131" style="display:none"></span>
+
+    <span data-uuid="fa5bcef3-ddfa-4167-82f5-e227f5542db3" style="display:none"></span>
     Open employee corrective actions, such as those raised following Health Surveillance or DSE assessments, **will not automatically resolve** when an employee is archived. These actions will remain open and must be manually resolved for the following reasons:
 
     - **:lucide-search: Maintaining a clear evidence trail:** This ensures there is a complete record of any outstanding issues and follow-up actions should they need to be reviewed after the employee has left, which is particularly important in the case of contentious leavers.
@@ -133,6 +151,8 @@ After archiving an employee, you may still have open tasks linked to their recor
 !!! danger "Assigned tasks"
 
     <span data-uuid="7f6f6d8a-3ce6-4746-a1d2-0e2e793e2392" style="display:none"></span>
+
+    <span data-uuid="6de415a8-9b49-4661-8d7a-12b04bd79179" style="display:none"></span>
     If a departing employee has any assigned tasks, an on-screen alert will appear when you enter their end day, with a direct link to those tasks.
 
     To prevent these tasks from being 'dumped' back to the site inbox, they will remain assigned to the archived employee's record. This allows you to reassign and hand them over in a controlled manner. The notification will stay on the employee's profile until all tasks are reassigned.

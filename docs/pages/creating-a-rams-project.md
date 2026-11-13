@@ -8,17 +8,17 @@ tags:
 # Creating a RAMS project
 <span data-uuid="eebd6486-f131-4700-91c3-2838ec1b2f0c" style="display:none"></span>
 
+<span data-uuid="94b87575-c5e2-44f5-86a8-fd7db7f21cfd" style="display:none"></span>
 This guide details how to create a RAMS project in Opus Compliance Cloud.
 
 ## Navigating to the RAMS projects page
 <span data-uuid="39932418-398a-485d-a7af-e487d6566262" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="1dc5ed9e-4cbd-4129-abc2-cabe843eaf2a" style="display:none"></span>
 
-
+    <span data-uuid="d7f3c81e-0799-45e7-8062-4cc53008313c" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you want to create the RAMS project.
 
     <span data-uuid="41ebf503-6bb5-48f9-9ddb-55c9189f655e" style="display:none"></span>
@@ -29,7 +29,7 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
 
     <span data-uuid="bc094bf4-43ee-431e-bad3-20daa07a1b98" style="display:none"></span>
 
-
+    <span data-uuid="7e980065-143c-4035-88a3-e2ae720762fe" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
     <span data-uuid="6554fe61-6d5d-46cf-921d-b3819c7bf3cf" style="display:none"></span>
@@ -39,6 +39,8 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
 !!! step
 
     <span data-uuid="b2195ed9-b21d-4f77-b114-d3c2eee6b9ae" style="display:none"></span>
+
+    <span data-uuid="790a14ef-04d9-4fe8-8b3b-78f3b6e8c3f4" style="display:none"></span>
     Select **Manage RAMS**
 
     <span data-uuid="865c6d99-c919-476e-8c32-29c1e1bbcebd" style="display:none"></span>
@@ -48,10 +50,11 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
 ## Creating the RAMS project
 <span data-uuid="6865323a-a7e6-4fcd-9e47-b931dbd3d8b3" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="c8bf9c10-047e-473c-8448-9fb37016955e" style="display:none"></span>
+
+    <span data-uuid="bc52086e-3ed1-42de-88cc-577daa4f5dcd" style="display:none"></span>
     From the project page, click the <span class="mb-label mb-label-slate">+New</span> button
 
     <span data-uuid="59546696-c944-4298-ba7f-666677c86287" style="display:none"></span>
@@ -61,6 +64,8 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
 !!! step
 
     <span data-uuid="aab48177-a530-4711-9428-729858174267" style="display:none"></span>
+
+    <span data-uuid="9f228b12-c51d-4268-81bd-ff442b82463e" style="display:none"></span>
     Fill in the project's initial details
 
     <span data-uuid="d294e90f-02b2-4d3d-a9a9-3e4c9fcae12d" style="display:none"></span>
@@ -70,6 +75,8 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="6fb62abc-4f72-4691-a888-a3a65cbd84bb" style="display:none"></span>
+
+    <span data-uuid="7d109284-87ff-4632-8452-17406ebde3f6" style="display:none"></span>
     Use the <span class="mb-label mb-label-slate">Additional information</span> section to add custom fields, e.g. "Assistant Supervisor".
 
     <span data-uuid="520f7ddf-8a7a-456c-a40d-d7592b790975" style="display:none"></span>
@@ -79,6 +86,8 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
 !!! step
 
     <span data-uuid="1bafd3df-b2e7-4dec-9273-8a560d53e842" style="display:none"></span>
+
+    <span data-uuid="8c72d5a6-7d54-49ef-8728-301d960e8c54" style="display:none"></span>
     Upload your insurance certificate
 
     <span data-uuid="07bea0dd-f1e5-4557-a698-3e5cac8f89e8" style="display:none"></span>
@@ -88,6 +97,8 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
 !!! step
 
     <span data-uuid="b6accb3e-709e-4c69-a5b8-7514c1d3cce1" style="display:none"></span>
+
+    <span data-uuid="c1e1c1ee-0087-480e-8f1b-c1936e7df873" style="display:none"></span>
     Add plant & equipment certificates directly via your existing assets on Opus Compliance Cloud. Firstly, add the asset, and then select which documents are relevant for the project.
 
     <span data-uuid="c637cb7f-8864-495a-8eb4-d11afb63fce0" style="display:none"></span>
@@ -101,11 +112,15 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
     !!! note
 
         <span data-uuid="175a5aa8-66ea-4772-89bf-9b4563f26290" style="display:none"></span>
+
+        <span data-uuid="93acc59a-ef25-45b3-8084-829b1c0d52b2" style="display:none"></span>
         The export always uses the latest version of the certificate, so if the document is updated later, the updated version will be used.
 
 !!! step
 
     <span data-uuid="fbe07335-b9f4-4223-8a57-5470dd4ca0a5" style="display:none"></span>
+
+    <span data-uuid="14610590-f8e9-4b4f-8f07-4177d38fcfa8" style="display:none"></span>
     Similarly to Plant & equipment, Add employee training/e-learning certificates directly via your existing employees on Opus Compliance Cloud.
 
     Firstly, add the employee, and then select which certificates are relevant for the project.
@@ -121,6 +136,8 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
 !!! step
 
     <span data-uuid="018804f6-d4c8-4d1b-8493-e0fbf56df13a" style="display:none"></span>
+
+    <span data-uuid="74430ff3-32cc-44ab-8b2e-c3c5eda1c89d" style="display:none"></span>
     On the remainder of the page, you will need to review and confirm the content of the following sections. If any of these sections are not required for your export, you can simply skip them:
 
     - Emergency procedures ***(shown below)***
@@ -138,4 +155,6 @@ This guide details how to create a RAMS project in Opus Compliance Cloud.
     !!! tip
 
         <span data-uuid="c40475ce-8118-410f-9944-00c872ece77d" style="display:none"></span>
+
+        <span data-uuid="44d4e2a6-c417-4ffb-846e-553bc4ad8866" style="display:none"></span>
         To avoid having to re-edit these sections for every project, we recommend creating a template project that you can copy and reuse. You may find it useful to create several templates to cover the different types of projects you typically undertake.

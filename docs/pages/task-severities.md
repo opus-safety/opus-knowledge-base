@@ -7,6 +7,7 @@ tags:
 # Task severities
 <span data-uuid="081e8d68-163a-48c9-bcf9-3723bae200e8" style="display:none"></span>
 
+<span data-uuid="3b531eba-6a21-4c2d-87c7-33e386b58174" style="display:none"></span>
 Tasks are assigned a severity level to help you prioritise them in the task inbox. The most severe tasks appear at the top of the inbox. Some severity levels are assigned by the system, while others can be configured.
 
 The table below lists all task severity levels used in Opus Compliance Cloud, ordered from highest to lowest severity.

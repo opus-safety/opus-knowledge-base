@@ -7,6 +7,7 @@ tags:
 # Intervals & Lead Times
 <span data-uuid="6a8709f3-2f71-41a8-8e33-b252e23b9f4e" style="display:none"></span>
 
+<span data-uuid="5c670782-67e4-4c4d-826a-198769e98248" style="display:none"></span>
 **Submit Intervals** and **Lead Times** can be configured for requirements such as documents, e-learning, and checklists. This guide explains how these concepts work, along with how they define due and overdue states.
 
 <span data-uuid="396762ae-7d65-451d-847a-89924b6b7225" style="display:none"></span>

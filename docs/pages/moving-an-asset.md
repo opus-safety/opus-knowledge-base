@@ -7,6 +7,7 @@ tags:
 # Moving an asset
 <span data-uuid="1e90248f-18da-46a1-a28a-d342c1b46c12" style="display:none"></span>
 
+<span data-uuid="753d88ec-f77f-4674-87bd-0650b5ff28c8" style="display:none"></span>
 If an asset has moved to another site, you can easily update it in the system - as long as you have access to both the current site and the new one. If you don't, reach out to someone in your organisation who does, or <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">access support here</a>.
 
 ## Navigating to the asset
@@ -15,6 +16,8 @@ If an asset has moved to another site, you can easily update it in the system - 
 !!! step
 
     <span data-uuid="2912d648-eb23-498b-9e9c-67a96e41788f" style="display:none"></span>
+
+    <span data-uuid="75a76c58-c9e0-49af-8f28-dd83136f2874" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the asset is located.
 
     <span data-uuid="eee7ebd1-e4c6-4e11-91a6-b6fb5234abdc" style="display:none"></span>
@@ -24,6 +27,8 @@ If an asset has moved to another site, you can easily update it in the system - 
 !!! step
 
     <span data-uuid="9ac21f5d-7ae8-4173-9f77-033c54d2bb46" style="display:none"></span>
+
+    <span data-uuid="a5bc5b9f-4a94-4bf8-8230-48fc7d18389b" style="display:none"></span>
     From the site inbox page, click the **Switch to Manage Mode** button.
 
     <span data-uuid="8f7868b5-c9a5-49f4-b60f-cb018f61731a" style="display:none"></span>
@@ -33,6 +38,8 @@ If an asset has moved to another site, you can easily update it in the system - 
 !!! step
 
     <span data-uuid="8b6f5aba-afcf-44cf-97ad-3f6e5503ac95" style="display:none"></span>
+
+    <span data-uuid="c97c72ad-64f6-455e-8ced-d02ce16757df" style="display:none"></span>
     Click **Assets** on the manage sidebar.
 
     <span data-uuid="e02b19e7-8715-42b9-a01e-86290bf08409" style="display:none"></span>
@@ -42,6 +49,8 @@ If an asset has moved to another site, you can easily update it in the system - 
 !!! step
 
     <span data-uuid="a5521d40-d7f5-4884-b6d8-4c86ad92379e" style="display:none"></span>
+
+    <span data-uuid="69c52a1b-e345-49b5-8c7a-5e1826fa5db6" style="display:none"></span>
     Find and select the asset you wish to move from the list.
 
     <span data-uuid="25c3ce11-44ce-4130-ae08-ea2a8060eb98" style="display:none"></span>
@@ -51,10 +60,11 @@ If an asset has moved to another site, you can easily update it in the system - 
 ## Changing the asset's location
 <span data-uuid="60ec34c5-b583-4ba5-91a0-168577a33e66" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="81fea6ec-16e9-458f-a9e2-c51d050eb2b6" style="display:none"></span>
+
+    <span data-uuid="550c49e8-6d5a-451e-887d-fcbdc02b504b" style="display:none"></span>
     Click the **Change location** button.
 
     <span data-uuid="a04cb6b0-41db-4dc7-b563-72489b29eb75" style="display:none"></span>
@@ -64,6 +74,8 @@ If an asset has moved to another site, you can easily update it in the system - 
 !!! step
 
     <span data-uuid="643a70bb-2f1b-4fe0-ac89-56abb5e061b8" style="display:none"></span>
+
+    <span data-uuid="a0079aa2-ff83-4f5e-8c2c-23a1a3a8a65d" style="display:none"></span>
     In the site tree, select the site where the asset is moving to.
 
     :lucide-lightbulb: *Use the search bar, or select ****Show all options**** :lucide-arrow-left-right: to help find the site.*
@@ -75,11 +87,15 @@ If an asset has moved to another site, you can easily update it in the system - 
     !!! warning "Can't find the site?"
 
         <span data-uuid="f3f6aff1-2455-4318-b52b-d8c3a242e452" style="display:none"></span>
+
+        <span data-uuid="0302b922-a271-4154-8a79-7a395b0a024f" style="display:none"></span>
         You may not have access to the site the asset is moving to. If this is the case, you may need to contact a senior manager with access to your site and the destination site to complete the move.
 
 !!! step
 
     <span data-uuid="0cda8ccf-875e-4612-aee3-69772c74a29b" style="display:none"></span>
+
+    <span data-uuid="085292a8-5ed1-454c-87c4-b642c14701a6" style="display:none"></span>
     Finalise the move by clicking the green **Move asset** button.
 
     <span data-uuid="3e39efd2-4b42-432d-bfb8-eb0fcbbe3ba3" style="display:none"></span>

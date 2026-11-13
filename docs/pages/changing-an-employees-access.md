@@ -10,11 +10,11 @@ tags:
 ## Finding the employee
 <span data-uuid="6f049889-d171-43c7-be39-ae802b939063" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="badbf1fc-a44a-45cd-8ff8-d0b33a10d250" style="display:none"></span>
 
+    <span data-uuid="d5e25a7a-83d6-41f2-85e2-796193d6c2e9" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
 
     <span data-uuid="816cf8f2-7091-42e8-92da-696d0bb85575" style="display:none"></span>
@@ -25,6 +25,7 @@ tags:
 
     <span data-uuid="444e2d1f-bca3-446b-bdbd-d74210cf77c1" style="display:none"></span>
 
+    <span data-uuid="d5e153f5-07d7-461d-8bbe-31771988149f" style="display:none"></span>
     From the site inbox page, click the **Switch to Manage Mode** button.
 
     <span data-uuid="c4a9df37-6ede-4f8f-abf5-4c16ef270cc6" style="display:none"></span>
@@ -35,6 +36,7 @@ tags:
 
     <span data-uuid="a42e209f-407c-4c72-849c-6655772d46e8" style="display:none"></span>
 
+    <span data-uuid="2967b93e-703f-44c9-8d2f-62bdd477ff4a" style="display:none"></span>
     Click **Employee records** on the manage sidebar.
 
     <span data-uuid="f9d28be3-4cfb-4ec0-b231-f4b51e6b84b2" style="display:none"></span>
@@ -45,6 +47,7 @@ tags:
 
     <span data-uuid="6b8b00a0-fec4-4b3a-84a3-5f41b339fb95" style="display:none"></span>
 
+    <span data-uuid="ac7e74e9-f9a5-46d6-82da-994d17017b72" style="display:none"></span>
     Find the employee from the list and click on their name
 
     <span data-uuid="87b67220-0b9c-4fc1-96b7-92b3f756f8ed" style="display:none"></span>
@@ -54,10 +57,11 @@ tags:
 ## Changing the employee's access
 <span data-uuid="f6dd80e6-2c6e-49da-8bd2-c66b11ae392b" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="1d281c59-a65e-4592-a21f-8da85846e486" style="display:none"></span>
+
+    <span data-uuid="989a27d1-bb51-48cb-889e-1c572b55c34d" style="display:none"></span>
     On the employee's record, select **Change access**
 
     <span data-uuid="fc067b45-4675-4959-b093-18c24a965684" style="display:none"></span>
@@ -67,6 +71,8 @@ tags:
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="9efe8c39-c9e8-4f99-940b-543d3d1457fe" style="display:none"></span>
+
+    <span data-uuid="d57b4627-cdcb-44d6-8f14-2c3107a48ec0" style="display:none"></span>
     Under the **Authorisation & tags** section, modify the authorisations this employee holds *(you can only configure this if you possess the authorisation yourself)*.
 
     <span class="mb-label mb-label-mauve">authorised/health</span> — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
@@ -79,11 +85,14 @@ tags:
 
         <span data-uuid="8635e257-57b3-45ae-8cd9-f5f8725f4d0c" style="display:none"></span>
 
+        <span data-uuid="bb530241-a77a-402c-8a0d-586b36243a06" style="display:none"></span>
         By default, all sites will have the `authorised/health` tag available, but depending on your site configuration you may have more.
 
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="5461081e-c0d3-479d-8b91-4144f851b59d" style="display:none"></span>
+
+    <span data-uuid="e3bac7b4-fa92-4917-8f8d-116bd6a52fc8" style="display:none"></span>
     Under the **Own employee record access** section, modify whether this employee can manage their own record.
 
     - <span class="mb-label mb-label-blue">:lucide-user: User</span> - Can fulfil employee-scoped tasks such as their own e-learning completion. Cannot open their own confidential tasks unless assigned.
@@ -97,6 +106,8 @@ tags:
 !!! step
 
     <span data-uuid="60c84834-ac94-447b-8b77-93283857557b" style="display:none"></span>
+
+    <span data-uuid="106513c2-527f-4222-823c-74565026c5b6" style="display:none"></span>
     Under the **Site access** section, modify the employee's access to your site(s).
 
     *:lucide-info: Select between **<span class="mb-label mb-label-blue">:lucide-user: User</span>**, **<span class="mb-label mb-label-purple">:lucide-user-shield: Manager</span>** and **<span class="mb-label mb-label-pink">:lucide-user-cog: Administrator</span>** access. To remove access to a site, select the <span class="mb-label mb-label-slate">-</span> option from the dropdown menu.*
@@ -107,6 +118,8 @@ tags:
     ??? info "Multi-sited?"
 
         <span data-uuid="8206d323-98ef-43cc-ae38-2be4789ca951" style="display:none"></span>
+
+        <span data-uuid="cac923bb-3e5e-43fb-8f30-457bbba7653b" style="display:none"></span>
         You can navigate up and down your site hierarchy using the <span class="mb-label mb-label-slate">:lucide-chevron-up-square: Up</span> and <span class="mb-label mb-label-slate">:lucide-chevron-down-square: Down</span> arrow buttons next to a site to navigate to other sites/regions, or your entire organisation.
 
         <span data-uuid="4866e87b-56da-4311-822e-cae574761764" style="display:none"></span>
@@ -116,12 +129,14 @@ tags:
 
             <span data-uuid="a553dd21-4047-400d-b96c-977573cca4bc" style="display:none"></span>
 
+            <span data-uuid="8a1ca984-4002-4a63-8ad5-adcf40cb5e28" style="display:none"></span>
             Access cascades down the site hierarchy. Granting access at a site automatically applies the same access to all of its sub-sites.
 
 !!! step
 
     <span data-uuid="a43e0eac-8187-44c2-a199-10316ff33860" style="display:none"></span>
 
+    <span data-uuid="b0c146a5-0f7a-440f-8cb9-32c50302106f" style="display:none"></span>
     Once you have made the changes, click **Apply changes**.
 
     <span data-uuid="59fe8787-580a-49d7-952a-815c21b0ee7d" style="display:none"></span>

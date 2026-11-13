@@ -10,6 +10,7 @@ tags:
 ## Introduction
 <span data-uuid="7043ce76-0915-4745-af2d-b93fbc98392e" style="display:none"></span>
 
+<span data-uuid="83d93ff5-e59d-47db-8664-47943020cfba" style="display:none"></span>
 This guide describes the process for getting your organisation onboarded onto Opus Compliance Cloud (OCC).
 
 To keep the setup process from feeling overwhelming, we divide your OCC set up into four distinct phases:
@@ -24,6 +25,8 @@ Your dedicated onboarding lead together with your consultant will guide you thro
 !!! info "Timelines and Contact"
 
     <span data-uuid="902ce87e-b6e8-47b7-9e0a-78a558384e27" style="display:none"></span>
+
+    <span data-uuid="93f40e68-be46-434e-845e-5d6f79ecb049" style="display:none"></span>
     The setup will require a number of online meetings with your Consultant & Onboarding Lead. We typically aim to complete this entire process in around **four to six weeks**. To help us hit this target and avoid losing momentum, we rely on your prompt input and collaboration.
 
     Your Onboarding Lead will also aim to keep in contact with you at least once every 2 weeks until onboarding has completed.
@@ -31,6 +34,7 @@ Your dedicated onboarding lead together with your consultant will guide you thro
 ## Required Whitelisting
 <span data-uuid="c4c71c67-a5c8-4630-b861-594cef0fdabf" style="display:none"></span>
 
+<span data-uuid="69224f83-ceb6-4710-8e95-0e97b9015604" style="display:none"></span>
 Whitelisting involves configuring your organisation's security settings to allow specific web traffic and emails through filters that might otherwise block them due to strict security policies.
 
 To ensure full functionality of Opus Compliance Cloud, the following domains and email addresses should be whitelisted:
@@ -80,6 +84,7 @@ To ensure full functionality of Opus Compliance Cloud, the following domains and
 ## Phase 1
 <span data-uuid="57f9f193-6a66-485d-9acb-dcdd665c2b8a" style="display:none"></span>
 
+<span data-uuid="877c2842-5efb-4d4d-8d24-a44104a3214e" style="display:none"></span>
 <span class="mb-label mb-label-orange">Sites, Employees & Role Requirements</span>
 
 Your Health and Safety Consultant, together with an Onboarding Lead from the software team, will contact you to arrange an initial meeting to begin Phase 1.
@@ -89,11 +94,15 @@ During this meeting, you will be provided with a link to a series of spreadsheet
 ??? outline "<span class="mb-label mb-label-slate">Step 1: Site Setup</span>"
 
     <span data-uuid="aa311790-38e0-4cf0-86ee-caaa78a34b7c" style="display:none"></span>
+
+    <span data-uuid="d60c81c7-57a8-45eb-8905-d74af8a1c366" style="display:none"></span>
     We initially work with you to help define your site(s) on Opus Compliance Cloud. If your organisation operates across multiple locations, we will work with you to map out a clear system hierarchy (such as parent sites, sub-sites, and individual locations) to keep everything perfectly organised.
 
 ??? outline "<span class="mb-label mb-label-slate">Step 2: Defining Roles</span>"
 
     <span data-uuid="dc9fa424-6443-4e80-9b07-fa71be1df2b4" style="display:none"></span>
+
+    <span data-uuid="cd339f2d-1ed1-46e2-87fb-eb75f41982ba" style="display:none"></span>
     In the system, `Roles` are not exact job titles. Instead, they are broader categories that group employees together based on their common health and safety requirements. For example, anyone who works exclusively at a desk might simply have the role of `Office`.
 
     To keep things manageable, we recommend creating between 3 to 8 broad roles, unless you have highly complex requirements. 
@@ -103,11 +112,15 @@ During this meeting, you will be provided with a link to a series of spreadsheet
     !!! note
 
         <span data-uuid="04c1fb19-457e-42bb-912c-c3ad8c6d7039" style="display:none"></span>
+
+        <span data-uuid="190e05a2-fbf4-49c6-8e8f-bd38cc75015c" style="display:none"></span>
         If you are signed up to our HR offering, ensure you include a `Manager` role (or manager variants of your standard roles), as certain HR E-learning courses are designed specifically for managers.
 
 ??? outline "<span class="mb-label mb-label-slate">Step 3: Configuring Role Requirements</span>"
 
     <span data-uuid="ced12b37-5b0f-44b1-a344-dabf8e6a1745" style="display:none"></span>
+
+    <span data-uuid="1a53b988-1c01-4d76-81a3-9e2837f14ad6" style="display:none"></span>
     *Your consultant can support you with this stage of the process.*
 
     At this stage, you'll have the opportunity to choose which of our requirements - such as e-learning courses and employee checklists - you would like to assign to your defined roles. You can also discuss any custom requirements you would like us to create, such as additional training or document requirements specific to your organisation.
@@ -123,11 +136,15 @@ During this meeting, you will be provided with a link to a series of spreadsheet
     !!! tip "Don't worry!"
 
         <span data-uuid="8c16aadb-ba83-42ca-9b9f-c4b6e43e2a42" style="display:none"></span>
+
+        <span data-uuid="522567b5-de01-4831-8c4d-0fac30698028" style="display:none"></span>
         The decisions you make at this stage can be easily edited / amended within the system after your roles have been set up.
 
 ??? outline "<span class="mb-label mb-label-slate">Step 4: Uploading Staff</span>"
 
     <span data-uuid="773e83f5-40d4-482d-ae62-38b0c3d0a931" style="display:none"></span>
+
+    <span data-uuid="fa7e1ca3-0c50-4524-8220-1444340e6dc3" style="display:none"></span>
     To get your team onto the system, Opus can perform a bulk upload, or you can add employees manually. Moving forward, it will be your responsibility to keep this staff list up to date.
 
     To complete the initial bulk upload, your Onboarding Lead will provide a link to a spreadsheet for you to fill out with the following details for each employee:
@@ -144,11 +161,14 @@ During this meeting, you will be provided with a link to a series of spreadsheet
 ## Phase 2
 <span data-uuid="bca2d224-afbb-4ce2-a285-5119007da1a5" style="display:none"></span>
 
+<span data-uuid="64f6606b-779a-4996-89a9-571cdac50ee1" style="display:none"></span>
 <span class="mb-label mb-label-yellow">Site Configuration, Site Checklists, Documents & Report Types</span>
 
 ??? outline "<span class="mb-label mb-label-slate">Step 1: Adding Site Checklists</span>"
 
     <span data-uuid="e5041cf1-18df-4fbb-81a4-c71a55616499" style="display:none"></span>
+
+    <span data-uuid="6b4b74af-be9a-40b0-8fdf-b37d2a0e7762" style="display:none"></span>
     Site checklists cover regular physical inspections of your premises, such as a manager's monthly walk-around or fire safety checks.
 
     We can apply our standard, pre-built checks to your sites to save you time, or you can provide your own custom questions for us to upload.
@@ -156,6 +176,8 @@ During this meeting, you will be provided with a link to a series of spreadsheet
 ??? outline "<span class="mb-label mb-label-slate">Step 2: Uploading Site Documents</span>"
 
     <span data-uuid="69fec56f-fb81-4319-8c36-791253b6787e" style="display:none"></span>
+
+    <span data-uuid="4229e232-22db-428a-89be-e087094c403f" style="display:none"></span>
     This is where you can store important files that need to be accessible to employees at your specific sites.
 
     For our managed clients, this is also where Opus will safely store your risk assessments and other compliance documents.
@@ -163,11 +185,15 @@ During this meeting, you will be provided with a link to a series of spreadsheet
     !!! info
 
         <span data-uuid="424e922c-ba39-4748-8c6b-46acf8ff64fa" style="display:none"></span>
+
+        <span data-uuid="9af2f84b-d3c2-434b-8c6d-2cf9e55d37f9" style="display:none"></span>
         During this phase, your Onboarding Lead will create a `QR poster` for each of your sites and upload it to the Site Documents area. Once available, you can then download, print and display these posters, giving employees quick access to site documentation, incident reporting and other key features directly from their mobile devices.
 
 ??? outline "<span class="mb-label mb-label-slate">Step 3: Choosing Additional Report Types</span>"
 
     <span data-uuid="913d487c-5449-45ad-9ce5-e532fc38b74e" style="display:none"></span>
+
+    <span data-uuid="7bdbdb0f-288c-4e13-8918-bd1f1a4fe803" style="display:none"></span>
     We will configure your system with a standard set of default templates so your team can easily log events and observations. The default templates include:
 
     - Report an incident (accident / near-miss)
@@ -186,11 +212,14 @@ During this meeting, you will be provided with a link to a series of spreadsheet
 ## Phase 3
 <span data-uuid="250f3efe-e456-4d78-9a42-00e10037a13e" style="display:none"></span>
 
+<span data-uuid="8a5ee1f8-3d73-49f2-8e7f-40561952f85c" style="display:none"></span>
 <span class="mb-label mb-label-lime">Assets & Type Requirements</span>
 
 ??? outline "<span class="mb-label mb-label-slate">Step 1: Defining Asset Types</span>"
 
     <span data-uuid="0d6dd5c4-837f-407b-bb5b-0d65ce3d8bd4" style="display:none"></span>
+
+    <span data-uuid="7c929550-6aea-4b28-8cf3-56803a8bc8f8" style="display:none"></span>
     It can be helpful to think of asset types in the same way as employee roles. They provide a standardised way of managing the requirements that apply to different assets. We will suggest a number of common asset types that you may wish to use, including:
 
     - First Aid Kits
@@ -202,6 +231,8 @@ During this meeting, you will be provided with a link to a series of spreadsheet
 ??? outline "<span class="mb-label mb-label-slate">Step 2: Configuring Asset Type Requirements</span>"
 
     <span data-uuid="6ebc861a-5943-415c-8b2a-73f13205c9eb" style="display:none"></span>
+
+    <span data-uuid="3a22bf71-75a7-4441-827b-752f6dfeee1f" style="display:none"></span>
     Once you've defined your asset types, it's time to think about the requirements that should be applied to each one. Your onboarding lead may recommend the requirements that are commonly associated with the standard asset types introduced in the previous step. Your consultant can also work with you at this stage to identify the checks, inspections and documentation that need to be applied as requirements to your asset types to help you remain compliant.
 
     The kinds of requirements often discussed at this stage:
@@ -217,6 +248,8 @@ During this meeting, you will be provided with a link to a series of spreadsheet
 ??? outline "<span class="mb-label mb-label-slate">Step 3: Adding your Assets</span>"
 
     <span data-uuid="4e3aea26-2ec4-4352-8774-2b31a8c14876" style="display:none"></span>
+
+    <span data-uuid="e9a504cc-a23f-44b1-8161-4549bafb1534" style="display:none"></span>
     Once the asset types and requirements have been setup, you are now free to start creating your assets on the system. [See our guide here for adding assets](adding-an-asset.md).
 
     Moving forward, it will be your responsibility to keep your asset list up to date.
@@ -224,6 +257,7 @@ During this meeting, you will be provided with a link to a series of spreadsheet
 ## Phase 4
 <span data-uuid="63bad30b-133e-4a98-a2a6-3f35697d3816" style="display:none"></span>
 
+<span data-uuid="5a5b1eee-96c7-4d67-8cae-0c632032dfea" style="display:none"></span>
 <span class="mb-label mb-label-emerald">Post Setup Support</span>
 
 This phase is focused on helping you get the most from the work completed during onboarding. The aim is to ensure that:
@@ -236,11 +270,14 @@ This phase is focused on helping you get the most from the work completed during
 !!! note
 
     <span data-uuid="55280ccc-0286-42da-8746-d55127f2d0d4" style="display:none"></span>
+
+    <span data-uuid="c3e871db-3303-4a46-85d9-b130b5322aad" style="display:none"></span>
     We're committed to helping you get the most out of Opus Compliance Cloud. That's why we offer unlimited remote training sessions and ongoing support for you and your team, whenever you need it.
 
 ## Onboarding Complete
 <span data-uuid="6cba42a7-4935-45b2-b84b-6323bef9e2ec" style="display:none"></span>
 
+<span data-uuid="d985a039-8977-40dc-8964-c814c996e8f1" style="display:none"></span>
 After completing all 4 phases, your onboarding is now complete!
 
 However our help doesn't end here ... <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">support is always available</a> to assist you maintaining and improving your setup on Opus Compliance Cloud.

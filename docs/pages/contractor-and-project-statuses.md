@@ -11,7 +11,6 @@ tags:
 ## Contractor statuses
 <span data-uuid="4e3868db-0ff5-49ad-bd1e-f3e1c38b726f" style="display:none"></span>
 
-
 <span data-uuid="0542dc15-3f0f-4f39-83eb-3ea242e7dc43" style="display:none"></span>
 === "Table"
 
@@ -72,7 +71,6 @@ tags:
 
 ## Project statuses
 <span data-uuid="bf87a2fe-e52d-4127-9e60-1b6842a1ee1d" style="display:none"></span>
-
 
 <span data-uuid="e0a07895-401e-415b-b5ea-316d1b89de9e" style="display:none"></span>
 === "Table"

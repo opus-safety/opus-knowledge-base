@@ -5,20 +5,25 @@ icon: lucide/shield-check
 # Data security
 <span data-uuid="b092063c-bb44-4ce0-999c-06538701c028" style="display:none"></span>
 
+<span data-uuid="7a10ed99-4b4c-4d5a-81e1-32bcc0bdd27f" style="display:none"></span>
 At Opus Safety, we prioritise the security and integrity of your data. Here's how we ensure your information is protected:
 
 ## Server security
 <span data-uuid="abf0a13f-c882-4d49-9ff7-07d8705aec8d" style="display:none"></span>
 
+<span data-uuid="9e13b93a-5bd8-40d2-81f8-e8731433019b" style="display:none"></span>
 Our platform is hosted in the EU within a Tier 3 data centre, ensuring robust physical and digital protections.
 
 ## Data backup
 <span data-uuid="bae0c7af-dac4-4480-b670-d718c697b3fe" style="display:none"></span>
 
+<span data-uuid="a68e1564-0a57-41d4-8de8-3501713151b1" style="display:none"></span>
 Data is backed up bi-weekly to safeguard against data loss.
 
 ## System patching and DDoS protection
 <span data-uuid="553216a3-e495-4322-9c4c-2ee99766e4ea" style="display:none"></span>
+
+<span data-uuid="cb3881e1-df34-4255-8eee-3c0f9ae2afbb" style="display:none"></span>
 
 - OS patching is managed by Delft Solutions B.V.
 - DDoS prevention is provided by Worldstream, ensuring service continuity and protection against attacks.
@@ -26,10 +31,13 @@ Data is backed up bi-weekly to safeguard against data loss.
 ## Data transmission security
 <span data-uuid="563c70c7-2097-4485-a628-8315faca86e8" style="display:none"></span>
 
+<span data-uuid="d8e7755f-a5d9-42a8-8210-1177ef2e9680" style="display:none"></span>
 We use the industry-standard **Transport Layer Security (TLS)** 1.2 or later with 2,048-bit encryption keys to secure all data transmissions.
 
 ## User authentication and account security
 <span data-uuid="822dd7c9-dd30-4a0b-9e71-046ca6ee1908" style="display:none"></span>
+
+<span data-uuid="b2f4cd97-1fd1-4d42-8f71-f8a1b2549874" style="display:none"></span>
 
 - Email change notifications are sent to the original email address to prevent unauthorised changes.
 - Password change notifications are issued to alert users of any updates to their credentials.
@@ -50,11 +58,15 @@ We use the industry-standard **Transport Layer Security (TLS)** 1.2 or later wit
 
 </div>
 
+<span data-uuid="e373d9ed-ae4b-488b-817b-b09f5c4301f9" style="display:none"></span>
+
 - Account lockout after 8 failed login attempts, with a lockout period of 1 hour. Accounts can also be unlocked via an email link.
 - Reset password links are valid for 6 hours.
 
 ### Protection against timing attacks
 <span data-uuid="b3817070-1b0e-4928-9196-d5288ba2a493" style="display:none"></span>
+
+<span data-uuid="ab2896c6-5878-4eae-8b25-46fa7875fe92" style="display:none"></span>
 
 - Passwords are safeguarded from timing-based attacks.
 - Reset tokens are securely implemented, making it infeasible to guess tokens associated with specific users.
@@ -62,4 +74,5 @@ We use the industry-standard **Transport Layer Security (TLS)** 1.2 or later wit
 ## Compliance
 <span data-uuid="faa64743-3ace-4022-971d-dfb27ebd4488" style="display:none"></span>
 
+<span data-uuid="f0b6cf0a-9565-4b41-8c48-87cd999b9386" style="display:none"></span>
 These measures ensure that your data is kept secure while maintaining compliance with industry standards and best practices.

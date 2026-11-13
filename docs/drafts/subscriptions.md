@@ -9,11 +9,13 @@ tags:
 # Subscriptions
 <span data-uuid="ea89b15a-ec64-40ba-acc1-6849beb33c19" style="display:none"></span>
 
+<span data-uuid="76d2d1a4-4687-43a5-85df-51a6f58a83a7" style="display:none"></span>
 In Opus Compliance Cloud, you can configure your account to be notified when certain in-system events occur. We call these subscriptions.
 
 ## How do subscriptions work?
 <span data-uuid="d60b9714-c931-402b-8655-c2db053d693f" style="display:none"></span>
 
+<span data-uuid="8da1aa6c-d4cf-41bb-89fa-d83b109483ec" style="display:none"></span>
 When a task is generated, either automatically by the system or as a result of user reporting, such as an incident, you can choose to be notified of its occurrence via subscribing.
 
 ??? example "Example 1 - Incidents"

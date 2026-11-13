@@ -16,11 +16,14 @@ hide:
 <style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
 
 <span data-uuid="47383eb1-43cc-46e4-ad1a-8a66403c2834" style="display:none"></span>
+
 <div class="grid" markdown>
 
 <div style="align-self: center" markdown>
 
 <span data-uuid="96bf97d8-e672-45a4-9105-2ae9e09c2823" style="display:none"></span>
+
+<span data-uuid="642bf0b9-557a-4942-8d5b-ff1cbc0a46e7" style="display:none"></span>
 <span class="mb-label mb-label-olive">Compliance via collaboration</span>
 
 # Employees Overview
@@ -46,16 +49,20 @@ Employees in Opus Compliance Cloud enables you to add, track and manage your wor
 
 <style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
 
+<span data-uuid="56b01f01-7723-4040-8ec2-44aa1f51bbeb" style="display:none"></span>
+
 ---
 
 ## What are employees?
 <span data-uuid="d60b202c-8e26-4c1f-8053-ba9d66f2fc5b" style="display:none"></span>
 
+<span data-uuid="44180388-e689-490e-8014-837b928599fd" style="display:none"></span>
 Employees are records that you create within Opus Compliance Cloud to represent individuals in your organisation. These digital records help managers and administrators stay organised by being the place to store an employee's requirements such as e-learning, training, checklists, and more.
 
 ## What do employee records do?
 <span data-uuid="fbac45cf-8440-4ff0-802f-74bb2cb4525c" style="display:none"></span>
 
+<span data-uuid="604cc268-148d-4ac0-8e1d-15648adc6dcc" style="display:none"></span>
 Employee records are digital representations of employees that contain relevant information about the individual, such as:
 
 <span data-uuid="0f48743b-eb14-4b14-b8a3-b91217202308" style="display:none"></span>
@@ -76,7 +83,6 @@ Employee records are digital representations of employees that contain relevant 
 
 ## Learn more
 <span data-uuid="a028ea15-fb01-4f23-ac5d-d70c2f84a2cd" style="display:none"></span>
-
 
 <span data-uuid="762a9558-7fac-4ac3-9249-02a24e6faa3a" style="display:none"></span>
 

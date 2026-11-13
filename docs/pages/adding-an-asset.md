@@ -10,6 +10,8 @@ tags:
 !!! step
 
     <span data-uuid="87848588-7a48-4c43-a8d5-c1ac689a15e1" style="display:none"></span>
+
+    <span data-uuid="8866f9ab-b449-4c45-826b-24d84e440136" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you want to add the asset.
 
     <span data-uuid="2815a496-3043-4438-9882-816deebacb2c" style="display:none"></span>
@@ -19,6 +21,8 @@ tags:
 !!! step
 
     <span data-uuid="9f4fc54e-2957-4b5e-a776-b4ea18dc1fd0" style="display:none"></span>
+
+    <span data-uuid="b97a7f2e-2469-4b31-8541-57743852d36b" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
     <span data-uuid="947f2555-58ff-4a98-9be8-decff434d7b9" style="display:none"></span>
@@ -28,6 +32,8 @@ tags:
 !!! step
 
     <span data-uuid="685d5b95-3ba0-468d-839e-ebd3e9cc3392" style="display:none"></span>
+
+    <span data-uuid="41d91842-1a3f-4d74-8a18-c798d1fe92ae" style="display:none"></span>
     Click **Assets** on the manage sidebar.
 
     <span data-uuid="9cf48810-5a51-45fd-9ff1-df5e61c08fee" style="display:none"></span>
@@ -37,6 +43,8 @@ tags:
 !!! step
 
     <span data-uuid="710dff90-91d8-4f70-8462-1b67cb90d889" style="display:none"></span>
+
+    <span data-uuid="e5b26189-964e-4ba1-8b93-5cc0086ff6e8" style="display:none"></span>
     Click the **+New asset** button at the top of the page.
 
     <span data-uuid="1fa8e2c8-603d-4a4e-805c-7c0c08251f7d" style="display:none"></span>
@@ -46,11 +54,15 @@ tags:
 !!! step
 
     <span data-uuid="fe7760f3-4b67-450b-862c-254e897c89bc" style="display:none"></span>
+
+    <span data-uuid="a2bd09ad-ef5b-4808-8646-f46f2ba065ca" style="display:none"></span>
     Fill in the asset's details:
 
     !!! outline "Asset name"
 
         <span data-uuid="5bfe54e3-af7e-4762-b608-a70743b04de2" style="display:none"></span>
+
+        <span data-uuid="adf046ca-c7ab-446e-89e8-062933b3748d" style="display:none"></span>
         Make sure the name is easily identifiable. If you have multiple assets, consider numbering them or using an ID, serial number, or registration number.
 
         <span data-uuid="f81d9976-6dbd-470c-87a1-d7268bbc94bc" style="display:none"></span>
@@ -60,6 +72,8 @@ tags:
     !!! outline "Photo<span class="meta">(optional)</span>"
 
         <span data-uuid="a03277b0-f80e-4614-a010-d8b49dc9b8da" style="display:none"></span>
+
+        <span data-uuid="47777925-7a37-4e8d-8715-1f45aa5508ed" style="display:none"></span>
         Upload a photo of your asset to help with clearer identification.
 
         <span data-uuid="a8498f5e-37dd-4cb2-bab8-6407a9d4d63e" style="display:none"></span>
@@ -69,6 +83,8 @@ tags:
 !!! step
 
     <span data-uuid="eb1dd8c3-cc9f-4e6e-802f-d3ad05015c96" style="display:none"></span>
+
+    <span data-uuid="5866fb36-b268-4241-841b-52385e155b4f" style="display:none"></span>
     Select the **Type(s)** for this asset. You may have requirements set up against these types.
 
     <span data-uuid="38cbb3c2-8779-4eb9-8519-1cc5dd2d3bac" style="display:none"></span>
@@ -78,16 +94,22 @@ tags:
     !!! tip
 
         <span data-uuid="5c4978a9-72ff-49ae-bedb-fef0b7970a85" style="display:none"></span>
+
+        <span data-uuid="d0aa861a-dd87-4b5c-89ae-8402d4834944" style="display:none"></span>
         To view the requirements set up against a type, select the ellipsis (…) icon next to it.
 
     ??? info "Can't find a type that describes your asset?"
 
         <span data-uuid="4c727352-5c2d-47c0-b3ed-25b462874a04" style="display:none"></span>
+
+        <span data-uuid="93b4f703-b415-4b4d-81da-cd2fc67b8161" style="display:none"></span>
         Contact support for assistance with setting up new asset types.
 
 !!! step
 
     <span data-uuid="5a3439a6-a8b0-4370-8c80-af43a5d99374" style="display:none"></span>
+
+    <span data-uuid="6fe52797-5e38-44bf-876a-c5df56b7b6f7" style="display:none"></span>
     Under **Located at**, choose where the asset is located. By default, the asset will be located at the site you selected in Step 1, but you can change the location here if needed.
 
     <span data-uuid="9dd12174-32e3-465a-a07b-e5f7867ad278" style="display:none"></span>
@@ -97,6 +119,8 @@ tags:
 !!! step
 
     <span data-uuid="5c34d56e-8d59-47bf-bedf-2c18bd712d3b" style="display:none"></span>
+
+    <span data-uuid="169989bb-1b6b-4199-8ed9-a90d132b912f" style="display:none"></span>
     Click **Save asset** at the bottom of the page.
 
     <span data-uuid="13934758-effb-42e9-89e0-a90a53e56219" style="display:none"></span>

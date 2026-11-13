@@ -7,15 +7,17 @@ tags:
 # Moving an employee
 <span data-uuid="83239016-5193-4745-8a16-e287f19b31c6" style="display:none"></span>
 
+<span data-uuid="b5134229-ff9f-4d20-8397-c79d491ba894" style="display:none"></span>
 If an employee changes site, you'll need to **move their employee record** to the new location and reconfigure their site access. This guide walks through this process.
 
 ## Finding the employee
 <span data-uuid="570945c1-c48a-41ee-8954-0e968757bc6f" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="7fbe02aa-6625-4150-85dc-47e944ed7542" style="display:none"></span>
+
+    <span data-uuid="0c12e1d1-edee-4041-85f1-0534f40d14a4" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
 
     <span data-uuid="d13f56bb-f666-4572-9567-167541f6cb05" style="display:none"></span>
@@ -25,6 +27,8 @@ If an employee changes site, you'll need to **move their employee record** to th
 !!! step
 
     <span data-uuid="ef4c7488-69fa-4705-b536-f8ca8de8baac" style="display:none"></span>
+
+    <span data-uuid="1f6e0ae6-f87b-4abb-8223-eed2c5360e8f" style="display:none"></span>
     From the site inbox page, click the **Switch to Manage Mode** button.
 
     <span data-uuid="4ff60d1e-7e7d-448c-8820-c0dbc6dd6436" style="display:none"></span>
@@ -35,7 +39,7 @@ If an employee changes site, you'll need to **move their employee record** to th
 
     <span data-uuid="2d00d693-d0da-460c-8aa4-550889e24952" style="display:none"></span>
 
-
+    <span data-uuid="013b9840-7ddc-4150-8e46-24ccf2a1fddc" style="display:none"></span>
     Click **Employee records** on the manage sidebar.
 
     <span data-uuid="964962a2-dd08-4de7-82ad-90780e1b5436" style="display:none"></span>
@@ -45,6 +49,8 @@ If an employee changes site, you'll need to **move their employee record** to th
 !!! step
 
     <span data-uuid="964c6547-5010-496c-8aac-e1c3826e2d1b" style="display:none"></span>
+
+    <span data-uuid="c87db515-43b9-4dca-8791-9b185c5523c7" style="display:none"></span>
     Find the employee from the list and click on their name
 
     <span data-uuid="1aad27af-fba0-492d-9d6d-b9d6bb220406" style="display:none"></span>
@@ -54,10 +60,11 @@ If an employee changes site, you'll need to **move their employee record** to th
 ## Changing the employee's location
 <span data-uuid="ae07259e-eb51-4fb9-b098-712444107138" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="a7f3de34-ad8b-4b76-a459-dc407f85fdca" style="display:none"></span>
+
+    <span data-uuid="e178abf8-9cef-450f-89fb-dd9bf46c236c" style="display:none"></span>
     On the employee's record, select **Change location**
 
     <span data-uuid="0fa393d4-5b7c-46f1-9c73-0262f2f13baf" style="display:none"></span>
@@ -67,6 +74,8 @@ If an employee changes site, you'll need to **move their employee record** to th
 !!! step
 
     <span data-uuid="05628b9e-8b1c-4d42-970a-35894af590d4" style="display:none"></span>
+
+    <span data-uuid="78b6fa74-efe8-4914-8489-2701d3d73461" style="display:none"></span>
     In the site tree, select the site to which the employee is moving.
 
     :lucide-lightbulb: *Use the search bar, or select ****Show all options**** :lucide-arrow-left-right: to help find the site.*
@@ -78,11 +87,15 @@ If an employee changes site, you'll need to **move their employee record** to th
     !!! warning "Can't find the site?"
 
         <span data-uuid="91f334cd-9023-4c4a-b711-802bff763663" style="display:none"></span>
+
+        <span data-uuid="4de9a23e-5c97-42be-84b1-ded8d5cfce58" style="display:none"></span>
         You may not have access to the site the employee is moving to. If this is the case, you may need to contact a senior manager with access to your site and the destination site to complete the move.
 
 !!! step
 
     <span data-uuid="481aa3a5-5327-4bad-bdbe-4b870e67c1b4" style="display:none"></span>
+
+    <span data-uuid="7fb6491b-d78d-480c-8778-0573ff435464" style="display:none"></span>
     In the **Update access** section, choose how you want to handle the employee’s access:
 
     - <span class="mb-label mb-label-emerald">:lucide-arrow-down-up: Replace</span> – Removes the employee’s access to their old site and replaces with the same level of access at the new site. ***(recommended)***
@@ -96,6 +109,8 @@ If an employee changes site, you'll need to **move their employee record** to th
 !!! step
 
     <span data-uuid="516623b7-d42c-410a-8d1e-846dec6fdf2d" style="display:none"></span>
+
+    <span data-uuid="41a657f0-f2ee-4302-8c10-97cb6f583339" style="display:none"></span>
     Finalise the move by clicking the green **Move employee** button.
 
     <span data-uuid="be95abbc-7245-426c-a3c5-a0947cf5b11d" style="display:none"></span>

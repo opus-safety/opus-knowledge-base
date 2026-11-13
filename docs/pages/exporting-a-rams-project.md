@@ -8,16 +8,17 @@ tags:
 # Exporting a RAMS project
 <span data-uuid="fd436366-43e2-4761-b20f-cc366280caca" style="display:none"></span>
 
+<span data-uuid="34fcca88-fecf-473b-8927-7edb33148368" style="display:none"></span>
 This guide details how to export a RAMS project.
 
 ## Finding the project
 <span data-uuid="1d2c4868-b4b0-4218-a877-ff9aaba260d0" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="fbdb057b-1014-4706-b1b0-6a1358d3de9b" style="display:none"></span>
 
+    <span data-uuid="29f5139a-c762-4dac-856c-4827cbfbb611" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the project is located.
 
     <span data-uuid="f41cfe9e-2322-4053-97ca-5f34e59889b5" style="display:none"></span>
@@ -28,6 +29,7 @@ This guide details how to export a RAMS project.
 
     <span data-uuid="1ab38417-ee63-45e3-957e-5f7fb095fd7d" style="display:none"></span>
 
+    <span data-uuid="71d3aa42-79cd-4b4a-8295-5c381a8bfd30" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
     <span data-uuid="8e4226e9-2af4-4097-bc05-084769c0484a" style="display:none"></span>
@@ -38,6 +40,7 @@ This guide details how to export a RAMS project.
 
     <span data-uuid="2dcbe123-2e3c-4330-a76a-c5c287560270" style="display:none"></span>
 
+    <span data-uuid="92027a34-3a3a-4ad4-8483-30c5ccbb2025" style="display:none"></span>
     Select **Manage RAMS**
 
     <span data-uuid="3c53791b-526b-43cb-8188-c9c0d0994698" style="display:none"></span>
@@ -48,6 +51,7 @@ This guide details how to export a RAMS project.
 
     <span data-uuid="3688bf4e-731e-43d5-a1fb-6bcac506a6df" style="display:none"></span>
 
+    <span data-uuid="593118d7-6f74-4f90-893f-5039bf7a577e" style="display:none"></span>
     The RAMS projects for this site will appear in a list. Select the project you wish to export.
 
     <span data-uuid="ea6b924c-46fa-4a0f-9015-724962677a59" style="display:none"></span>
@@ -58,15 +62,17 @@ This guide details how to export a RAMS project.
 
         <span data-uuid="1233b663-ccfa-4cd0-860a-dca826c3d10a" style="display:none"></span>
 
+        <span data-uuid="f78f91f1-410e-4a01-8758-84b221d92f42" style="display:none"></span>
         Use the search bar to find projects by title or author.
 
 ## Exporting the project
 <span data-uuid="2b3151d3-eafd-4d11-aa87-36330faaed93" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="cfe0ac3b-40ae-497c-9de2-cb0a907218d2" style="display:none"></span>
+
+    <span data-uuid="181c6989-a00c-4cc2-8f7f-d69f376fc3d4" style="display:none"></span>
     On the project page, select the **Exports** button at the top
 
     <span data-uuid="bbbd44d3-19d2-47aa-985e-6e3a483bbfd6" style="display:none"></span>
@@ -76,6 +82,8 @@ This guide details how to export a RAMS project.
 !!! step
 
     <span data-uuid="2bea77b8-8f62-4e03-874e-8e37bec94b6a" style="display:none"></span>
+
+    <span data-uuid="58c56bc4-e5e5-4eec-8c5a-8ac1417a5fe9" style="display:none"></span>
     If any exports have previously been created for this project, they will be displayed in a list on this page.
 
     To create a new export, click **+New**.
@@ -87,6 +95,8 @@ This guide details how to export a RAMS project.
 !!! step
 
     <span data-uuid="2f2e2752-2579-41de-9bf0-e5fe3012aa82" style="display:none"></span>
+
+    <span data-uuid="73df4a69-15c3-4cff-886e-7f1ebe724988" style="display:none"></span>
     Select/deselect the sections you would like to include in the export.
 
     *(All sections are selected by default)*
@@ -98,6 +108,8 @@ This guide details how to export a RAMS project.
 !!! step
 
     <span data-uuid="8d5dc10c-92af-4eee-a51b-5235311018d5" style="display:none"></span>
+
+    <span data-uuid="a0b2b01e-1a94-4c20-885e-9b0882785736" style="display:none"></span>
     Click the **Export to PDF** button.
 
     <span data-uuid="b41449eb-1ed5-41f4-b7c8-03e99297270c" style="display:none"></span>
@@ -107,11 +119,15 @@ This guide details how to export a RAMS project.
     !!! note
 
         <span data-uuid="6188e28d-2fc0-47f2-a8be-a245a830333a" style="display:none"></span>
+
+        <span data-uuid="d51401c1-53aa-4dbf-841c-1aea82a2f694" style="display:none"></span>
         Once clicked, an Export of the RAMS project will be requested. Depending on the project size, the export may take some time to be generated. An email will be sent to you when it is ready for download.
 
 !!! step
 
     <span data-uuid="ade620ec-c5ae-4c55-970a-f60c416c8779" style="display:none"></span>
+
+    <span data-uuid="eb146487-adf4-4b64-8367-be70e5873193" style="display:none"></span>
     Once you receive the email notification about your RAMS export, follow the button/link to the exports overview.
 
     <span data-uuid="06b456e9-b86b-4a66-a177-ced26fd72ad0" style="display:none"></span>
@@ -120,6 +136,8 @@ This guide details how to export a RAMS project.
 !!! step
 
     <span data-uuid="add698fb-70d4-4f6d-9c58-2496f3dd7318" style="display:none"></span>
+
+    <span data-uuid="1de4a9fd-d35a-4049-8732-053b098c7c8f" style="display:none"></span>
     Your completed export will now appear in the export list. Download the export by clicking the blue Download link.
 
     <span data-uuid="e3105dc2-df73-4d10-909d-e44b0e0ca0c1" style="display:none"></span>
@@ -129,4 +147,6 @@ This guide details how to export a RAMS project.
     !!! warning
 
         <span data-uuid="0ad29c0b-c2ca-4702-81c8-2c0fc798c530" style="display:none"></span>
+
+        <span data-uuid="84815eb0-d77e-45f6-82bf-156711409e21" style="display:none"></span>
         If the project is updated after an export has been created, the export will be removed from the table to prevent users from downloading an outdated version. If required, you will need to generate a new export.

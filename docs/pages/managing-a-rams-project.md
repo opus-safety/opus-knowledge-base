@@ -8,15 +8,17 @@ tags:
 # Managing a RAMS project
 <span data-uuid="6c9ee2c3-ec3f-4be8-a3c2-5aae20877dda" style="display:none"></span>
 
+<span data-uuid="1bbfd48d-37be-483a-8d9a-b8bcf19b340b" style="display:none"></span>
 This guide details how to manage a RAMS project in Opus Compliance Cloud.
 
 ## Finding your projects
 <span data-uuid="53d2832e-12d1-45fe-b402-8aff4825c46a" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="4f736c36-3823-44f2-9cb4-fc6c82019d0f" style="display:none"></span>
+
+    <span data-uuid="42d9e469-556e-471e-8365-cb9ea4d278e9" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site that contains the RAMS project(s) you're looking for.
 
     <span data-uuid="b993c8af-056f-46fe-9413-937ef08c411f" style="display:none"></span>
@@ -27,7 +29,7 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
 
     <span data-uuid="67babdbf-7997-461a-b401-cff0c3270f48" style="display:none"></span>
 
-
+    <span data-uuid="168aa687-960b-40fd-8f86-65ffdf07f385" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
     <span data-uuid="74f27b90-26b3-4329-8250-830ef85ff98f" style="display:none"></span>
@@ -38,6 +40,7 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
 
     <span data-uuid="8898d1c0-9b8b-4452-8b80-99e128fec398" style="display:none"></span>
 
+    <span data-uuid="1fd756e6-5404-4a79-8809-b9bbf3dad524" style="display:none"></span>
     Select **Manage RAMS**
 
     <span data-uuid="e5513cec-053b-418d-85d9-aa20d03d2216" style="display:none"></span>
@@ -47,6 +50,8 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
 !!! step
 
     <span data-uuid="46005308-095f-4b33-92ca-0aadc2007f00" style="display:none"></span>
+
+    <span data-uuid="50fde737-6d03-44b6-8d26-68eaa0d8fb6b" style="display:none"></span>
     The RAMS projects for this site will appear in a list. Select a project to view/manage it.
 
     <span data-uuid="3a60f995-5ae8-47c2-a9e8-00c7c622bcfc" style="display:none"></span>
@@ -56,15 +61,18 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
     !!! tip
 
         <span data-uuid="ce7570a8-589d-4f0b-be53-350ca5906b24" style="display:none"></span>
+
+        <span data-uuid="fe7a3d4f-33f8-47ba-8d63-df5000e145a5" style="display:none"></span>
         Use the search bar to find projects by title or author.
 
 ## Adding risk assessments & method statements
 <span data-uuid="5a4b4f6b-6127-4e6d-bce3-3315d27a0108" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="9532b66c-0d39-407c-8188-f60e0809154b" style="display:none"></span>
+
+    <span data-uuid="db9f6b75-912d-4932-8ae6-d98070543bc7" style="display:none"></span>
     On the RAMS project page, scroll down to see the Risk Assessment/Method Statement sections.
 
     <span data-uuid="a08b6963-2269-4159-a224-34af26a91cf3" style="display:none"></span>
@@ -74,6 +82,8 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
 !!! step
 
     <span data-uuid="2483ce14-a4ae-49df-b756-ae09b4c53860" style="display:none"></span>
+
+    <span data-uuid="45d0b73d-9523-4e6c-8b2b-0d316bd8c460" style="display:none"></span>
     Select the **Manage** button on the section you wish to add content to.
 
     <span data-uuid="5bafbc81-6787-4b64-9a91-3359ed4fb1b2" style="display:none"></span>
@@ -83,6 +93,8 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
 !!! step
 
     <span data-uuid="ba1ef04a-576f-4404-bd05-34a2aa64310c" style="display:none"></span>
+
+    <span data-uuid="60e72fec-22bc-4a9b-8bf2-a7dbc9a902ac" style="display:none"></span>
     From the list of available options, select the resources you would like to add to the project.
 
     *The Origin column shows whether each resource is an Opus assessment/statement, or one of your own.*
@@ -94,6 +106,8 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
     !!! tip
 
         <span data-uuid="f0165e18-9bbf-4dd9-9b0a-f14f5e1b9f5f" style="display:none"></span>
+
+        <span data-uuid="9bc6186a-6d62-4919-8ab5-9e6cec111f1f" style="display:none"></span>
         Each option can be clicked to expand a section showing information about what is included in that assessment/statement.
 
         <span data-uuid="522a20ab-84d8-4da5-997d-17d62237de92" style="display:none"></span>
@@ -103,6 +117,8 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
 !!! step
 
     <span data-uuid="3e1bf73b-416a-40d5-872d-8d05e38960fc" style="display:none"></span>
+
+    <span data-uuid="99d1035a-0750-4103-8830-af16b6b12d4f" style="display:none"></span>
     Select **Save** once you have made your selection.
 
     Repeat these steps for each relevant section of your project.
@@ -114,6 +130,7 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
 ## Overriding risk assessments & method statements
 <span data-uuid="b0ee0132-4272-4fd6-a0c8-f2706c093ec1" style="display:none"></span>
 
+<span data-uuid="9473beec-1dee-4ac5-8287-a9f65b1a3ddf" style="display:none"></span>
 Risk assessments / Method statements that have been added to a project can be overridden using the **Override** button. This edits the content of the resource for **that project only.**
 
 <span data-uuid="bbb2534f-1b1a-497c-88b3-05a236fbc133" style="display:none"></span>
@@ -123,11 +140,14 @@ Risk assessments / Method statements that have been added to a project can be ov
 !!! info
 
     <span data-uuid="2ce8fc51-cfca-4da4-a224-03860d0d96db" style="display:none"></span>
+
+    <span data-uuid="aab012c9-5855-4b11-89ce-1714ab2b1ecc" style="display:none"></span>
     If you are using a standard Opus assessment/statement, you may want to override it to make sure the content reflects the specifics of your project.
 
 ## Promoting risk assessments & method statements
 <span data-uuid="bb8fdd1b-3918-48a5-a4d5-1d230b454c00" style="display:none"></span>
 
+<span data-uuid="871f9abf-777c-454c-8fc1-90a77fa24f54" style="display:none"></span>
 Risk assessments / Method statements that have been added to a project can be promoted using the Promote button. This duplicates the content of the resource, **including any edits made via overriding**, to your site so it to be used on other projects.
 
 <span data-uuid="f0201a7d-cc0b-47b9-8bb0-b325623d1059" style="display:none"></span>
@@ -137,6 +157,8 @@ Risk assessments / Method statements that have been added to a project can be pr
 !!! example
 
     <span data-uuid="49f8b897-445c-4eb9-a149-bda3ef80b799" style="display:none"></span>
+
+    <span data-uuid="bda9b869-db15-4f5a-8123-78f4879f9fc7" style="display:none"></span>
     After promoting the Opus ***Handling Plasterboard or Drywall Panels*** assessment above, you will see both the <span class="mb-label mb-label-rose">original</span> and the <span class="mb-label mb-label-green">duplicate</span> in the Manage list when adding assessments to other projects.
 
     <span data-uuid="35aad93d-39f1-4b73-ac71-cc541d8b49ee" style="display:none"></span>
@@ -146,6 +168,7 @@ Risk assessments / Method statements that have been added to a project can be pr
 ## How toolbox talks are scheduled
 <span data-uuid="73d21559-960a-4fbb-b2bf-49f2873f15d5" style="display:none"></span>
 
+<span data-uuid="27edbacf-f55c-4a67-8a6c-013d98dd7195" style="display:none"></span>
 Toolbox talks are scheduled based on the duration of your project. If the project runs for longer than the number of talks selected, the sequence will repeat.
 
 For example, if you select 5 talks for a 10-week project, a new talk will be delivered each week for the first 5 weeks, before the sequence starts again from the beginning.

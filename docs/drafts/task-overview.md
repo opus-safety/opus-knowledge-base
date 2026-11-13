@@ -7,6 +7,7 @@ search:
 # Task Overview
 <span data-uuid="7488a980-2d7b-4bea-8f2d-290d0227a165" style="display:none"></span>
 
+<span data-uuid="401c02db-0bb6-4db6-8571-86f83edb1995" style="display:none"></span>
 New stuff
 
 - What are tasks
@@ -21,6 +22,7 @@ Tasks are at the heart of how work gets tracked and cleared in **Opus Compliance
 ## What are Tasks?
 <span data-uuid="64d98b59-5d83-483c-bedc-d28052e44899" style="display:none"></span>
 
+<span data-uuid="60b407db-3272-4363-814c-bfbef38a1b06" style="display:none"></span>
 Broadly speaking, a task is anything that needs to be done.
 
 Most tasks are **scheduled reminder tasks** that come from our three main components:
@@ -36,6 +38,7 @@ And lastly, some tasks are **reported events**, such as accidents and safety obs
 ## The Site Inbox
 <span data-uuid="f2be7713-e21f-4deb-9da3-3f5e47fd960e" style="display:none"></span>
 
+<span data-uuid="a45ca6a5-97b9-40e0-8708-a3e534ed45a0" style="display:none"></span>
 Open, unassigned tasks appear in the **Site Inbox**, while tasks assigned to you appear under **My tasks**.
 
 Your goal is to clear this list by completing tasks, assigning them, or getting employees to complete them — and you should do this as promptly as possible.
@@ -44,6 +47,7 @@ Your goal is to clear this list by completing tasks, assigning them, or getting 
 ![](../assets/media/occ-captures/sites/uuid/inbox-coach-2-light-mode.png#only-light){ width="500" loading=lazy }
 ![](../assets/media/occ-captures/sites/uuid/inbox-coach-2-dark-mode.png#only-dark){ width="500" loading=lazy }
 
+<span data-uuid="b92bc349-9154-4bf1-800a-244a38756cf2" style="display:none"></span>
 Assets and employees have their own inboxes, but those tasks are surfaced in the Site Inbox too.
 
 Tasks appear in order of importance, with the high-priority ones on top — so work this list from the top down.
@@ -51,8 +55,11 @@ Tasks appear in order of importance, with the high-priority ones on top — so w
 !!! note
 
     <span data-uuid="8d4d6536-ddce-4347-ab6b-57205f76ce7b" style="display:none"></span>
+
+    <span data-uuid="b96ca8e5-f7f2-408a-8dea-786923742006" style="display:none"></span>
     As a general rule, tasks shouldn't remain in the open unassigned list for more than **two weeks**. They should either be resolved or, if that's not possible yet, assigned to yourself or another responsible employee.
 
+<span data-uuid="b039f5fa-b97d-4c94-8b2d-547f5269ad11" style="display:none"></span>
 If you have lots of tasks, you can filter them by clicking **All tasks for [site name]** on the right and then **Filter**.
 
 The table below shows the kinds of task each component contributes to the inbox.
@@ -72,6 +79,7 @@ The table below shows the kinds of task each component contributes to the inbox.
 ## What you can do with a task
 <span data-uuid="21af7b16-88dc-4665-91e4-c02c0563e067" style="display:none"></span>
 
+<span data-uuid="27099854-b7b1-4976-8573-992db5cbd80f" style="display:none"></span>
 Click on a task to open its report. From there you can:
 
 - View the report
@@ -88,21 +96,28 @@ Click on a task to open its report. From there you can:
 !!! step
 
     <span data-uuid="6e7f8702-f734-4290-8648-e616c1db9c01" style="display:none"></span>
+
+    <span data-uuid="d97b7773-a35e-48f9-8d46-f19b9763fe11" style="display:none"></span>
     Click the **Edit** button on the right-hand side of the page.
 
 !!! step
 
     <span data-uuid="b8b5489c-0341-49a6-a945-91b4bcbef472" style="display:none"></span>
+
+    <span data-uuid="48f6a2da-7df9-4108-84aa-eeed81a51d3f" style="display:none"></span>
     You can now change the **name** of the task.
 
 !!! step
 
     <span data-uuid="7ca05657-92a6-4d76-8b16-169a4b282149" style="display:none"></span>
+
+    <span data-uuid="a926f8d1-7d75-46b3-83dc-900dd78ffe6f" style="display:none"></span>
     Click the drop-down box on the left to change the **severity**.
 
 ## The Confidential flag
 <span data-uuid="48e8a2dc-efff-4cb3-ba6d-2973bee64eb9" style="display:none"></span>
 
+<span data-uuid="da17793e-59da-45f2-8b0e-d69158c3ba5d" style="display:none"></span>
 Confidential tasks are only visible to a user with **manager** access — or to a non-manager if you assign the task to them.
 
 Tasks that are confidential **by default** include incidents, employee checklist actions (e.g. health surveillance) and audit actions.
@@ -114,16 +129,21 @@ If a task is **not** confidential, you will instead see an option on the right-h
 !!! note
 
     <span data-uuid="1c2101c5-6ef0-4291-b4da-102ce6bd4362" style="display:none"></span>
+
+    <span data-uuid="2d8c1152-0d19-4f8c-8924-153849b1fbe6" style="display:none"></span>
     If a non-manager user is assigned a confidential task, they will be able to view it.
 
 !!! note
 
     <span data-uuid="9c6a095e-0951-4396-99fe-d680a89a1bc8" style="display:none"></span>
+
+    <span data-uuid="74657c1a-1008-41ef-8f99-b4e34bf4c916" style="display:none"></span>
     Employee-related tasks, while not confidential, are only accessible by managers by default, as users do not have access to other employees within the system.
 
 ## Commenting
 <span data-uuid="92e0e894-4f3d-4c69-96ac-b381ab629fea" style="display:none"></span>
 
+<span data-uuid="26a1d774-1ac4-482d-8939-079a255cf8c3" style="display:none"></span>
 To add a comment, type in the area at the bottom of the report and click **Add Comment**.
 
 You can access more formatting options by selecting the **Formatting** button.
@@ -131,8 +151,11 @@ You can access more formatting options by selecting the **Formatting** button.
 !!! tip
 
     <span data-uuid="162f7397-2587-4c11-a013-942d82876695" style="display:none"></span>
+
+    <span data-uuid="8b08eb8a-fa8e-473d-82f8-d31e937edfa9" style="display:none"></span>
     You can start a new line by pressing ++ctrl+enter++.
 
+<span data-uuid="a28e2632-c36f-496f-883f-bfd369dee08e" style="display:none"></span>
 You can also:
 
 - Add files to your comment by pressing the attachment icon.
@@ -144,6 +167,8 @@ You can also:
 !!! step
 
     <span data-uuid="894584b2-866b-4ceb-a3db-a580df93bf44" style="display:none"></span>
+
+    <span data-uuid="18af2a5b-d0c3-4525-8b0c-979bf36008e5" style="display:none"></span>
     To complete a scheduled reminder task, click on the **blue link** in the report to complete the checks, provide the requirement document, and so on.
 
 ## Assigning a Task to a User
@@ -157,16 +182,22 @@ You can also:
     !!! step
 
         <span data-uuid="1aa1b55e-ce11-4447-ada8-0b405162741c" style="display:none"></span>
+
+        <span data-uuid="ff478d7a-a0d0-47c8-8e22-880b81b582b9" style="display:none"></span>
         Click the **edit assigned** icon in the top-right corner of the task.
 
     !!! step
 
         <span data-uuid="dbb5c1ec-eff4-4887-80f4-70f4638cce87" style="display:none"></span>
+
+        <span data-uuid="42185b84-b9d9-44df-8eeb-bc74252a732f" style="display:none"></span>
         Select the desired user from the drop-down menu and **save**.
 
         !!! note
 
             <span data-uuid="0566ab82-f4e9-4c96-a18c-53102e8ce1d1" style="display:none"></span>
+
+            <span data-uuid="8a876030-fe95-4d9c-8729-8429433be985" style="display:none"></span>
             The list only displays registered users who have access to the specific site where the task is located.
 
 === "Yourself"
@@ -176,11 +207,15 @@ You can also:
     !!! step
 
         <span data-uuid="bdbedc22-868a-4631-b7af-e18da3e61d12" style="display:none"></span>
+
+        <span data-uuid="257db5d7-efae-4642-84a3-5c11ce709f84" style="display:none"></span>
         To quickly take ownership of a task, click the **Assign Myself** button. This allocates the task to you instantly, without needing to search the user list.
 
 !!! info "Notifications"
 
     <span data-uuid="6f6b8632-0690-4c7b-99f8-63cf4fd85ce5" style="display:none"></span>
+
+    <span data-uuid="b1cf37d7-0a5a-4a50-8b3c-5b3ce0a956bb" style="display:none"></span>
     When a task is assigned, the system generates an **in-app notification** for the user. It does **not** automatically send an email alert.
 
     If the assignee does not log in regularly or hasn't enabled daily email digests, they may miss the update. We recommend manually notifying them if the task is urgent.
@@ -188,6 +223,7 @@ You can also:
 ## Adding a Sub Task
 <span data-uuid="718c57c7-5043-43f3-99b6-0df05d3ade6f" style="display:none"></span>
 
+<span data-uuid="fe189acf-e00e-42b3-808a-9c08ce9c8474" style="display:none"></span>
 Sub tasks are useful to:
 
 - **A)** Break down a complex task into a 'tick off' list of things to be done.
@@ -202,26 +238,35 @@ So for an accident you might have:
 !!! step
 
     <span data-uuid="665343ee-0d71-4d88-a6c9-4e1d0a79cb7c" style="display:none"></span>
+
+    <span data-uuid="c6ad4cae-b4da-4555-8e80-89080cf750f3" style="display:none"></span>
     Click the link on the right-hand side to create a sub task.
 
 !!! step
 
     <span data-uuid="9c170564-ec61-4f9f-9d4f-6bfbce802205" style="display:none"></span>
+
+    <span data-uuid="9f65c32d-088e-4314-8cc9-dfc12b22bff8" style="display:none"></span>
     You can now make a new linked task. If this is a corrective action, select **Corrective Action** (or another option, as needed).
 
     !!! warning
 
         <span data-uuid="d0fb60e2-1ef2-4e5b-ada2-37169ced5497" style="display:none"></span>
+
+        <span data-uuid="04b6f094-e5f5-4081-8b29-e43bfa6a242e" style="display:none"></span>
         Don't delete the `/resolves...` text — this is what links the two tasks together.
 
 !!! step
 
     <span data-uuid="e850e4aa-2f23-4f65-8d50-5f791ae274af" style="display:none"></span>
+
+    <span data-uuid="d086c0e4-3c20-4d44-8222-b78b5e849a2b" style="display:none"></span>
     On the new task you will now see a link back to the original one. Clicking it takes you to the original task, where you will see a matching link back to the sub task.
 
 ## Sub Task Snoozing
 <span data-uuid="fd345e57-665b-495a-9235-0a991504c0ae" style="display:none"></span>
 
+<span data-uuid="a729ee5d-f266-4467-8742-c04c320d4a76" style="display:none"></span>
 When you add sub tasks, you will see a **bell symbol** to the right. Selecting it snoozes the **parent** task until the sub task is completed.
 
 This is ideal for dealing with tasks that can't be progressed until their sub tasks are completed.
@@ -229,41 +274,54 @@ This is ideal for dealing with tasks that can't be progressed until their sub ta
 ## Snoozing Tasks
 <span data-uuid="a989412e-ca0f-4c45-a6e7-90604bd265cf" style="display:none"></span>
 
+<span data-uuid="8076d152-b35d-4a30-868d-da80f5a611e2" style="display:none"></span>
 The system lets you snooze tasks so they are temporarily hidden from **My Inbox** — for example, where a repair is required and you are awaiting parts, or some training is overdue but the course is already booked for a future date.
 
 !!! step
 
     <span data-uuid="f75f7915-7448-45f9-9e39-70d0145702cc" style="display:none"></span>
+
+    <span data-uuid="a17bb5e5-fa1c-4723-8874-fff0b313ad36" style="display:none"></span>
     First, assign the task to yourself using the **Assign** option in the top right.
 
 !!! step
 
     <span data-uuid="173d3455-70d7-44e3-a3ee-2acc45c7cecc" style="display:none"></span>
+
+    <span data-uuid="50610169-8b92-42e0-8eed-53b0951e7039" style="display:none"></span>
     Scroll to the bottom of the task, where you will see the **snooze** button.
 
 !!! step
 
     <span data-uuid="141731d1-8fa6-4827-8022-bd31cf20d9fe" style="display:none"></span>
+
+    <span data-uuid="7382f41f-305a-4c81-8107-685d12df10c3" style="display:none"></span>
     Click **snooze** for the default 4-day period, or click the down arrow to choose a different time period. You will be returned to the inbox and see a confirmation message.
 
 !!! note
 
     <span data-uuid="7a75eafc-b783-41e3-aff0-6bed57864c8e" style="display:none"></span>
+
+    <span data-uuid="51c5d679-daa4-41e1-82a1-fbc309c03c5b" style="display:none"></span>
     If you don't assign the snoozed task, it will still be visible in the open unassigned list, but shaded out.
 
 !!! info "Longer snoozes for Administrators"
 
     <span data-uuid="ad502cdc-1f64-4077-90e6-a8b735d9d5e8" style="display:none"></span>
+
+    <span data-uuid="6ecd3a45-80c0-4920-8496-faa33a9bd9c6" style="display:none"></span>
     Users with the **Administrator** role can snooze tasks for longer to cover extended absences, such as maternity leave or long-term sickness. See [How Can Users with the Administrator Role Snooze Tasks for Longer Periods](https://cloud.opus-safety.co.uk).
 
 ### Finding a snoozed task
 <span data-uuid="c3c14223-f634-4019-8b4f-cd755d17c902" style="display:none"></span>
 
+<span data-uuid="8f1c7eb8-2ed7-498e-8dd6-b37dac1d344b" style="display:none"></span>
 From the inbox, click **All tasks for [site name]**. The task will be shaded out and carry a snooze icon.
 
 ## Task Labels
 <span data-uuid="43818f63-0a03-4fe1-a5bf-01fbc3c6b1ef" style="display:none"></span>
 
+<span data-uuid="57f87dad-fa9f-44f6-8e6d-6a55e30a730e" style="display:none"></span>
 Labels appear underneath tasks and tell you additional information about the task.
 
 - Some labels are **added automatically**, such as `corrective action`, which shows that this is an automated corrective action — usually from someone completing a checklist.
@@ -274,19 +332,26 @@ We use labels for notifications. They can also be used as search terms on the **
 ## Moving Tasks
 <span data-uuid="d6d0869c-853a-458f-a4aa-97d2bc9b364b" style="display:none"></span>
 
+<span data-uuid="3ce22dcf-70f7-40bc-897c-c91ac5693469" style="display:none"></span>
 If you have a multi-site setup, you can move tasks from one sub-site to another. This is useful if an accident has been logged at the wrong site, or — for confidentiality reasons — you want to move the accident away from a site (probably up to your top client level).
 
 !!! step
 
     <span data-uuid="bfaeaab1-b305-4d7a-ac12-3a247f410c3e" style="display:none"></span>
+
+    <span data-uuid="3cc51078-5def-4863-843f-5990d515018b" style="display:none"></span>
     If you have the ability to move tasks, you will see the **move** option on the right-hand side. Click it.
 
 !!! step
 
     <span data-uuid="b4bfcf61-7280-471c-bdf4-2f237973ef9b" style="display:none"></span>
+
+    <span data-uuid="421e5046-82cf-422b-81be-b824416f3a49" style="display:none"></span>
     Select the site you want to move the task to.
 
     !!! warning
 
         <span data-uuid="047d23e9-f6a2-4563-b09a-936c1873c31f" style="display:none"></span>
+
+        <span data-uuid="d9650aa8-a7e3-4da7-89f8-724b677e1544" style="display:none"></span>
         If this is a scheduled reminder task, ensure that the user you intend to complete the task has access to whatever the task relates to.

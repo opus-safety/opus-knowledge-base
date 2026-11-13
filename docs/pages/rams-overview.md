@@ -17,11 +17,14 @@ hide:
 <style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
 
 <span data-uuid="1c06385f-93ea-4895-bf90-8645f32fe9a2" style="display:none"></span>
+
 <div class="grid" markdown>
 
 <div style="align-self: center" markdown>
 
 <span data-uuid="585b98de-329b-46c0-9876-4086d5d59dcd" style="display:none"></span>
+
+<span data-uuid="a6ffb461-7b6a-4d96-8d7a-8e2670ef57d1" style="display:none"></span>
 <span class="mb-label mb-label-mist">Better RAMS. Safer work.</span>
 
 # Opus RAMS
@@ -52,22 +55,25 @@ By combining your existing Opus Compliance Cloud data with a streamlined workflo
 
 <style data-mb-hide-section-title>:is(h1,h2,h3):has(+ p + style[data-mb-hide-section-title]){display:none}</style>
 
+<span data-uuid="8050ca8d-1262-46a6-8430-6a82d60276a9" style="display:none"></span>
+
 ---
 
 ## What is Opus RAMS?
 <span data-uuid="399544ca-b618-4b50-8a38-e56f56c1881a" style="display:none"></span>
 
+<span data-uuid="e2c58153-3a79-4f19-849f-b5612c230b2b" style="display:none"></span>
 Opus RAMS is a powerful new add-on product that acts as your shortcut to producing site-specific Risk Assessments and Method Statements (RAMS).
 It brings together all required safety information into a single, well-formatted and accessible PDF that is ready to issue directly to clients and principal contractors.
 
 ## Who is it for?
 <span data-uuid="cb5d7d69-695f-43a9-a2ba-23ee64b142e0" style="display:none"></span>
 
+<span data-uuid="3b0128f1-018c-40cc-8b92-19cf411fe1f2" style="display:none"></span>
 Opus RAMS is primarily intended for contractors preparing site-specific safety packs for clients or principal contractors. However, it may also be useful for complex internal works.
 
 ## Feature Details
 <span data-uuid="da738713-4f52-47c5-9724-117d2e45355c" style="display:none"></span>
-
 
 <span data-uuid="449db2dd-315b-4774-94d6-99417723dfa1" style="display:none"></span>
 
@@ -76,6 +82,8 @@ Opus RAMS is primarily intended for contractors preparing site-specific safety p
 <div class="card" markdown>
 
 <span data-uuid="aaac8e8f-5c8d-471b-8795-e2acc23395f4" style="display:none"></span>
+
+<span data-uuid="7c09b7c3-5703-47c2-882e-219553246194" style="display:none"></span>
 <span class="mb-label mb-label-mist">RAMS Sections</span>
 
 ---
@@ -100,6 +108,8 @@ Opus RAMS is primarily intended for contractors preparing site-specific safety p
 <div class="card" markdown>
 
 <span data-uuid="4b7cfd2c-a85b-4b2b-b83f-51f3fd1d185c" style="display:none"></span>
+
+<span data-uuid="dd903537-9cb9-4943-84a1-71aae5881dde" style="display:none"></span>
 <span class="mb-label mb-label-mist">RAMS Example</span>
 
 ---
@@ -112,6 +122,8 @@ Opus RAMS is primarily intended for contractors preparing site-specific safety p
 <div class="card" markdown>
 
 <span data-uuid="547301ea-d051-4a5f-b0fd-624286c8149b" style="display:none"></span>
+
+<span data-uuid="5ad317c7-ce3b-4957-81fc-4450a5141ac0" style="display:none"></span>
 <span class="mb-label mb-label-mist">Customisation and Flexibility</span>
 
 ---
@@ -133,8 +145,8 @@ You have the freedom to use standard Opus templates, edit them to build a tailor
 ## Learn more
 <span data-uuid="58caa750-53c5-4813-b359-da8c0fa8f3b5" style="display:none"></span>
 
-
 <span data-uuid="61b1cc4a-e948-45d6-acdd-6f0c57430ab7" style="display:none"></span>
+
 <div class="grid" markdown>
 
 <div markdown>

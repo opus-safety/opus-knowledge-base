@@ -7,7 +7,6 @@ tags:
 # Adding a new document
 <span data-uuid="74d1db16-0e8b-4d1e-8349-aacbda687b7a" style="display:none"></span>
 
-
 <span data-uuid="2737303f-03cd-4210-894a-e83d54b6f339" style="display:none"></span>
 === ":lucide-building: Sites"
 
@@ -16,6 +15,8 @@ tags:
     !!! step
 
         <span data-uuid="7f1d503b-e898-4462-859c-59c7af74d65a" style="display:none"></span>
+
+        <span data-uuid="473e5c69-0072-4ec2-88cb-96720f8784d9" style="display:none"></span>
         From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you wish to add the document.
 
         <span data-uuid="246b6980-fe50-40f2-a6f8-e35f1427838a" style="display:none"></span>
@@ -26,6 +27,7 @@ tags:
 
         <span data-uuid="06acf155-e8b9-4b5b-841d-81a3a876e700" style="display:none"></span>
 
+        <span data-uuid="5261fd35-6ab0-4063-8284-f6847a552bd2" style="display:none"></span>
         From the site inbox, click the **Switch to Manage Mode** button.
 
         <span data-uuid="ce93a5bd-6e8c-4b0e-817a-b12a0f5e2d89" style="display:none"></span>
@@ -40,6 +42,7 @@ tags:
 
         <span data-uuid="0ac16e0b-ad45-4b7a-abc0-8f35359af0e6" style="display:none"></span>
 
+        <span data-uuid="756eb312-15a7-40be-8f1e-51e1bfd7924d" style="display:none"></span>
         From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
 
         <span data-uuid="99844c2c-c0a0-4535-8e3e-b87d998c837a" style="display:none"></span>
@@ -50,6 +53,7 @@ tags:
 
         <span data-uuid="4116bee2-958a-4f33-abf1-31317331a879" style="display:none"></span>
 
+        <span data-uuid="f4b67082-14fb-4d81-836c-509dc321fd9e" style="display:none"></span>
         From the site inbox, click the **Switch to Manage Mode** button.
 
         <span data-uuid="5db93cc9-3169-4e29-af23-e3b2d58b006c" style="display:none"></span>
@@ -60,6 +64,7 @@ tags:
 
         <span data-uuid="eebf820e-d2ce-43e4-976e-7aa93901d6c5" style="display:none"></span>
 
+        <span data-uuid="ee90edc8-0788-4edd-821d-1e7c3b059d69" style="display:none"></span>
         Click **Employee records** on the manage sidebar.
 
         <span data-uuid="0c50dcec-daa0-4123-ab57-d282eb6abc38" style="display:none"></span>
@@ -70,6 +75,7 @@ tags:
 
         <span data-uuid="7ee06548-5a9a-45f9-b2c6-73f29d9eaa76" style="display:none"></span>
 
+        <span data-uuid="063d7d2d-8f15-4410-8a3a-7541c3128c7c" style="display:none"></span>
         Find the employee from the list and click on their name
 
         <span data-uuid="8c100011-0294-45e2-bc98-e257c14fe5eb" style="display:none"></span>
@@ -84,6 +90,7 @@ tags:
 
         <span data-uuid="1c3c5917-9a88-4e42-b13a-57cce7f8bb83" style="display:none"></span>
 
+        <span data-uuid="9be3ad20-39d8-4814-8886-c27f1abd674b" style="display:none"></span>
         From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the asset is located.
 
         <span data-uuid="58262b3c-dc3d-4d74-ba3d-0e07f5ce6da1" style="display:none"></span>
@@ -94,6 +101,7 @@ tags:
 
         <span data-uuid="ed4a4c9b-20a0-4155-a3ac-1d89efa802ce" style="display:none"></span>
 
+        <span data-uuid="681581c2-87e8-4a22-846a-88aa7b97134a" style="display:none"></span>
         From the site inbox, click the **Switch to Manage Mode** button.
 
         <span data-uuid="59ff65a2-d304-4e46-baeb-3b6a32d5fe1a" style="display:none"></span>
@@ -104,6 +112,7 @@ tags:
 
         <span data-uuid="9bc28aa7-49cc-45d0-bd2e-53c343b49801" style="display:none"></span>
 
+        <span data-uuid="a8c7b93b-2e44-41cf-85d4-d792b3574f66" style="display:none"></span>
         Click **Assets** on the manage sidebar.
 
         <span data-uuid="8924cda0-e8a8-4532-9954-64d16ff39e06" style="display:none"></span>
@@ -114,6 +123,7 @@ tags:
 
         <span data-uuid="38de4b48-5711-4e13-a508-48c87358a3b3" style="display:none"></span>
 
+        <span data-uuid="0a9adef8-b8ba-4953-8a23-947ff80343d4" style="display:none"></span>
         Find and select the asset from the list.
 
         <span data-uuid="1216707a-b69a-46b9-8c25-48218b1c1cfa" style="display:none"></span>
@@ -124,6 +134,7 @@ tags:
 
     <span data-uuid="9f023c85-37f2-4b94-a5b4-bea32ee56574" style="display:none"></span>
 
+    <span data-uuid="4739a3b9-f7a3-4d8c-817b-ea9801e1d4ad" style="display:none"></span>
     In the sidebar, click **Documents**.
 
     <span data-uuid="863b61e2-172c-4e90-85b2-755c889021ed" style="display:none"></span>
@@ -134,6 +145,7 @@ tags:
 
     <span data-uuid="a316ee99-00ec-4e2d-8547-6ea8847ae12d" style="display:none"></span>
 
+    <span data-uuid="a5f3c02b-5c88-4af3-8670-785daf0bd285" style="display:none"></span>
     At the top, click **+New document**.
 
     <span data-uuid="412d486a-09ec-4db6-b6a2-2ee0bce37550" style="display:none"></span>
@@ -144,12 +156,14 @@ tags:
 
     <span data-uuid="dc3d5b94-5cc1-4793-920b-cd545e98b98d" style="display:none"></span>
 
+    <span data-uuid="57aa764f-85f5-403b-89ee-cc7fcbb14a0b" style="display:none"></span>
     Choose whether to re-use from an existing template or add a new document from scratch.
 
     ??? outline "<span class="mb-label mb-label-slate">:lucide-refresh-cw: Re-using an existing template</span>"
 
         <span data-uuid="4673bbec-e69e-4faa-8418-823a945f8777" style="display:none"></span>
 
+        <span data-uuid="9e48b23f-adec-4aca-820a-4cc6b1ae3433" style="display:none"></span>
         Search/browse the list of available templates under the **Re-use a document template** section.
 
         Select **+Add** on the document you wish to add.
@@ -162,6 +176,7 @@ tags:
 
             <span data-uuid="620ccdfa-6e22-4d48-a718-ba3082a37027" style="display:none"></span>
 
+            <span data-uuid="5550259d-d824-4746-8e4f-d6f6c33b142d" style="display:none"></span>
             You’ve now added the document requirement and you will have been redirected to the manage page for this document. A reminder task will be generated shortly to prompt you to upload the document.
 
             Alternatively, you can upload a file (referred to as a revision) directly against this requirement from the manage page directly by clicking **+Add file**.
@@ -174,6 +189,7 @@ tags:
 
         <span data-uuid="60e4d139-7596-42cd-a8ff-5b1d745fd0b3" style="display:none"></span>
 
+        <span data-uuid="4e3415f2-9f9b-4e8a-88d8-def5b977e58d" style="display:none"></span>
         Select the type of document under the **Pick document type** section.
 
         Select **+Continue** on the type you wish to add **and continue with the steps below**.
@@ -185,6 +201,8 @@ tags:
 !!! step
 
     <span data-uuid="1eb280c8-bdc0-4d53-a061-38c052f9c4c4" style="display:none"></span>
+
+    <span data-uuid="14b73931-fc9d-4dfc-8831-c4d3701b601e" style="display:none"></span>
     Fill in the initial document configuration:
 
     !!! outline "Title"
@@ -198,6 +216,8 @@ tags:
     !!! outline "Visible to"
 
         <span data-uuid="43329990-1329-41a0-b29a-39c802fb7a57" style="display:none"></span>
+
+        <span data-uuid="f7dc0159-0b51-4758-84be-c6e88833a0e9" style="display:none"></span>
         Who should be able to see this document?
 
         *:lucide-lightbulb: We recommend keeping the default setting - ****Anyone, including via QR code or link**** - for common, non-sensitive resources such as policies and risk assessments. This makes them easy for everyone to access when needed.*
@@ -209,6 +229,8 @@ tags:
     !!! outline "Severity"
 
         <span data-uuid="77791b73-9cd5-467a-ad19-2584531f96c0" style="display:none"></span>
+
+        <span data-uuid="5428d95f-52b1-497d-82d8-5189044121ab" style="display:none"></span>
         Set the severity/importance for reminder tasks that generate to revise this document.
 
         <span data-uuid="67fef7a8-e853-417f-a551-d04b69ea8967" style="display:none"></span>
@@ -218,6 +240,8 @@ tags:
 !!! step
 
     <span data-uuid="d1c001b6-67c9-46b3-8e21-3bfd04ea4234" style="display:none"></span>
+
+    <span data-uuid="53b13485-bf42-49c2-8cdd-ed2e202ed069" style="display:none"></span>
     Define the document path. This will specify the location within your document folder(s) where the document will live and follow the following format:
 
     <span class="mb-label mb-label-orange">:lucide-folder: folder</span> / <span class="mb-label mb-label-orange">:lucide-folder: sub-folder</span> / <span class="mb-label mb-label-green">:lucide-file: filename</span>
@@ -234,6 +258,8 @@ tags:
         === "Example 1"
 
             <span data-uuid="2a43db21-145c-4665-8f9a-8ee78be68adc" style="display:none"></span>
+
+            <span data-uuid="7a9231b7-304f-42e0-8f46-9855359bbb02" style="display:none"></span>
             :lucide-folder-tree: Path = <span class="mb-label mb-label-mauve">policies/health-and-safety-policy</span>
 
             <span data-uuid="389218a2-bdfb-41cb-8a45-7dbbfc138a5c" style="display:none"></span>
@@ -270,6 +296,8 @@ tags:
         === "Example 2"
 
             <span data-uuid="6f17577e-55ec-46a4-8431-5020007f4e90" style="display:none"></span>
+
+            <span data-uuid="5c9db506-26bb-4330-8620-69556c063f63" style="display:none"></span>
             :lucide-folder-tree: Path = <span class="mb-label mb-label-mauve">policies/it-policies/it-policy</span>
 
             <span data-uuid="883d15d0-195b-4473-8372-39b5d4bc230a" style="display:none"></span>
@@ -306,6 +334,8 @@ tags:
 !!! step
 
     <span data-uuid="311d869b-752d-4313-aab0-a1b351cd12d1" style="display:none"></span>
+
+    <span data-uuid="b2cc2e85-28e5-47a0-85d0-14642ff9dd41" style="display:none"></span>
     Decide the requirement interval and lead time.
 
     <span data-uuid="2c882e8c-bc7f-40b4-9eb9-c44cfa0e54a1" style="display:none"></span>
@@ -319,6 +349,8 @@ tags:
     ??? info "Learn more"
 
         <span data-uuid="cd41c3ad-4ee9-4c47-bac6-7e3a747e0a3d" style="display:none"></span>
+
+        <span data-uuid="8272711f-f407-468f-8109-206bd77cf7fb" style="display:none"></span>
         Read our guide on Intervals & Lead Times below to learn more on how they work.
 
         <span data-uuid="7d91d065-54c1-448c-a8a1-8dc7bff1bb69" style="display:none"></span>
@@ -327,6 +359,8 @@ tags:
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="d47c9c7d-59d4-460d-a955-56adfc038f76" style="display:none"></span>
+
+    <span data-uuid="cc784686-b786-434a-80a2-15aecb5c3062" style="display:none"></span>
     Add a custom message to the document’s reminder tasks. Use this to provide additional context or information that may help others when resolving the task, such as a provider’s contact details or internal instructions.
 
     <span data-uuid="799050d5-b186-4eba-88fc-3dc19a018f59" style="display:none"></span>
@@ -336,6 +370,8 @@ tags:
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="ff7ebb5e-3ca3-4b93-b44e-6ba871359c47" style="display:none"></span>
+
+    <span data-uuid="78c9fb9e-6ae0-4380-8148-f79a13613f84" style="display:none"></span>
     If you have a file that you would like to upload immediately against this document requirement, upload it here.
 
     Upload the file and, enter the date of document.
@@ -347,11 +383,15 @@ tags:
     !!! warning
 
         <span data-uuid="ca5e8baf-d37f-42bb-831e-ac965e04d4f4" style="display:none"></span>
+
+        <span data-uuid="dc9f1b2e-3102-4528-8838-a6dc95a588da" style="display:none"></span>
         **Date of document (authoring date)** is the date the file, service, or certificate was completed, authored or became valid. Entering an inaccurate date may result in unnecessary early re-submission or cause non-compliance to go unnoticed.
 
 !!! step
 
     <span data-uuid="14804114-fe00-4f52-8b22-fbf05b451810" style="display:none"></span>
+
+    <span data-uuid="4c0f603e-f3a1-478e-8eaf-fdb43101ea04" style="display:none"></span>
     Finally, at the bottom, click **Save document**.
 
     <span data-uuid="8bc18d04-e083-4c9f-8ae4-a02996f2569e" style="display:none"></span>

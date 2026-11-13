@@ -7,11 +7,13 @@ tags:
 # Task inboxing
 <span data-uuid="6e0f44b9-d0e8-43fb-b10d-3b82596501c2" style="display:none"></span>
 
+<span data-uuid="5cce2fc3-ad4e-4263-8c34-e4dfadb4d97f" style="display:none"></span>
 Throughout Opus Compliance Cloud, tasks are displayed via inboxes/lists. This guide explains the different ways tasks are presented.
 
 ## Site Inbox
 <span data-uuid="1d3c5ab0-5c03-4a59-83ba-6716a17ebf8d" style="display:none"></span>
 
+<span data-uuid="f84ed497-235f-4cac-8ca8-e24e07b9ea75" style="display:none"></span>
 The `Site Inbox` displays all **open and unassigned** tasks for a site (including tasks in the inboxes of employees and assets located at the site).
 
 <span data-uuid="1d2b0a06-6549-4750-ba34-000ab76476b3" style="display:none"></span>
@@ -21,6 +23,8 @@ The `Site Inbox` displays all **open and unassigned** tasks for a site (includin
 ??? outline "How to get to the Site Inbox"
 
     <span data-uuid="6a921994-2142-4f7b-8fce-526e872e9351" style="display:none"></span>
+
+    <span data-uuid="358356c3-1ff2-42f9-85ab-956dbfdae157" style="display:none"></span>
     The `Site Inbox` can be found when viewing any site in **View mode**.
 
 
@@ -33,6 +37,8 @@ The `Site Inbox` displays all **open and unassigned** tasks for a site (includin
 ??? outline "Using the Site Inbox"
 
     <span data-uuid="f292fda9-e58b-4e15-95e8-6845390407bd" style="display:none"></span>
+
+    <span data-uuid="5287d66e-1ff7-4580-85dc-663288acd5dc" style="display:none"></span>
     For Site Managers, the `Site Inbox` is one of the most important tools for overseeing day-to-day operations. Your goal is to keep the inbox clear by promptly reviewing each task and either:
 
     - completing it yourself;
@@ -43,19 +49,20 @@ The `Site Inbox` displays all **open and unassigned** tasks for a site (includin
 
         <span data-uuid="128cee3d-28ed-43d1-9e94-8c38074c2b4a" style="display:none"></span>
 
-
+        <span data-uuid="c8d1f5f1-7019-4a0c-8ae1-d51fe2295ae2" style="display:none"></span>
         By default, tasks are displayed in **severity order**, with the most important tasks at the top. Work through the list **from top to bottom** so that high-priority tasks are addressed first.
 
     !!! warning
 
         <span data-uuid="3e5419d8-7c46-4408-afea-6042c027c0d6" style="display:none"></span>
 
-
+        <span data-uuid="1b149fca-eabf-488a-888f-ff75f9244835" style="display:none"></span>
         As a general rule, tasks should **not remain open and unassigned for more than two weeks**. If a task cannot be completed within that timeframe, assign it to yourself or another responsible employee so ownership is clear and progress can be tracked.
 
 ### My Tasks
 <span data-uuid="1c35aca4-2f03-44fc-a6c2-9998d3cadb7f" style="display:none"></span>
 
+<span data-uuid="33aa094d-fec3-446d-8858-2c4c5531916c" style="display:none"></span>
 `My Tasks` appears above the Site Inbox and lists all tasks assigned to you that belong to the site or any sites beneath it in the hierarchy.
 
 <span data-uuid="c8d1fafa-07a4-4ae4-9a5a-e80953f901af" style="display:none"></span>
@@ -65,11 +72,14 @@ The `Site Inbox` displays all **open and unassigned** tasks for a site (includin
 ### Inbox Coach
 <span data-uuid="495e5035-2113-4c1d-9ac8-c5f4dfeadb35" style="display:none"></span>
 
+<span data-uuid="0a822a96-210d-45f3-8b49-d42de0c66b48" style="display:none"></span>
 The `Inbox Coach` is a visual indicator displayed at the top of the `Site Inbox`. It provides an at-a-glance overview of the status of the tasks in your inbox, making it easy to see whether tasks are being completed effectively.
 
 ??? outline "<span class="mb-label mb-label-green">Status: Green</span>"
 
     <span data-uuid="95b503aa-0d25-40eb-960d-24ea3702967a" style="display:none"></span>
+
+    <span data-uuid="7ae75699-ffe4-47fa-8db3-4bab58b03ac8" style="display:none"></span>
     All tasks are <span class="mb-label mb-label-green">assigned</span> and nothing is older than 3 months.
 
     <span data-uuid="8af35757-76eb-4990-bbeb-856007cf01e3" style="display:none"></span>
@@ -79,6 +89,8 @@ The `Inbox Coach` is a visual indicator displayed at the top of the `Site Inbox`
 ??? outline "<span class="mb-label mb-label-blue">Status: Blue</span>"
 
     <span data-uuid="149ad457-fd4d-4a45-8238-36b327a1af20" style="display:none"></span>
+
+    <span data-uuid="c3aa91c0-f56f-49bb-8d37-9101cbf2797a" style="display:none"></span>
     All tasks in the inbox are under <span class="mb-label mb-label-blue">3 months old</span>.
 
     <span data-uuid="70f7a528-54b7-471f-bbf0-021d0dc81c99" style="display:none"></span>
@@ -88,6 +100,8 @@ The `Inbox Coach` is a visual indicator displayed at the top of the `Site Inbox`
 ??? outline "<span class="mb-label mb-label-amber">Status: Amber</span>"
 
     <span data-uuid="dbadf4ec-eb6a-4196-aaac-0fd87b746b98" style="display:none"></span>
+
+    <span data-uuid="a0ba9429-2136-42b8-8fd0-c959de5c8fc8" style="display:none"></span>
     There are tasks in the inbox that are over <span class="mb-label mb-label-amber">3 months old</span>. It is important that these are dealt with as soon as possible.
 
     <span data-uuid="fcf7ee78-3510-40dc-b7b3-d77479e333b4" style="display:none"></span>
@@ -97,6 +111,8 @@ The `Inbox Coach` is a visual indicator displayed at the top of the `Site Inbox`
 ??? outline "<span class="mb-label mb-label-red">Status: Red</span>"
 
     <span data-uuid="958eca7d-13b9-40b0-925b-e360600f23ef" style="display:none"></span>
+
+    <span data-uuid="a3060189-74c5-4fc0-8d45-81589a86ef11" style="display:none"></span>
     There are tasks in the inbox that are over <span class="mb-label mb-label-red">6 months old</span>. It is important that these are dealt with as soon as possible.
 
     <span data-uuid="d53bc170-d9ba-47b0-a541-4424745312e9" style="display:none"></span>
@@ -106,11 +122,14 @@ The `Inbox Coach` is a visual indicator displayed at the top of the `Site Inbox`
 ## All Tasks
 <span data-uuid="5e36255e-320f-41cb-9929-77bba4a06f46" style="display:none"></span>
 
+<span data-uuid="699e14b6-c24e-4049-8b25-f4f9c0f52006" style="display:none"></span>
 As the `Site Inbox` only displays open, unassigned tasks, use `All Tasks` to view every task, including open and resolved, assigned and unassigned.
 
 ??? outline "How to get to All Tasks"
 
     <span data-uuid="c24a189b-9153-4710-9e78-d6952bfcd993" style="display:none"></span>
+
+    <span data-uuid="b24f77db-d646-477c-835b-7c4e8752ece9" style="display:none"></span>
     You can get to the `All Tasks` page for a site by clicking the link at the top of the site inbox.
 
     <span data-uuid="4cf47e0a-1709-41e7-8005-6405a1fd00ec" style="display:none"></span>
@@ -120,6 +139,8 @@ As the `Site Inbox` only displays open, unassigned tasks, use `All Tasks` to vie
 ??? outline "Using All Tasks"
 
     <span data-uuid="ca329f91-57d5-4675-8755-6d47dab604b5" style="display:none"></span>
+
+    <span data-uuid="c946ade0-2f34-40f7-872a-42cfb1580fd8" style="display:none"></span>
     By default, `All Tasks` is sorted in the same way as all other task pages and inboxes - first by severity, then by age. This ensures that, when working from the top down, you are addressing the highest-priority tasks first.
 
 
@@ -132,11 +153,14 @@ As the `Site Inbox` only displays open, unassigned tasks, use `All Tasks` to vie
 ## My Assigned Tasks
 <span data-uuid="599dd13e-64e8-41a8-b673-13abf2a83106" style="display:none"></span>
 
+<span data-uuid="b71ed599-73f7-4994-8f4a-688c8ba38481" style="display:none"></span>
 As well as `My Tasks`, there is a dedicated page called `My Assigned Tasks` that lists all tasks assigned to you across any site.
 
 ??? outline "How to get to My Assigned Tasks"
 
     <span data-uuid="1ff0e541-df2f-40d4-8d80-caf08c532e20" style="display:none"></span>
+
+    <span data-uuid="0d3f505a-a138-42a6-800e-acc2cc094e3e" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard) or any view mode page, click your profile icon in the top right and select `My Assigned Tasks`
 
     <span data-uuid="0ac4a63f-b2ce-4fa6-b15b-4dc15cb87635" style="display:none"></span>
@@ -146,6 +170,8 @@ As well as `My Tasks`, there is a dedicated page called `My Assigned Tasks` that
 ??? outline "Using My Assigned Tasks"
 
     <span data-uuid="1c412477-0710-493a-9c13-12fcce01f36f" style="display:none"></span>
+
+    <span data-uuid="976a3559-3b6e-48be-8e2e-6d3a922af0dd" style="display:none"></span>
     By default, `My Assigned Tasks` is sorted in the same way as all other task pages and inboxes - first by severity, then by age. This ensures that, when working from the top down, you are addressing the highest-priority tasks first.
 
     This page also includes additional filtering and search tools to allow you to find the tasks you're looking for.

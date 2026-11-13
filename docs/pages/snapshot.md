@@ -7,11 +7,14 @@ tags:
 # Snapshot
 <span data-uuid="ca6f732c-3ef5-400c-8178-ca2bec4070c0" style="display:none"></span>
 
+<span data-uuid="879948e5-2556-4ba2-873f-e4afa5f0c7e8" style="display:none"></span>
 The Snapshot is a valuable reporting tool that enables managers and administrators to gain a clear, high-level overview of the current state of sites, employees and assets, while also providing the flexibility to generate targeted, filtered reports.
 
 !!! warning
 
     <span data-uuid="015baa16-6e37-47a5-bb53-01cce49bfbbb" style="display:none"></span>
+
+    <span data-uuid="7f087427-c4b3-4900-8a29-affd719232da" style="display:none"></span>
     The Snapshot should **not** be used as a replacement for the [Site Inbox](task-inboxing.md). It is designed to provide a high-level overview rather without some of the detail needed for day-to-day management of the system.
 
     The Snapshot does **not include all kinds of task** and does **not provide prioritisation**. While it is a useful reporting and monitoring tool, we recommend using the Site Inbox for general task management.
@@ -19,11 +22,11 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 ## How to run the Snapshot against a site
 <span data-uuid="cbf09369-9c74-403d-b42e-8ba2c6dc7136" style="display:none"></span>
 
-
 !!! step
 
     <span data-uuid="0511d89d-65a3-4b70-bb22-b0d098ecc706" style="display:none"></span>
 
+    <span data-uuid="ea06f547-3850-4490-824e-0770801846a7" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you wish to run the report.
 
     <span data-uuid="ab2a0bd5-a82d-41f5-8dce-36f75893516f" style="display:none"></span>
@@ -34,6 +37,7 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 
     <span data-uuid="00e53f32-b4f6-4d76-a750-74cc616b71ad" style="display:none"></span>
 
+    <span data-uuid="d59ab219-b2ab-4334-86df-731151ee723c" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
     <span data-uuid="f0e69fab-3ff8-4137-a215-c6f9a4eb9d2f" style="display:none"></span>
@@ -43,6 +47,8 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 !!! step
 
     <span data-uuid="a62e0671-12ea-4aab-824c-2dc7d6675a94" style="display:none"></span>
+
+    <span data-uuid="b7013179-883f-4f7f-8a30-52e2550e8ce4" style="display:none"></span>
     In the sidebar, under Reporting, click **Snapshot**.
 
     <span data-uuid="87bd7730-a902-45cd-8379-c81b952278f9" style="display:none"></span>
@@ -52,6 +58,7 @@ The Snapshot is a valuable reporting tool that enables managers and administrato
 ## The Snapshot overview page
 <span data-uuid="e2dc7af4-0752-40d8-aa8c-45098a3a6a65" style="display:none"></span>
 
+<span data-uuid="cb31635d-6244-4f06-8806-a00851734c53" style="display:none"></span>
 The overview page provides a series of “due counts” across a range of requirement and task types, giving you a good summary of outstanding items.
 
 <span data-uuid="2d8fecf8-b21b-46f0-9896-da7617c7287d" style="display:none"></span>
@@ -72,6 +79,7 @@ The overview page provides a series of “due counts” across a range of requir
 ## The Snapshot report page
 <span data-uuid="b8c29132-042f-4ac3-8a3a-d2f32caa1278" style="display:none"></span>
 
+<span data-uuid="4515141b-31bc-45a0-865d-4c7252f47dc9" style="display:none"></span>
 The report page is displayed after selecting a tile from the overview page. By default, it lists all currently overdue items within the selected category, however provides additional filters and options to refine the results further.
 
 <span data-uuid="66d442d2-51d2-40ee-a9a4-f61a8f0aeeef" style="display:none"></span>

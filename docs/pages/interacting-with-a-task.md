@@ -7,11 +7,13 @@ tags:
 # Interacting with a task
 <span data-uuid="4e951955-763b-426b-b87e-236cf24ec19b" style="display:none"></span>
 
+<span data-uuid="962537f6-0f95-4234-8f35-1a9806859f5a" style="display:none"></span>
 This guide covers the basics of interacting with tasks.
 
 ## Reminder Tasks
 <span data-uuid="53327301-5943-46a9-91bc-78f8e3d43dda" style="display:none"></span>
 
+<span data-uuid="1fd42edf-b548-43e6-86fc-94b00c600989" style="display:none"></span>
 The system automatically creates a reminder task when a requirement is due. These reminders may involve completing an e-learning course, uploading a document, or filling in a checklist.
 
 
@@ -24,11 +26,14 @@ Reminder tasks include a button / blue link in the initial task message, allowin
 !!! warning
 
     <span data-uuid="cea76eca-7f69-4a50-a8ad-d5b65c662538" style="display:none"></span>
+
+    <span data-uuid="5408c21f-395d-4644-8cef-d7ef31ba13b4" style="display:none"></span>
     You cannot resolve reminder tasks manually using the **Resolve** button. You must complete the outstanding requirement. The reminder task will resolve automatically after you complete the requirement.
 
 ## Commenting
 <span data-uuid="4b8e4a57-882d-4316-bace-27b350ba5491" style="display:none"></span>
 
+<span data-uuid="7695f21e-76c6-4217-8d95-0c915dc6fc98" style="display:none"></span>
 You can post comments in the task log by using the comment section, which is located towards the bottom of the task page.
 
 ??? example "Example 1 - Logging Task Progress"
@@ -50,6 +55,7 @@ You can post comments in the task log by using the comment section, which is loc
 ## Creating sub tasks
 <span data-uuid="086aa064-7bf0-4607-8197-419524b11e9d" style="display:none"></span>
 
+<span data-uuid="6cc18269-4233-48bd-8723-71e279d13b36" style="display:none"></span>
 You can add sub-tasks to a task by clicking the button in the task actions list. They are a useful way to break large or complex pieces of work into smaller, more manageable parts.
 
 <span data-uuid="18d7db20-bbfc-42ff-9f85-28c1b2f79985" style="display:none"></span>
@@ -59,6 +65,8 @@ You can add sub-tasks to a task by clicking the button in the task actions list.
 ??? example "Example - Using Sub Tasks with Incidents"
 
     <span data-uuid="10bdf799-3446-4a37-987b-ec39279348dc" style="display:none"></span>
+
+    <span data-uuid="1a3374c3-a6b1-4cbd-8398-7244af1a3a3a" style="display:none"></span>
     For managers handling incidents, sub tasks can be a useful way to create and allocate relevant work.
 
     <span data-uuid="1ea7b2d4-aab6-4940-8982-c5901bcf1518" style="display:none"></span>
@@ -68,6 +76,7 @@ You can add sub-tasks to a task by clicking the button in the task actions list.
 ## Snoozing tasks
 <span data-uuid="991647ca-b013-4539-b8bf-382edc17dca3" style="display:none"></span>
 
+<span data-uuid="f1ad3232-ee7c-4814-8cee-4457533f1e71" style="display:none"></span>
 Tasks can be snoozed for up to 14 days via the button at the bottom of the task page. 
 
 Snoozing is useful when you’re unable to complete a task for reasons such as waiting on a delivery or a booked service.
@@ -79,6 +88,8 @@ Snoozing is useful when you’re unable to complete a task for reasons such as w
 !!! warning
 
     <span data-uuid="91c48861-7906-499a-b016-f2f49dc153d8" style="display:none"></span>
+
+    <span data-uuid="72af26e7-611d-49ab-8d29-f681de9b49cd" style="display:none"></span>
     We recommend only snoozing tasks that have been assigned. If a task is unassigned, assign it to yourself or the person responsible before snoozing it. Unassigned snoozed tasks will continue to appear in the main site inbox.
 
     :lucide-user: *Those with user access can only snooze tasks if they're assigned.*
@@ -86,6 +97,8 @@ Snoozing is useful when you’re unable to complete a task for reasons such as w
 !!! note
 
     <span data-uuid="2e58e2d5-b2c8-410c-9cc2-e321e1ad9032" style="display:none"></span>
+
+    <span data-uuid="a68b2255-289c-4589-810a-5672bf1d01ae" style="display:none"></span>
     Snoozed tasks appear under their own tab on task pages.
 
     <span data-uuid="a5da506a-5702-47af-a8e9-b6c01b1af6f0" style="display:none"></span>
@@ -95,6 +108,7 @@ Snoozing is useful when you’re unable to complete a task for reasons such as w
 ## Resolving tasks
 <span data-uuid="362638da-9cc6-4327-8c5c-13cfde0f761a" style="display:none"></span>
 
+<span data-uuid="6828deb1-062b-498e-8238-5aaf2c3b7d90" style="display:none"></span>
 Tasks can be manually marked as resolved using the button at the bottom of the task page.
 
 <span data-uuid="00dd3f1e-16e1-4450-b5d0-ed5a03929afd" style="display:none"></span>
@@ -104,11 +118,14 @@ Tasks can be manually marked as resolved using the button at the bottom of the t
 !!! warning
 
     <span data-uuid="694464ce-8bcf-4575-a9d8-a0528df460a3" style="display:none"></span>
+
+    <span data-uuid="04e0a556-f52e-4748-8856-947b59980665" style="display:none"></span>
     Marking a task as resolved is typically only used for manually reported events or corrective actions. Tasks with linked requirements, such as checklist/document reminder tasks, can only be resolved by completing the requirement.
 
 ### Missing Information
 <span data-uuid="4c45ec42-c310-4e2e-8a3b-81c1ac71c17c" style="display:none"></span>
 
+<span data-uuid="434a84db-51cb-4319-8e17-3fe2ec961820" style="display:none"></span>
 You may encounter tasks that cannot be resolved and instead display a “Missing information” message.
 
 This occurs when a task has required inputs or conditions that have not yet been met. The message will describe the information that is missing and what is required to resolve the task.

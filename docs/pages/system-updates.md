@@ -12,6 +12,7 @@ This page highlights the main user-facing improvements, additions and feature re
 <div class="grid" markdown>
 
 !!! question "Have an idea, suggestion or question?"
+
     <span data-uuid="6b526c59-8411-463f-9d91-c18d4764caca" style="display:none"></span>
 
     We'd love to hear from you!
@@ -19,6 +20,7 @@ This page highlights the main user-facing improvements, additions and feature re
     [Let us know :lucide-send:](#){ .md-button .custom-button-emerald .custom-button--force-dark .custom-button--borderless onclick="event.preventDefault(); window.supportWidget.open();" }
 
 !!! info "Stay in the loop"
+
     <span data-uuid="274f372d-f2c3-4518-9827-68ffbe23260c" style="display:none"></span>
 
     We have a system updates email newsletter!
@@ -34,6 +36,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: More incident report customisation<span class="meta">12th November 2026</span>"
 
     <span data-uuid="5c58b6ee-cf5d-424e-93d7-392cefbf1f14" style="display:none"></span>
+
+    <span data-uuid="eab5fd4e-f8a6-4af5-8e84-f8997c973f22" style="display:none"></span>
     You can now apply additional filters to the incident report, including labels, locations and custom date ranges, using the new filtering option at the top of the page.
 
     This allows you to refine the report and focus on the incidents most relevant to you.
@@ -47,6 +51,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Line management<span class="meta">29th October 2026</span>"
 
     <span data-uuid="a6786f4a-24c8-43e0-8f3b-322e729bfe8c" style="display:none"></span>
+
+    <span data-uuid="ef24fb9d-5eae-40db-8f79-ac190ef3575f" style="display:none"></span>
     We now officially support direct employee access, allowing you to give managers access to specific employees they are responsible for, without granting them manager access to the entire site.
 
     This provides greater control over employee access, ensuring managers can access only the employees they need to manage.
@@ -63,6 +69,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Contractor Management (Official Release)<span class="meta">30th October 2026</span>"
 
     <span data-uuid="d5f1a692-3738-4524-a763-4d609ec896df" style="display:none"></span>
+
+    <span data-uuid="f8599984-016e-4516-8891-257d11a6f9ef" style="display:none"></span>
     Opus Contractor Management is a powerful new add-on that enables you to manage contractors directly through Opus Compliance Cloud.
 
     <span data-uuid="f67bd022-a9be-4f61-b93c-e76bd00a2e16" style="display:none"></span>
@@ -72,6 +80,8 @@ This page highlights the main user-facing improvements, additions and feature re
     !!! outline "<span class="mb-label mb-label-mauve">Feature summary</span>"
 
         <span data-uuid="ab24fe2f-b349-4219-8aa4-fc633f387bb3" style="display:none"></span>
+
+        <span data-uuid="201d0f26-d983-427e-8fd7-1c7b96495123" style="display:none"></span>
 
         - **:lucide-plus-circle: Simple contractor management:** Add and manage your contractors in a familiar, intuitive way.
         - **:lucide-shield-check: Contractor compliance:** Oversee and manage contractor requirements, including insurance documentation and compliance checks.
@@ -110,6 +120,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: New Task Reports Date Filters<span class="meta">22nd October 2026</span>"
 
     <span data-uuid="a9e2163b-6b5a-4387-aa27-d00730260579" style="display:none"></span>
+
+    <span data-uuid="30ab7d42-4de4-4537-8f58-41792217e90c" style="display:none"></span>
     Two new date range filters have been added to the Task reports page.
 
     1. **:lucide-megaphone: Reported at** - When the task was reported/created
@@ -150,6 +162,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Profile Status<span class="meta">15th October 2026</span>"
 
     <span data-uuid="76fdabca-c7a9-47af-baea-1c2a698c1ccc" style="display:none"></span>
+
+    <span data-uuid="32dded17-58ce-4db8-8b3c-2633a12fe69c" style="display:none"></span>
     You can now set a status on your profile that is visible to other users in OCC. This is useful for letting colleagues know when you're away, such as when you're on annual leave.
 
     <span data-uuid="2a002444-b9c9-4a72-92c1-ed0724ae5c8e" style="display:none"></span>
@@ -185,6 +199,8 @@ This page highlights the main user-facing improvements, additions and feature re
     !!! question "How to set a status?"
 
         <span data-uuid="dbb9449b-db73-4ed3-a9f4-4b90eeac5463" style="display:none"></span>
+
+        <span data-uuid="b8cf5ef3-79ef-43e3-8615-f5fc1735a8ec" style="display:none"></span>
         Statuses can be set in Opus Compliance Cloud via the **Profile & Settings** page.
 
         <span data-uuid="02ef2eef-5167-4e1b-ba6a-f043c7e23484" style="display:none"></span>
@@ -193,6 +209,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Issue equipment to an employee log<span class="meta">7th October 2026</span>"
 
     <span data-uuid="552310ed-a50d-4255-a4e0-1f7bead51142" style="display:none"></span>
+
+    <span data-uuid="b55d5fa2-c7f0-4905-858a-7974e727cfd3" style="display:none"></span>
     A new optional report type is now available, allowing you to record equipment issued to employees.
 
     ***:lucide-info: This report type is designed to be used by Managers/Administrators.***
@@ -204,6 +222,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-olive">:lucide-user: Logged against the employee record</span>"
 
         <span data-uuid="83352628-3e3b-4ba6-b0ac-98a2f2341b01" style="display:none"></span>
+
+        <span data-uuid="3af1de7b-8464-4e49-8cd0-f41fd245d42d" style="display:none"></span>
         All equipment logs are linked to the selected employee’s record. You can view all equipment issue tasks associated with an employee directly from their record under the **Related Tasks** section.
 
         <span data-uuid="05df84a9-e67b-4928-8f8c-caa1ea13bc89" style="display:none"></span>
@@ -217,6 +237,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-olive">:lucide-tag: Bespoke equipment labels</span>"
 
         <span data-uuid="c8df847f-d791-4f50-a15f-f9ca94a64b56" style="display:none"></span>
+
+        <span data-uuid="4b654875-0fc4-460e-8112-29e275b35799" style="display:none"></span>
         The list of equipment can be tailored to your organisation. Use this report type to record the issuing of anything from PPE and workwear to IT equipment.
 
         Selected equipment is also automatically added as labels to the task. This makes it easy to search for logs relating to specific items.
@@ -250,6 +272,8 @@ This page highlights the main user-facing improvements, additions and feature re
     !!! question "Interested in enabling this feature?"
 
         <span data-uuid="e8288b41-2e08-41d5-9cc6-00ce41ce883a" style="display:none"></span>
+
+        <span data-uuid="0ee3541f-7a34-418f-8d30-a464e9e7c1f4" style="display:none"></span>
         If you're interested in enabling this report type please let us know below.
 
         <span data-uuid="04f08803-fb10-46bc-86f0-0585f08d4452" style="display:none"></span>
@@ -258,11 +282,15 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Overhauled incident form<span class="meta">2nd October 2026</span>"
 
     <span data-uuid="2a5e1583-d1a5-4018-b85d-6881cc6a14c3" style="display:none"></span>
+
+    <span data-uuid="ba9fb3b8-a6a7-4310-8138-d23f7d000297" style="display:none"></span>
     We have overhauled the incident form to include some of the new features released as part of the task update yesterday. See a summary of the main changes below.
 
     ??? outline "<span class="mb-label mb-label-slate">:lucide-eye: Better required field visibility</span>"
 
         <span data-uuid="654cbefb-bef3-4456-8b03-ea895963575a" style="display:none"></span>
+
+        <span data-uuid="eac1c50f-cb5e-4e6c-8bf5-1ea2da6af5c1" style="display:none"></span>
         Required fields now have a red <span class="mb-label mb-label-red">:lucide-asterisk:</span> icon, making it easier to see what needs filling in.
 
         <span data-uuid="e64b0690-0cd2-4d51-997f-7664a6564cc1" style="display:none"></span>
@@ -272,6 +300,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-slate">:lucide-triangle-alert: New missing information flow</span>"
 
         <span data-uuid="7b4ceb8c-b4fa-4942-808d-ad1eb6e34bd1" style="display:none"></span>
+
+        <span data-uuid="5466d944-667a-470c-8225-303cb0396e74" style="display:none"></span>
         When attempting to resolve a task with missing required information, a warning popup will now appear. The warning lists links to all incomplete required fields. Clicking a link will automatically focus on and highlight the relevant field(s) in red.
 
         <span data-uuid="41ebc1e0-f577-470b-9bae-eb600716c398" style="display:none"></span>
@@ -285,6 +315,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-slate">:lucide-tags: Inline labels</span>"
 
         <span data-uuid="239600cf-ad1b-4808-a6bc-9b73edd1770b" style="display:none"></span>
+
+        <span data-uuid="5a74face-94e7-4746-80ee-f7ce3e7d5a46" style="display:none"></span>
         Required labels are now selectable directly in the task! This should improve the flow of filling out the incident form.
 
         <span data-uuid="89a05cce-49ed-4c20-ae4b-258d230a5e26" style="display:none"></span>
@@ -294,6 +326,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-slate">:lucide-megaphone: Status banners</span>"
 
         <span data-uuid="3a7ed88f-b1a6-43ba-b284-2a7db9107fce" style="display:none"></span>
+
+        <span data-uuid="cc805760-7d00-43d9-82b1-9414733100ad" style="display:none"></span>
         Tasks will now display helpful status banners to provide clearer feedback when specific actions are performed.
 
         <span data-uuid="5947af83-63e7-4d19-840e-38ae9b8ba321" style="display:none"></span>
@@ -307,11 +341,15 @@ This page highlights the main user-facing improvements, additions and feature re
     !!! info "Other report types"
 
         <span data-uuid="656bee30-bdb7-42c6-90d6-b8060c10c4b4" style="display:none"></span>
+
+        <span data-uuid="b3fcaf0d-2504-468c-8c30-4d879ac84406" style="display:none"></span>
         Our **Enforcement Officer Visit** report type has already been updated with these improvements, and similar functionality will be introduced across most other report types in the system over time.
 
 ??? feature-release "Feature release: New task features & improvements<span class="meta">1st October 2026</span>"
 
     <span data-uuid="afccf694-a60b-4386-a870-331ab1166f37" style="display:none"></span>
+
+    <span data-uuid="aebf0e23-7c37-4df4-8cf7-d07a3e7ff3ad" style="display:none"></span>
     Following on from the research and work carried out on redesigning the Manage side of Opus Compliance Cloud, we have now released a refreshed Task page.
 
     Here are the highlights:
@@ -319,6 +357,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-layout: Redesigned layout and header</span>"
 
         <span data-uuid="fa3ee4dc-3640-4b10-a2c0-aefbb49d29a5" style="display:none"></span>
+
+        <span data-uuid="695748ad-1013-43a0-87ed-44146ea96f19" style="display:none"></span>
 
         - The page header has been redesigned and now stays fixed at the top of the screen, so it remains visible as you scroll.
         - Task actions, such as moving, printing and creating subtasks, can now be accessed via the new :lucide-ellipsis: **More options** button in the top right.
@@ -331,6 +371,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-user-check: Improved assigning</span>"
 
         <span data-uuid="d1c0c48a-7f4e-42f9-a5e2-1425b91ef89a" style="display:none"></span>
+
+        <span data-uuid="db4b0650-26da-4ba0-8512-dab78883e747" style="display:none"></span>
         Assigning tasks is now easier than ever. Potential assignees are now grouped by access level, and we’ve also added a search bar to make finding the right person quicker and easier.
 
         <span data-uuid="d13bc63c-ca69-4299-84c3-da51ed695615" style="display:none"></span>
@@ -340,6 +382,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-arrow-up-circle: Improved selector style inputs</span>"
 
         <span data-uuid="47981c41-2559-4636-b236-e9f4b07bd22a" style="display:none"></span>
+
+        <span data-uuid="8fe76d6d-6bd1-4f59-8428-f32de01ed119" style="display:none"></span>
         We've improved the inputs that require you to select sites or employees, making it easier for you to find and select.
 
         <span data-uuid="7dcbdb57-0a6a-4c12-aa06-39316674f3fe" style="display:none"></span>
@@ -356,6 +400,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-mauve">:lucide-more-horizontal: More to come</span>"
 
         <span data-uuid="862829cf-e2d4-4d3b-a53f-c3a06fa5b95e" style="display:none"></span>
+
+        <span data-uuid="77794f90-3255-4103-87c7-6bda32ebb549" style="display:none"></span>
         There’s more to come! This update includes many more new features and improvements behind the scenes, laying the groundwork for a wider overhaul of existing forms, including Incidents, Enforcement Officer Visits, and more.
 
 ### August 2026
@@ -363,11 +409,15 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: SCORM 1.2 e-learning support<span class="meta">25th August 2026</span>"
 
     <span data-uuid="f927fe42-3d25-4ddf-a06f-1ee9861367b3" style="display:none"></span>
+
+    <span data-uuid="9381f98b-2796-48ff-824d-205c765a6128" style="display:none"></span>
     Opus Compliance Cloud now supports the import of e-learning modules created on external platforms, provided they utilise the common SCORM 1.2 standard. This enhancement allows you to centralise all your training materials within our system, streamlining compliance management and maximising the value of your existing educational content.
 
 ??? new-addition "New addition: Ready to operate status icons<span class="meta">21st August 2026</span>"
 
     <span data-uuid="a39c7559-611e-48a6-874c-aa8fa8f3790c" style="display:none"></span>
+
+    <span data-uuid="0433d58a-5cb8-4fea-87ae-6e616f250401" style="display:none"></span>
     For **Employee Roles** and **Asset Types**, a new status icon provides an at-a-glance indication of whether the employee or asset is compliant with their assigned role or type.
 
     You can also click this icon to highlight the requirements.
@@ -387,6 +437,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Training & Gaps report<span class="meta">21st August 2026</span>"
 
     <span data-uuid="e9510474-4655-4043-9552-cfa9cc6e48d8" style="display:none"></span>
+
+    <span data-uuid="b81de08d-eb01-4989-8c71-cfa36f6d76a7" style="display:none"></span>
     A new **Training Compliance & Gap Analysis** report page has been released, making it easier to identify and monitor training compliance issues across your organisation. The report allows you to analyse compliance by site and by type of training/e-learning, helping you quickly identify areas where action may be required.
 
     <span data-uuid="73a6b82e-9986-492a-9cc2-b5e88541905e" style="display:none"></span>
@@ -400,6 +452,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Subscription report<span class="meta">21st August 2026</span>"
 
     <span data-uuid="31935d7c-7a06-428c-a9ae-7ba62e617261" style="display:none"></span>
+
+    <span data-uuid="0ea0f102-5e3f-4915-81cf-93caf1508bdd" style="display:none"></span>
     A new **Subscriptions** report page has been released, allowing you to monitor the status of your employees’ subscriptions. This is particularly useful for top-level administrators to help ensure that their managers are subscribed to receive notifications about tasks relevant to their responsibilities.
 
     The report includes information such as:
@@ -416,6 +470,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Improved moving employee/asset flow<span class="meta">21st August 2026</span>"
 
     <span data-uuid="c7894c8c-c1cf-4b24-9b69-74ed7bc5cd93" style="display:none"></span>
+
+    <span data-uuid="d76d5ad3-d33e-4fb6-8aa9-24cccefa91a9" style="display:none"></span>
     We’ve improved the process for moving employees and assets, making it quicker and easier than ever!
 
     As part of today’s Manage mode UI updates, you’ll now find a **Change location** button on employee/asset overview pages.
@@ -453,6 +509,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Subscriptions wizard<span class="meta">21st August 2026</span>"
 
     <span data-uuid="697260ae-9b94-4e0c-aab3-b9e8b34876ad" style="display:none"></span>
+
+    <span data-uuid="0066833a-b033-47fe-8368-8b6c433d4fa8" style="display:none"></span>
     A new and improved notification setup flow that gives users the opportunity to configure:
 
     - :lucide-circle-check: Task subscriptions via our presets
@@ -467,6 +525,8 @@ This page highlights the main user-facing improvements, additions and feature re
 
         <span data-uuid="d586818b-7d4b-4b21-875d-707e1c7205f1" style="display:none"></span>
 
+        <span data-uuid="85422496-7266-4545-8098-d68837bce75b" style="display:none"></span>
+
         - All newly created Opus accounts will be prompted to go through this flow
         - If you haven't gone through this flow yet, a prompt will appear on [My Dashboard](https://cloud.opus-safety.co.uk/dashboard).
         - If you ever want to retake the wizard in the future, you can [via the subscriptions page](https://cloud.opus-safety.co.uk/my/subscriptions).
@@ -478,11 +538,15 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Manage mode UI redesign<span class="meta">21st August 2026</span>"
 
     <span data-uuid="f26f83e8-c560-4184-9165-7095adae2b3d" style="display:none"></span>
+
+    <span data-uuid="58e599d4-559e-4897-8722-feb33a592ff0" style="display:none"></span>
     Over a year of research and development has lead to the refresh of the Manage mode (Admin) side of Opus Compliance Cloud. Here are the highlights:
 
     ??? outline "<span class="mb-label mb-label-mauve">Redesigned and reorganised the manage sidebar</span>"
 
         <span data-uuid="87d8f209-42c1-4fc0-afdf-bb67d3e19df4" style="display:none"></span>
+
+        <span data-uuid="aa5de9a0-c271-46c1-8493-92042cbf7d65" style="display:none"></span>
         The old manage sidebar and the old :lucide-circle-ellipsis: menu have been combined into this new and improved manage sidebar. Everything you need to get around manage mode is now all in one place!
 
         <span data-uuid="255fc61c-78ad-4e1e-a88c-f19e81ac0d81" style="display:none"></span>
@@ -492,6 +556,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-mauve">Redesigned the Sites, Employees, and Assets overview pages</span>"
 
         <span data-uuid="ef0a282f-078f-4fda-a82d-f67136e086da" style="display:none"></span>
+
+        <span data-uuid="12a092a7-dec5-42d3-86ff-9b897a9afbfd" style="display:none"></span>
         The improvements make it easier for you to access important information.
 
         <span data-uuid="14a15c69-15f5-41f0-9f23-a5814e7dcc9f" style="display:none"></span>
@@ -509,6 +575,8 @@ This page highlights the main user-facing improvements, additions and feature re
     ??? outline "<span class="mb-label mb-label-mauve">Redesigned breadcrumb</span>"
 
         <span data-uuid="b3e313b7-5588-4210-ade6-55a232fc4d82" style="display:none"></span>
+
+        <span data-uuid="90abdb31-90bd-4461-8905-c0e0c9138fb0" style="display:none"></span>
         A new and improved breadcrumb at the top of the page also assists with navigation.
 
         <span data-uuid="14adaa3d-9c0a-462a-a769-6de78a9558ce" style="display:none"></span>
@@ -520,6 +588,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Checklist actions table on submission page<span class="meta">30th July 2026</span>"
 
     <span data-uuid="69f36f6b-d74f-42cc-90c8-3d5774f0ad08" style="display:none"></span>
+
+    <span data-uuid="a9e01214-ee09-438b-8f3b-1fef28d20e70" style="display:none"></span>
     A table containing checklist actions will now appear at the bottom of the checklist submission page, allowing you to easily see and access the actions that were generated from the submission.
 
     <span data-uuid="8ddb36a6-386e-44d9-9da9-d457079058b8" style="display:none"></span>
@@ -529,6 +599,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Cross-site answers for questions<span class="meta">30th July 2026</span>"
 
     <span data-uuid="2459a684-7670-4839-91bd-6c723fe7d938" style="display:none"></span>
+
+    <span data-uuid="80db0e79-aa88-48e9-87e5-a671bdb670e1" style="display:none"></span>
     You can now view answers to a specific checklist/playbook question across sites/assets that ask that question.
 
     <span data-uuid="05f4805c-33fe-4711-9884-43b91d33eca4" style="display:none"></span>
@@ -538,6 +610,8 @@ This page highlights the main user-facing improvements, additions and feature re
     !!! example
 
         <span data-uuid="106eaa17-8308-4ad9-a3e6-961e1a8ae383" style="display:none"></span>
+
+        <span data-uuid="13933f1f-254c-470d-8e3e-853b88e1fd29" style="display:none"></span>
         Your organisation may carry out daily vehicle checks in OCC that requires recording the vehicle's mileage. This new feature makes it easy to retrieve that information across your fleet.
 
         <span data-uuid="13308d82-d9b1-437d-b438-3e07c66f8c67" style="display:none"></span>
@@ -553,6 +627,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Displayed change in audit score since the previous audit<span class="meta">27th May 2026</span>"
 
     <span data-uuid="7f806ee2-ec5b-4c9c-bc2a-27d70000d735" style="display:none"></span>
+
+    <span data-uuid="6c844688-cf9c-4994-8653-6f9ed54b0082" style="display:none"></span>
     On the audit page you will now see a ± score column. This shows the change in score between the latest audit and the previous one.
 
     You can also see this on the individual audit page. Selecting the previous score will take you to the previous audit.
@@ -566,6 +642,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Site Snapshot Export<span class="meta">30th April 2026</span>"
 
     <span data-uuid="716ec2ad-43b5-45ad-9317-140e8f5d3845" style="display:none"></span>
+
+    <span data-uuid="c45d0e2c-4776-4ac3-8072-721a835916f5" style="display:none"></span>
     A new export button is now available directly on the Site Snapshot page. This feature generates a downloadable CSV file containing a detailed breakdown of the snapshot figures by individual sites.
 
     <span data-uuid="d2e34456-0a35-428f-9f89-8a938024660d" style="display:none"></span>
@@ -575,6 +653,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Unified Employees Page<span class="meta">9th April 2026</span>"
 
     <span data-uuid="57713841-1405-4bc3-b8ff-6afde1c6a515" style="display:none"></span>
+
+    <span data-uuid="c2c9dba5-25fd-4bdf-871d-47d2d02957a8" style="display:none"></span>
     A new toggle has been added to both 'Employees with access to site' and Employees with access to site' pages, allowing you to switch between views instantly without navigating away.
 
     This update also helps clarify the distinction between employee records located at a site and those with granted access to a site.
@@ -586,6 +666,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Dedicated Snooze Tab<span class="meta">9th April 2026</span>"
 
     <span data-uuid="d1754e0f-e51e-4c48-b335-73750d544b25" style="display:none"></span>
+
+    <span data-uuid="25fc4ad0-76e2-4f28-89a3-96040abd33fc" style="display:none"></span>
     A new tab has been added to both the 'All Tasks' and 'My Tasks' pages to isolate snoozed items into a separate list.
 
     This update helps declutter your task view, allowing you to focus on immediate priorities while keeping postponed tasks easily accessible in their own list.
@@ -597,6 +679,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Task Colour Indicators<span class="meta">9th April 2026</span>"
 
     <span data-uuid="ff6340a8-d9f6-42fb-8265-275e654a6a81" style="display:none"></span>
+
+    <span data-uuid="1a87820c-ef0f-4fd0-8ab1-9e9e7f391342" style="display:none"></span>
     We have introduced an amber visual indicator for tasks that have been open for more than three months. This provides an early warning before tasks reach the existing six-month red indicator, enabling you to proactively monitor, manage, and prioritise ageing tasks before they become overdue.
 
     <span data-uuid="8ab190e5-1e63-4647-96fb-5db20c9353ed" style="display:none"></span>
@@ -608,12 +692,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Incident Report - Days Lost Table<span class="meta">17th March 2026</span>"
 
     <span data-uuid="f4708510-3406-4d58-ae6e-5fcee0caf93a" style="display:none"></span>
+
+    <span data-uuid="fdfebde3-4618-4837-8598-10134e7e05c7" style="display:none"></span>
     The Days lost by site table in the incident report has been updated. In the 'Days lost' column, a warning icon will appear for incidents where the number of days lost has not been specified. Hovering over the icon displays a message showing the count of the calendar days since the incident. 
 
     ![Animation](../assets/media/system-update-captures/legacy-9ae344cd.gif){ width="700" align=right }
 ??? feature-release "Feature release: Task Export / Print<span class="meta">8th March 2026</span>"
 
     <span data-uuid="7e5eb1d0-3ce3-4a76-bd2d-564be70b5f98" style="display:none"></span>
+
+    <span data-uuid="9d4492e9-7a12-4bf3-83ce-d89254982188" style="display:none"></span>
     The new Export Task button allows you to generate a "clean" version of any task page. This automatically strips away system interface elements (like navigation bars and buttons) and allows you to customise the view to ensure the recipient sees only the information they need.
 
     **Customisation Options**
@@ -644,12 +732,16 @@ This page highlights the main user-facing improvements, additions and feature re
     !!! tip
 
         <span data-uuid="42c3b16d-4430-48cf-b5ac-93c378ec6d29" style="display:none"></span>
+
+        <span data-uuid="f2f2ee25-1ab4-40df-8367-8ac3ab215439" style="display:none"></span>
         Comments display relative time (e.g. "3mo ago"). Hover over the relative time text to reveal the exact date for filtering purposes.
 ### February 2026
 
 ??? new-addition "New addition: Administrator & Manager Access<span class="meta">23rd February 2026</span>"
 
     <span data-uuid="01a0c96a-6c3a-4949-a1fa-bf7405c53036" style="display:none"></span>
+
+    <span data-uuid="9a38e130-865e-4714-8d26-dbaf11407d8b" style="display:none"></span>
     New options for configuring employee site access to give you more control:
 
     - **Manager → Administrator:** The former Manager access level has been renamed to Administrator. Permissions remain exactly the same.
@@ -658,16 +750,21 @@ This page highlights the main user-facing improvements, additions and feature re
         - Set up new templates.
 
     !!! warning "Important"
+
         <span data-uuid="48f757ea-da31-4351-a517-4ec1bde60201" style="display:none"></span>
 
+        <span data-uuid="350cf1a8-1ba9-4360-8562-fca3abc7fe6b" style="display:none"></span>
         To ensure no disruption, all Managers are now Administrators (as of Sat 21st Feb 2026).
 
+    <span data-uuid="38154c5c-c4f2-4fed-84b5-7d40f8522ef1" style="display:none"></span>
     If you would like to bulk reduce any employee's access to the new Manager level, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">support is available here</a> to help.
 
     ![Animation](../assets/media/system-update-captures/legacy-d332eb71.gif){ width="300" loading=lazy }
 ??? improvement "Improvement: Streamlined Process for Adding New Employees<span class="meta">23rd February 2026</span>"
 
     <span data-uuid="55356b33-d920-4ffb-888b-7a5efc24df41" style="display:none"></span>
+
+    <span data-uuid="4c13763d-8463-4928-8398-7b9bdbe8d48e" style="display:none"></span>
     We've combined employee creation and standard site access into a single step. This speeds things up and ensures nobody is accidentally added without a role.
 
     We've also removed the automatic redirect to the site access page afterward. If you need to adjust specific permissions, check **"Configure or fine-tune access after adding this employee"** and you'll be taken there.
@@ -678,6 +775,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Disable Reminder Tasks<span class="meta">5th February 2026</span>"
 
     <span data-uuid="c969ded2-a178-46b7-970d-d6ab2385cd3d" style="display:none"></span>
+
+    <span data-uuid="0feb1acb-0e59-4687-872f-6fd4269d5398" style="display:none"></span>
     A new feature has been added to all resources (checklists, playbooks, etc) that allows reminder tasks to be disabled. This is particularly useful if you want to make a resource truly ad hoc.
 
     For example, it can be used for pre-use checks or procedure-based playbooks. Resources with their reminders disabled can be identified via the snoozed clock icon.
@@ -690,12 +789,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Inbox Coach<span class="meta">29th January 2026</span>"
 
     <span data-uuid="a3f629aa-8f60-4f08-8572-556eb38cf960" style="display:none"></span>
+
+    <span data-uuid="f757dcea-2d28-47e6-89d0-7cac53af47a0" style="display:none"></span>
     We've added an Inbox Coach to help you quickly understand the health of your tasks at a glance. The message and colour update automatically based on task age
 
     <span data-uuid="34db1879-707a-4a11-a606-f60ff57991f3" style="display:none"></span>
     === "Red"
 
         <span data-uuid="385d57c9-d938-4076-99a1-b5c02ee4b6b8" style="display:none"></span>
+
+        <span data-uuid="125ad075-9643-440e-8c97-0a6df88e1e16" style="display:none"></span>
         **You have tasks over 6 months old**
 
         <span data-uuid="0403d802-5184-4803-a7fc-fe0eea2241e2" style="display:none"></span>
@@ -705,6 +808,8 @@ This page highlights the main user-facing improvements, additions and feature re
     === "Amber"
 
         <span data-uuid="b081bb5a-9ce9-457d-ab17-fcc6abbb1aaf" style="display:none"></span>
+
+        <span data-uuid="204ef48e-55aa-4753-836d-838be6894056" style="display:none"></span>
         **You have tasks over 3 months old**
 
         <span data-uuid="9a6eff05-9c05-4e82-b310-bb2f73f61146" style="display:none"></span>
@@ -714,6 +819,8 @@ This page highlights the main user-facing improvements, additions and feature re
     === "Blue"
 
         <span data-uuid="2c456f0a-516b-4a2d-90e2-85aa07d2a42f" style="display:none"></span>
+
+        <span data-uuid="fbd61351-3db1-4797-83dd-1aa6f5bade60" style="display:none"></span>
         **All tasks are under 3 months old**
 
         <span data-uuid="7032e579-ebfe-47eb-bf09-e56de8cf6a88" style="display:none"></span>
@@ -723,6 +830,8 @@ This page highlights the main user-facing improvements, additions and feature re
     === "Green"
 
         <span data-uuid="8f1db755-9721-4717-93a1-1ab9c9f104f3" style="display:none"></span>
+
+        <span data-uuid="d1f9f870-fd65-4d8c-8903-4cb4759fc948" style="display:none"></span>
         **All tasks are assigned and nothing is older than 3 months**
 
         <span data-uuid="85874161-43b6-488e-b3ca-191f4426bad5" style="display:none"></span>
@@ -732,10 +841,14 @@ This page highlights the main user-facing improvements, additions and feature re
     !!! info
 
         <span data-uuid="b6da2987-b94e-4417-95f3-150b1db9ad46" style="display:none"></span>
+
+        <span data-uuid="1b0c9ba4-9010-442e-8cf5-6744a7e908ce" style="display:none"></span>
         We also now resurface "forgotten" assigned tasks that are over 3 months old, so nothing slips through the cracks. Snoozed tasks continue to be hidden from the inbox.
 ??? new-addition "New addition: Checklists - Visibility of Date Last Submitted<span class="meta">29th January 2026</span>"
 
     <span data-uuid="1bffc13b-d575-4eaf-90ee-d054487e1d7c" style="display:none"></span>
+
+    <span data-uuid="dbd61228-939b-475d-8a1c-8be7f251be92" style="display:none"></span>
     We now show when checklists were last submitted without having to open the record.
 
     This is especially useful for non-managers, who can now clearly see and demonstrate when a checklist was last submitted — for example, showing when an LGV daily check was completed if stopped at the roadside.
@@ -744,6 +857,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Incident Email Notifications Enhanced<span class="meta">29th January 2026</span>"
 
     <span data-uuid="58ba988b-d912-46c3-8060-e5aa0472428c" style="display:none"></span>
+
+    <span data-uuid="4ed0429b-7be7-4354-8bd4-4f5f3ee3fe90" style="display:none"></span>
     Incident email notifications now include the initial incident description.
 
     This means you can quickly understand what's happened and how serious it is, helping you decide whether it needs urgent attention — without having to log into the system first.
@@ -760,12 +875,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Employee List Linked Filter<span class="meta">18th December 2025</span>"
 
     <span data-uuid="8b4a12f6-3571-480e-bf0b-00b59c109ef8" style="display:none"></span>
+
+    <span data-uuid="9677a584-5e71-424c-8f3c-8173973ad6bb" style="display:none"></span>
     We have added a 'Linked' filter on both the All Employees and Employees with Site Access pages. This allows you to filter and see which employee records have been linked to an Opus account — it defaults to 'Both'.
 
     ![Animation](../assets/media/system-update-captures/legacy-f9468bba.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Role + Asset Type Requirements - Schedule Added to Hover-overs<span class="meta">18th December 2025</span>"
 
     <span data-uuid="a44721bf-63df-4014-962a-b2977bab65c9" style="display:none"></span>
+
+    <span data-uuid="bebde0d3-9f1c-4b42-80ac-7eeac10d757b" style="display:none"></span>
     When you hover over an asset type or role in the Manage Employee or Manage Asset pages, you'll now see the schedule of the linked requirement directly in the pop-up.
 
     This also extends to the Manage Asset Types and Manage Roles pages — making it easier to check requirement schedules without opening each one.
@@ -778,6 +897,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Task Query<span class="meta">23rd October 2025</span>"
 
     <span data-uuid="477c87a6-dc49-44af-af25-dc115facab7b" style="display:none"></span>
+
+    <span data-uuid="7e15e821-f5ea-4a4c-8303-db4728fc792a" style="display:none"></span>
     We've introduced an enhanced Task Query feature on both the All Tasks and Task Report pages. You can now pick and combine various parameters.
 
     Autocomplete suggestions appear for: site, author, assignee, label. *(Role and Type coming soon.)*
@@ -794,6 +915,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Site Inbox<span class="meta">23rd October 2025</span>"
 
     <span data-uuid="2f21eea7-8596-42be-9c0d-03077cbae9f9" style="display:none"></span>
+
+    <span data-uuid="097fae13-a6bd-4c81-815e-6b854e9ce917" style="display:none"></span>
     We've refreshed the Site Inbox with a cleaner, more intuitive design — based directly on client feedback.
 
     - Simplified layout for easier navigation.
@@ -807,12 +930,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: All Tasks<span class="meta">23rd October 2025</span>"
 
     <span data-uuid="7f126fab-38c0-43f2-bd3d-6bdb0cb2d0c4" style="display:none"></span>
+
+    <span data-uuid="cf0810e0-a7cc-4abb-8721-8038dfe57a63" style="display:none"></span>
     The All Tasks list has been upgraded following the same design improvements as the Site Inbox, with a few small differences in layout and behaviour. These changes make it easier to review and manage tasks across all sites at a glance.
 
     ![Animation](../assets/media/system-update-captures/legacy-a1283b63.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Uploading Documents - Report Something Option<span class="meta">1st October 2025</span>"
 
     <span data-uuid="391ab77b-f4cf-40dc-9ccc-8ba446b35aef" style="display:none"></span>
+
+    <span data-uuid="fe3959af-fec6-424f-8bf1-07d31b0e3c33" style="display:none"></span>
     When you add a new document in OCC, you'll now see a **Report Something** option. This allows you to instantly raise a related report at the same time as uploading the file.
 
     **Example use case:** An engineer's inspection report highlights a defect. As you upload the document, you can immediately log a corrective action — keeping the evidence and the follow-up action linked together in one place.
@@ -829,6 +956,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Future Starter UI Tweaks<span class="meta">4th September 2025</span>"
 
     <span data-uuid="8f2a0892-32ef-4148-8814-4c7dabe969eb" style="display:none"></span>
+
+    <span data-uuid="118a6141-3601-4942-889f-77e30f141fe0" style="display:none"></span>
     We've made some slight changes for employees with a future start date. They will now show with a specific future date style, along with an informational panel explaining that tasks won't be generated until their start date (they can still carry out E-learning etc. ahead of that time).
 
     ![Animation](../assets/media/system-update-captures/legacy-9cdd0f4d.png){ width="700" loading=lazy }
@@ -839,6 +968,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Temporary Access for Non-Registered Employees<span class="meta">28th August 2025</span>"
 
     <span data-uuid="08b29cc4-8f01-4157-85d1-cbf676a77756" style="display:none"></span>
+
+    <span data-uuid="d7fdae35-9ccd-4a37-8ada-d23bd1eac639" style="display:none"></span>
     Give non-registered staff access to E-learning, Employee Checklists, and Playbooks with a single QR code or link!
 
     Instead of a separate QR code / link for each item, you can now generate one for temporary access — valid for 1 week after first use. When the employee uses it, they get access to a simplified My Dashboard.
@@ -853,12 +984,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Playbooks - Ability to Check Progress<span class="meta">28th August 2025</span>"
 
     <span data-uuid="61b836ba-d07a-4242-a753-b408d19fd79e" style="display:none"></span>
+
+    <span data-uuid="855cef6d-3651-4248-8003-5d44a30e4061" style="display:none"></span>
     You can now see what section a playbook is on via the Playbook submission history. Hovering over will give you the name of the section.
 
     ![Animation](../assets/media/system-update-captures/legacy-5d7da841.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Checklist Cadence Graphs<span class="meta">20th August 2025</span>"
 
     <span data-uuid="dd19690a-46d1-4c3c-a6b9-edc99bf8ea03" style="display:none"></span>
+
+    <span data-uuid="74f12d2b-6bc8-421d-83d5-b544ecec0a72" style="display:none"></span>
     We've made a number of improvements based on your feedback:
 
     - Open circle icon = at least one action raised
@@ -868,16 +1003,21 @@ This page highlights the main user-facing improvements, additions and feature re
     - Date filtering — selecting a day on the Manage Checklist page now filters the submission table to that date
 
     !!! tip
+
         <span data-uuid="d40a5290-391c-486a-8ebf-0f182efb7804" style="display:none"></span>
 
+        <span data-uuid="827d9bd5-8521-493b-8258-06765504e498" style="display:none"></span>
         If you'd like a custom page showing multiple checklist cadence graphs (e.g. across multiple sites), please speak to Opus and we can help set this up.
 
+    <span data-uuid="3dca4d5b-21ef-4773-84d8-29f1a8fd33d9" style="display:none"></span>
     ![Animation](../assets/media/system-update-captures/legacy-1630605c.png){ width="700" loading=lazy }
 ### July 2025
 
 ??? improvement "Improvement: Terminology Change from 'Diverge' to 'Override'<span class="meta">29th July 2025</span>"
 
     <span data-uuid="b5284ecd-0b9d-4a51-90cc-a2eee85834b6" style="display:none"></span>
+
+    <span data-uuid="033aa7da-5939-4396-8bfd-7e2fe1fe7a63" style="display:none"></span>
     This was changed to make the function more obvious and to be consistent with language used elsewhere in the system.
 
     You'll see an **Override** button on certain records like checklists or training where individual editing may be allowed. This means the item was originally created from a template set at company level. By clicking Override, you're choosing to override the template for this specific instance only — it won't affect the original template or other instances.
@@ -888,6 +1028,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Introducing 'Immediate' Task Severity<span class="meta">29th July 2025</span>"
 
     <span data-uuid="1bf25532-4010-4aac-b168-761a23788146" style="display:none"></span>
+
+    <span data-uuid="c3221127-7fd1-4160-8eba-d2de82491299" style="display:none"></span>
     We've introduced a new top severity — **Immediate**.
 
     **When to use:** Issues that must be actioned now, ahead of all other work. Examples: a serious threat to life (e.g. live electrics, unprotected edge), an active breach of the law, or a live incident that poses substantial business risk.
@@ -900,12 +1042,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Search Bar Added to 'My Sites' Page<span class="meta">24th July 2025</span>"
 
     <span data-uuid="1a6a5aae-d207-4d34-9827-68c0ac1172c1" style="display:none"></span>
+
+    <span data-uuid="0e15d91a-f2c1-45d4-82cc-29710e1885bf" style="display:none"></span>
     You'll now see a live search bar at the top of your 'My Sites' page. As you type, the list instantly filters to match your input — no more scrolling or relying on your browser's search function.
 
     ![Animation](../assets/media/system-update-captures/legacy-8ca8a7b6.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Adding Linked Actions to Document Submissions<span class="meta">24th July 2025</span>"
 
     <span data-uuid="3dcd65f3-53c3-4efb-9b0d-24b6493c5f2e" style="display:none"></span>
+
+    <span data-uuid="a54f6e91-6335-4f25-870f-4f14b175cea0" style="display:none"></span>
     You can now add actions directly from the Manage Documents page.
 
     This is especially useful for external audits (e.g. ISO audits) — upload the audit document and link any follow-up actions to it. Actions stay linked to that specific document revision, keeping everything neatly connected.
@@ -918,6 +1064,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Report Templates - Repeat Report<span class="meta">24th July 2025</span>"
 
     <span data-uuid="1cb2407b-ec86-4c00-965d-3bf0f2ab1dfa" style="display:none"></span>
+
+    <span data-uuid="98faa61c-95a9-4955-8cb4-809cd1e7ffd5" style="display:none"></span>
     You can now quickly add another task straight after submitting the first one.
 
     This is especially useful when adding multiple sub tasks — once you add the first, check this box and keep adding more until you're done.
@@ -928,6 +1076,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Role Required Documents<span class="meta">10th July 2025</span>"
 
     <span data-uuid="50e2a355-c2b8-4edc-8cda-603ea43d55d4" style="display:none"></span>
+
+    <span data-uuid="1ec4e88e-9838-4fcb-8b6e-f0c4dd928781" style="display:none"></span>
     You can now assign required documents to specific roles in OCC.
 
     This is ideal for anything you want to make compulsory that isn't training — such as a new starter form, driver declaration, or licence check.
@@ -936,6 +1086,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Playbooks<span class="meta">10th July 2025</span>"
 
     <span data-uuid="42ffee43-91a7-4600-8eac-ea19e1b1b69e" style="display:none"></span>
+
+    <span data-uuid="98497b2f-e07b-45cb-80c1-7e91b8f38075" style="display:none"></span>
     Playbooks are similar to checklists but let you direct someone to do something step-by-step, rather than simply confirm it's been checked. Think of them as interactive, guided procedures.
 
     Previously you could shoehorn these into a checklist, but that meant users could tick "No" (unhelpful) or generate unnecessary actions. Playbooks solve that.
@@ -962,6 +1114,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Alternative Notification Style<span class="meta">18th June 2025</span>"
 
     <span data-uuid="4cc1ebd3-5360-4193-8685-0fca168af5c1" style="display:none"></span>
+
+    <span data-uuid="37c54fc8-f9f5-47b0-8878-fb6a36488312" style="display:none"></span>
     You can now customise how your in-system (bell icon) notifications appear.
 
     A new option allows you to show only unread notifications — ideal if you receive a high volume and want a clear, distraction-free list.
@@ -974,6 +1128,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Custom Quick Filters<span class="meta">12th June 2025</span>"
 
     <span data-uuid="486bade8-f7cc-4206-8c00-4e14262d6f58" style="display:none"></span>
+
+    <span data-uuid="689718cf-5fb0-498c-81f3-7044f6d40107" style="display:none"></span>
     The Quick Filters on Task Reports and the All Tasks page can now be edited by Opus.
 
     So if there are search queries you use regularly — for example 'Corrective Actions from Employee Checklists' — Opus can add that for you to save time.
@@ -982,6 +1138,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Document Sharing<span class="meta">5th June 2025</span>"
 
     <span data-uuid="31eddf36-4c59-44b9-9310-d0d33a8aebbe" style="display:none"></span>
+
+    <span data-uuid="0f60a523-41cd-41cd-8d19-179af3b45374" style="display:none"></span>
     You can now generate a link or QR code for any document in OCC — they will always take users to the latest attached file, no matter when they access it.
 
     - **Shareable Link:** Anyone with OCC access can click to view the most up-to-date attached file.
@@ -999,6 +1157,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Checklist Completion by Non-Logged-In and Anonymous Users<span class="meta">22nd May 2025</span>"
 
     <span data-uuid="13e8203f-b12f-4ae0-91a3-0a644214f034" style="display:none"></span>
+
+    <span data-uuid="15e65106-ca0d-4a63-8341-a5a5bcaacec0" style="display:none"></span>
     You can now configure checklists to be completed by non-logged-in users.
 
     Note — while this is more 'friction free' it does:
@@ -1014,6 +1174,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Ability to Preview E-learning Courses<span class="meta">22nd May 2025</span>"
 
     <span data-uuid="5c9f44a3-4bb0-4cbc-aef6-f7bebbc1f4b6" style="display:none"></span>
+
+    <span data-uuid="af10ec70-73af-4284-8de6-414991596fbd" style="display:none"></span>
     You can now preview E-learning content directly from your E-learning templates.
 
     You can reach an E-learning template via:
@@ -1025,6 +1187,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Checklist Informationals<span class="meta">14th May 2025</span>"
 
     <span data-uuid="7a2fa6f6-9fac-4971-b0dc-5a69311d2750" style="display:none"></span>
+
+    <span data-uuid="049d8263-3399-4d58-8019-6cec371d33d7" style="display:none"></span>
     We can now add information to your checklists to provide additional context or guidance to the person completing it. This could be:
 
     - Text based instructions
@@ -1040,6 +1204,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Alternative Audit Report Views<span class="meta">6th April 2025</span>"
 
     <span data-uuid="65868026-24d0-4a07-a56a-ca037424a4f4" style="display:none"></span>
+
+    <span data-uuid="aa7719fd-fa79-4488-819e-3c79c190b10c" style="display:none"></span>
     You can now tailor your view of published audits to focus on the most relevant information. Choose from:
 
     - **Summary** – The default view; sections are collapsed. Any section with a marked-down score is highlighted in bold.
@@ -1055,18 +1221,24 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Employee List Authorisation Filters<span class="meta">20th March 2025</span>"
 
     <span data-uuid="639c2431-219a-4575-be7c-5cd2a19f69a5" style="display:none"></span>
+
+    <span data-uuid="19b1d19e-a474-4e97-87cf-6828fa0ac721" style="display:none"></span>
     You can now filter your staff list to see who has the sensitive health authorisation, if this is used in your organisation.
 
     ![Animation](../assets/media/system-update-captures/legacy-2119af1b.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Staff Export - Additional Columns Added<span class="meta">20th March 2025</span>"
 
     <span data-uuid="c271382e-d998-413f-97cc-a51a583de2e3" style="display:none"></span>
+
+    <span data-uuid="87f70c7f-922d-49bb-86ea-2bd94330ae1d" style="display:none"></span>
     Based on feedback, we've added Created Date, Start Date and Health Data Authorisation columns to the export.
 
     ![Animation](../assets/media/system-update-captures/legacy-0c11e3bf.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Subtask Title Prefix<span class="meta">20th March 2025</span>"
 
     <span data-uuid="2b414b0e-f311-45a4-80d5-1c2e2d6d67bd" style="display:none"></span>
+
+    <span data-uuid="00480a7a-fd02-4c7a-8623-d8181b691e18" style="display:none"></span>
     We now auto-add the master task name as a prefix to the sub task name. This makes it easier to understand the context of a sub task when seen in the tasks list. You can still update the title to whatever you'd like.
 
     ![Animation](../assets/media/system-update-captures/legacy-8af35da9.png){ width="700" loading=lazy }
@@ -1075,6 +1247,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Assign Myself<span class="meta">18th March 2025</span>"
 
     <span data-uuid="b496c611-57aa-476a-adee-2d92f615290f" style="display:none"></span>
+
+    <span data-uuid="79557c69-ea44-42f2-8f4c-adcf5c5d9354" style="display:none"></span>
     The new **Assign Myself** button allows you to assign tasks to yourself with just one click, bypassing the need to search through a list.
 
     ![Animation](../assets/media/system-update-captures/legacy-b6c12af9.png){ width="700" loading=lazy }
@@ -1083,6 +1257,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Health Data Access Controls<span class="meta">15th February 2025</span>"
 
     <span data-uuid="3dd3d2ac-9bd8-42e8-9e77-af8a7e5cec52" style="display:none"></span>
+
+    <span data-uuid="61d8c086-8838-4931-8077-413a0997588d" style="display:none"></span>
     To ensure compliance with legislation, we have introduced stricter access controls for Health Surveillance and DSE records, which contain sensitive personal information classified as 'special category data'.
 
     Previously, any OCC manager could view these records for their staff. Now, an additional authorisation is required.
@@ -1097,10 +1273,14 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Report Type Filter<span class="meta">10th February 2025</span>"
 
     <span data-uuid="d98d6485-ac65-4c75-8c8d-4d55c6d80a46" style="display:none"></span>
+
+    <span data-uuid="fa74f65b-a7cc-42d9-895a-d7f554e2e377" style="display:none"></span>
     Opus Support can now provide you with a web link that displays only a single report type. This also means we can generate a QR code for the customised link if required.
 ??? improvement "Improvement: Employee Site Access - Warning Note Added<span class="meta">7th February 2025</span>"
 
     <span data-uuid="58f0f382-c57c-43c7-bbfc-d34d4588c91d" style="display:none"></span>
+
+    <span data-uuid="ffc5c963-ea83-4623-86d8-1312539eec52" style="display:none"></span>
     When you add an employee, you will always be taken to a page to add site access. If you fail to complete this step, a warning will now be displayed both on this page and on the employee's profile.
 
     ![Animation](../assets/media/system-update-captures/legacy-f72a7ff4.png){ width="700" loading=lazy }
@@ -1110,6 +1290,8 @@ This page highlights the main user-facing improvements, additions and feature re
 
     <span data-uuid="ff230999-f620-4a7b-bd4f-c999b398aea2" style="display:none"></span>
 
+    <span data-uuid="09f1a269-2469-4f8e-8219-a22c0f81afcb" style="display:none"></span>
+
     1. You can now select archived employees in the "Injured Employee" field if the accident occurred during their employment period, using the employee's start and last day dates for accurate record-keeping.
     2. For clients managing multiple sites, the "Injured Employee" field now pulls employees from the site where the accident occurred as well as the site specified in the "Against Which Site Should This Be Logged?" field.
 
@@ -1117,6 +1299,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Irregular Schedules<span class="meta">16th January 2025</span>"
 
     <span data-uuid="5a7e1f77-b1ee-44af-a2be-0e53583ee1e2" style="display:none"></span>
+
+    <span data-uuid="ec9aa602-ded8-4590-8197-8b5153d548c3" style="display:none"></span>
     We now support irregular schedules where training or documents don't conform to a regular time-based schedule (e.g. 3 yearly).
 
     This feature allows you to set the date of the new training / document and then manually add the review date. Please get in touch if you would like to use this feature.
@@ -1125,6 +1309,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Bespoke Task Labels<span class="meta">2nd January 2025</span>"
 
     <span data-uuid="b9ff90ba-9eb9-4bf1-ac01-0bc56d7757f0" style="display:none"></span>
+
+    <span data-uuid="5a18a910-590e-406c-86ea-856615fc9c1a" style="display:none"></span>
     You can now create custom task labels tailored to your organisation's needs. These labels can be applied to tasks and subscribed to by relevant team members.
 
     Useful for tagging incidents by machinery type or area of production to assist with reporting, or for alerting specific groups of colleagues by applying a custom label they've subscribed to.
@@ -1135,6 +1321,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Bespoke Checklist Style Report Templates<span class="meta">2nd January 2025</span>"
 
     <span data-uuid="582739fa-de4c-4d82-a32a-7b56f40abf78" style="display:none"></span>
+
+    <span data-uuid="466c36e5-5004-4518-82be-101794d6a3ea" style="display:none"></span>
     We can now create bespoke report templates for 'ad hoc' checklists.
 
     This is useful for clients who want to conduct a checklist on an off-site installation — where a normal checklist wouldn't be appropriate as it wouldn't be scheduled and each submission would be independent of previous ones.
@@ -1151,6 +1339,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Requirement Intervals - Public Release<span class="meta">22nd December 2024</span>"
 
     <span data-uuid="f353ba4f-af45-4ade-8c43-25f296cc4763" style="display:none"></span>
+
+    <span data-uuid="5cc21247-7d84-4fd4-881c-0b61a95a16f2" style="display:none"></span>
     This feature has been refined and released for public use.
 
     It allows you to see on one page what the default schedules are for training and E-learning templates, and identify any divergences — indicating employees have records not using the default schedules (usually because a manager has altered the schedule).
@@ -1161,18 +1351,24 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Briefings & Sign-off Sheets Global View<span class="meta">20th December 2024</span>"
 
     <span data-uuid="74e1b9ca-e797-49fe-b4b2-b9bf8716f45d" style="display:none"></span>
+
+    <span data-uuid="42aa5575-10df-42c0-8b99-de82e9ec5937" style="display:none"></span>
     You can now see briefings and staff sign-off sheets across all your sites.
 
     ![Animation](../assets/media/system-update-captures/legacy-17f8cc7c.png){ width="700" loading=lazy }
 ??? improvement "Improvement: To-do Tasks Automatic Reopen<span class="meta">20th December 2024</span>"
 
     <span data-uuid="50b3a3d0-f311-4ad7-a0fc-10854d8aac66" style="display:none"></span>
+
+    <span data-uuid="b952605c-52bb-4ed0-83e4-8eb4e80d1038" style="display:none"></span>
     If a user tries to resolve a task without completing the requirement — e.g. adding a training record or completing a checklist — the task will now reopen straight away, rather than closing and generating a new task.
 
     ![Animation](../assets/media/system-update-captures/legacy-942c7985.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Warning if Assignee Cannot Complete the Task<span class="meta">20th December 2024</span>"
 
     <span data-uuid="08345ddf-79ab-4ffa-80fb-b33961e3c72c" style="display:none"></span>
+
+    <span data-uuid="718620ff-0605-48f0-88ad-902f1f2ee820" style="display:none"></span>
     OCC now shows a pop-up warning when the person assigned to a task cannot directly complete it themselves — e.g. the assignee is not a manager but the task is to upload a training certificate, or the task is E-learning for someone else.
 
     A warning icon also appears next to the assigned user.
@@ -1183,24 +1379,32 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Easily Identify Role or Type-Specific Requirements<span class="meta">19th December 2024</span>"
 
     <span data-uuid="5da7515b-7b8a-4d11-9811-ab801bd38252" style="display:none"></span>
+
+    <span data-uuid="76b48ad0-7aed-419f-8a50-994a3609c205" style="display:none"></span>
     You can now click on an employee role or asset type to see which records relate to that role / type.
 
     ![Animation](../assets/media/system-update-captures/legacy-df74bac0.png){ width="700" loading=lazy }
 ??? new-addition "New addition: My Assigned Tasks - Snoozed and Resolved Filters<span class="meta">18th December 2024</span>"
 
     <span data-uuid="f5e5983e-6beb-4d9b-95dd-f9d247266e5d" style="display:none"></span>
+
+    <span data-uuid="4e80908f-1400-45a2-8df4-832c67745601" style="display:none"></span>
     My assigned tasks now has filters for snoozed and resolved tasks to help you manage your workload.
 
     ![Animation](../assets/media/system-update-captures/legacy-3170abf7.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Site Snapshot - Archived Records<span class="meta">18th December 2024</span>"
 
     <span data-uuid="18c5b3bd-4827-4912-9793-681cd9d2185e" style="display:none"></span>
+
+    <span data-uuid="3e40ed10-ab0e-4f89-8a54-af94bf1aed0d" style="display:none"></span>
     You can now opt to see archived records in the snapshot pages.
 
     ![Animation](../assets/media/system-update-captures/legacy-1ebbd174.png){ width="700" loading=lazy }
 ??? feature-release "Feature release: My Dashboard Full Release<span class="meta">16th December 2024</span>"
 
     <span data-uuid="2f36f7ed-bb15-4a7b-a886-cc6c0feb7939" style="display:none"></span>
+
+    <span data-uuid="e52d336a-dd51-4830-8c35-78f5b449c3af" style="display:none"></span>
     My Dashboard is where you will now land when logging in.
 
     Designed based on feedback, it gives quicker access to your own E-learning / checklists, provides launch points to your inbox(es), highlights your top priority task, and prompts you to update your display name and add an avatar.
@@ -1211,12 +1415,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Spillage Report Type<span class="meta">7th December 2024</span>"
 
     <span data-uuid="f2dc6605-a141-44d5-a9ee-406eefb05768" style="display:none"></span>
+
+    <span data-uuid="f843958c-2420-4b33-88fa-d43aa499fa85" style="display:none"></span>
     We've added a new optional report type specifically designed for recording spillages. Particularly useful for clients who are ISO 14001 accredited and require detailed spillage documentation.
 
     ![Animation](../assets/media/system-update-captures/legacy-57aa675e.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Accident Report Template - Contact Details Tweaks<span class="meta">5th December 2024</span>"
 
     <span data-uuid="2d0fb5ee-a446-4f18-9638-f8c7a9b056a4" style="display:none"></span>
+
+    <span data-uuid="3b001b92-8fac-4d9a-85df-d3323173753a" style="display:none"></span>
     The form now has explicit separate areas for contact details for the person reporting and the injured party.
 
     ![Animation](../assets/media/system-update-captures/legacy-58c78b38.png){ width="700" loading=lazy }
@@ -1225,6 +1433,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Accident Form - 'Days off Work' Change<span class="meta">5th December 2024</span>"
 
     <span data-uuid="c8f263b1-3c42-4df8-a939-b8705cc62f87" style="display:none"></span>
+
+    <span data-uuid="24a03393-dd66-4844-83ad-6204ea6bb9d3" style="display:none"></span>
     The form now asks if the employee has had time off — if answered 'Yes', a separate field appears to add the days lost.
 
     This prevents users submitting '0' when they don't yet know if the employee has had time off, and then failing to update it later.
@@ -1237,12 +1447,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Document Path Automation<span class="meta">10th November 2024</span>"
 
     <span data-uuid="7ed57513-4e62-4601-83cd-a2652a5eeeab" style="display:none"></span>
+
+    <span data-uuid="5d6904b5-cc69-458d-8d2c-728aec2c73b2" style="display:none"></span>
     The system now creates a file / folder path for you automatically. You can choose from existing folders. This should speed up the adding of new documents.
 
     ![Animation](../assets/media/system-update-captures/legacy-7f094709.png){ width="700" loading=lazy }
 ??? improvement "Improvment: Role / Asset Type Requirements - Visual Indicator<span class="meta">10th November 2024</span>"
 
     <span data-uuid="26a4828a-6a4a-4e92-8f9c-6b4698f07853" style="display:none"></span>
+
+    <span data-uuid="0d3afbe6-4667-45b8-8a92-df3741cff169" style="display:none"></span>
     It's now easy to see whether a record is there because it was added to the asset / employee individually, or because it's a role or asset type requirement.
 
     ![Animation](../assets/media/system-update-captures/legacy-877caa2f.png){ width="700" loading=lazy }
@@ -1251,12 +1465,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Checklist Tab Tree View<span class="meta">10th November 2024</span>"
 
     <span data-uuid="3f43fe7d-cbde-4d84-bd16-0927a49d8449" style="display:none"></span>
+
+    <span data-uuid="38bf2b7f-c459-47e8-8545-73ace9a3ff3b" style="display:none"></span>
     It's now easier to see in one place which checklists across all sites and assets are due.
 
     ![Animation](../assets/media/system-update-captures/legacy-f0ecb247.png){ width="700" loading=lazy }
 ??? new-addition "New addition: My Dashboard Beta Release<span class="meta">10th November 2024</span>"
 
     <span data-uuid="13297a80-736a-4eff-97b0-fd3996a22431" style="display:none"></span>
+
+    <span data-uuid="0cfee803-421a-44a9-83dc-ee5e9d3842f4" style="display:none"></span>
     The profile settings now allow you to opt into a new landing page featuring quick links and nudges to take you to the right locations.
 
     Opt in [here](https://cloud.opus-safety.co.uk/my/profile#:~:text=Save%20changes-,Preferences,-Change%20the%20behaviour) and let us know your thoughts.
@@ -1267,6 +1485,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Flag Task Label<span class="meta">25th October 2024</span>"
 
     <span data-uuid="721fab00-832b-4673-80d9-395f7fb734dd" style="display:none"></span>
+
+    <span data-uuid="f6c25d40-f017-46d4-8d53-a336db8648a2" style="display:none"></span>
     Available on all tasks across the system, you can now apply a 'Flag Task' label to highlight tasks for urgent review or escalated handling.
 
     **How to Use It:** Apply the 'Flag Task' option on any task you wish to highlight.
@@ -1279,6 +1499,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Incident Summary Field<span class="meta">24th October 2024</span>"
 
     <span data-uuid="2b934d47-3e64-40fc-b25f-3f3f71f05143" style="display:none"></span>
+
+    <span data-uuid="2291df1b-ce69-4094-84c4-4491483c3b1e" style="display:none"></span>
     We've added a summary field in the incident form and updated the text in the initial report.
 
     We encourage prompt logging — the person making the initial report shouldn't feel they need all the details before starting. The **"What Happened?"** field (formerly "Details of the Incident") captures what is understood to have happened at the time of reporting. Further details can be added later.
@@ -1289,6 +1511,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Extended Task Snooze<span class="meta">20th October 2024</span>"
 
     <span data-uuid="9521d459-75ee-42ce-ad20-74cb4d70a983" style="display:none"></span>
+
+    <span data-uuid="9b9b90a0-fbe3-4cb9-8479-7bd0a40127c9" style="display:none"></span>
     Opus Compliance Cloud Admins can now snooze tasks for extended periods of 3, 6, 9, or 12 months — perfect for situations like maternity leave or other long-term absences.
 
     If you want to use this feature, please comment on the task(s) explaining why, then send us the task link(s).
@@ -1297,6 +1521,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Employee Site Access Management<span class="meta">20th October 2024</span>"
 
     <span data-uuid="02a4b7d0-ab9a-4f2a-adb4-338cc084c6f3" style="display:none"></span>
+
+    <span data-uuid="419aa613-f0e3-448b-8f50-b81cee29ca84" style="display:none"></span>
     We have separated the management of employee site access from the employee edit page. It is now handled through a dedicated site access page, simplifying the process of managing site permissions.
 
     See [here](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/adding-a-new-employee) for more guidance.
@@ -1307,36 +1533,48 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Ability to Add Photos or Use Camera for Document Uploads<span class="meta">22nd August 2024</span>"
 
     <span data-uuid="dfcfc35d-94ff-4f73-adb2-553c64149d84" style="display:none"></span>
+
+    <span data-uuid="f5b793b7-8802-4220-8186-13831c338214" style="display:none"></span>
     Previously PDF only, you can now upload images or take photos on a mobile device. Helpful for users who don't have PDF versions of certificates / reports or can't scan documents.
 
     ![Animation](../assets/media/system-update-captures/legacy-c39b74bd.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Attach Image Multi-Select<span class="meta">22nd August 2024</span>"
 
     <span data-uuid="95619adb-4d84-40a2-9f89-45ce53938599" style="display:none"></span>
+
+    <span data-uuid="72685f9f-3ad1-4b2e-80e2-fff2a85bfb43" style="display:none"></span>
     You can now select multiple images at once when using the 'attach image' function on checklists or tasks.
 ### July 2024
 
 ??? improvement "Improvement: Site Snapshot Parity Update<span class="meta">21st July 2024</span>"
 
     <span data-uuid="db3b8272-9cfe-4a9a-81e3-c9290f824095" style="display:none"></span>
+
+    <span data-uuid="73568709-447d-491d-8a03-31503d28ff44" style="display:none"></span>
     When clicking on a card within the Site Snapshot (e.g. Training Due), the number of items listed now corresponds to the number on the card.
 
     ![Animation](../assets/media/system-update-captures/legacy-74b87910.gif){ width="700" loading=lazy }
 ??? improvement "Improvement: User Inbox Subscription Button<span class="meta">21st July 2024</span>"
 
     <span data-uuid="f550c574-03e5-49e6-96f2-a56022f77021" style="display:none"></span>
+
+    <span data-uuid="0b1f84b0-7f41-4dcd-8682-f4f1d2dc1d8c" style="display:none"></span>
     Subscriptions button (located: User inbox > All Tasks) now functions as intended and takes you to subscriptions page.
 
     ![Animation](../assets/media/system-update-captures/legacy-04979956.gif){ width="700" loading=lazy }
 ??? feature-release "Feature release: Printable Sign-off Sheets and Briefings<span class="meta">19th July 2024</span>"
 
     <span data-uuid="3ffe71b6-1c83-41a3-afe6-07024d4e1a2f" style="display:none"></span>
+
+    <span data-uuid="037eab7e-aab1-40db-84db-08b7cd144312" style="display:none"></span>
     You can now create a printable sign-off sheet and later turn it into a briefing. Useful for things such as toolbox talks.
 
     ![Animation](../assets/media/system-update-captures/legacy-f145add7.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Site Snapshot - Asset Type / Employee Role Filtering<span class="meta">1st July 2024</span>"
 
     <span data-uuid="272e9b6f-8b0f-4dd8-b140-8f9981f43665" style="display:none"></span>
+
+    <span data-uuid="a5eb5f52-de50-46b8-8e13-d4ede5a87d07" style="display:none"></span>
     You now have the ability to filter by asset type or employee role on both the Site Snapshot page and snapshot subpages.
 
     ![Animation](../assets/media/system-update-captures/legacy-d955222d.png){ width="700" loading=lazy }
@@ -1345,12 +1583,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Profile & Settings UI<span class="meta">14th June 2024</span>"
 
     <span data-uuid="b37558df-3bda-4afc-baa4-c90c719c2659" style="display:none"></span>
+
+    <span data-uuid="d06c10d4-cbdb-4929-8e72-45f6f5c5ac0b" style="display:none"></span>
     The profile & settings UI has been updated to assist with user account management and ease of use. Newsletters have also been added - located on the new top bar, along with Security, Subscriptions and Notifications.
 
     ![Animation](../assets/media/system-update-captures/legacy-1dc6ad68.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Individual User 2FA / MFA Refinement<span class="meta">14th June 2024</span>"
 
     <span data-uuid="7713f377-5fcc-4096-9365-66813f895300" style="display:none"></span>
+
+    <span data-uuid="7a8e6c18-0a39-4ca1-85ef-2737b558378e" style="display:none"></span>
     Following on from 7th June feature release - Setting up and maintaining 2FA on your account is now easier. Individual users can now opt to use 2FA.
 
     This menu is now located under "Security" in the Profile & Settings UI. An updated guide has also been posted in the Knowledge Base under tips.
@@ -1359,12 +1601,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Mode Button UI Update<span class="meta">7th June 2024</span>"
 
     <span data-uuid="e9ec1d2e-9008-485e-a901-81175c5a4ee5" style="display:none"></span>
+
+    <span data-uuid="4d95df87-a9d6-4003-844f-d279000cbdfd" style="display:none"></span>
     Manage and View buttons have been recoloured and renamed to 'Switch to Manage Mode' / 'Switch to View Mode' to make it clearer to users which mode is being viewed.
 
     ![Animation](../assets/media/system-update-captures/legacy-c5b0163b.png){ width="700" loading=lazy }
 ??? feature-release "Feature release: Individual User 2FA/MFA<span class="meta">7th June 2024</span>"
 
     <span data-uuid="9d43e68b-43af-4ef7-ba5e-27693127e6b7" style="display:none"></span>
+
+    <span data-uuid="a3b8b788-064d-4a2c-89b7-6aef2c42b74b" style="display:none"></span>
     New feature added to allow individual users to setup 2FA/MFA on their accounts.
 
     ![Animation](../assets/media/system-update-captures/legacy-b21c11ba.png){ width="700" loading=lazy }
@@ -1373,12 +1619,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Safety Alerts Multi-Site Selection<span class="meta">23rd May 2024</span>"
 
     <span data-uuid="00963139-d7a9-4656-bd2c-d30b995d4c74" style="display:none"></span>
+
+    <span data-uuid="d8834df8-7353-4b24-8b55-e32a1085b5f6" style="display:none"></span>
     Added ability to tick multiple sites in one go and toggle on / off for sub sites.
 
     ![Animation](../assets/media/system-update-captures/legacy-a16003ae.png){ width="700" loading=lazy }
 ??? new-addition "New addition: 'Signed in as' Name Display<span class="meta">23rd May 2024</span>"
 
     <span data-uuid="6b6ab2ea-31eb-4a81-bcd9-5f96c72994e0" style="display:none"></span>
+
+    <span data-uuid="a7ed0d2e-d9a4-44f0-827d-507b2c3489a5" style="display:none"></span>
     Added for cases where user might share devices. If the name here is wrong it indicates to the user that the previous user has not logged out or that they have shared a session and the other user has overwritten their display name.
 
     ![Animation](../assets/media/system-update-captures/legacy-3350b611.png){ width="700" loading=lazy }
@@ -1387,6 +1637,8 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: Document Access Controls<span class="meta">25th April 2024</span>"
 
     <span data-uuid="5f6c0cb4-9041-4275-8377-4feb1e187863" style="display:none"></span>
+
+    <span data-uuid="41b41860-4d62-4ef2-8655-77379a83f1a5" style="display:none"></span>
     Documents now have 3 access levels:
 
     - Anyone with a valid link or QR code (default)
@@ -1400,6 +1652,8 @@ This page highlights the main user-facing improvements, additions and feature re
 
     <span data-uuid="9b25490f-88b4-4965-8bd7-26c7b49958e3" style="display:none"></span>
 
+    <span data-uuid="a2fd5620-80b5-47e0-8ba1-169cf9e9075c" style="display:none"></span>
+
     - 'Occurrence site' changed to 'Against which site should this accident be logged' and moved to the investigation section.
     - New 'missing information' text changes.
 
@@ -1407,24 +1661,32 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? improvement "Improvement: Role / Asset Type Pop-up<span class="meta">16th April 2024</span>"
 
     <span data-uuid="5b75fcff-f478-465a-b51b-46002db5c9e8" style="display:none"></span>
+
+    <span data-uuid="077adea1-cf4e-4cba-8b0b-b3ba333f51a1" style="display:none"></span>
     Hover over role or asset types to see what Role Requirements or Asset Type Requirements are set. Also shown on adding new employees and assets via a more info ... button.
 
     ![Animation](../assets/media/system-update-captures/legacy-d752167f.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Clear End Date<span class="meta">16th April 2024</span>"
 
     <span data-uuid="7d33ceeb-a1d1-499d-81bf-ee62293b8d30" style="display:none"></span>
+
+    <span data-uuid="a78afebf-1e65-4003-8bc4-c3bbd22b1d07" style="display:none"></span>
     Added to more easily remove left dates on archived staff or assets.
 
     ![Animation](../assets/media/system-update-captures/legacy-932bf84d.png){ width="700" loading=lazy }
 ??? improvement "Improvement: Reduced / Refined Notification Email<span class="meta">15th April 2024</span>"
 
     <span data-uuid="e8c78ed8-d9c1-432c-a07e-eee5ba1c3343" style="display:none"></span>
+
+    <span data-uuid="e6b4d637-970c-47de-8c68-8ed72dd0cf3e" style="display:none"></span>
     Based on client feedback we have made the notification email simpler to make it easier / quicker to read.
 ### March 2024
 
 ??? new-addition "New addition: Task Comment Highlighting<span class="meta">21st March 2024</span>"
 
     <span data-uuid="8b7fa566-5bdc-427d-968d-365878045f35" style="display:none"></span>
+
+    <span data-uuid="d29296d5-d72d-411e-8e5f-40c2abe09709" style="display:none"></span>
     Comment boxes will now highlight new comments. Blue for new comments inc. system information messages. Orange / green to see task comments that others have made when you click on a notification link.
 
     ![Animation](../assets/media/system-update-captures/legacy-91351821.png){ width="700" loading=lazy }
@@ -1435,28 +1697,38 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? new-addition "New addition: File Uploader<span class="meta">12th March 2024</span>"
 
     <span data-uuid="be7a84ca-202e-4f99-80a6-6eda40206c1e" style="display:none"></span>
+
+    <span data-uuid="967d680d-22e1-4470-8e53-7337eacfdf4a" style="display:none"></span>
     A new file uploader to allow larger files to be added to checklist, training and documents. This will prevent issues where larger files were timing out. Note: support for image files coming soon. For mobile devices we recommend using Camscanner or other document scanning app to convert physical files into PDFs.
 
     ![Animation](../assets/media/system-update-captures/legacy-1f25efb4.png){ width="700" loading=lazy }
 ??? feature-release "Feature release: Checklist Cadence Graph<span class="meta">12th March 2024</span>"
 
     <span data-uuid="8fdeb00b-93d2-46d7-8acc-a02d31a73be0" style="display:none"></span>
+
+    <span data-uuid="d5e30002-04b1-4ab7-89a2-36be18f0cc0b" style="display:none"></span>
     Within "Manage Checklist" you will see the Checklist Submission Calendar / Cadence Graph which displays checklist submissions over time — a convenient snapshot to identify any gaps showing non-compliance.
 
     ![Animation](../assets/media/system-update-captures/legacy-88af476f.png){ width="700" loading=lazy }
 ??? improvement "Improvement: New Terminology - Sub Tasks and Parent Tasks<span class="meta">12th March 2024</span>"
 
     <span data-uuid="9ece4410-9058-4087-b2c9-5c9894538104" style="display:none"></span>
+
+    <span data-uuid="ef723f26-2e9d-438f-86d9-d7f277365b5b" style="display:none"></span>
     A small change to make the system easier to understand. Previously referred to as Delegate Tasks and Resolves Tasks.
 ??? improvement "Improvement: Sub Task Snoozing<span class="meta">12th March 2024</span>"
 
     <span data-uuid="ec9464c4-1105-4a71-a68f-0f38458f5a6a" style="display:none"></span>
+
+    <span data-uuid="5143d7ac-fca4-4b05-85c7-3fe078206349" style="display:none"></span>
     When you add sub tasks you will see a bell symbol to the right. Selecting that will snooze the parent task until the sub task is completed. Ideal for tasks that can't be progressed until sub tasks are done.
 
     ![Animation](../assets/media/system-update-captures/legacy-f7a4a2f9.png){ width="700" loading=lazy }
 ??? new-addition "New addition: E-learning Certificates<span class="meta">12th March 2024</span>"
 
     <span data-uuid="7361e35a-5995-4b9d-93f7-37d4f9d9eb74" style="display:none"></span>
+
+    <span data-uuid="dde265fc-f01b-4e3c-88d2-83e0452b9820" style="display:none"></span>
     Currently for newly taken courses. Opus can generate a certificate if you need it. Find it by clicking on the E-learning name then View.
 
     ![Animation](../assets/media/system-update-captures/legacy-235fc745.png){ width="700" loading=lazy }
@@ -1467,12 +1739,16 @@ This page highlights the main user-facing improvements, additions and feature re
 ??? feature-release "Feature release: Safety Alerts<span class="meta">15th February 2024</span>"
 
     <span data-uuid="26420708-bf04-400f-b4e6-41674c5ea078" style="display:none"></span>
+
+    <span data-uuid="15615844-7622-432e-8445-633d77065857" style="display:none"></span>
     Allows you to create tasks on multiple sites to alert to critical issues — see [here](https://sites.google.com/opus-safety.co.uk/opus-help/sites/safety-alerts) for more guidance.
 
     ![Animation](../assets/media/system-update-captures/legacy-8ec9d5c0.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Audit Subscription<span class="meta">15th February 2024</span>"
 
     <span data-uuid="13473286-81a8-4f2e-bf45-79c784000215" style="display:none"></span>
+
+    <span data-uuid="dbc74f12-1c87-4c87-8fe0-764268a0e5d7" style="display:none"></span>
     A task is now generated on the site inbox when an audit is published against your site(s) with a link to the audit report and with any audit actions listed as sub tasks. You can also now subscribe to recieve in-system/email notifications for audits being published against your site(s).
 
     ![Animation](../assets/media/system-update-captures/legacy-f6f880ff.png){ width="700" loading=lazy }

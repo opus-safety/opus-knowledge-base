@@ -8,11 +8,13 @@ icon: lucide/layout-dashboard
 ## What is Opus Compliance Cloud?
 <span data-uuid="83ad77b8-b137-43ca-a4ed-06ec4905ced0" style="display:none"></span>
 
+<span data-uuid="cb62fa4d-6f14-4ec9-8cf5-4b4708835fc3" style="display:none"></span>
 Opus Compliance Cloud is a compliance management system focused on Health & Safety. It enables you to manage your sites, employees, assets, contractors, and more - all in one place - helping your organisation stay on top of its compliance responsibilities.
 
 ## Get started
 <span data-uuid="b8e1850f-82f0-41f1-89fd-5ff9717ff265" style="display:none"></span>
 
+<span data-uuid="863a6506-8b62-4c5f-8dc2-f5ac209accf5" style="display:none"></span>
 Browse the guides using the search bar at the top or the navigation bar on the left.
 
 
@@ -21,7 +23,6 @@ Browse the guides using the search bar at the top or the navigation bar on the l
 ## Guidebooks
 <span data-uuid="d55541b1-6c53-4664-bf44-a6bc5d5e4823" style="display:none"></span>
 
-
 <span data-uuid="a99c20d5-4717-42a3-bc29-bd5e0eef47a0" style="display:none"></span>
 
 <div class="grid" markdown>
@@ -29,6 +30,8 @@ Browse the guides using the search bar at the top or the navigation bar on the l
 <div class="card" markdown>
 
 <span data-uuid="c01bd4cc-b706-448b-83ea-932ad8dc462d" style="display:none"></span>
+
+<span data-uuid="7a4399bf-9390-4874-87d2-b0886e013143" style="display:none"></span>
 <span class="mb-label mb-label-blue">:lucide-user: Using Opus Compliance Cloud</span>
 
 ---
@@ -43,6 +46,8 @@ Designed for those with **User access** on Opus Compliance Cloud.
 <div class="card" markdown>
 
 <span data-uuid="50aa6825-e181-40cc-9798-1d0102b8b1b8" style="display:none"></span>
+
+<span data-uuid="5797bbc7-9aca-499c-8f61-77d6c23c858d" style="display:none"></span>
 <span class="mb-label mb-label-purple">:lucide-user-shield: Managing Opus Compliance Cloud</span>
 
 ---
@@ -57,6 +62,8 @@ Designed for those with **Manager access** on Opus Compliance Cloud.
 <div class="card" markdown>
 
 <span data-uuid="33c09b08-8081-4f43-bd99-4f84affc2c74" style="display:none"></span>
+
+<span data-uuid="47a67b0f-66a6-4390-8613-bcd3e713d44c" style="display:none"></span>
 <span class="mb-label mb-label-pink">:lucide-user-cog: Administering Opus Compliance Cloud</span>
 
 ---

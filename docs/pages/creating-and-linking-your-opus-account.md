@@ -7,6 +7,7 @@ tags:
 # Creating & linking your Opus Account
 <span data-uuid="7329797e-cd0c-458f-a323-856194a4d2da" style="display:none"></span>
 
+<span data-uuid="2e3bcd8a-b936-4417-894a-8a9f4e47e302" style="display:none"></span>
 Follow this guide to help you with creating and/or linking your Opus Account. 
 
 *:lucide-info: This guide assumes you have already received a registration link or QR code from the relevant manager. If you have not received one, please refer them to [this guide](registering-an-employee.md) for instructions on how to provide it to you.*
@@ -14,17 +15,19 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 ## Account setup
 <span data-uuid="c772b843-1475-4143-a36b-cc0159285e08" style="display:none"></span>
 
-
 <span data-uuid="a9398ff7-9a16-4369-8523-7c043f4dea4c" style="display:none"></span>
 === "New Opus User"
 
     <span data-uuid="52c84df8-6b59-4cdb-be5a-6cccd2617225" style="display:none"></span>
+
+    <span data-uuid="38acfdfb-c91d-4847-8374-7c5012c599ec" style="display:none"></span>
     **Follow the steps below to create a new Opus account and complete registration.**
 
     !!! step
 
         <span data-uuid="2171aa52-2563-40d2-8814-0f33d3879c92" style="display:none"></span>
 
+        <span data-uuid="5bc6c0dc-56e0-4baf-8fea-611e12cc1a6d" style="display:none"></span>
         After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
 
         **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
@@ -36,6 +39,8 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     !!! step
 
         <span data-uuid="7353b8fe-c583-4f41-9f93-a556031cad8b" style="display:none"></span>
+
+        <span data-uuid="507d99da-09d0-4450-876d-d33c7ec06eb6" style="display:none"></span>
         Click **Sign up**
 
         <span data-uuid="ab137c20-0365-40cd-8919-30af1c7de998" style="display:none"></span>
@@ -46,6 +51,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
         <span data-uuid="42832d68-6039-4061-93eb-f0409528b3f0" style="display:none"></span>
 
+        <span data-uuid="d9256ef1-2f07-4854-875d-e6e0817f4045" style="display:none"></span>
         Create your Opus account using an email and password.
 
         <span data-uuid="2467748f-680c-4148-8807-1e219ee10fd5" style="display:none"></span>
@@ -55,6 +61,8 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     !!! step "<span class="meta">:lucide-triangle-alert: Important! Do not skip.</span>"
 
         <span data-uuid="fd7eabe7-fdc3-4002-b341-32049a58b43e" style="display:none"></span>
+
+        <span data-uuid="e89d9610-c315-47a6-843c-beba6fb43f0c" style="display:none"></span>
         You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
 
         <span data-uuid="1eec12eb-6f26-496e-8609-05edad8adf4e" style="display:none"></span>
@@ -64,6 +72,8 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     !!! step
 
         <span data-uuid="21e39c04-8e79-4c5c-bf90-bf6ec86c04c4" style="display:none"></span>
+
+        <span data-uuid="8c0f539c-6494-4ded-871c-344b4f87ba3a" style="display:none"></span>
         After registering, you will receive an email confirmation. Click the **Confirm my email** button in your email.
 
         <span data-uuid="2b3dbf64-efc4-42b2-a5c4-ab9499968713" style="display:none"></span>
@@ -73,12 +83,14 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
     <span data-uuid="0cde8ca4-0c02-449d-b0b1-7554b7d15eb3" style="display:none"></span>
 
+    <span data-uuid="340a6254-bd6d-4ccd-8b10-e2706277bce9" style="display:none"></span>
     **Follow the steps below to complete registration with an existing Opus account.**
 
     !!! step
 
         <span data-uuid="41c14044-c1c0-4464-97c0-0a2248fc73d5" style="display:none"></span>
 
+        <span data-uuid="ba032e25-cbcc-4f38-8735-674b16faa656" style="display:none"></span>
         After following the link or scanning the QR code, you will be asked to confirm that you are linking to the correct employee record. Please ensure that your name is displayed on the confirmation page.
 
         **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
@@ -90,6 +102,8 @@ Follow this guide to help you with creating and/or linking your Opus Account.
     !!! step
 
         <span data-uuid="45faedec-35e9-4b15-9e59-9e6cfcb1059b" style="display:none"></span>
+
+        <span data-uuid="0daf2f13-9632-4137-8d14-94f1a6895ad5" style="display:none"></span>
         Click **Sign in**
 
         <span data-uuid="9dbe5653-7d91-442c-a35a-54e1930830cd" style="display:none"></span>
@@ -100,6 +114,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
         <span data-uuid="2333b35b-2370-4294-b94f-f6ce7192937f" style="display:none"></span>
 
+        <span data-uuid="6b6cd900-54d1-4093-8f6e-0999f0d3d00a" style="display:none"></span>
         Sign in with your existing Opus account.
 
         <span data-uuid="6d892f34-6bda-49f9-8a8b-2f4c5c5040ed" style="display:none"></span>
@@ -110,11 +125,14 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 
             <span data-uuid="e370e182-0ae8-4941-b90c-74d0c19f261d" style="display:none"></span>
 
+            <span data-uuid="6b27bee9-d882-4b9d-842d-11b2278874c6" style="display:none"></span>
             Use the [Forgot your password?](https://cloud.opus-safety.co.uk/users/password/new) link and follow the instructions to reset your password.
 
     !!! step "<span class="meta">:lucide-triangle-alert: Important! Do not skip.</span>"
 
         <span data-uuid="85bf54f6-9570-4a4f-b31f-17d70dd3b516" style="display:none"></span>
+
+        <span data-uuid="15ad5e7e-0fdc-4488-85bc-07d6dfcd3d20" style="display:none"></span>
         You will now see a Link Confirmation page displaying your name. Click **Link My Opus Account** to continue.
 
         <span data-uuid="d2a9a955-6140-4a80-a311-5c76529918a8" style="display:none"></span>
@@ -124,11 +142,14 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 ## Configuring your profile, subscriptions and notifications.
 <span data-uuid="a6d65d10-078c-4a38-a27b-1bea3ca56da0" style="display:none"></span>
 
+<span data-uuid="ec509682-d1a3-48a0-8ed0-cd1b3323b339" style="display:none"></span>
 If you’re a new user, you’ll be guided through the subscription wizard below immediately after linking. If you're an existing user, you can retake the subscription wizard at any time from [your subscriptions page](https://cloud.opus-safety.co.uk/my/subscriptions).
 
 !!! step
 
     <span data-uuid="4e2520c8-52c9-47bf-b1b7-10577a697fc8" style="display:none"></span>
+
+    <span data-uuid="ad25cd59-9c4a-45ac-870e-1a8446611271" style="display:none"></span>
     Set your **Display name**.
 
     *This is the name associated with your account as seen by your colleagues.*
@@ -140,6 +161,8 @@ If you’re a new user, you’ll be guided through the subscription wizard below
 !!! step "<span class="meta">(optional)</span>"
 
     <span data-uuid="ad2efcab-fe13-4f0a-bf5e-28790f1e7d85" style="display:none"></span>
+
+    <span data-uuid="18282a18-f78e-429c-8491-801ebb37989a" style="display:none"></span>
     Change your **Avatar**.
 
     <span data-uuid="9e6c1b1e-dcac-4f4f-ae26-09b9cf56be18" style="display:none"></span>
@@ -149,6 +172,8 @@ If you’re a new user, you’ll be guided through the subscription wizard below
 !!! step
 
     <span data-uuid="62b248c1-6bf8-4926-b49e-ab5d3bee199d" style="display:none"></span>
+
+    <span data-uuid="dcfa4305-cb33-4b00-8ec4-f847190d6042" style="display:none"></span>
     Configure your subscriptions using one of our presets. Based on your configured access, the system will **recommend** the most suitable preset for you.
 
     <span data-uuid="0f3749a4-73dc-4466-a8da-67447b9b1b3d" style="display:none"></span>
@@ -158,11 +183,15 @@ If you’re a new user, you’ll be guided through the subscription wizard below
     ??? question "What are Subscriptions?"
 
         <span data-uuid="1cdc899b-5a53-47ff-b862-f5697e79b02a" style="display:none"></span>
+
+        <span data-uuid="ee476add-e851-4cb0-87b3-ec92d1a58aff" style="display:none"></span>
         Subscriptions are an account configuration that allows you to receive in-system and email notifications about events that happen in Opus Compliance Cloud, such as reminders when your e-learning is due or notifications when incidents occur.
 
 !!! step
 
     <span data-uuid="ce4fc732-c022-4657-9c24-5b857ed62ac9" style="display:none"></span>
+
+    <span data-uuid="ccb48033-aad1-4328-806e-e848f60b6b53" style="display:none"></span>
     Choose whether you wish to share your subscription configuration with your manager(s).
 
     <span data-uuid="d5228203-c985-4c0d-b5b2-9ad538335932" style="display:none"></span>
@@ -172,11 +201,15 @@ If you’re a new user, you’ll be guided through the subscription wizard below
     !!! warning
 
         <span data-uuid="e1ef8423-5afb-4b47-8f21-5ce983d527df" style="display:none"></span>
+
+        <span data-uuid="ad1f56b2-9bc2-468f-8d47-7a8b9b9acab6" style="display:none"></span>
         It may be an employment contract **requirement** to turn this on.
 
 !!! step
 
     <span data-uuid="9131a8e4-a955-4907-a756-00d35dd850f7" style="display:none"></span>
+
+    <span data-uuid="c233ff0a-4bae-491e-8db7-6b83642a1d97" style="display:none"></span>
     Configure your notification preferences, including the **digest email**.
 
     <span data-uuid="f02f8661-9c0f-4050-a847-09484a653672" style="display:none"></span>
@@ -186,11 +219,15 @@ If you’re a new user, you’ll be guided through the subscription wizard below
     ??? question "What is the Digest Email?"
 
         <span data-uuid="577d307a-04d1-4866-8ee1-27186510d652" style="display:none"></span>
+
+        <span data-uuid="5ad70b80-b4ca-48a8-8507-ab488b1a3860" style="display:none"></span>
         The digest email brings together all your unread in-system notifications and sends them to you in a single daily or weekly email, making them easier to review.
 
 !!! step "<span class="meta">(optional, but recommended)</span>"
 
     <span data-uuid="51c80bf5-3c98-4e77-8ecc-b869a85fcf00" style="display:none"></span>
+
+    <span data-uuid="2481fe5e-6776-4cb8-83ad-b3e3305a9105" style="display:none"></span>
     Subscribe to our newsletters to **stay informed** about the listed topics.
 
     <span data-uuid="cc6a2604-9bb8-4ca4-bde9-d7f07d958c88" style="display:none"></span>
@@ -200,11 +237,15 @@ If you’re a new user, you’ll be guided through the subscription wizard below
     !!! tip
 
         <span data-uuid="3db1af06-f1a4-4512-9942-16221d6eb1d6" style="display:none"></span>
+
+        <span data-uuid="56112f5c-e83b-43ce-8c54-01f9527e7d6b" style="display:none"></span>
         The **System Updates** option is particularly useful if you want to stay up to date with the latest changes, features and updates to Opus Compliance Cloud.
 
 !!! step
 
     <span data-uuid="a954dfbe-fa3f-4bbc-ac26-c162e385ce89" style="display:none"></span>
+
+    <span data-uuid="42b5e5a5-74dd-484d-84f2-bea3d29af34b" style="display:none"></span>
     Finally at the bottom, select **Save choices & continue**.
 
     <span data-uuid="8539709e-4e02-4e9b-a1d5-77875fbe0f5d" style="display:none"></span>

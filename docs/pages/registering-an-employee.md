@@ -7,26 +7,34 @@ tags:
 # Registering an employee
 <span data-uuid="c777efce-ef08-442c-8a90-ebc859bdd9f2" style="display:none"></span>
 
+<span data-uuid="ef945a42-c2e1-4204-8a00-f00ba775284d" style="display:none"></span>
 Follow this guide to register an employee in Opus Compliance Cloud using their own Opus account. **This guide assumes that the employee record already exists.**
 
 ??? note "SSO Users Information"
 
     <span data-uuid="5d1e09b3-cdee-46f7-84de-dd5c6d47e17f" style="display:none"></span>
+
+    <span data-uuid="8f2db502-829a-4758-8275-4c0e7fc20e54" style="display:none"></span>
     If you are using Single Sign On (SSO), the process is slightly different as users will be using their company credentials to log in. Please refer to the documents > help folder in Site Documents for client specific instructions.
 
 !!! tip "No Account? Try Temporary Access"
 
     <span data-uuid="40c62bde-7d69-4319-bbfd-63eaa9742f65" style="display:none"></span>
+
+    <span data-uuid="b0f208cf-17d3-49bd-8c59-e4eccb78a59e" style="display:none"></span>
     Interested in a quick and easy way for employees to complete their personal requirements without creating an account? [Explore our Temporary Access feature](https://support.opus-safety.co.uk/pages/granting-an-employee-temporary-access/) and give them secure, time-limited access to the system.
 
 ## Manager Steps
 <span data-uuid="cc7b8fc7-a224-4187-9f4f-d952a5917fc1" style="display:none"></span>
 
+<span data-uuid="219a44b4-061f-4045-8ece-ae11e94b5ae0" style="display:none"></span>
 Please follow the steps below to register employees as users on the system.
 
 !!! step
 
     <span data-uuid="6a840b6c-2d80-444f-91b1-a8c6b968fbe3" style="display:none"></span>
+
+    <span data-uuid="e02f4fc4-19af-4dc7-83dd-7ad39a5d28d0" style="display:none"></span>
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where the employee is located.
 
     <span data-uuid="bb6ac885-5728-422c-9788-62663df689ec" style="display:none"></span>
@@ -36,6 +44,8 @@ Please follow the steps below to register employees as users on the system.
 !!! step
 
     <span data-uuid="a7729bf7-f503-4805-8586-b2ae5221b1fc" style="display:none"></span>
+
+    <span data-uuid="b659332f-a8df-4e56-857e-e9dc9bf844a5" style="display:none"></span>
     From the site inbox, click the **Switch to Manage Mode** button.
 
     <span data-uuid="c61d36fa-0b27-491d-b6e0-1539c4062cbf" style="display:none"></span>
@@ -45,6 +55,8 @@ Please follow the steps below to register employees as users on the system.
 !!! step
 
     <span data-uuid="a67d3b29-2c86-4cab-b6cd-f05b829f2e77" style="display:none"></span>
+
+    <span data-uuid="9e524dd0-e278-4c5b-89b6-ccfca59c7d77" style="display:none"></span>
     Click **Employee records** on the manage sidebar.
 
     <span data-uuid="ca5b1666-388b-43a5-84ef-7004d13fcffa" style="display:none"></span>
@@ -54,6 +66,8 @@ Please follow the steps below to register employees as users on the system.
 !!! step
 
     <span data-uuid="b2d7d272-376b-4a81-8764-97f19ee71420" style="display:none"></span>
+
+    <span data-uuid="52fabb86-ee57-4c71-8488-549028259367" style="display:none"></span>
     In the employee list, click the blue **Link to Opus Account** button next to the employee record.
 
     <span data-uuid="f0e90d2b-7333-4755-b98b-29bc92900668" style="display:none"></span>
@@ -63,6 +77,8 @@ Please follow the steps below to register employees as users on the system.
 !!! step
 
     <span data-uuid="578a85d3-0ef2-4b4f-a9ef-fa4ea9b24c13" style="display:none"></span>
+
+    <span data-uuid="dd99c25d-0137-4d73-8ba4-c3b4f70a4c9a" style="display:none"></span>
     A QR code page will appear. You can then either:
 
     1. Ask the employee to scan the QR code with their phone (remind them to log out if they're using someone else's phone).
@@ -75,6 +91,8 @@ Please follow the steps below to register employees as users on the system.
     ??? info "Optional Registration Email Template"
 
         <span data-uuid="012849f4-a74d-4ded-9837-9d9c139abc55" style="display:none"></span>
+
+        <span data-uuid="0e537158-33cb-46d5-8ddd-f02ae045c7a7" style="display:none"></span>
         If using the copied link, you can use a message like this to help:
 
         ---
@@ -110,6 +128,8 @@ Please follow the steps below to register employees as users on the system.
     ??? tip "Have lots of employees to register? Here's a shortcut!"
 
         <span data-uuid="c86d2a9d-de93-4e81-9e67-fee744d9b8b9" style="display:none"></span>
+
+        <span data-uuid="15d9abd1-c292-488c-81c9-f52a9682a677" style="display:none"></span>
         Rather than repeating the steps above for each employee, you can generate an employee report as a CSV file, which includes the registration link for every employee.
 
         To download the CSV, go to the Employee records page in manage mode, click the  :lucide-more-horizontal: button, and select **Generate employee report**.
@@ -120,11 +140,14 @@ Please follow the steps below to register employees as users on the system.
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/demo-company-employees-a-more-actions-generate-employee-report-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
         ![](../assets/media/occ-captures/admin/sites/uuid/employees/demo-company-employees-a-more-actions-generate-employee-report-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
+<span data-uuid="44fc734d-077e-4984-867d-c85675ff229f" style="display:none"></span>
+
 ---
 
 ## User Steps
 <span data-uuid="e47349ff-854c-47a6-80ae-56d8113ebf98" style="display:none"></span>
 
+<span data-uuid="957439d8-085d-46cb-83dc-cce6aef5f3f5" style="display:none"></span>
 The user being registered can now follow the steps in the guide below to create their Opus Account.
 
 <span data-uuid="5d8700c0-428e-4f0d-a662-044a440f0095" style="display:none"></span>
