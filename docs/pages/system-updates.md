@@ -33,10 +33,6 @@ This page highlights the main user-facing improvements, additions and feature re
 ---
 ### November 2026
 
-??? improvement "Improvement: test<span class="meta">13th November 2026</span>"
-
-    <span data-uuid="b4e9753e-bfd9-4b9f-9c10-f6027627a752" style="display:none"></span>
-
 ??? improvement "Improvement: Training & Gaps<span class="meta">12th November 2026</span>"
 
     <span data-uuid="135b7fbc-0c28-4049-9b53-d41d959ac470" style="display:none"></span>
