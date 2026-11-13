@@ -25,3 +25,13 @@ Test
 === "Tab 2"
 
     <span data-uuid="c4d74b22-be16-4445-8776-0430d939b5ad" style="display:none"></span>
+
+<span data-uuid="3cadcbc3-32eb-4973-b494-2604ef74b818" style="display:none"></span>
+
+| Column 1 | Column 2 |
+| :--- | :--- |
+|  |  |
+|  |  |
+
+<span data-uuid="4eb6aa48-672b-4f17-a17a-88f92d787d2a" style="display:none"></span>
+test
