@@ -5,7 +5,7 @@ search:
 
 # System update drafts
 
-??? improvement "Improvement: Training & Gaps<span class="meta">13th November 2026</span>"
+??? improvement "Improvement: Training & Gaps<span class="meta">12th November 2026</span>"
 
     <span data-uuid="135b7fbc-0c28-4049-9b53-d41d959ac470" style="display:none"></span>
 
