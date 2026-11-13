@@ -23,3 +23,10 @@ search:
 
     <span data-uuid="21439bd3-0f7e-46dc-bb3b-6ae0650a987e" style="display:none"></span>
     The following improvements have been released on the Training & Gaps report.
+
+    !!! outline "<span class="mb-label mb-label-slate">Quick links</span>"
+
+        <span data-uuid="89c7d48c-859a-405a-bdd5-dbc84af61698" style="display:none"></span>
+
+        <span data-uuid="1d4afb79-b618-4e35-a4a3-3f9bb5ae0470" style="display:none"></span>
+        Quick links at the top of the page make it easier to jump straight to the sections of the report you're looking for.
