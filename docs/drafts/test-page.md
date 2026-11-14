@@ -30,7 +30,7 @@ Test
 
 | Column 1 | Column 2 |
 | :--- | :--- |
-|  |  |
+| eee |  |
 |  |  |
 
 <span data-uuid="4eb6aa48-672b-4f17-a17a-88f92d787d2a" style="display:none"></span>
