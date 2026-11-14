@@ -112,25 +112,5 @@ When a task is generated, either automatically by the system or as a result of u
 
     </div>
 
-### New section
+## How do notifications work?
 <span data-uuid="0bd7d408-7286-48ed-8f17-4641104b4b0c" style="display:none"></span>
-
-!!! step
-
-    <span data-uuid="fa69e2fe-977a-4c2b-a612-724b43a0d8f7" style="display:none"></span>
-
-    <span data-uuid="e79fe2f3-3fdd-423c-9f6d-1be15eb10148" style="display:none"></span>
-    test
-
-!!! step
-
-    <span data-uuid="b1c5610d-ed2c-4356-9224-aba96d827b6e" style="display:none"></span>
-
-    <span data-uuid="40025e50-62f1-4059-af0e-e91571a197d3" style="display:none"></span>
-    test
-
-## New section
-<span data-uuid="4447d14d-5bd3-4bf9-87d9-46bd71737888" style="display:none"></span>
-
-<span data-uuid="a6e2e148-7207-423c-8a45-404f5da39791" style="display:none"></span>
-test
