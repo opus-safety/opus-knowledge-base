@@ -65,6 +65,15 @@
   {%- endif -%}
 {% endblock %}
 
+{# No footer (copyright / "Made with Zensical" / prev-next links) on draft
+   pages — anything under docs/drafts/, matched by URL so new drafts are
+   covered automatically with no frontmatter. #}
+{% block footer %}
+  {%- if not (page and page.url and page.url[:7] == 'drafts/') -%}
+    {{ super() }}
+  {%- endif -%}
+{% endblock %}
+
 {% block extrahead %}
   {# Hidden, full site-nav tree (in <head> so it survives instant-navigation body
      swaps) + the script that fills .mb-nav-links placeholders from it. #}
