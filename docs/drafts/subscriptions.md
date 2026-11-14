@@ -18,6 +18,8 @@ In Opus Compliance Cloud, you can configure your account to be notified when cer
 <span data-uuid="8da1aa6c-d4cf-41bb-89fa-d83b109483ec" style="display:none"></span>
 When a task is generated, either automatically by the system or as a result of user reporting, such as an incident, the system will check whether you are subscribed to that kind of task. If you are, you will receive a **notification**.
 
+You can receive notifications the following ways:
+
 ??? example "Example 1 - Incidents"
 
     <span data-uuid="52143830-ca9d-473d-8d83-007bbca75d77" style="display:none"></span>
