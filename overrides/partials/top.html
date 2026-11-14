@@ -1,0 +1,10 @@
+{#- Back-to-top button (navigation.top). Copy of the theme partial, wrapped so
+    it is not emitted on draft pages — anything under docs/drafts/, matched by
+    URL like the footer block in overrides/main.html. -#}
+{%- if not (page and page.url and page.url[:7] == 'drafts/') %}
+<button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  {% set icon = config.theme.icon.top or "material/arrow-up" %}
+  {% include ".icons/" ~ icon ~ ".svg" %}
+  {{ lang.t("top") }}
+</button>
+{%- endif %}
