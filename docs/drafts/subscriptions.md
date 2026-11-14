@@ -18,7 +18,10 @@ In Opus Compliance Cloud, you can configure your account to be notified when cer
 <span data-uuid="8da1aa6c-d4cf-41bb-89fa-d83b109483ec" style="display:none"></span>
 When a task is generated, either automatically by the system or as a result of user reporting, such as an incident, the system will check whether you are subscribed to that kind of task. If you are, you will receive a **notification**.
 
-You can receive notifications the following ways:
+You can configure your subscriptions to receive notifications in the following ways:
+
+- **:lucide-bell-ring: In-system:** Receive a notification in-system via the bell icon & the notifications page.
+- **:lucide-mail: Email:** Receive a direct notification straight to your email inbox.
 
 ??? example "Example 1 - Incidents"
 
@@ -114,5 +117,8 @@ You can receive notifications the following ways:
 
     </div>
 
-## How do notifications work?
-<span data-uuid="0bd7d408-7286-48ed-8f17-4641104b4b0c" style="display:none"></span>
+## Subscription Wizard
+<span data-uuid="b69fbe19-0474-4fef-9382-102eeeca1441" style="display:none"></span>
+
+<span data-uuid="8321856e-3984-4a42-afe8-fbc071b8a7ca" style="display:none"></span>
+The subscription wizard is a quick and easy way to setup default in-system and email notifications for your account.
