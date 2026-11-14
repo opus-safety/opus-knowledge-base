@@ -10,6 +10,7 @@ search:
 <span data-uuid="d507fd80-9053-4bcf-ab0b-34b4fcd0d2fa" style="display:none"></span>
 
 ## Creating the employee record
+<span data-uuid="4d814d33-c6ee-4c32-a609-538942103191" style="display:none"></span>
 
 !!! step
 
@@ -161,6 +162,7 @@ search:
 <span data-uuid="5418ef67-5646-469e-8ebb-c10d0494891d" style="display:none"></span>
 
 ### Fine-tune site access
+<span data-uuid="c77ee950-4865-4031-89b2-f03b5f5fa643" style="display:none"></span>
 
 !!! info "Optional"
 
@@ -258,6 +260,7 @@ search:
 <span data-uuid="1158a748-49ed-458c-9161-b3611405f4ca" style="display:none"></span>
 
 ## Next steps
+<span data-uuid="88214c9a-0c37-4557-85fe-435b63bdf577" style="display:none"></span>
 
 !!! tip "Next Step: Register the Employee"
 
