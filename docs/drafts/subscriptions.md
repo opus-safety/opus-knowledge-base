@@ -40,7 +40,7 @@ Receive a notification in-system via the bell icon.
 <span data-uuid="acefc009-0f87-48ae-afb2-b5aac2e265ec" style="display:none"></span>
 
 <span data-uuid="d4ff1462-a53f-4ee8-ba2e-97234da0710d" style="display:none"></span>
-<span class="mb-label mb-label-slate">:lucide-mail: Direct email notification</span>
+<span class="mb-label mb-label-olive">:lucide-mail: Direct email notification</span>
 
 ---
 
@@ -53,7 +53,7 @@ Receive a direct notification straight to your email inbox.
 <span data-uuid="c39cb66c-c711-44a9-bb57-7d5e9481b004" style="display:none"></span>
 
 <span data-uuid="cd41db8a-e07b-4c58-8f6f-6b77724b82cb" style="display:none"></span>
-<span class="mb-label mb-label-slate">:lucide-mails: Digest email</span>
+<span class="mb-label mb-label-mauve">:lucide-mails: Digest email</span>
 
 ---
 
