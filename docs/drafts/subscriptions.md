@@ -121,4 +121,7 @@ You can configure your subscriptions to receive notifications in the following w
 <span data-uuid="b69fbe19-0474-4fef-9382-102eeeca1441" style="display:none"></span>
 
 <span data-uuid="8321856e-3984-4a42-afe8-fbc071b8a7ca" style="display:none"></span>
-The subscription wizard is a quick and easy way to setup default in-system and email notifications for your account.
+The subscription wizard is a quick and easy way to setup default in-system and email notifications for your account. All new users will go through the wizard as part of the registration process, while existing users can re-run the wizard at any time via their subscription settings or directly below.
+
+<span data-uuid="4ec0c199-d089-42b0-98e4-270ed62b74db" style="display:none"></span>
+[Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim }
