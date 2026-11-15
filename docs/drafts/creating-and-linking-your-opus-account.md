@@ -150,7 +150,7 @@ If you’re a new user, you’ll be guided through the subscription wizard immed
 <span data-uuid="08ebfa8d-e895-491d-a528-8098b08876af" style="display:none"></span>
 [Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim }
 
-??? outline "<span class="mb-label mb-label-olive">Subscription wizard step-by-step instructions</span>"
+??? outline "<span class="mb-label mb-label-slate">Subscription wizard step-by-step instructions</span>"
 
     <span data-uuid="a22e4883-0277-4eaf-a34a-5d10235da6b8" style="display:none"></span>
 
