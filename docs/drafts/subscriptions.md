@@ -18,10 +18,6 @@ In Opus Compliance Cloud, you can configure your account to be notified when cer
 <span data-uuid="57a499b8-d819-446e-b545-fcb4a918a56b" style="display:none"></span>
 Opus Compliance Cloud can keep you informed of important events that may occur across your organisation through three main types of notifications.
 
-- :lucide-bell-ring:** In-system notification:** Receive a notification in-system via the bell icon.
-- :lucide-mail:** Direct email notification:** Receive a direct notification straight to your email inbox.
-- :lucide-mails: **Digest email: **Receive an email that collates all of your unread in-system notifications. Digest emails can run on either a **Daily** or **Weekly** schedule.
-
 <span data-uuid="4239b443-deb5-4535-bce7-473a9bdc1717" style="display:none"></span>
 
 <div class="grid" markdown>
