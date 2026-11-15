@@ -145,7 +145,7 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 <span data-uuid="a6d65d10-078c-4a38-a27b-1bea3ca56da0" style="display:none"></span>
 
 <span data-uuid="ec509682-d1a3-48a0-8ed0-cd1b3323b339" style="display:none"></span>
-If you’re a new user, you’ll be guided through the subscription wizard below immediately after linking. If you're an existing user, you can re-run the wizard at any time via the subscriptions settings page or by launching it directly below.
+If you’re a new user, you’ll be guided through the subscription wizard immediately after linking. You can re-run the wizard at any time via your subscription settings or directly below.
 
 <span data-uuid="08ebfa8d-e895-491d-a528-8098b08876af" style="display:none"></span>
 [Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim }
