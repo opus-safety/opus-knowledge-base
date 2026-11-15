@@ -31,10 +31,11 @@ Opus Compliance Cloud can keep you informed of important events that may occur a
 <span data-uuid="733b3eda-d13b-489f-9e27-20337b4d0e5f" style="display:none"></span>
 
 <span data-uuid="bf4963a1-196e-4a7d-8c81-d539e96c4270" style="display:none"></span>
-**:lucide-bell-ring: **In-system notification
-
+:lucide-bell-ring: In-system notification
 
 ---
+
+Receive a notification in-system via the bell icon.
 
 </div>
 
@@ -45,8 +46,9 @@ Opus Compliance Cloud can keep you informed of important events that may occur a
 <span data-uuid="d4ff1462-a53f-4ee8-ba2e-97234da0710d" style="display:none"></span>
 Direct email notification
 
-
 ---
+
+Receive a direct notification straight to your email inbox.
 
 </div>
 
@@ -57,8 +59,9 @@ Direct email notification
 <span data-uuid="cd41db8a-e07b-4c58-8f6f-6b77724b82cb" style="display:none"></span>
 Digest email
 
-
 ---
+
+Receive an email that collates all of your unread in-system notifications. Digest emails can run on either a **Daily** or **Weekly** schedule.
 
 </div>
 
