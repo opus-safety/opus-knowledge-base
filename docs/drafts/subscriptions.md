@@ -44,7 +44,7 @@ Receive a notification in-system via the bell icon.
 <span data-uuid="acefc009-0f87-48ae-afb2-b5aac2e265ec" style="display:none"></span>
 
 <span data-uuid="d4ff1462-a53f-4ee8-ba2e-97234da0710d" style="display:none"></span>
-:lucide-mail: Direct email notification
+<span class="mb-label mb-label-slate">:lucide-mail: Direct email notification</span>
 
 ---
 
