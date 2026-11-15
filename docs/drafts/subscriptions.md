@@ -57,7 +57,7 @@ Receive a direct notification straight to your email inbox.
 <span data-uuid="c39cb66c-c711-44a9-bb57-7d5e9481b004" style="display:none"></span>
 
 <span data-uuid="cd41db8a-e07b-4c58-8f6f-6b77724b82cb" style="display:none"></span>
-:lucide-mails: Digest email
+<span class="mb-label mb-label-slate">:lucide-mails: Digest email</span>
 
 ---
 
