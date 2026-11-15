@@ -126,7 +126,7 @@ The subscription wizard is a quick and easy way to setup default in-system and e
 <span data-uuid="4ec0c199-d089-42b0-98e4-270ed62b74db" style="display:none"></span>
 [Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim }
 
-??? outline "<span class="mb-label mb-label-olive">Subscription wizard step-by-step instructions</span>"
+??? outline "<span class="mb-label mb-label-slate">Subscription wizard step-by-step instructions</span>"
 
     <span data-uuid="2d46c4ff-e2d5-4a0b-a892-7290840b4106" style="display:none"></span>
 
