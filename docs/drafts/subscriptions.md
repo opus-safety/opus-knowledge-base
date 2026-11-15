@@ -12,7 +12,62 @@ tags:
 <span data-uuid="76d2d1a4-4687-43a5-85df-51a6f58a83a7" style="display:none"></span>
 In Opus Compliance Cloud, you can configure your account to be notified when certain in-system events occur. We call these **subscriptions**.
 
-## How do subscriptions work?
+## Notifications
+<span data-uuid="04943c12-29bc-4543-bcb9-01b1a3b964e9" style="display:none"></span>
+
+<span data-uuid="57a499b8-d819-446e-b545-fcb4a918a56b" style="display:none"></span>
+Opus Compliance Cloud can keep you informed of important events that may occur across your organisation through three main types of notifications.
+
+- :lucide-bell-ring:** In-system notification:** Receive a notification in-system via the bell icon.
+- :lucide-mail:** Direct email notification:** Receive a direct notification straight to your email inbox.
+- :lucide-mails: **Digest email: **Receive an email that collates all of your unread in-system notifications. Digest emails can run on either a **Daily** or **Weekly** schedule.
+
+<span data-uuid="4239b443-deb5-4535-bce7-473a9bdc1717" style="display:none"></span>
+
+<div class="grid" markdown>
+
+<div class="card" markdown>
+
+<span data-uuid="733b3eda-d13b-489f-9e27-20337b4d0e5f" style="display:none"></span>
+
+<span data-uuid="bf4963a1-196e-4a7d-8c81-d539e96c4270" style="display:none"></span>
+**:lucide-bell-ring: **In-system notification
+
+
+---
+
+</div>
+
+<div class="card" markdown>
+
+<span data-uuid="acefc009-0f87-48ae-afb2-b5aac2e265ec" style="display:none"></span>
+
+<span data-uuid="d4ff1462-a53f-4ee8-ba2e-97234da0710d" style="display:none"></span>
+Direct email notification
+
+
+---
+
+</div>
+
+<div class="card" markdown>
+
+<span data-uuid="c39cb66c-c711-44a9-bb57-7d5e9481b004" style="display:none"></span>
+
+<span data-uuid="cd41db8a-e07b-4c58-8f6f-6b77724b82cb" style="display:none"></span>
+Digest email
+
+
+---
+
+</div>
+
+</div>
+
+## Subscriptions
+<span data-uuid="53cf6a87-4566-4a4b-bb11-1662dd50273e" style="display:none"></span>
+
+### How do subscriptions work?
 <span data-uuid="d60b9714-c931-402b-8655-c2db053d693f" style="display:none"></span>
 
 <span data-uuid="8da1aa6c-d4cf-41bb-89fa-d83b109483ec" style="display:none"></span>
@@ -23,7 +78,7 @@ You can configure your subscriptions to receive notifications in the following w
 - **:lucide-bell-ring: In-system:** Receive a notification in-system via the bell icon & the notifications page.
 - **:lucide-mail: Email:** Receive a direct notification straight to your email inbox.
 
-## Subscription Wizard
+### Subscription Wizard
 <span data-uuid="b69fbe19-0474-4fef-9382-102eeeca1441" style="display:none"></span>
 
 <span data-uuid="8321856e-3984-4a42-afe8-fbc071b8a7ca" style="display:none"></span>
