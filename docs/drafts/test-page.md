@@ -12,7 +12,6 @@ search:
 /snooze for P1M
 
 /snooze for P2M # (1)!
-
 ```
 
 1. test
