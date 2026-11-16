@@ -16,13 +16,7 @@ In Opus Compliance Cloud, you can configure your account to notify you when cert
 <span data-uuid="d60b9714-c931-402b-8655-c2db053d693f" style="display:none"></span>
 
 <span data-uuid="8da1aa6c-d4cf-41bb-89fa-d83b109483ec" style="display:none"></span>
-When a task is created, Opus Compliance Cloud checks whether you're subscribed to that kind of task. If you are, you receive a **notification**.
-
-## Types of notification
-<span data-uuid="04943c12-29bc-4543-bcb9-01b1a3b964e9" style="display:none"></span>
-
-<span data-uuid="57a499b8-d819-446e-b545-fcb4a918a56b" style="display:none"></span>
-Opus Compliance Cloud can keep you informed of important events across your organisation through three main types of notification.
+When a task is created, Opus Compliance Cloud checks whether you're subscribed to that kind of task. If you are, you will receive a **notification**. There are three ways the system can notify you:
 
 <span data-uuid="80888f5d-4e4b-475e-9715-73f014990f34" style="display:none"></span>
 
@@ -32,7 +26,10 @@ Opus Compliance Cloud can keep you informed of important events across your orga
 | <span class="mb-label mb-label-olive">:lucide-mail: Direct email notification</span> | An email sent directly to notify you when a task-related event occurs. Ideal for keeping up to date with important events, such as incidents. |
 | <span class="mb-label mb-label-mauve">:lucide-mails: Digest email</span> | A single email that collates all your unread in-system notifications. Digest emails run on a **Daily** or **Weekly** schedule. |
 
-## Subscription wizard
+## How to subscribe
+<span data-uuid="cd4b5556-013c-4e22-8f97-952b2e19f49d" style="display:none"></span>
+
+### Subscription wizard
 <span data-uuid="b69fbe19-0474-4fef-9382-102eeeca1441" style="display:none"></span>
 
 <span data-uuid="8321856e-3984-4a42-afe8-fbc071b8a7ca" style="display:none"></span>
@@ -43,7 +40,7 @@ All new users go through the wizard when they [create their Opus account](creati
 <span data-uuid="4ec0c199-d089-42b0-98e4-270ed62b74db" style="display:none"></span>
 [Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim }
 
-??? outline "<span class="mb-label mb-label-slate">How to run the subscription wizard</span>"
+??? outline "<span class="mb-label mb-label-slate">Subscription wizard step-by-step instructions</span>"
 
     <span data-uuid="2d46c4ff-e2d5-4a0b-a892-7290840b4106" style="display:none"></span>
 
@@ -135,3 +132,9 @@ All new users go through the wizard when they [create their Opus account](creati
         <span data-uuid="d16fb034-9f29-43cd-a3f6-758c850f2043" style="display:none"></span>
         ![](../assets/media/occ-captures/my/subscriptions/wizard/save-choices-light-mode.png#only-light){ style="height: 50px" loading=lazy }
         ![](../assets/media/occ-captures/my/subscriptions/wizard/save-choices-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+### Manually subscribing
+<span data-uuid="7badc38c-c6e7-4138-9e84-82618b9042da" style="display:none"></span>
+
+<span data-uuid="d9723a29-ddc9-47d1-8ab2-f637e7a5bfcd" style="display:none"></span>
+If you wish to setup/modify your subscriptions manually. You can do this following the steps below.
