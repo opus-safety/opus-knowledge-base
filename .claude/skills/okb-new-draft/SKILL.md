@@ -340,7 +340,7 @@ it) is the same signal.
 ### Links
 
 Rewrite links that point at pages which already exist in this KB to their
-published path (`https://support.opus-safety.co.uk/pages/<slug>/`). Where the
+relative `.md` filename (`[text](<slug>.md)`, see `format.md` → Links). Where the
 target hasn't been migrated yet, leave the original URL and list it in your
 response so it can be swept later.
 
@@ -382,10 +382,10 @@ link to the sales `/contact` page (see convention 7 above).
    `<span class="meta">(optional)</span>` — and why `==highlight==` and
    `^^underline^^`-for-emphasis are not used).
 5. Register the draft in `draft_nav` in `zensical.toml` (not `nav` — new pages
-   stay drafts until the user promotes them). **Link to other guides by absolute
-   URL** (`https://support.opus-safety.co.uk/pages/<slug>/`) — a relative
-   `other-page.md` link from `docs/drafts/` resolves against the wrong directory
-   and breaks.
+   stay drafts until the user promotes them). **Link to other guides by their bare
+   `.md` filename** (`[text](<slug>.md)`), never the deployed URL. From
+   `docs/drafts/` this warns "page does not exist" until promotion; that is
+   expected (`links.py` says `EXPECTED`).
 6. **Verify — both checks, every time.** They cover different failures and
    neither is optional:
    ```bash
@@ -447,7 +447,7 @@ Keep the UUIDs exactly as they are: they track the same blocks across the move.
       prose rewritten into house voice; no hotlinked source images; links to
       unmigrated pages listed for the user.
 - [ ] Page is in `docs/drafts/` and registered in `draft_nav`; links to other
-      guides use the absolute `support.opus-safety.co.uk` URL, not a relative `.md`.
+      guides use the relative `<slug>.md` form, not the `support.opus-safety.co.uk` URL.
 - [ ] `scripts/lint.py <page>` reports **zero errors**, and every warning is
       understood rather than ignored.
 - [ ] `zensical build` adds **no new warnings** beyond the repo's pre-existing ones.

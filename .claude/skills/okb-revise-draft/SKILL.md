@@ -95,7 +95,8 @@ sentence you're about to move):
 
 **Structure** — does the page follow its pattern's shape and the ordering
 rules in `page-patterns.md`? Prerequisites and access level before step 1;
-warnings before the step they apply to; one job per page (a buried procedure
+warnings before the step they apply to (but inside a step, keep captures
+before nested notes/warnings — `format.md` → Steps); one job per page (a buried procedure
 in a concept page → `??? outline "How to …"`); headings that describe their
 section; no skipped heading levels; long runs of 10+ steps split into phases.
 
@@ -114,9 +115,9 @@ filler ("simply", "please note"), sentence-case headings.
 - comparisons → a table; value→meaning pairs → a definition list
 - don't over-decorate: grids, video and buttons belong on overview pages
 
-**Links** — fix what `links.py` flags: broken targets, `http://`, relative
-`.md` links from drafts (use absolute `support.opus-safety.co.uk/pages/<slug>/`
-URLs), support links using anything but `window.supportWidget`, link text
+**Links** — fix what `links.py` flags: broken targets, `http://`, absolute
+`support.opus-safety.co.uk/pages/<slug>/` URLs to KB pages (use the relative
+`[text](<slug>.md)` form, even from drafts — `format.md` → Links), support links using anything but `window.supportWidget`, link text
 that doesn't describe its destination ("click here").
 
 **Captures** — for steps without an image, run `captures.py` for a fitting

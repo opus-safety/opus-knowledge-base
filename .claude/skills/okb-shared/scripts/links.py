@@ -14,9 +14,10 @@ the link goes where its text says it does.
 Statuses:
   OK        resolves (HTTP 2xx/3xx, or the KB file/anchor exists)
   BROKEN    404/410, DNS failure, missing KB file, missing anchor
-  WARN      works but is wrong-ish: live page linking to a draft, relative .md
-            link from drafts/, legacy window.groove call, sales /contact used
-            for support, http:// instead of https://
+  WARN      works but is wrong-ish: live page linking to a draft, absolute
+            support.opus-safety.co.uk/pages/ URL instead of a relative <slug>.md
+            link, legacy window.groove call, sales /contact used for support,
+            http:// instead of https://
   CHECK     couldn't be verified automatically (403/429/5xx/timeout) — look
             at it by hand. App links (cloud.opus-safety.co.uk) are checked
             logged-out: a real route redirects to sign-in, a dead one 404s.
@@ -223,13 +224,13 @@ def classify(page, link, offline, http_cache, nav):
                 target_file = os.path.join(DOCS, p, "index.md")
             if p.startswith("drafts/") and is_live:
                 res.update(status="WARN", note="live page links to a draft")
+            elif p.startswith("pages/"):
+                res.update(status="WARN", note="use the relative link %s.md, not the deployed URL" % p[len("pages/"):])
             if t.startswith("http://"):
                 res.update(status="WARN", note="use https://")
         else:
             p, _, anchor = t.partition("#")
             target_file = os.path.normpath(os.path.join(os.path.dirname(page), p))
-            if os.sep + "drafts" + os.sep in page:
-                res.update(status="WARN", note="relative link from drafts/ — use the absolute %s URL" % KB_HOST)
         if not os.path.exists(target_file) and not t.startswith("#") and not kb \
                 and os.sep + "drafts" + os.sep in page:
             published = os.path.normpath(os.path.join(DOCS, "pages", t.partition("#")[0]))

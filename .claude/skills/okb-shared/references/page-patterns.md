@@ -111,4 +111,7 @@ One-paragraph intro: what they are, how they're ordered
 4. Consequences, irreversibility, what happens next.
 5. `## Relevant guides` / `## Learn more` last.
 
-Warnings go **before** the step they apply to, not after it.
+Warnings go **before** the step they apply to, not after it. This means a
+warning must not turn up in a *later* step. A warning nested *inside* its own
+step still sits after that step's capture (instruction → capture → admonitions;
+see `format.md` → Steps).

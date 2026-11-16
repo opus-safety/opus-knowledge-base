@@ -239,6 +239,10 @@ instruction, a second UUID span, then the light/dark screenshot pair.
 - Steps can nest other admonitions (a `!!! outline` per form field, a
   `??? info` explaining a choice, a `!!! warning` for a gotcha) — indent them a
   further 4 spaces.
+- **Order inside a step: instruction → capture → nested admonitions.** Notes,
+  warnings, tips and questions go *after* the step's capture pair, not between
+  the instruction and the capture. This is the user's convention; don't move a
+  nested warning above the capture when revising.
 - A step can contain a numbered sub-list when there are genuine alternatives
   ("either scan the QR code, or copy the link"):
   ```markdown
@@ -784,13 +788,15 @@ guides show their headings.
 
 ## Links
 
-- Internal links between guides use the **deployed absolute URL**, e.g.
-  `https://support.opus-safety.co.uk/pages/granting-an-employee-temporary-access/`.
-  That is what the published pages use — match them.
-- **Avoid relative `.md` links.** A draft linking to `interacting-with-a-task.md`
-  resolves relative to `docs/drafts/`, not `docs/pages/`, so it breaks and
-  `zensical build` reports "page does not exist". Two drafts currently have this
-  bug. The absolute URL sidesteps it entirely and survives promotion.
+- **Internal links between guides use Zensical's relative `.md` link**, the
+  bare filename of the target page: `[Adding a new employee](adding-a-new-employee.md)`,
+  with `#anchor` if needed. This is the user's convention and what most live
+  pages use. **Never** write the deployed URL
+  (`https://support.opus-safety.co.uk/pages/<slug>/`) for a page in this KB.
+- **Drafts use the same bare filename**, written for where the page will live
+  once promoted to `docs/pages/`. Until then `zensical build` warns "page does
+  not exist" for it and `links.py` reports it as `EXPECTED`. That is deliberate,
+  not a broken link, so don't "fix" it with an absolute URL or `../pages/`.
 - App deep-links point at `https://cloud.opus-safety.co.uk/...`.
 - Bold the surrounding action when the link is a button.
 
