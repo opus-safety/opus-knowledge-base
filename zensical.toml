@@ -55,7 +55,8 @@ nav = [
       {"Creating & linking your Opus Account" = "pages/creating-and-linking-your-opus-account.md"}
     ]},
     {"My account" = [
-      {"MFA" = "pages/mfa.md"}
+      {"MFA" = "pages/mfa.md"},
+      {"Subscriptions" = "pages/subscriptions.md"}
     ]},
     {"Tasks" = [
       {"Types of task" = "pages/types-of-task.md"},
@@ -126,9 +127,6 @@ draft_nav = [
         {"Feature Overviews" = "drafts/feature-overviews.md"}
       ]},
       {"Creating & linking your Opus Account" = "drafts/creating-and-linking-your-opus-account.md"}
-    ]},
-    {"My account" = [
-      {"Subscriptions" = "drafts/subscriptions.md"}
     ]},
     {"Tasks" = [
       {"Task Overview" = "drafts/task-overview.md"},
