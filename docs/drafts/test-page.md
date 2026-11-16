@@ -7,12 +7,14 @@ search:
 # Test page
 <span data-uuid="473f2a24-5356-47b4-b07b-3ff44ebf6bb7" style="display:none"></span>
 
-<span data-uuid="f12c6ecd-1853-416b-b980-e95ac2a7c515" style="display:none"></span>
-```linenums="1" hl_lines="1 3"
-code block # (1)!
+<span data-uuid="b91c7d45-9325-47d7-b4af-fb61e7a18041" style="display:none"></span>
+```bash
+/snooze for P1M
 
-test # (2)!
+/snooze for P2M # (1)!
+
 ```
 
-1. Annotation 1
-2. Annotation 2
+1. test
+
+    test
