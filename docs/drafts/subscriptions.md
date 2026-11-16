@@ -24,50 +24,9 @@ When a task is created, Opus Compliance Cloud checks whether you're subscribed t
 <span data-uuid="57a499b8-d819-446e-b545-fcb4a918a56b" style="display:none"></span>
 Opus Compliance Cloud can keep you informed of important events across your organisation through three types of notification.
 
-<span data-uuid="4239b443-deb5-4535-bce7-473a9bdc1717" style="display:none"></span>
-
-<div class="grid" markdown>
-
-<div class="card" markdown>
-
-<span data-uuid="733b3eda-d13b-489f-9e27-20337b4d0e5f" style="display:none"></span>
-
-<span data-uuid="bf4963a1-196e-4a7d-8c81-d539e96c4270" style="display:none"></span>
-<span class="mb-label mb-label-slate">:lucide-bell-ring: In-system notification</span>
-
----
-
-Appears in Opus Compliance Cloud, under the bell icon and on the notifications page.
-
-</div>
-
-<div class="card" markdown>
-
-<span data-uuid="acefc009-0f87-48ae-afb2-b5aac2e265ec" style="display:none"></span>
-
-<span data-uuid="d4ff1462-a53f-4ee8-ba2e-97234da0710d" style="display:none"></span>
-<span class="mb-label mb-label-olive">:lucide-mail: Direct email notification</span>
-
----
-
-Sent straight to your email inbox.
-
-</div>
-
-<div class="card" markdown>
-
-<span data-uuid="c39cb66c-c711-44a9-bb57-7d5e9481b004" style="display:none"></span>
-
-<span data-uuid="cd41db8a-e07b-4c58-8f6f-6b77724b82cb" style="display:none"></span>
-<span class="mb-label mb-label-mauve">:lucide-mails: Digest email</span>
-
----
-
-A single email that collates all your unread in-system notifications. Digest emails run on a **Daily** or **Weekly** schedule.
-
-</div>
-
-</div>
+- <span class="mb-label mb-label-slate">:lucide-bell-ring: In-system notification</span> Appears in Opus Compliance Cloud, under the bell icon and on the notifications page.
+- <span class="mb-label mb-label-olive">:lucide-mail: Direct email notification</span> Sent straight to your email inbox.
+- <span class="mb-label mb-label-mauve">:lucide-mails: Digest email</span> A single email that collates all your unread in-system notifications. Digest emails run on a **Daily** or **Weekly** schedule.
 
 ## Subscription wizard
 <span data-uuid="b69fbe19-0474-4fef-9382-102eeeca1441" style="display:none"></span>
@@ -75,7 +34,7 @@ A single email that collates all your unread in-system notifications. Digest ema
 <span data-uuid="8321856e-3984-4a42-afe8-fbc071b8a7ca" style="display:none"></span>
 The subscription wizard is a quick way to set up default in-system and email notifications for your account.
 
-All new users go through the wizard when they [create their Opus account](https://support.opus-safety.co.uk/pages/creating-and-linking-your-opus-account/). Existing users can re-run it at any time from their subscription settings, or with the button below.
+All new users go through the wizard when they [create their Opus account](creating-and-linking-your-opus-account.md). Existing users can re-run it at any time from their subscription settings, or with the button below.
 
 <span data-uuid="4ec0c199-d089-42b0-98e4-270ed62b74db" style="display:none"></span>
 [Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim }
@@ -120,16 +79,16 @@ All new users go through the wizard when they [create their Opus account](https:
 
         Choose whether to share your subscription settings with your managers.
 
+        <span data-uuid="0fe9d034-41ed-47d2-89b7-521da378f6fd" style="display:none"></span>
+        ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+        ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
         !!! warning
 
             <span data-uuid="9272c78f-e198-419c-b9e0-bdcf94019f54" style="display:none"></span>
 
             <span data-uuid="e4c54cbd-147d-4f40-8ca2-9becec1ad811" style="display:none"></span>
             Your employment contract may **require** you to share this information.
-
-        <span data-uuid="0fe9d034-41ed-47d2-89b7-521da378f6fd" style="display:none"></span>
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
     !!! step
 
@@ -161,7 +120,7 @@ All new users go through the wizard when they [create their Opus account](https:
 
             <span data-uuid="34304bf5-f48f-47d8-836e-77f587a77fbf" style="display:none"></span>
 
-            The **System Updates** option is particularly useful if you want to keep up with the latest changes, features and updates to Opus Compliance Cloud. You can also browse past announcements on the [System Updates](https://support.opus-safety.co.uk/pages/system-updates/) page.
+            The **System Updates** option is particularly useful if you want to keep up with the latest changes, features and updates to Opus Compliance Cloud. You can also browse past announcements on the [System Updates](system-updates.md) page.
 
     !!! step
 
