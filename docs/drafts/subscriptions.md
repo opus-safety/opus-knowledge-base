@@ -16,7 +16,7 @@ In Opus Compliance Cloud, you can set up your account to notify you when certain
 <span data-uuid="d60b9714-c931-402b-8655-c2db053d693f" style="display:none"></span>
 
 <span data-uuid="8da1aa6c-d4cf-41bb-89fa-d83b109483ec" style="display:none"></span>
-A task can be created automatically by Opus Compliance Cloud, or when a user reports something, such as an incident. When a task is created, Opus Compliance Cloud checks whether you're subscribed to that kind of task. If you are, you receive a **notification**.
+When a task is created, Opus Compliance Cloud checks whether you're subscribed to that kind of task. If you are, you receive a **notification**. You can subscribe to
 
 ## Types of notification
 <span data-uuid="04943c12-29bc-4543-bcb9-01b1a3b964e9" style="display:none"></span>
@@ -124,7 +124,8 @@ All new users go through the wizard when they [create their Opus account](https:
 
             <span data-uuid="9272c78f-e198-419c-b9e0-bdcf94019f54" style="display:none"></span>
 
-            Your employment contract may **require** you to turn this on.
+            <span data-uuid="e4c54cbd-147d-4f40-8ca2-9becec1ad811" style="display:none"></span>
+            Your employment contract may **require** you to share this information.
 
         <span data-uuid="0fe9d034-41ed-47d2-89b7-521da378f6fd" style="display:none"></span>
         ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
