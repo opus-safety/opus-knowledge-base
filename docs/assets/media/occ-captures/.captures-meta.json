@@ -712,5 +712,9 @@
     "padding": 15,
     "annotated": true,
     "zapped": true
+  },
+  "docs/assets/media/occ-captures/sites/uuid/subscriptions/anything-light-mode.png": {
+    "resized": true,
+    "padding": 20
   }
 }
