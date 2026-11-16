@@ -177,7 +177,7 @@ If you wish to setup/modify your subscriptions manually. You can do this followi
         <span data-uuid="18c94ed7-8348-447b-a249-1830bab1ac8a" style="display:none"></span>
 
         <span data-uuid="cf880c1d-671b-4e3d-81c3-6ed7c988533a" style="display:none"></span>
-        Browse the list and select whether you would like to be notified in-system or via email.
+        Browse the list and select whether you would like to be notified **in-system** or via **email**.
 
         <span data-uuid="87d4759f-5954-4e96-abae-97a86e90f7d1" style="display:none"></span>
         ![](../assets/media/occ-captures/sites/uuid/subscriptions/anything-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
@@ -191,3 +191,14 @@ If you wish to setup/modify your subscriptions manually. You can do this followi
             At the top of the list, you will find the **Anything** option. Selecting this will subscribe you to notifications for all tasks generated at that site and any sub-sites beneath it.
 
             Due to the potentially high volume of notifications, this option is only available for in-system notifications. **We recommend being conservative with this option - only enabling it for your personal employee record and/or a single site.**
+
+    !!! step
+
+        <span data-uuid="76d07366-7bde-4819-b662-58d0307a7fe5" style="display:none"></span>
+
+        <span data-uuid="acb1869c-f1a9-4106-8f93-40fc0c7cd2f3" style="display:none"></span>
+        Once you're happy with your configuration, click **Save changes** at the bottom.
+
+        <span data-uuid="f104b94f-6bcf-4c6b-85e2-8543aebb4438" style="display:none"></span>
+        ![](../assets/media/occ-captures/sites/uuid/subscriptions/save-changes-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/sites/uuid/subscriptions/save-changes-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
