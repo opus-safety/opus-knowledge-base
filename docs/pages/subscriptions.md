@@ -36,7 +36,7 @@ The subscription wizard is a quick way to set up default in-system and email not
 All new users go through the wizard when they [create their Opus account](creating-and-linking-your-opus-account.md). Existing users can re-run it at any time from their subscription settings, or with the button below.
 
 <span data-uuid="4ec0c199-d089-42b0-98e4-270ed62b74db" style="display:none"></span>
-[Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim }
+[Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim target="_blank" rel="noopener" }
 
 ??? outline "<span class="mb-label mb-label-slate">Subscription wizard step-by-step instructions</span>"
 
