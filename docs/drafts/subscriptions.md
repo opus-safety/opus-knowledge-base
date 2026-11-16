@@ -164,3 +164,14 @@ If you wish to setup/modify your subscriptions manually. You can do this followi
     !!! step
 
         <span data-uuid="11e98dc1-dbdb-4a6b-b78a-3ccaf25c7314" style="display:none"></span>
+
+        <span data-uuid="a7eca502-9847-41d7-a406-a95937b6e5b3" style="display:none"></span>
+        From the tabs at the top, select **Subscriptions**.
+
+        <span data-uuid="1efbdd83-1f01-42b0-a1a1-c40978b2a314" style="display:none"></span>
+        ![](../assets/media/occ-captures/sites/uuid/subscriptions-a-z-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+        ![](../assets/media/occ-captures/sites/uuid/subscriptions-a-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
+
+    !!! step
+
+        <span data-uuid="fd864870-1ea0-4dd0-a221-b2a7dabd0d6d" style="display:none"></span>
