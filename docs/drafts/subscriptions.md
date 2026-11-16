@@ -16,7 +16,7 @@ In Opus Compliance Cloud, you can set up your account to notify you when certain
 <span data-uuid="d60b9714-c931-402b-8655-c2db053d693f" style="display:none"></span>
 
 <span data-uuid="8da1aa6c-d4cf-41bb-89fa-d83b109483ec" style="display:none"></span>
-When a task is created, Opus Compliance Cloud checks whether you're subscribed to that kind of task. If you are, you receive a **notification**. You can subscribe to
+When a task is created, Opus Compliance Cloud checks whether you're subscribed to that kind of task. If you are, you receive a **notification**.
 
 ## Types of notification
 <span data-uuid="04943c12-29bc-4543-bcb9-01b1a3b964e9" style="display:none"></span>
