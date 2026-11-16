@@ -113,7 +113,7 @@ Please follow the steps below to register employees as users on the system.
 
         ---
 
-        Once you've successfully registered, we suggest bookmarking your landing page. Or to access in future, visit [www.opus-safety.co.uk](http://www.opus-safety.co.uk) and select 'Log in' via the menu in the top right corner.
+        Once you've successfully registered, we suggest bookmarking your landing page. Or to access in future, visit [www.opus-safety.co.uk](https://www.opus-safety.co.uk) and select 'Log in' via the menu in the top right corner.
 
         If you need any assistance, our [Opus Knowledge Base](https://sites.google.com/opus-safety.co.uk/opus-help) is always available — access it by clicking on your profile icon in the top right corner of the system and selecting **Support**.
 

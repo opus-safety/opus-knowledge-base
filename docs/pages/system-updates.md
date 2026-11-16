@@ -1316,7 +1316,7 @@ This page highlights the main user-facing improvements, additions and feature re
 
     Note: We haven't automatically granted this to all OCC managers because doing so would allow them to view the records of other OCC managers, including those who line-manage them.
 
-    Please read the updated [Health Data: Access Controls](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/health-surveillance-access) article.
+    Please read the updated [Task sensitivity](task-sensitivity.md) guide.
 
     ![Animation](../assets/media/system-update-captures/legacy-d5f0d9a3.png){ width="700" loading=lazy }
 ??? new-addition "New addition: Report Type Filter<span class="meta">10th February 2025</span>"
@@ -1574,7 +1574,7 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="419aa613-f0e3-448b-8f50-b81cee29ca84" style="display:none"></span>
     We have separated the management of employee site access from the employee edit page. It is now handled through a dedicated site access page, simplifying the process of managing site permissions.
 
-    See [here](https://sites.google.com/opus-safety.co.uk/opus-help/employee-users/employee-management/adding-a-new-employee) for more guidance.
+    See [here](adding-a-new-employee.md) for more guidance.
 
     ![Animation](../assets/media/system-update-captures/legacy-8b61227c.png){ width="700" loading=lazy }
 ### August 2024
