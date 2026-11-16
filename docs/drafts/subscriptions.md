@@ -174,4 +174,4 @@ If you wish to setup/modify your subscriptions manually. You can do this followi
 
     !!! step
 
-        <span data-uuid="fd864870-1ea0-4dd0-a221-b2a7dabd0d6d" style="display:none"></span>
+        <span data-uuid="bf9dd1a3-c77b-4a07-a556-75e86b20c3c1" style="display:none"></span>
