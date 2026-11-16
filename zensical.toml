@@ -142,9 +142,6 @@ draft_nav = [
     ]},
     {"Test" = [
       {"Test page" = "drafts/test-page.md"}
-    ]},
-    {"My Account" = [
-      {"Subscriptions" = "drafts/subscriptions.md"}
     ]}
   ]}
 ]
