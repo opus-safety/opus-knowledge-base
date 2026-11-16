@@ -174,4 +174,20 @@ If you wish to setup/modify your subscriptions manually. You can do this followi
 
     !!! step
 
-        <span data-uuid="bf9dd1a3-c77b-4a07-a556-75e86b20c3c1" style="display:none"></span>
+        <span data-uuid="18c94ed7-8348-447b-a249-1830bab1ac8a" style="display:none"></span>
+
+        <span data-uuid="cf880c1d-671b-4e3d-81c3-6ed7c988533a" style="display:none"></span>
+        Browse the list and select whether you would like to be notified in-system or via email.
+
+        <span data-uuid="87d4759f-5954-4e96-abae-97a86e90f7d1" style="display:none"></span>
+        ![](../assets/media/occ-captures/sites/uuid/subscriptions/anything-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/sites/uuid/subscriptions/anything-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
+        !!! warning "The 'Anything' option"
+
+            <span data-uuid="860e5784-e633-44a1-a1be-d650d48c53df" style="display:none"></span>
+
+            <span data-uuid="cfd41f91-2789-45ed-9122-cca8e8d5ddd2" style="display:none"></span>
+            At the top of the list, you will find the **Anything** option. Selecting this will subscribe you to notifications for all tasks generated at that site and any sub-sites beneath it.
+
+            Due to the potentially high volume of notifications, this option is only available for in-system notifications. **We recommend being conservative with this option - only enabling it for your personal employee record and/or a single site.**
