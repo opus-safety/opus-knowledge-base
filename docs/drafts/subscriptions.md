@@ -138,3 +138,29 @@ All new users go through the wizard when they [create their Opus account](creati
 
 <span data-uuid="d9723a29-ddc9-47d1-8ab2-f637e7a5bfcd" style="display:none"></span>
 If you wish to setup/modify your subscriptions manually. You can do this following the steps below.
+
+??? outline "<span class="mb-label mb-label-slate">Manual subscription step-by-step instructions</span>"
+
+    <span data-uuid="ff0be4b7-98bd-480f-bfd9-c5dc4f364256" style="display:none"></span>
+
+    !!! step
+
+        <span data-uuid="4d03e10d-2b33-4943-a437-42a6c3ad5485" style="display:none"></span>
+
+        <span data-uuid="b2139d84-76cf-4b00-8721-bd90e3fd1b14" style="display:none"></span>
+        From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), click on **Pick workspace** and select the site where you would like to subscribe.
+
+        <span data-uuid="9a0c49ea-4e07-4e55-a1e2-f373cf03ec77" style="display:none"></span>
+        ![](../assets/media/occ-captures/dashboard/pick-workspace-light-mode.png#only-light){ style="height: 50px" loading=lazy }
+        ![](../assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+
+        !!! info "Info"
+
+            <span data-uuid="422b26da-a430-4b8b-9c47-54125e39f7d2" style="display:none"></span>
+
+            <span data-uuid="d43435bb-3fc8-4aeb-b9ce-8df29561899e" style="display:none"></span>
+            Where you subscribe is **important**. If you have access to multiple sites, subscribing at a particular site will automatically subscribe you to all sub-sites beneath it.
+
+    !!! step
+
+        <span data-uuid="11e98dc1-dbdb-4a6b-b78a-3ccaf25c7314" style="display:none"></span>
