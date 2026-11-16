@@ -125,8 +125,7 @@ draft_nav = [
     {"Getting started" = [
       {"Guidebooks" = [
         {"Feature Overviews" = "drafts/feature-overviews.md"}
-      ]},
-      {"Creating & linking your Opus Account" = "drafts/creating-and-linking-your-opus-account.md"}
+      ]}
     ]},
     {"Tasks" = [
       {"Task Overview" = "drafts/task-overview.md"},
