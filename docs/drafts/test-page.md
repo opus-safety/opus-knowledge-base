@@ -2,6 +2,9 @@
 icon: lucide/a-arrow-down
 search:
   exclude: true
+tags:
+  - Using OCC
+  - System
 ---
 
 # Test page
