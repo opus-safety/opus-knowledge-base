@@ -147,116 +147,26 @@ Follow this guide to help you with creating and/or linking your Opus Account.
 <span data-uuid="ec509682-d1a3-48a0-8ed0-cd1b3323b339" style="display:none"></span>
 If you’re a new user, you’ll be guided through the subscription wizard immediately after linking. You can re-run the wizard at any time via your subscription settings or directly below.
 
+<span data-uuid="ce15f76c-48ec-4d19-8849-4e871f91f08b" style="display:none"></span>
+
+<div class="grid" markdown>
+
+<div markdown>
+
+<span data-uuid="9c977e7c-110b-4254-acc5-6c0818502ba0" style="display:none"></span>
+
 <span data-uuid="08ebfa8d-e895-491d-a528-8098b08876af" style="display:none"></span>
-[Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim }
+[Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim target="_blank" rel="noopener" }
 
-??? outline "<span class="mb-label mb-label-slate">Subscription wizard step-by-step instructions</span>"
+</div>
 
-    <span data-uuid="a22e4883-0277-4eaf-a34a-5d10235da6b8" style="display:none"></span>
+<div markdown>
 
-    !!! step
+<span data-uuid="7e9c1eb6-9407-4128-b06a-a0cb348ddfdf" style="display:none"></span>
 
-        <span data-uuid="4e2520c8-52c9-47bf-b1b7-10577a697fc8" style="display:none"></span>
+<span data-uuid="e6f694a5-7afa-4486-85cf-ce694dda671f" style="display:none"></span>
+[Step-by-step instructions :lucide-arrow-right:](https://support.opus-safety.co.uk/pages/subscriptions/#2d46c4ff-e2d5-4a0b-a892-7290840b4106){ .md-button .custom-button-cyan .custom-button--slim }
 
-        <span data-uuid="ad25cd59-9c4a-45ac-870e-1a8446611271" style="display:none"></span>
-        Set your **Display name**.
+</div>
 
-        *This is the name associated with your account as seen by your colleagues.*
-
-        <span data-uuid="363c19da-6c57-4289-9c00-30030da7506f" style="display:none"></span>
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/display-name-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/display-name-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
-
-    !!! step "<span class="meta">(optional)</span>"
-
-        <span data-uuid="ad2efcab-fe13-4f0a-bf5e-28790f1e7d85" style="display:none"></span>
-
-        <span data-uuid="18282a18-f78e-429c-8491-801ebb37989a" style="display:none"></span>
-        Change your **Avatar**.
-
-        <span data-uuid="9e6c1b1e-dcac-4f4f-ae26-09b9cf56be18" style="display:none"></span>
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/avatar-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/avatar-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
-
-    !!! step
-
-        <span data-uuid="62b248c1-6bf8-4926-b49e-ab5d3bee199d" style="display:none"></span>
-
-        <span data-uuid="dcfa4305-cb33-4b00-8ec4-f847190d6042" style="display:none"></span>
-        Configure your subscriptions using one of our presets. Based on your configured access, the system will **recommend** the most suitable preset for you.
-
-        <span data-uuid="0f3749a4-73dc-4466-a8da-67447b9b1b3d" style="display:none"></span>
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/automatic-subscription-management-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/automatic-subscription-management-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
-
-        ??? question "What are Subscriptions?"
-
-            <span data-uuid="1cdc899b-5a53-47ff-b862-f5697e79b02a" style="display:none"></span>
-
-            <span data-uuid="ee476add-e851-4cb0-87b3-ec92d1a58aff" style="display:none"></span>
-            Subscriptions are an account configuration that allows you to receive in-system and email notifications about events that happen in Opus Compliance Cloud, such as reminders when your e-learning is due or notifications when incidents occur.
-
-    !!! step
-
-        <span data-uuid="ce4fc732-c022-4657-9c24-5b857ed62ac9" style="display:none"></span>
-
-        <span data-uuid="ccb48033-aad1-4328-806e-e848f60b6b53" style="display:none"></span>
-        Choose whether you wish to share your subscription configuration with your manager(s).
-
-        <span data-uuid="d5228203-c985-4c0d-b5b2-9ad538335932" style="display:none"></span>
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/share-setting-with-managers-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
-
-        !!! warning
-
-            <span data-uuid="e1ef8423-5afb-4b47-8f21-5ce983d527df" style="display:none"></span>
-
-            <span data-uuid="ad1f56b2-9bc2-468f-8d47-7a8b9b9acab6" style="display:none"></span>
-            It may be a **requirement** as part of your employment contract to turn this on.
-
-    !!! step
-
-        <span data-uuid="9131a8e4-a955-4907-a756-00d35dd850f7" style="display:none"></span>
-
-        <span data-uuid="c233ff0a-4bae-491e-8db7-6b83642a1d97" style="display:none"></span>
-        Configure your notification preferences, including the **digest email**.
-
-        <span data-uuid="f02f8661-9c0f-4050-a847-09484a653672" style="display:none"></span>
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribe-when-assigned-and-more-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribe-when-assigned-and-more-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
-
-        ??? question "What is the Digest Email?"
-
-            <span data-uuid="577d307a-04d1-4866-8ee1-27186510d652" style="display:none"></span>
-
-            <span data-uuid="5ad70b80-b4ca-48a8-8507-ab488b1a3860" style="display:none"></span>
-            The digest email brings together all your unread in-system notifications and sends them to you in a single daily or weekly email, making them easier to review.
-
-    !!! step "<span class="meta">(optional, but recommended)</span>"
-
-        <span data-uuid="51c80bf5-3c98-4e77-8ecc-b869a85fcf00" style="display:none"></span>
-
-        <span data-uuid="2481fe5e-6776-4cb8-83ad-b3e3305a9105" style="display:none"></span>
-        Subscribe to our newsletters to **stay informed** about the listed topics.
-
-        <span data-uuid="cc6a2604-9bb8-4ca4-bde9-d7f07d958c88" style="display:none"></span>
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribable-newsletters-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/subscribable-newsletters-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
-
-        !!! tip
-
-            <span data-uuid="3db1af06-f1a4-4512-9942-16221d6eb1d6" style="display:none"></span>
-
-            <span data-uuid="56112f5c-e83b-43ce-8c54-01f9527e7d6b" style="display:none"></span>
-            The **System Updates** option is particularly useful if you want to stay up to date with the latest changes, features and updates to Opus Compliance Cloud.
-
-    !!! step
-
-        <span data-uuid="a954dfbe-fa3f-4bbc-ac26-c162e385ce89" style="display:none"></span>
-
-        <span data-uuid="42b5e5a5-74dd-484d-84f2-bea3d29af34b" style="display:none"></span>
-        Finally at the bottom, select **Save choices & continue**.
-
-        <span data-uuid="8539709e-4e02-4e9b-a1d5-77875fbe0f5d" style="display:none"></span>
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/save-choices-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-        ![](../assets/media/occ-captures/my/subscriptions/wizard/save-choices-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+</div>
