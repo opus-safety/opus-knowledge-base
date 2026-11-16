@@ -207,4 +207,4 @@ If you wish to setup/modify your subscriptions manually. You can do this followi
 <span data-uuid="21e413ad-1c70-4e76-a6d2-46071fe4e20b" style="display:none"></span>
 
 <span data-uuid="6abbaf8c-e9ff-4c15-b7b8-064f9e22e469" style="display:none"></span>
-You can enable the digest email via the Subscription wizard, or manually via your subscription
+You can enable the digest email via the Subscription wizard, or manually via your subscription settings.
