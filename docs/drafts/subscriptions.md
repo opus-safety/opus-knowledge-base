@@ -208,3 +208,6 @@ If you wish to setup/modify your subscriptions manually. You can do this followi
 
 <span data-uuid="6abbaf8c-e9ff-4c15-b7b8-064f9e22e469" style="display:none"></span>
 You can enable the digest email via the Subscription wizard, or manually via your subscription settings.
+
+<span data-uuid="ef219fb9-1ed0-4c78-a0c7-acc49804fecc" style="display:none"></span>
+[Edit your subscription settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions){ .md-button .custom-button-cyan .custom-button--slim }
