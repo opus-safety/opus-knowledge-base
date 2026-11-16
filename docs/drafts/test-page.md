@@ -11,7 +11,7 @@ search:
 <div class="mb-nav-links" data-nav-tag="" data-nav-layout="flat"></div>
 
 <span data-uuid="f12c6ecd-1853-416b-b980-e95ac2a7c515" style="display:none"></span>
-```
+```linenums="1" hl_lines="1 3"
 code block # (1)!
 
 test # (2)!
