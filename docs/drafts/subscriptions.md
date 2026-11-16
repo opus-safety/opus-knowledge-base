@@ -22,11 +22,15 @@ When a task is created, Opus Compliance Cloud checks whether you're subscribed t
 <span data-uuid="04943c12-29bc-4543-bcb9-01b1a3b964e9" style="display:none"></span>
 
 <span data-uuid="57a499b8-d819-446e-b545-fcb4a918a56b" style="display:none"></span>
-Opus Compliance Cloud can keep you informed of important events across your organisation through three types of notification.
+Opus Compliance Cloud can keep you informed of important events across your organisation through three main types of notification.
 
-- <span class="mb-label mb-label-slate">:lucide-bell-ring: In-system notification</span> Appears in Opus Compliance Cloud, under the bell icon and on the notifications page.
-- <span class="mb-label mb-label-olive">:lucide-mail: Direct email notification</span> Sent straight to your email inbox.
-- <span class="mb-label mb-label-mauve">:lucide-mails: Digest email</span> A single email that collates all your unread in-system notifications. Digest emails run on a **Daily** or **Weekly** schedule.
+<span data-uuid="80888f5d-4e4b-475e-9715-73f014990f34" style="display:none"></span>
+
+| Type | Description |
+| :--- | :--- |
+| <span class="mb-label mb-label-slate">:lucide-bell-ring: In-system notification</span> | Appears in Opus Compliance Cloud, under the bell icon and on the notifications page. |
+| <span class="mb-label mb-label-olive">:lucide-mail: Direct email notification</span> | An email sent directly to notify you when a task-related event occurs. Ideal for keeping up to date with important events, such as incidents. |
+| <span class="mb-label mb-label-mauve">:lucide-mails: Digest email</span> | A single email that collates all your unread in-system notifications. Digest emails run on a **Daily** or **Weekly** schedule. |
 
 ## Subscription wizard
 <span data-uuid="b69fbe19-0474-4fef-9382-102eeeca1441" style="display:none"></span>
