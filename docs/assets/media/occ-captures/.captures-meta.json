@@ -123,7 +123,7 @@
   },
   "docs/assets/media/occ-captures/tasks/uuid/example-reported-event-light-mode.png": {
     "resized": true,
-    "padding": 20
+    "zapped": true
   },
   "docs/assets/media/system-update-captures/located-at-8b842657-light-mode.png": {
     "padding": 20
