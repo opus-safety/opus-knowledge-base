@@ -141,9 +141,6 @@ draft_nav = [
     ]},
     {"Test" = [
       {"Test page" = "drafts/test-page.md"}
-    ]},
-    {"My Account" = [
-      {"Notifications" = "drafts/notifications.md"}
     ]}
   ]}
 ]
