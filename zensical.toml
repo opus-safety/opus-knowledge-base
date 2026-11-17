@@ -56,7 +56,6 @@ nav = [
     ]},
     {"My account" = [
       {"MFA" = "pages/mfa.md"},
-      {"Subscriptions" = "pages/subscriptions.md"},
       {"Notifications" = "pages/notifications.md"}
     ]},
     {"Tasks" = [
