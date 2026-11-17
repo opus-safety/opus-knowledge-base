@@ -34,12 +34,6 @@ You’ll also receive notifications about individual tasks whenever you become a
 
 These notifications help keep you up to date with any updates, comments or changes to tasks you’re involved in.
 
-You can also manually subscribe to or unsubscribe from individual tasks at any time by toggling the **Subscribe** button on the task page.
-
-<span data-uuid="3aaeb58b-a2e0-4b3e-8df9-589c220e3d0f" style="display:none"></span>
-![](../assets/media/occ-captures/tasks/uuid/task-subscription-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-![](../assets/media/occ-captures/tasks/uuid/task-subscription-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
-
 ## How to subscribe
 <span data-uuid="ae268b74-cc1d-4ed8-b119-0bac8d604fea" style="display:none"></span>
 
