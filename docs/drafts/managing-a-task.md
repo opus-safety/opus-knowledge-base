@@ -131,20 +131,18 @@ Labels are a way of tagging tasks with information which can be used when search
 <span data-uuid="b8b6bffe-006e-4fb7-b82b-e4502a2968c0" style="display:none"></span>
 
 <span data-uuid="7abaeb7c-9e9c-49e9-8c9a-bb2d08bc09b8" style="display:none"></span>
-An **Export** button can be found at the top of any task.
-
-This feature allows you to create a tailored, filtered view of the task, which ensures the recipient only sees the information you choose to share.
+Any task can be exported to create a tailored, filtered view of the task, which ensures the recipient only sees the information you choose to share.
 
 !!! step
 
     <span data-uuid="965801f5-6854-43f2-ab4f-a80ce87ca3a0" style="display:none"></span>
 
     <span data-uuid="e4d41067-f631-4b2c-8476-39eec693e2a5" style="display:none"></span>
-    When on a task, click the **More actions** button in header and then select **Print task**.
+    When on a task, select **Print task** in the **Actions** section on the right hand side.
 
-    <span data-uuid="777c7697-2ea2-413f-a6a8-837f63a4171c" style="display:none"></span>
-    ![](../assets/media/occ-captures/tasks/uuid/print-task-a-i-light-mode.png#only-light){ style="border-radius: 8px" width="200" loading=lazy }
-    ![](../assets/media/occ-captures/tasks/uuid/print-task-a-i-dark-mode.png#only-dark){ style="border-radius: 8px" width="200" loading=lazy }
+    <span data-uuid="f032206c-48cb-401f-918c-75e86fda9b80" style="display:none"></span>
+    ![](../assets/media/occ-captures/tasks/uuid/actions-a-print-task-z-light-mode.png#only-light){ style="border-radius: 8px" width="200" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/actions-a-print-task-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="200" loading=lazy }
 
 !!! step "<span class="meta">(optional)</span>"
 
