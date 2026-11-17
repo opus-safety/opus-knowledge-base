@@ -144,11 +144,6 @@ draft_nav = [
     ]},
     {"My Account" = [
       {"Notifications" = "drafts/notifications.md"}
-    ]},
-    {"Requirements" = [
-      {"Documents" = [
-        {"Revising a document" = "drafts/revising-a-document.md"}
-      ]}
     ]}
   ]}
 ]
