@@ -36,7 +36,7 @@ When a task is created, Opus Compliance Cloud checks whether you're **subscribed
     <span data-uuid="44af0112-f3e9-409d-acd2-67bf94c51dd6" style="display:none"></span>
     The subscription wizard is a quick way to set up all of your notification settings in one go! From subscribing to our default in-system/email notifications as well as configuring a digest email.
 
-    All new users go through the wizard when they [create their Opus account](creating-and-linking-your-opus-account.md). Existing users can re-run it at any time from their subscription settings, or with the button below.
+    All new users go through the wizard when they [create their Opus account](creating-and-linking-your-opus-account.md). Existing users can re-run it at any time from their subscription settings, or via the button below.
 
     <span data-uuid="16a3b359-8ebc-44d1-9eb7-657b15cd5936" style="display:none"></span>
     [Run the subscription wizard :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions/wizard){ .md-button .custom-button-emerald .custom-button--slim target="_blank" rel="noopener" }
