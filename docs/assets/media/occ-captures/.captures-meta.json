@@ -717,5 +717,10 @@
   "docs/assets/media/occ-captures/sites/uuid/subscriptions/anything-light-mode.png": {
     "resized": true,
     "padding": 20
+  },
+  "docs/assets/media/occ-captures/tasks/uuid/print-task-a-i-light-mode.png": {
+    "resized": true,
+    "padding": 15,
+    "annotated": true
   }
 }
