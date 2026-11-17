@@ -138,11 +138,11 @@ This feature allows you to create a tailored, filtered view of the task, which e
     <span data-uuid="965801f5-6854-43f2-ab4f-a80ce87ca3a0" style="display:none"></span>
 
     <span data-uuid="e4d41067-f631-4b2c-8476-39eec693e2a5" style="display:none"></span>
-    When on a task, click the **Export** button in the top right-hand side of the page.
+    When on a task, click the **More actions** button in header and then select **Print task**.
 
-    <span data-uuid="b087cafe-3bc1-4aed-84f0-4c2b020e41e7" style="display:none"></span>
-    ![](../assets/media/occ-captures/tasks/uuid/export-light-mode.png#only-light){ style="height: 50px" loading=lazy }
-    ![](../assets/media/occ-captures/tasks/uuid/export-dark-mode.png#only-dark){ style="height: 50px" loading=lazy }
+    <span data-uuid="777c7697-2ea2-413f-a6a8-837f63a4171c" style="display:none"></span>
+    ![](../assets/media/occ-captures/tasks/uuid/print-task-a-i-light-mode.png#only-light){ style="border-radius: 8px" width="200" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/print-task-a-i-dark-mode.png#only-dark){ style="border-radius: 8px" width="200" loading=lazy }
 
 !!! step "<span class="meta">(optional)</span>"
 
@@ -174,8 +174,8 @@ This feature allows you to create a tailored, filtered view of the task, which e
     Select any additional display options you would like to add to your export.
 
     <span data-uuid="da323297-df95-4afd-aa85-c43ceccd0688" style="display:none"></span>
-    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
 !!! step "<span class="meta">(optional)</span>"
 
