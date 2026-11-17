@@ -119,7 +119,7 @@
   },
   "docs/assets/media/occ-captures/tasks/uuid/example-corrective-action-light-mode.png": {
     "resized": true,
-    "padding": 20
+    "zapped": true
   },
   "docs/assets/media/occ-captures/tasks/uuid/example-reported-event-light-mode.png": {
     "resized": true,
