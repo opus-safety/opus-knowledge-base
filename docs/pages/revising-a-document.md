@@ -74,7 +74,7 @@ When a document is due for revision, the system creates a **reminder task** for 
     <span data-uuid="936edba5-5c40-49b1-9253-4118745eeb1e" style="display:none"></span>
 
     <span data-uuid="385791c6-fc3a-4744-8fb3-04b04bde7232" style="display:none"></span>
-    Click the button or blue link in the document reminder task.
+    Click the button or link in the document reminder task.
 
     <span data-uuid="3d71eaaf-27ce-434e-a78a-ce296edddbcc" style="display:none"></span>
     ![](../assets/media/occ-captures/tasks/uuid/example-document-reminder-task-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
