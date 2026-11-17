@@ -139,9 +139,6 @@ draft_nav = [
       {"Permits to Work" = "drafts/permits-to-work.md"},
       {"Contractors Overview" = "drafts/contractors-overview.md"}
     ]},
-    {"Test" = [
-      {"Test page" = "drafts/test-page.md"}
-    ]},
     {"My Account" = [
       {"Notifications" = "drafts/notifications.md"}
     ]}
@@ -163,9 +160,6 @@ unlisted_nav = [
     ]},
     {"Tasks" = [
       {"Managing an incident" = "pages/managing-an-incident.md"}
-    ]},
-    {"Test" = [
-      {"Test page" = "pages/test-page.md"}
     ]}
   ]}
 ]
