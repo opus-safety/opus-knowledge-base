@@ -348,7 +348,8 @@
     "annotated": true
   },
   "docs/assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-light-mode.png": {
-    "padding": 5,
+    "resized": true,
+    "padding": 10,
     "annotated": true,
     "zapped": true
   },
