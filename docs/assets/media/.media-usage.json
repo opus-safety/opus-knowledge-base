@@ -57,7 +57,9 @@
     "docs/assets/media/occ-captures/sites/uuid/subscriptions/anything-dark-mode.png",
     "docs/assets/media/occ-captures/sites/uuid/subscriptions/anything-light-mode.png",
     "docs/assets/media/occ-captures/sites/uuid/subscriptions/save-changes-dark-mode.png",
-    "docs/assets/media/occ-captures/sites/uuid/subscriptions/save-changes-light-mode.png"
+    "docs/assets/media/occ-captures/sites/uuid/subscriptions/save-changes-light-mode.png",
+    "docs/assets/media/occ-captures/tasks/uuid/task-subscription-dark-mode.png",
+    "docs/assets/media/occ-captures/tasks/uuid/task-subscription-light-mode.png"
   ],
   "docs/drafts/task-overview.md": [
     "docs/assets/media/occ-captures/sites/uuid/inbox-coach-2-dark-mode.png",
