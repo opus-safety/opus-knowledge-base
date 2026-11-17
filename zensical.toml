@@ -56,7 +56,8 @@ nav = [
     ]},
     {"My account" = [
       {"MFA" = "pages/mfa.md"},
-      {"Subscriptions" = "pages/subscriptions.md"}
+      {"Subscriptions" = "pages/subscriptions.md"},
+      {"Notifications" = "pages/notifications.md"}
     ]},
     {"Tasks" = [
       {"Types of task" = "pages/types-of-task.md"},
@@ -141,9 +142,6 @@ draft_nav = [
     ]},
     {"Test" = [
       {"Test page" = "drafts/test-page.md"}
-    ]},
-    {"My-account" = [
-      {"Notifications" = "drafts/notifications.md"}
     ]}
   ]}
 ]
