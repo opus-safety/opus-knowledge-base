@@ -36,6 +36,8 @@
     "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png"
   ],
   "docs/drafts/managing-a-task.md": [
+    "docs/assets/media/occ-captures/tasks/uuid/actions-a-print-task-z-dark-mode.png",
+    "docs/assets/media/occ-captures/tasks/uuid/actions-a-print-task-z-light-mode.png",
     "docs/assets/media/occ-captures/tasks/uuid/assigned-dark-mode.png",
     "docs/assets/media/occ-captures/tasks/uuid/assigned-light-mode.png",
     "docs/assets/media/occ-captures/tasks/uuid/assigned-warning-a-dark-mode.png",
@@ -64,8 +66,6 @@
     "docs/assets/media/occ-captures/tasks/uuid/labels-a-light-mode.png",
     "docs/assets/media/occ-captures/tasks/uuid/open-a-confidential-dark-mode.png",
     "docs/assets/media/occ-captures/tasks/uuid/open-a-confidential-light-mode.png",
-    "docs/assets/media/occ-captures/tasks/uuid/print-task-a-i-dark-mode.png",
-    "docs/assets/media/occ-captures/tasks/uuid/print-task-a-i-light-mode.png",
     "docs/assets/media/occ-captures/tasks/uuid/todo-actions-a-move-task-z-dark-mode.png",
     "docs/assets/media/occ-captures/tasks/uuid/todo-actions-a-move-task-z-light-mode.png",
     "docs/assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-dark-mode.png",
