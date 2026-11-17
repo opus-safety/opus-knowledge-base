@@ -26,6 +26,20 @@ When a task is created, Opus Compliance Cloud checks whether you're **subscribed
 | <span class="mb-label mb-label-olive">:lucide-mail: Direct email notification</span> | An email sent directly to notify you when a task-related event occurs. Ideal for keeping up to date with important events, such as incidents. |
 | <span class="mb-label mb-label-mauve">:lucide-mails: Digest email</span> | A single email that collates all your unread in-system notifications. Digest emails run on a **Daily** or **Weekly** schedule. |
 
+### Task participation
+<span data-uuid="380d0997-9d69-42ac-acb9-df58de53af30" style="display:none"></span>
+
+<span data-uuid="f24fceb4-fdd1-4c1f-a33e-cfc1ca719dac" style="display:none"></span>
+You’ll also receive notifications about individual tasks whenever you become a participant. This happens when you’re assigned to a task or interact with it, for example, by posting a comment.
+
+These notifications help keep you up to date with any updates, comments or changes to tasks you’re involved in.
+
+You can also manually subscribe to or unsubscribe from individual tasks at any time by toggling the **Subscribe** button on the task page.
+
+<span data-uuid="3aaeb58b-a2e0-4b3e-8df9-589c220e3d0f" style="display:none"></span>
+![](../assets/media/occ-captures/tasks/uuid/task-subscription-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/task-subscription-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+
 ## How to subscribe
 <span data-uuid="ae268b74-cc1d-4ed8-b119-0bac8d604fea" style="display:none"></span>
 
@@ -210,3 +224,6 @@ When a task is created, Opus Compliance Cloud checks whether you're **subscribed
 
     <span data-uuid="94b4156e-005a-4c5d-b9da-00c1d4d53aae" style="display:none"></span>
     [Edit your subscription settings :lucide-arrow-up-right:](https://cloud.opus-safety.co.uk/my/subscriptions){ .md-button .custom-button-cyan .custom-button--slim }
+
+## How to read your notifications
+<span data-uuid="895fdff0-0b18-454a-9565-042f5ffe6407" style="display:none"></span>
