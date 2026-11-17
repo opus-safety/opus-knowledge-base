@@ -166,8 +166,7 @@
     "annotated": true
   },
   "docs/assets/media/occ-captures/tasks/uuid/assigned-light-mode.png": {
-    "resized": true,
-    "padding": 10
+    "zapped": true
   },
   "docs/assets/media/occ-captures/tasks/uuid/assigned-warning-a-light-mode.png": {
     "resized": true,
