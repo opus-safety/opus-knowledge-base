@@ -20,9 +20,11 @@ New to the API? Read the [API Overview](api-overview.md) first.
 
     <span data-uuid="778f64ac-5ab7-4a97-9559-bfbf3f45f7c4" style="display:none"></span>
 
+    <span data-uuid="6324e417-41da-4f7b-8660-5414649e4f78" style="display:none"></span>
+
     - An **API key** and **API secret**, issued by Opus Safety.
     - A tool or language that can send HTTPS requests, such as `curl`, Postman, Python or Power Automate.
-    - An Opus Compliance Cloud account, if you want to use the API viewer.
+    - An Opus Compliance Cloud account with relevant access, if you want to use the API viewer.
 
 ## Getting your API credentials
 <span data-uuid="bc92584f-8f7d-46a2-981c-2f5e2ad2318e" style="display:none"></span>
