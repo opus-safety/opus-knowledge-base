@@ -114,7 +114,7 @@ A `200 OK` confirms your credentials. The body carries the links available from 
 | **Hypermedia** | The API is HATEOAS-style. Every resource carries a `_links` object of `rel` → `href`. Treat URLs as opaque and take them from `_links`, instead of constructing them. |
 | **Content negotiation** | Each resource has its own versioned vendor media type, in the form `application/vnd.opus-safety.<resource>.v<n>+json`. Send it in `Accept`, and in `Content-Type` when sending a body. Pin the version you built against. |
 | **Errors** | Error bodies are [problem details](https://www.rfc-editor.org/rfc/rfc9457) (`application/problem+json`). Include that type in `Accept` alongside the resource type, so failures are returned in a readable form. |
-| **Updates** | There is no `PATCH`. To update a resource, `GET` it, then `PUT` the full representation with the response's `ETag` in `If-Match`. If the resource has changed in the meantime, the API returns `412 Precondition Failed`. |
+| **Updates** | There is no `PATCH` method. To update a resource, `GET` it, then `PUT` the full representation with the response's `ETag` in `If-Match`. If the resource has changed in the meantime, the API returns `412 Precondition Failed`. |
 
 </div>
 
