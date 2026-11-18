@@ -38,7 +38,9 @@ Each pair is **bound to a user** in your organisation, and every request is auth
 
     <span data-uuid="c982cfbe-1f59-4bfa-ad94-f00c308c95f4" style="display:none"></span>
 
-    - Keep the secret in a secrets manager or an environment variable, never in source control.
+    <span data-uuid="e7fb194a-732f-4bc7-8c9d-24dac8492657" style="display:none"></span>
+
+    - Store in a secrets manager or an environment variable, never in source code.
     - Use a separate pair of credentials for each integration.
     - If a secret may have been exposed, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> straight away so we can replace it.
 
