@@ -4,6 +4,9 @@ search:
   exclude: true
 tags:
   - API
+hide:
+  - navigation
+  - toc
 ---
 
 # API Overview
