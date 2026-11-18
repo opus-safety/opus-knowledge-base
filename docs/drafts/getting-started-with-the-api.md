@@ -42,7 +42,7 @@ Each pair is **bound to a user** in your organisation, and every request is auth
 
     - Store in a secrets manager or an environment variable, never in source code.
     - Use a separate pair of credentials for each integration.
-    - If a secret may have been exposed, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> straight away so we can replace it.
+    - If a secret may have been exposed, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> straight away so we can rotate it.
 
 ## Authenticating
 <span data-uuid="53ff6717-ff5e-4675-8d0e-43b149c27f6b" style="display:none"></span>
