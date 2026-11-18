@@ -9,9 +9,9 @@ search:
 # Getting started with the API
 <span data-uuid="e29a6035-36bb-46ef-b602-376b12091ad5" style="display:none"></span>
 
-This guide takes you from having no access to making your first request to the **Opus Compliance Cloud** API. It covers how to authenticate, how to explore the API from inside Opus Compliance Cloud, and how we expect integrations to behave.
+How to authenticate against the **Opus Compliance Cloud** API, make a first request, discover resources with the in-app API viewer, and the usage we expect from integrations.
 
-New to the API? Read the [API Overview](api-overview.md) first.
+For what the API offers, see the [API Overview](api-overview.md).
 
 ## Before you start
 <span data-uuid="67981eb4-37c3-4123-aea1-fad6b9e8cfb6" style="display:none"></span>
@@ -23,38 +23,30 @@ New to the API? Read the [API Overview](api-overview.md) first.
     <span data-uuid="6324e417-41da-4f7b-8660-5414649e4f78" style="display:none"></span>
 
     - An **API key** and **API secret**, issued by Opus Safety.
-    - A tool or language that can send HTTPS requests, such as `curl`, Postman, Python or Power Automate.
+    - Any HTTP client.
     - An Opus Compliance Cloud account with relevant access, if you want to use the API viewer.
 
 ## Getting your API credentials
 <span data-uuid="bc92584f-8f7d-46a2-981c-2f5e2ad2318e" style="display:none"></span>
 
 <span data-uuid="2acc0ae2-805a-4a07-8615-167c7c83d699" style="display:none"></span>
-API credentials are issued by Opus Safety. To request them, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> and tell us what you would like to connect.
+Credentials are issued by Opus Safety as an API key and API secret pair. To request a pair, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> and describe the integration.
 
-Your credentials come as a pair:
-
-`API key`
-:   Identifies your integration. Used as the username.
-
-`API secret`
-:   Proves the request is yours. Used as the password.
-
-Each pair is **linked to a user** in your organisation. The API can see and change exactly what that user can, so the user's sites and access level decide what your integration is able to do.
+Each pair is **bound to a user** in your organisation, and every request is authorised as that user. The user's sites and access level therefore define the scope of your integration.
 
 !!! warning "Store your API credentials appropriately"
 
     <span data-uuid="c982cfbe-1f59-4bfa-ad94-f00c308c95f4" style="display:none"></span>
 
-    - Store it in a secrets manager or an environment variable, never in source code, a spreadsheet or an email.
+    - Keep the secret in a secrets manager or an environment variable, never in source control.
     - Use a separate pair of credentials for each integration.
-    - If you think a secret has been exposed, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> straight away so we can replace it.
+    - If a secret may have been exposed, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> straight away so we can replace it.
 
 ## Authenticating
 <span data-uuid="53ff6717-ff5e-4675-8d0e-43b149c27f6b" style="display:none"></span>
 
 <span data-uuid="dbebc5ca-7457-4f9a-8ac5-3c6c7579063c" style="display:none"></span>
-The API uses **HTTP Basic authentication** over HTTPS. There is no separate sign-in request and no token to refresh: you send your credentials with every request.
+The API uses **HTTP Basic authentication** over HTTPS, with the API key as the username and the API secret as the password. Authentication is stateless: there is no token exchange or session, so credentials are sent on every request.
 
 Every request needs these three headers:
 
@@ -64,96 +56,78 @@ Every request needs these three headers:
 
 | Header | Value | Notes |
 | :--- | :--- | :--- |
-| `Authorization` | `Basic`, followed by your API key and API secret | Most tools build this for you from a username and password. |
-| `Accept` | The media type of the record you are asking for | Tells the API which record, and which version of it, you expect. A request without a supported media type is refused with `406 Not Acceptable`. |
-| `User-Agent` | A name to identify your requests | Please make your. Example format: OrganisationNameIntegrationName/version (contact-dev@domain.tld) |
+| `Authorization` | `Basic <base64(key:secret)>` | |
+| `Accept` | The vendor media type of the resource | Resources are versioned through content negotiation, for example `application/vnd.opus-safety.entrypoint.v1+json`. A request with no supported media type returns `406 Not Acceptable`. |
+| `User-Agent` | A name that identifies your client | **Required.** A request without one returns `400 Bad Request`. Example format: `OrganisationNameIntegrationName/version (contact-dev@domain.tld)` |
 
 </div>
 
 ### Making your first request
 <span data-uuid="b8041204-7940-4028-8005-66536af18417" style="display:none"></span>
 
-!!! step
+`GET` the entry point, `https://cloud.opus-safety.co.uk`:
 
-    <span data-uuid="4d80f6f8-90cc-4f6c-9903-ceb697cccf73" style="display:none"></span>
-    Send a `GET` request to the entry point, `https://cloud.opus-safety.co.uk`, using your API key as the username and your API secret as the password.
+<span data-uuid="9f90e6f2-48db-4b25-ab19-20f9c97d939b" style="display:none"></span>
+```bash
+curl https://cloud.opus-safety.co.uk \
+  --user "$OPUS_API_KEY:$OPUS_API_SECRET" \
+  --header "Accept: application/vnd.opus-safety.entrypoint.v1+json" \
+  --user-agent "ExampleOrgHrSync/1.0 (dev@example.org)"
+```
 
-    <span data-uuid="9f90e6f2-48db-4b25-ab19-20f9c97d939b" style="display:none"></span>
-    ```bash
-    curl https://cloud.opus-safety.co.uk \
-      --user "YOUR_API_KEY:YOUR_API_SECRET" \
-      --header "Accept: application/vnd.opus-safety.entrypoint.v1+json" \
-      --user-agent "your-organisation-integration/1.0"
-    ```
+A `200 OK` confirms your credentials. The body carries the links available from the entry point:
 
-!!! step
+<span data-uuid="df2c7cf8-0a41-4102-a5a8-2fe110f2da50" style="display:none"></span>
+```json
+{
+  "_links": {
+    "site_list": { "href": "https://cloud.opus-safety.co.uk/sites" }
+  }
+}
+```
 
-    <span data-uuid="4ee48d2f-1c26-4302-9840-2fe31949bb74" style="display:none"></span>
-    Check the response. A successful request returns `200 OK` and a `_links` section, which confirms your credentials work.
+`site_list` resolves to the sites your credentials can access. Each site links on to its own employees, contractors, documents, checklists and tasks.
 
-    <span data-uuid="df2c7cf8-0a41-4102-a5a8-2fe110f2da50" style="display:none"></span>
-    ```json
-    {
-      "_links": {
-        "site_list": { "href": "https://cloud.opus-safety.co.uk/sites" }
-      }
-    }
-    ```
+## Conventions
+<span data-uuid="d66e8839-241e-4882-9b3d-e21ac964daa6" style="display:none"></span>
 
-!!! step
+<span data-uuid="167787df-85b7-4348-bc01-7a3e3180860d" style="display:none"></span>
 
-    <span data-uuid="77541b4c-510a-41d4-939b-16a48c35e218" style="display:none"></span>
-    Follow the `site_list` link to see the sites your credentials can access. Each site then links on to its own employees, documents, checklists and tasks.
+<div class="nowrap-first" markdown>
 
-!!! tip "Follow links, don't build them"
+| Convention | Detail |
+| :--- | :--- |
+| **Hypermedia** | The API is HATEOAS-style. Every resource carries a `_links` object of `rel` → `href`. Treat URLs as opaque and take them from `_links`, instead of constructing them. |
+| **Content negotiation** | Each resource has its own versioned vendor media type, in the form `application/vnd.opus-safety.<resource>.v<n>+json`. Send it in `Accept`, and in `Content-Type` when sending a body. Pin the version you built against. |
+| **Errors** | Error bodies are [problem details](https://www.rfc-editor.org/rfc/rfc9457) (`application/problem+json`). Include that type in `Accept` alongside the resource type, so failures are returned in a readable form. |
+| **Updates** | There is no `PATCH`. To update a resource, `GET` it, then `PUT` the full representation with the response's `ETag` in `If-Match`. If the resource has changed in the meantime, the API returns `412 Precondition Failed`. |
 
-    <span data-uuid="e1bfd2b4-be34-496b-bf36-e4428cde9149" style="display:none"></span>
-    The API is designed to be navigated. Take the next address from the `_links` section of the response you already have, instead of assembling it yourself. Your integration then keeps working if an address changes.
+</div>
 
 ## Exploring with the API viewer
 <span data-uuid="d49a9156-5dbf-4482-913a-b08469b2c1bf" style="display:none"></span>
 
-Opus Compliance Cloud has a built-in **API viewer**, which shows you the API behind the page you are looking at. It is the quickest way to find the address, media type and links for a record, without writing any code.
+Opus Compliance Cloud has a built-in **API viewer**: a browsable rendering of the API, served from the same URLs as the app. Use it to find a resource's URL, media types and `_links` without writing a client.
 
-There are two ways in:
+There are two ways in, both from a signed-in browser session:
 
-- **Start at the entry point.** While signed in, go to [cloud.opus-safety.co.uk/api](https://cloud.opus-safety.co.uk/api) and follow the links from there, exactly as your integration would.
-- **Start from a page you already know.** Follow the steps below to see the API behind any View mode page.
+- **From the entry point.** Go to [cloud.opus-safety.co.uk/api](https://cloud.opus-safety.co.uk/api) and follow the links, as your client would.
+- **From a page in the app.** Append `?api_viewer=last` to the URL of any **View mode** page to see the resource behind it.
 
-!!! step
-
-    <span data-uuid="55fcd539-33c2-4011-981f-a99b7bc8712c" style="display:none"></span>
-    Sign in to [Opus Compliance Cloud](https://cloud.opus-safety.co.uk) as usual.
-
-!!! step
-
-    <span data-uuid="68af3943-1f6a-4458-a3bb-d556a97e2e03" style="display:none"></span>
-    In **View mode**, open the page you are interested in, such as a site or an employee.
-
-!!! step
-
-    <span data-uuid="b2a8329c-6a33-4a06-b869-28b7fd827994" style="display:none"></span>
-    In your browser's address bar, add `?api_viewer=last` to the end of the page address, then press ++enter++.
-
-    <span data-uuid="5a7c0f3b-5c06-4186-8c71-2b143196b4cf" style="display:none"></span>
-    ```text
-    https://cloud.opus-safety.co.uk/sites/…?api_viewer=last
-    ```
-
-!!! step
-
-    <span data-uuid="d5396ea5-ee5f-4d26-84f2-6bec85b8a4fa" style="display:none"></span>
-    Read the result. The API viewer shows the same record as the API returns it, including its media type and its `_links`. Click a link to move to the related record, exactly as your integration would.
+<span data-uuid="5a7c0f3b-5c06-4186-8c71-2b143196b4cf" style="display:none"></span>
+```text
+https://cloud.opus-safety.co.uk/sites/…?api_viewer=last
+```
 
 !!! note
 
     <span data-uuid="6902a32e-4857-4c63-904a-a592fbfa8452" style="display:none"></span>
-    The API viewer works on **View mode** pages. It shows what *you* can see: if your integration's credentials are linked to a different user, it may see more or less than you do.
+    The API viewer runs as *your* signed-in user. If your API credentials are bound to a different user, your client may see more or less than the viewer shows you.
 
 ## Fair usage
 <span data-uuid="c0dea60a-08c5-4f16-a5af-5eb5564de0c2" style="display:none"></span>
 
-The API shares its capacity with everyone using Opus Compliance Cloud, including your own colleagues. We ask every integration to follow the practices below, so the service stays fast for everybody.
+The API shares capacity with the interactive application, so a heavy client affects real users, including your own colleagues. We expect every integration to follow these practices:
 
 <span data-uuid="06c1cb0e-0e94-4997-a46c-21c714be83c4" style="display:none"></span>
 
@@ -161,13 +135,13 @@ The API shares its capacity with everyone using Opus Compliance Cloud, including
 
 | Practice | What we expect |
 | :--- | :--- |
-| **One request at a time** | Send requests sequentially. Wait for each response before sending the next, instead of running requests concurrently. |
-| **Space requests out** | Leave a short pause between requests, especially in loops and bulk jobs. |
-| **Ask only for what you need** | Follow links to the records you want, instead of downloading everything. |
-| **Don't ask twice** | Keep hold of what you have already fetched, and avoid polling for data that rarely changes. |
-| **Back off when asked** | If a request fails, or you receive `429 Too Many Requests`, wait before trying again. Never retry in a tight loop. |
-| **Schedule the heavy lifting** | Run large imports, exports and syncs outside working hours where you can. |
-| **Say who you are** | Use a `User-Agent` that names your organisation and integration, so we can contact you if something looks wrong. |
+| **No concurrency** | Issue requests sequentially. Wait for each response before sending the next. |
+| **Throttle** | Leave a delay between requests, particularly in loops and bulk jobs. |
+| **Fetch selectively** | Follow links to the resources you need, instead of crawling the whole tree. |
+| **Cache** | Reuse responses you already hold, and avoid polling resources that rarely change. |
+| **Back off** | On `429 Too Many Requests`, honour `Retry-After`. On other failures, retry with exponential backoff and a retry limit. |
+| **Schedule bulk work** | Run large imports, exports and syncs outside UK working hours where you can. |
+| **Identify your client** | Send a `User-Agent` that names your organisation and integration and includes a contact address, so we can reach you if something looks wrong. |
 
 </div>
 
