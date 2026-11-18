@@ -29,6 +29,7 @@ New to the API? Read the [API Overview](api-overview.md) first.
 ## Getting your API credentials
 <span data-uuid="bc92584f-8f7d-46a2-981c-2f5e2ad2318e" style="display:none"></span>
 
+<span data-uuid="2acc0ae2-805a-4a07-8615-167c7c83d699" style="display:none"></span>
 API credentials are issued by Opus Safety. To request them, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> and tell us what you would like to connect.
 
 Your credentials come as a pair:
@@ -41,7 +42,7 @@ Your credentials come as a pair:
 
 Each pair is **linked to a user** in your organisation. The API can see and change exactly what that user can, so the user's sites and access level decide what your integration is able to do.
 
-!!! warning "Treat your API secret like a password"
+!!! warning "Store your API credentials appropriately"
 
     <span data-uuid="c982cfbe-1f59-4bfa-ad94-f00c308c95f4" style="display:none"></span>
 
@@ -49,15 +50,10 @@ Each pair is **linked to a user** in your organisation. The API can see and chan
     - Use a separate pair of credentials for each integration.
     - If you think a secret has been exposed, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> straight away so we can replace it.
 
-??? info "Do credentials expire?"
-
-    <span data-uuid="a514c60b-f3af-4911-95c8-488e69892186" style="display:none"></span>
-
-    Credentials can be issued with an expiry date. If requests that used to work start being refused, check with us whether your credentials have expired.
-
 ## Authenticating
 <span data-uuid="53ff6717-ff5e-4675-8d0e-43b149c27f6b" style="display:none"></span>
 
+<span data-uuid="dbebc5ca-7457-4f9a-8ac5-3c6c7579063c" style="display:none"></span>
 The API uses **HTTP Basic authentication** over HTTPS. There is no separate sign-in request and no token to refresh: you send your credentials with every request.
 
 Every request needs these three headers:
@@ -70,7 +66,7 @@ Every request needs these three headers:
 | :--- | :--- | :--- |
 | `Authorization` | `Basic`, followed by your API key and API secret | Most tools build this for you from a username and password. |
 | `Accept` | The media type of the record you are asking for | Tells the API which record, and which version of it, you expect. A request without a supported media type is refused with `406 Not Acceptable`. |
-| `User-Agent` | A name for your integration | **Required.** A request with no `User-Agent` is refused with `400 Bad Request`. |
+| `User-Agent` | A name to identify your requests | Please make your. Example format: OrganisationNameIntegrationName/version (contact-dev@domain.tld) |
 
 </div>
 
