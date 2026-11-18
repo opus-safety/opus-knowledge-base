@@ -347,4 +347,5 @@ mb_created_tags = [
   { name = "Using OCC", colour = "grey" },
   { name = "Add-on", colour = "purple" },
   { name = "Administering OCC", colour = "mauve" },
+  { name = "API", colour = "cyan" },
 ]
