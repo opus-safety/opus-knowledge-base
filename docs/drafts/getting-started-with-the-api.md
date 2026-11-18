@@ -1,7 +1,6 @@
 ---
 icon: lucide/key-round
 tags:
-  - Administering OCC
   - API
 search:
   exclude: true
