@@ -56,13 +56,15 @@ Every request needs these three headers:
 
 <div class="nowrap-first" markdown>
 
-| Header | Value | Notes |
-| :--- | :--- | :--- |
-| `Authorization` | `Basic <base64(key:secret)>` | |
-| `Accept` | The vendor media type of the resource | Resources are versioned through content negotiation, for example `application/vnd.opus-safety.entrypoint.v1+json`. A request with no supported media type returns `406 Not Acceptable`. |
-| `User-Agent` | A name that identifies your client | **Required.** A request without one returns `400 Bad Request`. Example format: `OrganisationNameIntegrationName/version (contact-dev@domain.tld)` |
+| Header | Example |
+| :--- | :--- |
+| `Authorization` | `Basic <base64(key:secret)>` |
+| `Accept` | `application/vnd.opus-safety.entrypoint.v1+json` |
+| `User-Agent` | `OrganisationNameIntegrationName/version (contact-dev@domain.tld)` |
 
 </div>
+
+A request with no supported media type in `Accept` returns `406 Not Acceptable`. A request with no `User-Agent` returns `400 Bad Request`.
 
 ### Making your first request
 <span data-uuid="b8041204-7940-4028-8005-66536af18417" style="display:none"></span>
