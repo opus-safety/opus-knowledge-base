@@ -3,6 +3,7 @@ icon: lucide/workflow
 search:
   exclude: true
 tags:
+  - Overview
   - API
 hide:
   - navigation
@@ -22,10 +23,14 @@ hide:
 
 <span data-uuid="283cea1c-f0c6-4e0d-ae65-c44469008c7a" style="display:none"></span>
 
-<span class="mb-label mb-label-cyan">Your compliance data, connected</span>
+<span data-uuid="fd91b1d2-9a8c-492f-82be-35e7e5a39d1a" style="display:none"></span>
+<span class="mb-label mb-label-zinc">Your compliance data, connected</span>
 
-# Opus Compliance Cloud API
+<span data-uuid="3f069ba7-763e-4966-8cf2-5bbf95ca597e" style="display:none"></span>
 
+<h1 class="mb-page-title">Opus Compliance Cloud API</h1>
+
+<span data-uuid="e8bfe44b-b8da-4630-81bc-55d661d907ad" style="display:none"></span>
 Connect Opus Compliance Cloud to the rest of your business. The API gives your systems secure, direct access to your compliance data, so records stay in step, reports build themselves and nobody has to key the same information in twice.
 
 *Interested in the Opus Compliance Cloud API?*
@@ -42,15 +47,15 @@ Connect Opus Compliance Cloud to the rest of your business. The API gives your s
 <span data-uuid="0c6f54d0-a189-4617-a57a-621bd7df5407" style="display:none"></span>
 ```json title="An example site, as returned by the API"
 {
-  "slug": "head-office",
-  "display_name": "Head Office",
   "_links": {
     "self":       { "href": "https://cloud.opus-safety.co.uk/sites/…" },
     "parent":     { "href": "https://cloud.opus-safety.co.uk/sites/…" },
     "employees":  { "href": "https://cloud.opus-safety.co.uk/sites/…/employees" },
     "documents":  { "href": "https://cloud.opus-safety.co.uk/sites/…/documents" },
     "checklists": { "href": "https://cloud.opus-safety.co.uk/sites/…/checklists" }
-  }
+  },
+  "slug": "head-office",
+  "display_name": "Head Office"
 }
 ```
 
@@ -68,19 +73,21 @@ Connect Opus Compliance Cloud to the rest of your business. The API gives your s
 ## What is the Opus Compliance Cloud API?
 <span data-uuid="db5a618b-090b-4399-bb2c-de982c19243e" style="display:none"></span>
 
-The Opus Compliance Cloud API is a secure way for your own software to work with the data you hold in Opus Compliance Cloud. Anything from an HR system to a reporting dashboard can read your sites, employees, contractors, documents and tasks, and keep them up to date, without anyone signing in and clicking through the screens.
+<span data-uuid="39a638fd-5db7-40ac-8bc5-b673afd4be22" style="display:none"></span>
+The Opus Compliance Cloud API is a secure way for your own software to work with the data you hold in Opus Compliance Cloud. Anything from an HR system to a reporting dashboard can read your sites, employees, assets, reports and more, extracting the information you need or keeping them up to date via bespoke automations and integrations.
 
-It is a **REST API** that speaks JSON over HTTPS, so it works with practically any modern language, integration platform or reporting tool.
+It is a **REST API** that accepts JSON over HTTPS, so it works with practically any modern language, integration platform or reporting tool.
 
 ## Who is it for?
 <span data-uuid="03652a57-8be5-4d22-98c1-0b2e7dac3be7" style="display:none"></span>
 
+<span data-uuid="89a672e7-8404-4c85-8341-76d79ee398b5" style="display:none"></span>
 The API is designed for organisations that want Opus Compliance Cloud to work as part of a wider set of systems, rather than alongside them. It is a good fit if you:
 
 - manage starters and leavers in an HR or payroll system and want Opus Compliance Cloud to follow automatically
 - report on compliance in a business intelligence tool, alongside the rest of your company data
 - have an in-house development team, or an integration partner, building tools around your processes
-- manage a large number of sites and want to make changes in bulk, consistently
+- custom tooling beyond what Opus Compliance Cloud UI's
 
 ## Features & Abilities
 <span data-uuid="1ba0bd01-61a8-49ab-bcf9-14845ba0a133" style="display:none"></span>
@@ -93,11 +100,12 @@ The API is designed for organisations that want Opus Compliance Cloud to work as
 
 <span data-uuid="5b148a6c-a460-4311-bf5d-5c040edcd3ce" style="display:none"></span>
 
-<span class="mb-label mb-label-cyan">Keep your records in step</span>
+<span data-uuid="bf674ec8-baea-4451-8394-a1997619eb00" style="display:none"></span>
+<span class="mb-label mb-label-zinc">Keep your records in step</span>
 
 ---
 
-Create and update sites, employees and contractors straight from the systems you already use. When someone joins, moves or leaves, Opus Compliance Cloud can follow without the double entry.
+Create and update sites, employees and assets straight from the systems you already use. When someone joins, moves or leaves, Opus Compliance Cloud can follow without the double entry.
 
 </div>
 
@@ -105,11 +113,12 @@ Create and update sites, employees and contractors straight from the systems you
 
 <span data-uuid="02b908df-6327-474d-987a-d9bca3a8db19" style="display:none"></span>
 
-<span class="mb-label mb-label-cyan">Report your way</span>
+<span data-uuid="944d5e1f-9b2d-49c1-8cfb-299be39bbe45" style="display:none"></span>
+<span class="mb-label mb-label-zinc">Running reports your way</span>
 
 ---
 
-Pull tasks, checklists, documents and compliance report summaries into your own dashboards, and see compliance next to the rest of your business data.
+Pull tasks, records, latest document uploads and compliance reports into your own dashboards, and see compliance next to the rest of your business data.
 
 </div>
 
@@ -117,7 +126,8 @@ Pull tasks, checklists, documents and compliance report summaries into your own 
 
 <span data-uuid="2b901156-87d5-4c03-b5fc-0334329d2883" style="display:none"></span>
 
-<span class="mb-label mb-label-cyan">Easy to explore</span>
+<span data-uuid="522645fa-93d3-42ca-8b32-c65efac7a16e" style="display:none"></span>
+<span class="mb-label mb-label-zinc">Easy to explore</span>
 
 ---
 
@@ -129,7 +139,8 @@ Every response links to the related records, so your integration finds its way a
 
 <span data-uuid="3125b5e1-8571-4587-81c8-643c82fbcdc3" style="display:none"></span>
 
-<span class="mb-label mb-label-cyan">Secure by design</span>
+<span data-uuid="06720afb-4284-4bfa-8099-1734946f5635" style="display:none"></span>
+<span class="mb-label mb-label-zinc">Secure by design</span>
 
 ---
 
@@ -141,11 +152,12 @@ Every request is encrypted and signed with your own API key and secret. Your cre
 
 <span data-uuid="e8edf043-c269-43cf-b663-560550d057fa" style="display:none"></span>
 
-<span class="mb-label mb-label-cyan">Built to last</span>
+<span data-uuid="4f03b506-49dd-4246-8da9-4fbafb7738fa" style="display:none"></span>
+<span class="mb-label mb-label-zinc">Built to last</span>
 
 ---
 
-Each type of record has its own version number. When we improve one, the version you built against carries on working, so your integration is not broken by an update.
+Each endpoint is versioned. When we improve one, the version you built against carries on working as normal, so your integration is not broken by an update.
 
 </div>
 
@@ -153,11 +165,12 @@ Each type of record has its own version number. When we improve one, the version
 
 <span data-uuid="10bf7682-dffc-404c-940a-1314a2e07668" style="display:none"></span>
 
-<span class="mb-label mb-label-cyan">Safe updates</span>
+<span data-uuid="0c998c96-fc1a-401d-8a90-564b9a136ac0" style="display:none"></span>
+<span class="mb-label mb-label-zinc">Safe updates</span>
 
 ---
 
-Before saving a change, the API checks that the record has not been edited since you last read it, so an integration never silently overwrites someone else's work.
+ETag support ensures PUTs made via the API are not overwriting changes that have been made by someone else.
 
 </div>
 
@@ -166,25 +179,14 @@ Before saving a change, the API checks that the record has not been edited since
 ## How does it work?
 <span data-uuid="d13627af-9a30-4546-b617-06930674767e" style="display:none"></span>
 
+<span data-uuid="0b6cc1ae-6da4-4c46-80e8-c711c620caf9" style="display:none"></span>
 The Opus Compliance Cloud API follows the **HATEOAS** style of REST (*Hypermedia As The Engine Of Application State*). In practice, that means the API works like a website for software:
 
 - You start at a single **entry point**.
-- Every response includes a `_links` section, pointing to the related records and to the actions available on them.
+- Every response includes a `_links` section, pointing to the related endpoints and to the actions available on them.
 - Your integration **follows those links**, instead of building web addresses itself.
 
-<span data-uuid="059657df-a2db-45ad-8dcf-9fb68a43bfdf" style="display:none"></span>
-```mermaid
----
-config:
-  layout: elk
----
-flowchart TB
-    A["Entry point"] --> B["Your sites"]
-    B --> C["A site"]
-    C --> D["Employees"] & E["Contractors"] & F["Documents"] & G["Checklists"] & H["Tasks"]
-    A@{ shape: rounded}
-```
-
+<span data-uuid="0618a2b7-1687-4eee-8a96-d8273a09a47e" style="display:none"></span>
 Because your integration follows links, it keeps working as Opus Compliance Cloud grows, and it only ever discovers what your credentials allow it to see.
 
 ## Learn more
