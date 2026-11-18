@@ -144,6 +144,9 @@ draft_nav = [
     ]},
     {"Test" = [
       {"test" = "drafts/test.md"}
+    ]},
+    {"API" = [
+      {"API Overview" = "drafts/api-overview.md"}
     ]}
   ]}
 ]
