@@ -40,7 +40,7 @@ This page highlights the main user-facing improvements, additions and feature re
     <span data-uuid="21439bd3-0f7e-46dc-bb3b-6ae0650a987e" style="display:none"></span>
     The following improvements have been released on the Training & Gaps report.
 
-    !!! outline "<span class="mb-label mb-label-slate">Quick links</span>"
+    ??? outline "<span class="mb-label mb-label-slate">Quick links</span>"
 
         <span data-uuid="89c7d48c-859a-405a-bdd5-dbc84af61698" style="display:none"></span>
 
@@ -51,7 +51,7 @@ This page highlights the main user-facing improvements, additions and feature re
         ![](../assets/media/system-update-captures/jump-to-training-622bd67f-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
         ![](../assets/media/system-update-captures/jump-to-training-622bd67f-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
-    !!! outline "<span class="mb-label mb-label-slate">Overdue & missing distinction</span>"
+    ??? outline "<span class="mb-label mb-label-slate">Overdue & missing distinction</span>"
 
         <span data-uuid="e9e9a243-7549-4238-87b8-439532be254e" style="display:none"></span>
 
