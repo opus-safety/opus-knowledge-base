@@ -1,5 +1,5 @@
 ---
-icon: lucide/clipboard-edit
+icon: lucide/clipboard-check
 search:
   exclude: true
 tags:
