@@ -170,6 +170,9 @@ unlisted_nav = [
     ]},
     {"Test" = [
       {"test" = "pages/test.md"}
+    ]},
+    {"API" = [
+      {"API Overview" = "pages/api-overview.md"}
     ]}
   ]}
 ]
