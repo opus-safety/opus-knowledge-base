@@ -141,6 +141,9 @@ draft_nav = [
     ]},
     {"My Account" = [
       {"Notifications" = "drafts/notifications.md"}
+    ]},
+    {"Test" = [
+      {"test" = "drafts/test.md"}
     ]}
   ]}
 ]
@@ -160,6 +163,9 @@ unlisted_nav = [
     ]},
     {"Tasks" = [
       {"Managing an incident" = "pages/managing-an-incident.md"}
+    ]},
+    {"Test" = [
+      {"test" = "pages/test.md"}
     ]}
   ]}
 ]
