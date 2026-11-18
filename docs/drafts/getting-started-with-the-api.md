@@ -10,7 +10,7 @@ search:
 <span data-uuid="e29a6035-36bb-46ef-b602-376b12091ad5" style="display:none"></span>
 
 <span data-uuid="1443ac6d-5c41-4721-80eb-8b0b28e9d047" style="display:none"></span>
-How to authenticate against the **Opus Compliance Cloud** API, make a first request, discover resources with the in-app API viewer, and the usage we expect from integrationstest
+How to authenticate against the **Opus Compliance Cloud** API, make a first request, discover resources with the in-app API viewer, and the usage we expect from integrations.
 
 For what the API offers, see the [API Overview](api-overview.md).
 
