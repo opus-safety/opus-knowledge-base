@@ -161,8 +161,9 @@ The API shares capacity with the interactive application, so a heavy client affe
 
 </div>
 
-### Third parties
-<span data-uuid="b7bf4872-fda8-42e5-958f-c81a70f14c15" style="display:none"></span>
+!!! info "Third parties"
 
-<span data-uuid="846e05bd-65b7-423b-876b-c17020e95314" style="display:none"></span>
-If a consultant or another supplier is building an integration for you, the same scope applies to them. You remain responsible for their use of your API keys, and for their compliance with our API terms.
+    <span data-uuid="ddf22d5c-53db-47c1-89e9-0b048cbbcab9" style="display:none"></span>
+
+    <span data-uuid="f710298f-56e6-46bf-9ffa-061dd7204d98" style="display:none"></span>
+    If a consultant or another supplier is building an integration or using our API for you, the same scope applies to them. You remain responsible for their use of your API keys, and for their compliance with our API terms.
