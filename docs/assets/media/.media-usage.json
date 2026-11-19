@@ -35,6 +35,18 @@
     "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-dark-mode.png",
     "docs/assets/media/occ-captures/sites/uuid/switch-to-manage-mode-light-mode.png"
   ],
+  "docs/drafts/faqs.md": [
+    "docs/assets/media/occ-captures/admin/sites/uuid/checklists/id/override-dark-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/checklists/id/override-light-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/e-learning-z-dark-mode.png",
+    "docs/assets/media/occ-captures/admin/sites/uuid/dashboard/e-learning-z-light-mode.png",
+    "docs/assets/media/occ-captures/tasks/uuid/snooze-dark-mode.png",
+    "docs/assets/media/occ-captures/tasks/uuid/snooze-light-mode.png",
+    "docs/assets/media/occ-captures/tasks/uuid/todo-messages-cctv-dark-mode.png",
+    "docs/assets/media/occ-captures/tasks/uuid/todo-messages-cctv-light-mode.png",
+    "docs/assets/media/occ-captures/users/sign-in/microsoft-often-silently-blocks-dark-mode.png",
+    "docs/assets/media/occ-captures/users/sign-in/microsoft-often-silently-blocks-light-mode.png"
+  ],
   "docs/drafts/notifications.md": [
     "docs/assets/media/occ-captures/dashboard/pick-workspace-dark-mode.png",
     "docs/assets/media/occ-captures/dashboard/pick-workspace-light-mode.png",
