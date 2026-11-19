@@ -12,7 +12,7 @@ search:
 <span data-uuid="1443ac6d-5c41-4721-80eb-8b0b28e9d047" style="display:none"></span>
 How to authenticate against the **Opus Compliance Cloud** API, make a first request, discover resources with the in-app API viewer, and the usage we expect from integrations.
 
-For what the API offers, see the [API Overview](api-overview.md).
+To see what abilities the API offers, see the [API Overview](api-overview.md).
 
 ## Before you start
 <span data-uuid="67981eb4-37c3-4123-aea1-fad6b9e8cfb6" style="display:none"></span>
