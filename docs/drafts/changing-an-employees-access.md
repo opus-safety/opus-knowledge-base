@@ -9,6 +9,9 @@ search:
 # Changing an employee's access
 <span data-uuid="94f9c5e2-8bbe-4f0c-9939-7890617b8381" style="display:none"></span>
 
+<span data-uuid="2c55f4e2-cc3f-45d3-8f78-09f3a7edd4a4" style="display:none"></span>
+This guide explains how to change someone’s access level between User, Manager or Administrator, or revoking access to a site.
+
 ## Finding the employee
 <span data-uuid="6f049889-d171-43c7-be39-ae802b939063" style="display:none"></span>
 
