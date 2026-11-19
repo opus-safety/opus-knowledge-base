@@ -14,7 +14,7 @@ search:
     <span data-uuid="8ff25803-cd1a-4772-ad16-ab648fee91dc" style="display:none"></span>
 
     <span data-uuid="7a8c73a5-132c-4c3c-9b81-01f0ddcae71a" style="display:none"></span>
-    A new Related Tasks section is now displayed on tasks, showing all relatedcorrective actions linked to the same source. This makes it easier to identify and review other issues raised as part of the same submission.
+    A new Related Tasks section is now displayed on tasks, showing all related corrective actions that have generated from the same source checklist/playbook. This makes it easier to identify and review other issues raised during the submission.
 
     <span data-uuid="d318a064-ed30-471d-a415-11f68dfdeab3" style="display:none"></span>
     ![](../assets/media/system-update-captures/related-tasks-a-z-afd7a678-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
