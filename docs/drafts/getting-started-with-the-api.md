@@ -161,7 +161,8 @@ The API shares capacity with the interactive application, so a heavy client affe
 
 </div>
 
-!!! info "Planning something large?"
+### Third parties
+<span data-uuid="b7bf4872-fda8-42e5-958f-c81a70f14c15" style="display:none"></span>
 
-    <span data-uuid="e5c338a1-35cc-486d-8ac7-bacf27f8fd47" style="display:none"></span>
-    If you are planning a one-off bulk import or a high-volume integration, <a href="#" onclick="event.preventDefault(); window.supportWidget.open();">get in touch</a> first. We can advise on the best approach.
+<span data-uuid="846e05bd-65b7-423b-876b-c17020e95314" style="display:none"></span>
+If a consultant or another supplier is building an integration for you, the same scope applies to them. You remain responsible for their use of your API keys, and for their compliance with our API terms.
