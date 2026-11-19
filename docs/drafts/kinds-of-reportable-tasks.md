@@ -46,7 +46,7 @@ search:
 | Maintenance request | <span class="mb-label mb-label-slate">Any</span> | Logging of issues that require maintenance. |
 | Pest activity | <span class="mb-label mb-label-fuchsia">Food</span> | This template offers the reporter the opportunity to report pest activity on site. |
 | Plant / Machine incident | <span class="mb-label mb-label-orange">Merchants</span> <span class="mb-label mb-label-amber">Manufacturing</span> | Use this template to report any damage to plant or machinery that does not involve an injury or near miss. |
-| Road traffic collision | <span class="mb-label mb-label-slate">Any</span> | Log vehicular incidents on public highways with this template. For on-site incidents, use a different template. |
+| Road traffic collision | <span class="mb-label mb-label-slate">Any</span> | Log vehicular incidents on public highways with this template. |
 | Safety improvement opportunity | <span class="mb-label mb-label-slate">Any</span> | This template offers the reporter the opportunity to raise improvements to safety, asking questions such as *"Please describe the opportunity"* and *"Who or what will be impacted positively by this improvement?"* |
 | Safety observation | <span class="mb-label mb-label-slate">Any</span> | Use this template to report **potential** workplace hazards, such as damaged equipment or PPE non-compliance. Remember, a Safety Observation identifies something that **could cause harm**, while a Near miss (in the Incident form) records an incident that occurred but caused no harm. |
 | Security incident | <span class="mb-label mb-label-slate">Any</span> | Log security incidents including theft, damage and trespass. |
