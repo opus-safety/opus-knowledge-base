@@ -154,7 +154,7 @@ The API shares capacity with the interactive application, so a heavy client affe
 | **No concurrency** | Issue requests sequentially. Wait for each response before sending the next. |
 | **Throttle** | Leave a delay between requests, particularly in loops and bulk jobs. |
 | **Fetch selectively** | Follow links to the resources you need, instead of crawling the whole tree. |
-| **Cache** | Reuse responses you already hold, and avoid polling resources that rarely change. |
+| **Cache** | Reuse responses you already hold where possible, and avoid polling resources that rarely change. |
 | **Back off** | On `429 Too Many Requests`, honour `Retry-After`. On other failures, retry with exponential backoff and a retry limit. |
 | **Schedule bulk work** | Run large imports, exports and syncs outside UK working hours where you can. |
 | **Identify your client** | Send a `User-Agent` that names your organisation and integration and includes a contact address, so we can reach you if you encounter a problem. |
