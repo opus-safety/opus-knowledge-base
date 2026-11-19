@@ -13,6 +13,13 @@ search:
 
     <span data-uuid="8ff25803-cd1a-4772-ad16-ab648fee91dc" style="display:none"></span>
 
+    <span data-uuid="7a8c73a5-132c-4c3c-9b81-01f0ddcae71a" style="display:none"></span>
+    A new Related tasks section is now displayed on tasks. This lists all corrective actions relating to the source of the corrective action you're viewing - allowing you to easily see if other issues were raised during this submission.
+
+    <span data-uuid="d318a064-ed30-471d-a415-11f68dfdeab3" style="display:none"></span>
+    ![](../assets/media/system-update-captures/related-tasks-a-z-afd7a678-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/system-update-captures/related-tasks-a-z-afd7a678-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+
 ??? new-addition "New addition: Training & Gaps charts"
 
     <span data-uuid="4208a034-6ddd-4cbe-83c6-306a2f8d3680" style="display:none"></span>
