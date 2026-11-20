@@ -5,10 +5,6 @@ search:
 
 # System Updates
 
-??? new-addition "New addition: Document sensitivity<span class="meta">19th November 2026</span>"
-
-    <span data-uuid="67169d1c-29d0-4443-b274-6b11caebe72e" style="display:none"></span>
-
 ??? new-addition "New addition: Training & Gaps charts"
 
     <span data-uuid="4208a034-6ddd-4cbe-83c6-306a2f8d3680" style="display:none"></span>
