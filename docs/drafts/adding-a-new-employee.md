@@ -68,8 +68,8 @@ search:
         <span data-uuid="18a913f5-1c6c-4c79-8f44-84be833befbb" style="display:none"></span>
 
         <span data-uuid="bf9f3125-fd08-4267-a92e-5e05ebc6f8dc" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/full-name-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
     !!! outline "Photo<span class="meta">(optional)</span>"
 
@@ -79,8 +79,8 @@ search:
         Upload a photo for this employee record.
 
         <span data-uuid="a13099e9-501d-4e14-91b4-8e739dbe5c0f" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/photo-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
     !!! outline "Roles"
 
@@ -90,8 +90,8 @@ search:
         Select the role(s) for this employee.
 
         <span data-uuid="995ea501-552a-4ae0-b555-07113e4f4cdd" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/role-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
         !!! warning
 
@@ -117,8 +117,8 @@ search:
     Depending on your site configuration, you may only have one option. If multiple options are available, select the employee's primary place of work.
 
     <span data-uuid="235cf39d-1887-4e3f-a28d-094bf64a1391" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/located-at-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
@@ -132,8 +132,8 @@ search:
     - <span class="mb-label mb-label-pink">:lucide-user-cog: Administrator</span> - Can make administrative-level changes to the employee record, such as adding requirements to their roles.
 
     <span data-uuid="02a69540-67bf-4b56-bad2-ff29a4547d6c" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/own-employee-record-access-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
@@ -146,8 +146,8 @@ search:
     - **No** — access will need to be configured manually instead.
 
     <span data-uuid="3a1236f8-708d-40d9-8cd6-c6037c919c1d" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/site-access-to-mirror-employee-access-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 !!! step "<span class="meta">(optional)</span>"
 
@@ -157,8 +157,8 @@ search:
     Enable **Site access fine-tune** if you need to customise the employee's access settings further — for example, if they require access to multiple sites or need additional authorisations.
 
     <span data-uuid="a366ef45-429c-4591-a779-0dce7951ff7b" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 !!! step
 
@@ -191,8 +191,8 @@ search:
     After creating the employee record with the fine-tune option selected, you will be redirected to the employee site access page.
 
     <span data-uuid="6f80e610-9b19-46b5-8ac7-3ea26e8e48d1" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/jd-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
@@ -204,8 +204,8 @@ search:
     <span class="mb-label mb-label-mauve">authorised/health</span> — Assigning this tag grants the employee authorisation to access sensitive health data (e.g. Health Surveillance corrective actions) for the employees they manage.
 
     <span data-uuid="4a54dc3b-46e2-4353-a0a0-38007af9ced8" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/authorisations-tags-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
 
     !!! note
 
@@ -226,8 +226,8 @@ search:
     - <span class="mb-label mb-label-pink">:lucide-user-cog: Administrator</span> - Can make administrative-level changes to the employee record, such as adding requirements to their roles.
 
     <span data-uuid="0c2dbe77-cac5-4a62-b0ef-2b838d0117bf" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/access/edit/own-employee-record-access-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
 
 !!! step
 
@@ -282,7 +282,7 @@ search:
 ## Next steps
 <span data-uuid="00daa24e-8ef5-4388-af27-5b4d6ce59ff2" style="display:none"></span>
 
-!!! tip "Next Step: Register the Employee"
+!!! info "Registering the Employee"
 
     <span data-uuid="d3f112e9-3bf5-477a-8995-71b7834feea9" style="display:none"></span>
 
@@ -291,3 +291,9 @@ search:
 
     - [Registering an Employee with an Opus Account](https://support.opus-safety.co.uk/pages/registering-an-employee/)
     - [Granting an employee temporary access (7 days)](https://support.opus-safety.co.uk/pages/granting-an-employee-temporary-access/)
+
+    <span data-uuid="5bd883a6-3e66-4f18-a3b4-fe3d94cb8377" style="display:none"></span>
+    [Registering an employee :lucide-arrow-right:](#){ .md-button .custom-button-emerald .custom-button--bordered .custom-button--slim }
+
+    <span data-uuid="710eee2d-059a-45d7-b195-2d6a142a1b8c" style="display:none"></span>
+    [Granting an employee temporary access :lucide-arrow-right:](#){ .md-button .custom-button-cyan .custom-button--bordered .custom-button--slim }
