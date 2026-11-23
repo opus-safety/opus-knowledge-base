@@ -289,11 +289,8 @@ search:
     <span data-uuid="9cce8db5-54cd-4259-8571-a8b4dd728758" style="display:none"></span>
     Now that you've added an employee, you may want to know how to give them access to the system to complete tasks such as their E-Learning or Checklists. Below are the ways you can do this:
 
-    - [Registering an Employee with an Opus Account](https://support.opus-safety.co.uk/pages/registering-an-employee/)
-    - [Granting an employee temporary access (7 days)](https://support.opus-safety.co.uk/pages/granting-an-employee-temporary-access/)
-
     <span data-uuid="5bd883a6-3e66-4f18-a3b4-fe3d94cb8377" style="display:none"></span>
-    [Registering an employee :lucide-arrow-right:](#){ .md-button .custom-button-emerald .custom-button--bordered .custom-button--slim }
+    [Registering an employee :lucide-arrow-right:](registering-an-employee.md){ .md-button .custom-button-emerald .custom-button--bordered .custom-button--slim }
 
     <span data-uuid="710eee2d-059a-45d7-b195-2d6a142a1b8c" style="display:none"></span>
-    [Granting an employee temporary access :lucide-arrow-right:](#){ .md-button .custom-button-cyan .custom-button--bordered .custom-button--slim }
+    [Granting an employee temporary access :lucide-arrow-right:](granting-an-employee-temporary-access.md){ .md-button .custom-button-cyan .custom-button--bordered .custom-button--slim }
