@@ -87,8 +87,8 @@ Please follow the steps below to register employees as users on the system.
     2. Copy the link using the button at the bottom and send it via email or an internal messaging system (like Teams or Slack).
 
     <span data-uuid="4cec571c-92c0-4538-95fe-1859ab2098cc" style="display:none"></span>
-    ![](../assets/media/occ-captures/employees/uuid/link/id/link-opus-account-with-employee-record-light-mode.png#only-light){ width="400" loading=lazy }
-    ![](../assets/media/occ-captures/employees/uuid/link/id/link-opus-account-with-employee-record-dark-mode.png#only-dark){ width="400" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/link/id/link-opus-account-with-employee-record-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/link/id/link-opus-account-with-employee-record-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
     ??? info "Optional Registration Email Template"
 
