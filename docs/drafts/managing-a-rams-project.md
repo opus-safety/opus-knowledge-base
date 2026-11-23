@@ -67,7 +67,7 @@ This guide details how to manage a RAMS project in Opus Compliance Cloud.
         <span data-uuid="fe7a3d4f-33f8-47ba-8d63-df5000e145a5" style="display:none"></span>
         Use the search bar to find projects by title or author.
 
-## Adding risk assessments & method statements
+## Adding COSHH, Risk Assessments & Method Statements
 <span data-uuid="5a4b4f6b-6127-4e6d-bce3-3315d27a0108" style="display:none"></span>
 
 !!! step
