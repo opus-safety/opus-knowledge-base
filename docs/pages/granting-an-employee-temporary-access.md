@@ -79,8 +79,8 @@ Follow this guide to grant an employee temporary access.
     A QR code and link copy button will appear. Have the user scan the QR code with a mobile device or copy the link and send to them via email or similar
 
     <span data-uuid="b25acc59-2988-42d0-986a-9eea582d4f35" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/temporary-access/grant-temporary-access-to-an-employee-light-mode.png#only-light){ width="400" loading=lazy }
-    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/temporary-access/grant-temporary-access-to-an-employee-dark-mode.png#only-dark){ width="400" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/temporary-access/grant-temporary-access-to-an-employee-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/employees/uuid/temporary-access/grant-temporary-access-to-an-employee-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
 ## User Steps
 <span data-uuid="4c0f40f6-ed0d-49ab-b81e-450ef0d54900" style="display:none"></span>
@@ -98,8 +98,8 @@ This section is intended to be followed by the user being set up.
     **If your name is not shown**, you may have been provided with an incorrect registration link or QR code. In this case, **do not proceed** and contact the person who provided it to you immediately.
 
     <span data-uuid="f9f6153f-fa22-4704-86cd-e55148fdf27c" style="display:none"></span>
-    ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ width="400" loading=lazy }
-    ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ width="400" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/link/id/jd-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/employees/uuid/link/id/jd-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
 !!! step
 
@@ -120,8 +120,8 @@ This section is intended to be followed by the user being set up.
     After accepting, you land on [My Dashboard](https://cloud.opus-safety.co.uk/dashboard). You can now complete your employee requirements such as elearning from here.
 
     <span data-uuid="49476e85-f8d9-4991-b645-5282972bb460" style="display:none"></span>
-    ![](../assets/media/occ-captures/dashboard/my-dashboard-temporary-access-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/dashboard/my-dashboard-temporary-access-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/dashboard/my-dashboard-temporary-access-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/my-dashboard-temporary-access-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! warning
 
