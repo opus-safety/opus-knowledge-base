@@ -152,8 +152,8 @@ Any task can be exported to create a tailored, filtered view of the task, which 
     Hide comments or messages that were written after a specific date by using the date filter.
 
     <span data-uuid="a47dd2cf-8b2b-45a8-8852-10697b20f8b5" style="display:none"></span>
-    ![](../assets/media/occ-captures/tasks/uuid/export/hide-messages-written-after-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/tasks/uuid/export/hide-messages-written-after-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/tasks/uuid/export/hide-messages-written-after-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/hide-messages-written-after-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
     !!! tip
 
@@ -245,8 +245,8 @@ Tasks can be marked as confidential. Many reported events, such as incidents, ar
 Confidential tasks are identified by the slashed-eye icon.
 
 <span data-uuid="4d25ba58-829e-4309-a835-e1d7b6d5b242" style="display:none"></span>
-![](../assets/media/occ-captures/tasks/uuid/open-a-confidential-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-![](../assets/media/occ-captures/tasks/uuid/open-a-confidential-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/open-a-confidential-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/open-a-confidential-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
 !!! tip
 
