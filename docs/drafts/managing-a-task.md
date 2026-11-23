@@ -124,8 +124,8 @@ Labels are a way of tagging tasks with information which can be used when search
     To add a label manually, select the edit button in the **Labels** section.
 
     <span data-uuid="0a80ce15-beae-427d-8662-4c3381237bd6" style="display:none"></span>
-    ![](../assets/media/occ-captures/tasks/uuid/labels-a-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/tasks/uuid/labels-a-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/labels-a-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/labels-a-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
 ## Exporting Tasks
 <span data-uuid="b8b6bffe-006e-4fb7-b82b-e4502a2968c0" style="display:none"></span>
@@ -174,8 +174,8 @@ Any task can be exported to create a tailored, filtered view of the task, which 
     Select any additional display options you would like to add to your export.
 
     <span data-uuid="da323297-df95-4afd-aa85-c43ceccd0688" style="display:none"></span>
-    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
-    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-light-mode.png#only-light){ style="border-radius: 8px" width="200" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/export/display-options-dark-mode.png#only-dark){ style="border-radius: 8px" width="200" loading=lazy }
 
 !!! step "<span class="meta">(optional)</span>"
 
@@ -217,8 +217,8 @@ Any task can be exported to create a tailored, filtered view of the task, which 
 Managers/administrators have the ability to move tasks to another site. This is useful if a task has been reported in the wrong location.
 
 <span data-uuid="851a3bb2-c5ae-4e6c-b4f5-ce27794e5ef6" style="display:none"></span>
-![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-move-task-z-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-move-task-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-move-task-z-light-mode.png#only-light){ style="border-radius: 8px" width="200" loading=lazy }
+![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-move-task-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="200" loading=lazy }
 
 !!! note
 
@@ -256,8 +256,8 @@ Confidential tasks are identified by the slashed-eye icon.
     You can manually add or remove the confidential flag from any task using the option in the Actions panel.
 
     <span data-uuid="d19d9243-dc95-45cf-abe8-f007c97a6b75" style="display:none"></span>
-    ![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
-    ![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-light-mode.png#only-light){ style="border-radius: 8px" width="200" loading=lazy }
+    ![](../assets/media/occ-captures/tasks/uuid/todo-actions-a-remove-confidential-flag-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="200" loading=lazy }
 
 ## Sensitive Tasks
 <span data-uuid="288bfa91-c0e5-49a5-875c-d5629a2fd148" style="display:none"></span>
