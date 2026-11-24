@@ -66,8 +66,8 @@ tags:
         Make sure the name is easily identifiable. If you have multiple assets, consider numbering them or using an ID, serial number, or registration number.
 
         <span data-uuid="f81d9976-6dbd-470c-87a1-d7268bbc94bc" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/asset-name-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/asset-name-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/asset-name-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/asset-name-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
     !!! outline "Photo<span class="meta">(optional)</span>"
 
@@ -77,8 +77,8 @@ tags:
         Upload a photo of your asset to help with clearer identification.
 
         <span data-uuid="a8498f5e-37dd-4cb2-bab8-6407a9d4d63e" style="display:none"></span>
-        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/photo-light-mode.png#only-light)
-        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/photo-dark-mode.png#only-dark)
+        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/photo-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+        ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/photo-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
@@ -88,8 +88,8 @@ tags:
     Select the **Type(s)** for this asset. You may have requirements set up against these types.
 
     <span data-uuid="38cbb3c2-8779-4eb9-8519-1cc5dd2d3bac" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/type-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/type-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/type-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/type-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
     !!! tip
 
@@ -113,8 +113,8 @@ tags:
     Under **Located at**, choose where the asset is located. By default, the asset will be located at the site you selected in Step 1, but you can change the location here if needed.
 
     <span data-uuid="9dd12174-32e3-465a-a07b-e5f7867ad278" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/located-at-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/located-at-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/located-at-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/new/located-at-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
