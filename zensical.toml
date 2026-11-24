@@ -145,9 +145,6 @@ draft_nav = [
     {"API" = [
       {"Getting started with the API" = "drafts/getting-started-with-the-api.md"},
       {"API support and charges" = "drafts/api-support-and-charges.md"}
-    ]},
-    {"Assets" = [
-      {"Archiving an asset" = "drafts/archiving-an-asset.md"}
     ]}
   ]}
 ]
