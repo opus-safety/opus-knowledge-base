@@ -63,8 +63,8 @@ Has an asset been sold or left your site? You can easily update this in the syst
     Select the asset you would like to archive from the list.
 
     <span data-uuid="a8617b7e-427d-4fb1-8c39-400585039b7d" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/list-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/list-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/list-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/equipments/list-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 ## Archiving the asset
 <span data-uuid="c81d91a7-cdff-4d48-8960-ca3ec67de739" style="display:none"></span>
@@ -88,8 +88,8 @@ Has an asset been sold or left your site? You can easily update this in the syst
     Select the **Archive now** option.
 
     <span data-uuid="e60a61e8-3651-49f1-a6dd-728d98f863c6" style="display:none"></span>
-    ![](../assets/media/occ-captures/admin/sites/uuid/edit/archive-now-light-mode.png#only-light)
-    ![](../assets/media/occ-captures/admin/sites/uuid/edit/archive-now-dark-mode.png#only-dark)
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/archive-now-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/admin/sites/uuid/edit/archive-now-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
 
 !!! step
 
