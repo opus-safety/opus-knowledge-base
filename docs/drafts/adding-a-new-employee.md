@@ -154,7 +154,7 @@ search:
     <span data-uuid="c32aeb19-9667-4560-804b-c744678ce05c" style="display:none"></span>
 
     <span data-uuid="f60688b1-3b98-49ed-8dee-b0695070f135" style="display:none"></span>
-    Enable **Site access fine-tune** if you need to customise the employee's access settings further — for example, if they require access to multiple sites or need additional authorisations.
+    Enable **Site access fine-tune** if you need to customise the employee's access settings further - for example, if they require access to multiple sites or need additional authorisations.
 
     <span data-uuid="a366ef45-429c-4591-a779-0dce7951ff7b" style="display:none"></span>
     ![](../assets/media/occ-captures/admin/sites/uuid/employees/new/configure-or-fine-tune-access-after-adding-this-em-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
