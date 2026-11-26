@@ -145,6 +145,9 @@ draft_nav = [
     {"API" = [
       {"Getting started with the API" = "drafts/getting-started-with-the-api.md"},
       {"API support and charges" = "drafts/api-support-and-charges.md"}
+    ]},
+    {"Employees" = [
+      {"Adding a new employee" = "drafts/adding-a-new-employee.md"}
     ]}
   ]}
 ]
