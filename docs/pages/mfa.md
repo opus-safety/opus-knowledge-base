@@ -4,7 +4,7 @@ tags:
   - Using OCC
 ---
 
-# MFA
+# Multi-factor authentication
 <span data-uuid="7816cd3b-a1ec-415c-8c8f-4660c84e22dd" style="display:none"></span>
 
 <span data-uuid="c9972b92-d987-44c4-8771-9c1787614341" style="display:none"></span>
