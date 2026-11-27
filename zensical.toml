@@ -56,7 +56,7 @@ nav = [
     ]},
     {"My account" = [
       {"Notifications" = "pages/notifications.md"},
-      {"MFA" = "pages/mfa.md"}
+      {"Multi-factor authentication" = "pages/mfa.md"}
     ]},
     {"Tasks" = [
       {"Types of task" = "pages/types-of-task.md"},
@@ -147,7 +147,7 @@ draft_nav = [
       {"API support and charges" = "drafts/api-support-and-charges.md"}
     ]},
     {"My Account" = [
-      {"MFA" = "drafts/mfa.md"}
+      {"Multi-factor authentication" = "drafts/mfa.md"}
     ]}
   ]}
 ]
