@@ -23,7 +23,12 @@ search:
 
     | Column 1 | Column 2 |
     | :--- | :--- |
-    | <span data-uuid="b587c956-ad62-4cdf-bc2f-55c85cdbe779" style="display:none"></span>![](../assets/media/system-update-captures/element-svg-aed82d3a-light-mode.svg#only-light){ style="height: 50px" loading=lazy } ![](../assets/media/system-update-captures/element-svg-aed82d3a-dark-mode.svg#only-dark){ style="height: 50px" loading=lazy } |  |
+    | <span data-uuid="b587c956-ad62-4cdf-bc2f-55c85cdbe779" style="display:none"></span>![](../assets/media/system-update-captures/element-svg-aed82d3a-light-mode.svg#only-light){ width="30" loading=lazy } ![](../assets/media/system-update-captures/element-svg-aed82d3a-dark-mode.svg#only-dark){ width="30" loading=lazy } |  |
+    | <span data-uuid="a7e06e5e-92db-4f5c-b2e2-fd719d60762c" style="display:none"></span>![](../assets/media/system-update-captures/element-svg-f9383599-light-mode.svg#only-light){ width="30" loading=lazy } ![](../assets/media/system-update-captures/element-svg-f9383599-dark-mode.svg#only-dark){ width="30" loading=lazy } |  |
+    |  |  |
+    |  |  |
+    |  |  |
+    |  |  |
     |  |  |
 
 ??? feature-release "Feature release: Document sensitivity<span class="meta">19th November 2026</span>"
