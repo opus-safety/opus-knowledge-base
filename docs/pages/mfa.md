@@ -24,8 +24,8 @@ If mandated by your organisation, skip to step 4.
     From [My Dashboard](https://cloud.opus-safety.co.uk/dashboard), select your profile icon in the top right and select **Profile & settings**.
 
     <span data-uuid="5b459b7c-7f14-42fb-af9e-352661cf399f" style="display:none"></span>
-    ![](../assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
-    ![](../assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/dashboard/log-out-a-profile-and-settings-z-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
 !!! step
 
@@ -46,8 +46,8 @@ If mandated by your organisation, skip to step 4.
     In the **Require MFA** section, select **Turn on (always required)** and then **Save changes**.
 
     <span data-uuid="3f917070-c5a4-4a66-818e-ae7051488ade" style="display:none"></span>
-    ![](../assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-light-mode.png#only-light){ style="border-radius: 8px" loading=lazy }
-    ![](../assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-dark-mode.png#only-dark){ style="border-radius: 8px" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-light-mode.png#only-light){ style="border-radius: 8px" width="500" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/require-mfa-a-turn-on-save-changes-dark-mode.png#only-dark){ style="border-radius: 8px" width="500" loading=lazy }
 
 !!! step
 
@@ -59,8 +59,8 @@ If mandated by your organisation, skip to step 4.
     Make sure your mobile device has an authentication app installed. ***Your organisation may require you to only use certain authentication apps***.
 
     <span data-uuid="28e48484-4ca1-439c-8b3e-ee4ed8b6491c" style="display:none"></span>
-    ![](../assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
-    ![](../assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/sites/uuid/otp-required/second-factor-authentication-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
 !!! step
 
@@ -81,8 +81,8 @@ If mandated by your organisation, skip to step 4.
     Scan the QR code that appears using your mobile device, or select **Configure on this device** if you're setting up MFA on the device you're currently using.
 
     <span data-uuid="18bfe66f-3e12-45ad-9e37-6644c2af94d0" style="display:none"></span>
-    ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-light-mode.png#only-light){ style="border-radius: 8px" width="350" loading=lazy }
-    ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-dark-mode.png#only-dark){ style="border-radius: 8px" width="350" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-light-mode.png#only-light){ style="border-radius: 8px" width="300" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/rfc6238/element-svg-dark-mode.png#only-dark){ style="border-radius: 8px" width="300" loading=lazy }
 
 !!! step
 
@@ -92,8 +92,8 @@ If mandated by your organisation, skip to step 4.
     Enter the code shown in your authenticator app and select **Confirm**.
 
     <span data-uuid="ed9c2791-ab6f-4078-b959-c816edb4d370" style="display:none"></span>
-    ![](../assets/media/occ-captures/my/second-factors/rfc6238/one-time-code-a-confirm-light-mode.png#only-light){ style="border-radius: 8px" width="450" loading=lazy }
-    ![](../assets/media/occ-captures/my/second-factors/rfc6238/one-time-code-a-confirm-dark-mode.png#only-dark){ style="border-radius: 8px" width="450" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/rfc6238/one-time-code-a-confirm-light-mode.png#only-light){ style="border-radius: 8px" width="400" loading=lazy }
+    ![](../assets/media/occ-captures/my/second-factors/rfc6238/one-time-code-a-confirm-dark-mode.png#only-dark){ style="border-radius: 8px" width="400" loading=lazy }
 
 !!! step
 
