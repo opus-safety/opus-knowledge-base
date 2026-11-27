@@ -22,10 +22,12 @@ search:
     <span data-uuid="ebe2592b-5f12-485e-82c9-05f86d54b8b9" style="display:none"></span>
     **Summary of improvements:**
 
-    1. **Reminder visibility:** Visually identify when reminders were generated and track the number of days a checklist or playbook remained overdue before submission.
-    2. **Future forecasting:** Forecast when the next reminder is due to be generated.
-    3. **Monthly late-day calculations:** Calculate and report the total number of overdue days for each month.
-    4. **Chart export:** Save the chart as a file, making it easy to include in reports and other documentation.
+
+
+    1. **:lucide-bell: Reminder visibility:** Visually identify when reminders were generated and track the number of days a checklist or playbook remained overdue before submission.
+    2. **:lucide-clock-arrow-right: Future forecasting:** Forecast when the next reminder is due to be generated.
+    3. **:lucide-calendar-clock: Monthly late-day calculations:** Calculate and report the total number of overdue days for each month.
+    4. **:lucide-download: Chart export:** Save the chart as a file, making it easy to include in reports and other documentation.
 
 ??? feature-release "Feature release: Document sensitivity<span class="meta">19th November 2026</span>"
 
