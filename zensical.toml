@@ -55,8 +55,8 @@ nav = [
       {"Creating & linking your Opus Account" = "pages/creating-and-linking-your-opus-account.md"}
     ]},
     {"My account" = [
-      {"MFA" = "pages/mfa.md"},
-      {"Notifications" = "pages/notifications.md"}
+      {"Notifications" = "pages/notifications.md"},
+      {"MFA" = "pages/mfa.md"}
     ]},
     {"Tasks" = [
       {"Types of task" = "pages/types-of-task.md"},
@@ -128,16 +128,16 @@ draft_nav = [
       ]}
     ]},
     {"Tasks" = [
-      {"Task Overview" = "drafts/task-overview.md"},
       {"Managing an incident" = "drafts/managing-an-incident.md"},
+      {"Task Overview" = "drafts/task-overview.md"},
       {"Reporting an incident" = "drafts/reporting-an-incident.md"}
     ]},
     {"Reporting" = [
       {"Training & Gaps" = "drafts/training-and-gaps.md"}
     ]},
     {"Contractors" = [
-      {"Permits to Work" = "drafts/permits-to-work.md"},
-      {"Contractors Overview" = "drafts/contractors-overview.md"}
+      {"Contractors Overview" = "drafts/contractors-overview.md"},
+      {"Permits to Work" = "drafts/permits-to-work.md"}
     ]},
     {"Test" = [
       {"test" = "drafts/test.md"}
