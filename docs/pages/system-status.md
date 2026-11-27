@@ -58,13 +58,13 @@ status-page: true
 
 !!! status-maintenance "<span class="mb-label mb-label-amber">MAINTENANCE</span>"
 
-    <span data-uuid="f071b0e5-0cb2-4e97-b373-c3f752f80415" data-mb-start="2026-09-30T18:00+01:00" data-mb-end="2026-09-30T18:15+01:00" style="display:none"></span>
+    <span data-uuid="3b28b14b-162f-46a3-a76d-a82ccb05288f" data-mb-start="2026-12-03T19:00+00:00" data-mb-end="2026-12-03T22:00+00:00" style="display:none"></span>
 
-    - **Services Affected:** API, File Storage
+    - **Services Affected:** All Services
     - **Current Status:** <span class="mb-label mb-label-orange">:lucide-fast-forward: Upcoming</span>
-    - **Description:** Performing a reboot of the API and file storage endpoints to apply a recently released kernel update that addresses a number of security issues.
-    - **Scheduled Start:** <span class="mb-label mb-label-slate">2026-09-30 18:00</span>
-    - **Scheduled End:** <span class="mb-label mb-label-slate">2026-09-30 18:15</span>
+    - **Description:** General maintenance
+    - **Scheduled Start:** <span class="mb-label mb-label-slate">2026-12-03 19:00</span>
+    - **Scheduled End:** <span class="mb-label mb-label-slate">2026-12-03 22:00</span>
 
 ---
 
@@ -73,6 +73,16 @@ status-page: true
 ??? outline "View past events"
 
     <span data-uuid="c93447ec-a3ff-4c65-8e08-f9a870262753" style="display:none"></span>
+
+    !!! status-maintenance "<span class="mb-label mb-label-amber">MAINTENANCE</span>"
+
+        <span data-uuid="f071b0e5-0cb2-4e97-b373-c3f752f80415" data-mb-start="2026-09-30T18:00+01:00" data-mb-end="2026-09-30T18:15+01:00" style="display:none"></span>
+
+        - **Services Affected:** API, File Storage
+        - **Current Status:** <span class="mb-label mb-label-green">:lucide-check: Completed</span>
+        - **Description:** Performing a reboot of the API and file storage endpoints to apply a recently released kernel update that addresses a number of security issues.
+        - **Scheduled Start:** <span class="mb-label mb-label-slate">2026-09-30 18:00</span>
+        - **Scheduled End:** <span class="mb-label mb-label-slate">2026-09-30 18:15</span>
 
     !!! status-disruption "<span class="mb-label mb-label-amber">DISRUPTION</span>"
 
