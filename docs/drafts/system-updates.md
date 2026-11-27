@@ -13,10 +13,6 @@ search:
 
     <span data-uuid="ca8eb053-8e99-4c71-8346-dd8cab569154" style="display:none"></span>
 
-??? improvement "Improvement: test"
-
-    <span data-uuid="5a33bb21-e869-42ce-bb0e-7d5e10d1f32a" style="display:none"></span>
-
 ??? feature-release "Feature release: Document sensitivity<span class="meta">19th November 2026</span>"
 
     <span data-uuid="a30467db-7cb9-456c-9319-cf391ff8f1ef" style="display:none"></span>
