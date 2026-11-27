@@ -5,11 +5,11 @@ search:
 
 # System Updates
 
-??? new-addition "New addition: Training & Gaps charts"
+??? new-addition "New addition: Training & Gaps charts<span class="meta">27th November 2026</span>"
 
     <span data-uuid="4208a034-6ddd-4cbe-83c6-306a2f8d3680" style="display:none"></span>
 
-??? improvement "Improvement: Cadence graph overhaul"
+??? improvement "Improvement: Cadence graph overhaul<span class="meta">27th November 2026</span>"
 
     <span data-uuid="ca8eb053-8e99-4c71-8346-dd8cab569154" style="display:none"></span>
 
